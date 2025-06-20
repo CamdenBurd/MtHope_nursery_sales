@@ -1,0 +1,1663 @@
+ID,Name,City,County,State,Country,Amount,Date
+1,"Rich Land Nurseries",Rochester,NULL,"New York","United States",321.44,1915-06-30
+2,"Brown Bros. Co.",Rochester,NULL,"New York","United States",8.00,1915-03-29
+3,"Brown Bros. Co.",Rochester,NULL,"New York","United States",11.25,1915-04-06
+4,"Brown Bros. Co.",Rochester,NULL,"New York","United States",21.60,1915-04-06
+5,"Brown Bros. Co.",Rochester,NULL,"New York","United States",4.50,1915-04-27
+6,"Brown Bros. Co.",Rochester,NULL,"New York","United States",24.25,1915-04-27
+7,"Brown Bros. Co.",Rochester,NULL,"New York","United States",1.99,1915-04-27
+8,"Brown Bros. Co.",Rochester,NULL,"New York","United States",1.50,1915-05-28
+9,"Brown Bros. Co.",Rochester,NULL,"New York","United States",6.40,1915-10-18
+10,"Brown Bros. Co.",Rochester,NULL,"New York","United States",18.00,1915-10-18
+11,"Western New York Nursery Co.",Rochester,NULL,"New York","United States",4.60,1915-02-25
+12,"Western New York Nursery Co.",Rochester,NULL,"New York","United States",37.80,1915-04-08
+13,"Western New York Nursery Co.",Rochester,NULL,"New York","United States",2.60,1915-04-30
+14,"Western New York Nursery Co.",Rochester,NULL,"New York","United States",5.20,1915-05-06
+15,"Western New York Nursery Co.",Rochester,NULL,"New York","United States",31.70,1915-10-06
+16,"Western New York Nursery Co.",Rochester,NULL,"New York","United States",0.55,1915-10-29
+17,"Western New York Nursery Co.",Rochester,NULL,"New York","United States",24.90,1915-11-10
+18,"Western New York Nursery Co.",Rochester,NULL,"New York","United States",3.70,1915-11-27
+19,"J.B. Keller Sons",Rochester,NULL,"New York","United States",0.50,1915-04-21
+20,"J.B. Keller Sons",Rochester,NULL,"New York","United States",1.00,1915-04-26
+21,"J.B. Keller Sons",Rochester,NULL,"New York","United States",6.00,1915-04-26
+22,"J.B. Keller Sons",Rochester,NULL,"New York","United States",0.60,1915-05-06
+23,"J.B. Keller Sons",Rochester,NULL,"New York","United States",1.20,1915-05-10
+24,"J.B. Keller Sons",Rochester,NULL,"New York","United States",1.00,1915-05-14
+25,"J.B. Keller Sons",Rochester,NULL,"New York","United States",2.10,1915-05-15
+26,"J.B. Keller Sons",Rochester,NULL,"New York","United States",0.25,1915-05-18
+27,"J.B. Keller Sons",Rochester,NULL,"New York","United States",10.00,1915-08-26
+28,"J.B. Keller Sons",Rochester,NULL,"New York","United States",0.45,1915-10-08
+29,"Thomas Meehan & Sons",Dresher,NULL,Pennsylvania,"United States",9.70,1915-04-03
+30,"Thomas Meehan & Sons",Dresher,NULL,Pennsylvania,"United States",16.25,1915-04-26
+31,"Thomas Meehan & Sons",Dresher,NULL,Pennsylvania,"United States",233.65,1915-12-08
+32,"Chase Bros. Co.",Rochester,NULL,"New York","United States",42.00,1915-02-18
+33,"Chase Bros. Co.",Rochester,NULL,"New York","United States",79.00,1915-03-24
+34,"Chase Bros. Co.",Rochester,NULL,"New York","United States",88.83,1915-04-16
+35,"Chase Bros. Co.",Rochester,NULL,"New York","United States",71.50,1915-04-19
+36,"Chase Bros. Co.",Rochester,NULL,"New York","United States",12.50,1915-04-27
+37,"Chase Bros. Co.",Rochester,NULL,"New York","United States",20.00,1915-04-29
+38,"Chase Bros. Co.",Rochester,NULL,"New York","United States",70.00,1915-04-30
+39,"Chase Bros. Co.",Rochester,NULL,"New York","United States",24.90,1915-05-01
+40,"Chase Bros. Co.",Rochester,NULL,"New York","United States",3.00,1915-05-06
+41,"Chase Bros. Co.",Rochester,NULL,"New York","United States",5.00,1915-05-06
+42,"Chase Bros. Co.",Rochester,NULL,"New York","United States",13.30,1915-05-22
+43,"Chase Bros. Co.",Rochester,NULL,"New York","United States",22.50,1915-10-07
+44,"Chase Bros. Co.",Rochester,NULL,"New York","United States",144.80,1915-10-11
+45,"Chase Bros. Co.",Rochester,NULL,"New York","United States",50.00,1915-10-16
+46,"Chase Bros. Co.",Rochester,NULL,"New York","United States",10.88,1915-10-18
+47,"Chase Bros. Co.",Rochester,NULL,"New York","United States",2.55,1915-10-19
+48,"Chase Bros. Co.",Rochester,NULL,"New York","United States",0.60,1915-10-21
+49,"Chase Bros. Co.",Rochester,NULL,"New York","United States",1.20,1915-10-25
+50,"Chase Bros. Co.",Rochester,NULL,"New York","United States",1.05,1915-11-06
+51,"Chase Bros. Co.",Rochester,NULL,"New York","United States",205.00,1915-11-10
+52,"Chase Bros. Co.",Rochester,NULL,"New York","United States",1.50,1915-11-15
+53,"Chase Bros. Co.",Rochester,NULL,"New York","United States",1.00,1915-11-27
+54,"Chase Bros. Co.",Rochester,NULL,"New York","United States",175.00,1915-12-04
+55,"F. Schlegel & Son",Rochester,NULL,"New York","United States",1.80,1915-04-15
+56,"F. Schlegel & Son",Rochester,NULL,"New York","United States",0.30,1915-05-15
+57,"F. Schlegel & Son",Rochester,NULL,"New York","United States",7.75,1915-08-26
+58,"F. Schlegel & Son",Rochester,NULL,"New York","United States",5.00,1915-10-28
+59,"F. Schlegel & Son",Rochester,NULL,"New York","United States",14.90,1915-10-30
+60,"F. Schlegel & Son",Rochester,NULL,"New York","United States",2.50,1915-11-06
+61,"Charlton Nursery Co.",Rochester,NULL,"New York","United States",110.05,1915-04-07
+62,"Charlton Nursery Co.",Rochester,NULL,"New York","United States",11.20,1915-04-16
+63,"Charlton Nursery Co.",Rochester,NULL,"New York","United States",22.00,1915-05-10
+64,"Charlton Nursery Co.",Rochester,NULL,"New York","United States",103.25,1915-10-07
+65,"W. and J. Smith Co.",Geneva,NULL,"New York","United States",2.00,1915-05-06
+66,"W. and J. Smith Co.",Geneva,NULL,"New York","United States",19.00,1915-10-04
+67,"Storrs and Harrison Co.",Painesville,NULL,Ohio,"United States",6.40,1915-01-22
+68,"Storrs and Harrison Co.",Painesville,NULL,Ohio,"United States",38.40,1915-03-08
+69,"Storrs and Harrison Co.",Painesville,NULL,Ohio,"United States",145.85,1915-03-12
+70,"Storrs and Harrison Co.",Painesville,NULL,Ohio,"United States",39.50,1915-03-26
+71,"Storrs and Harrison Co.",Painesville,NULL,Ohio,"United States",35.35,1915-03-27
+72,"Storrs and Harrison Co.",Painesville,NULL,Ohio,"United States",67.75,1915-04-03
+73,"Storrs and Harrison Co.",Painesville,NULL,Ohio,"United States",68.25,1915-04-05
+74,"Storrs and Harrison Co.",Painesville,NULL,Ohio,"United States",33.00,1915-04-15
+75,"Storrs and Harrison Co.",Painesville,NULL,Ohio,"United States",32.75,1915-04-26
+76,"Storrs and Harrison Co.",Painesville,NULL,Ohio,"United States",6.50,1915-04-29
+77,"Allen L. Wood",Rochester,NULL,"New York","United States",9.00,1915-04-12
+78,"Allen L. Wood",Rochester,NULL,"New York","United States",6.00,1915-04-22
+79,"Allen L. Wood",Rochester,NULL,"New York","United States",4.50,0000-00-00
+80,"Allen L. Wood",Rochester,NULL,"New York","United States",15.00,1915-10-07
+81,"John Charlton & Sons",Rochester,NULL,"New York","United States",3.75,1915-04-22
+82,"D.S. Lake (Pres.) of Shenandoah Nurseries",Shenandoah,NULL,Iowa,"United States",2.00,1915-02-18
+83,"F. and F. Nurseries",Springfield,NULL,"New Jersey","United States",2.03,1915-04-19
+84,"Rice Bros. Co.",Geneva,NULL,"New York","United States",8.77,1915-04-08
+85,"Rice Bros. Co.",Geneva,NULL,"New York","United States",0.75,1915-05-22
+86,"J.B. Keller Sons",Rochester,NULL,"New York","United States",4.00,1915-11-06
+87,"J.B. Keller Sons",Rochester,NULL,"New York","United States",4.50,1915-11-16
+88,"J.B. Keller Sons",Rochester,NULL,"New York","United States",8.00,1915-11-27
+89,"J.B. Keller Sons",Rochester,NULL,"New York","United States",3.75,1915-12-13
+90,"J.H. Cornell",Honesdale,NULL,Pennsylvania,"United States",10.85,1915-04-10
+91,"J.H. Cornell",Honesdale,NULL,Pennsylvania,"United States",110.66,1915-04-26
+92,"J.H. Cornell",Honesdale,NULL,Pennsylvania,"United States",3.70,1915-05-03
+93,"J.H. Cornell",Honesdale,NULL,Pennsylvania,"United States",11.57,1915-10-22
+94,"Hawks Nursery Co.",Rochester,NULL,"New York","United States",143.79,1915-04-07
+95,"Hawks Nursery Co.",Rochester,NULL,"New York","United States",11.70,1915-04-22
+96,"James H. Bowditch",Boston,NULL,Massachusetts,"United States",1.00,1915-04-06
+97,"James H. Bowditch",Boston,NULL,Massachusetts,"United States",28.75,1915-04-09
+98,"James H. Bowditch",Boston,NULL,Massachusetts,"United States",5.60,1915-04-13
+99,"James H. Bowditch",Boston,NULL,Massachusetts,"United States",4.90,1915-04-17
+100,"James H. Bowditch",Boston,NULL,Massachusetts,"United States",1.90,1915-04-20
+101,"James H. Bowditch",Boston,NULL,Massachusetts,"United States",2.00,1915-04-21
+102,"James H. Bowditch",Boston,NULL,Massachusetts,"United States",1.40,1915-04-22
+103,"James H. Bowditch",Boston,NULL,Massachusetts,"United States",1.00,1915-05-04
+104,"James H. Bowditch",Boston,NULL,Massachusetts,"United States",2.25,1915-05-07
+105,"James H. Bowditch",Boston,NULL,Massachusetts,"United States",2.10,1915-05-13
+106,"James H. Bowditch",Boston,NULL,Massachusetts,"United States",7.00,1915-05-13
+107,"William C. Medcalf",Rochester,NULL,"New York","United States",67.80,1915-05-01
+108,"William C. Medcalf",Rochester,NULL,"New York","United States",9.60,1915-05-06
+109,"William C. Medcalf",Rochester,NULL,"New York","United States",18.80,1915-05-07
+110,"William C. Medcalf",Rochester,NULL,"New York","United States",7.20,1915-05-07
+111,"William C. Medcalf",Rochester,NULL,"New York","United States",95.45,1915-05-08
+112,"William C. Medcalf",Rochester,NULL,"New York","United States",8.00,1915-05-10
+113,"William C. Medcalf",Rochester,NULL,"New York","United States",12.00,1915-05-11
+114,"William C. Medcalf",Rochester,NULL,"New York","United States",11.00,1915-05-17
+115,"Rochester Park Commission",Rochester,NULL,"New York","United States",306.70,1915-05-11
+116,"Rochester Park Commission",Rochester,NULL,"New York","United States",4.40,1915-05-13
+117,"Rochester Park Commission",Rochester,NULL,"New York","United States",0.90,1915-05-13
+118,"Rochester Park Commission",Rochester,NULL,"New York","United States",9.00,1915-05-14
+119,"Rochester Park Commission",Rochester,NULL,"New York","United States",5.20,1915-05-17
+120,"Rochester Park Commission",Rochester,NULL,"New York","United States",120.65,1915-11-01
+121,"Rochester Park Commission",Rochester,NULL,"New York","United States",1.05,1915-11-11
+122,"Rochester Park Commission",Rochester,NULL,"New York","United States",16.00,1915-11-19
+123,"Rochester Park Commission",Rochester,NULL,"New York","United States",22.50,1915-11-24
+124,"Felix & Dykhuis",Boskoop,NULL,NULL,Netherlands,36.00,1915-01-19
+125,"Bay State Nurseries","North Abington ",NULL,Massachusetts,"United States",9.50,1915-04-03
+126,"Bay State Nurseries","North Abington",NULL,Massachusetts,"United States",4.75,1915-04-06
+127,"Breck-Robinson Nursery Co.",Lexington,NULL,Massachusetts,"United States",17.50,1915-04-10
+128,"Breck-Robinson Nursery Co.",Lexington,NULL,Massachusetts,"United States",1.20,1915-05-22
+129,"Allen Nursery Co.",Rochester,NULL,"New York","United States",38.50,1915-04-10
+130,"Allen Nursery Co.",Rochester,NULL,"New York","United States",112.60,1915-04-10
+131,"Allen Nursery Co.",Rochester,NULL,"New York","United States",6.85,1915-05-05
+132,"Allen Nursery Co.",Rochester,NULL,"New York","United States",8.00,1915-05-12
+133,"Allen Nursery Co.",Rochester,NULL,"New York","United States",1.80,1915-05-15
+134,"Allen Nursery Co.",Rochester,NULL,"New York","United States",37.64,1915-10-07
+135,"Allen Nursery Co.",Rochester,NULL,"New York","United States",8.25,1915-10-19
+136,"Allen Nursery Co.",Rochester,NULL,"New York","United States",39.64,1915-10-19
+137,"Allen Nursery Co.",Rochester,NULL,"New York","United States",1.20,1915-10-22
+138,"Allen Nursery Co.",Rochester,NULL,"New York","United States",9.15,1915-10-25
+139,"Jacob Thomann & Sons",Rochester,NULL,"New York","United States",1.80,1915-05-05
+140,"Jacob Thomann & Sons",Rochester,NULL,"New York","United States",12.00,1915-05-14
+141,"Jacob Thomann & Sons",Rochester,NULL,"New York","United States",6.00,1915-06-21
+142,"Jacob Thomann & Sons",Rochester,NULL,"New York","United States",8.00,1915-12-29
+143,"Robert Henderson",Rochester,NULL,"New York","United States",6.00,1915-03-06
+144,"Robert Henderson",Rochester,NULL,"New York","United States",14.50,1915-03-07
+145,"Miss Beatrix Farrand","New York City",NULL,"New York","United States",35.50,1915-10-18
+146,"Miss Beatrix Farrand","New York City",NULL,"New York","United States",12.50,1915-12-04
+147,"Mrs. George H. Clune",Rochester,NULL,"New York","United States",0.80,1915-12-04
+148,"Robert C. Watson",Rochester,NULL,"New York","United States",5.90,1915-04-17
+149,"Robert C. Watson",Rochester,NULL,"New York","United States",5.50,1915-05-22
+150,"John Hall",Rochester,NULL,"New York","United States",2.44,1915-04-29
+151,"John Hall",Rochester,NULL,"New York","United States",5.55,1915-05-07
+152,"Davison Nursery Company",Davison,NULL,Michigan,"United States",93.93,1915-04-26
+153,"Davison Nursery Company",Davison,NULL,Michigan,"United States",2.75,1915-05-13
+154,"William G. Watson",Rochester,NULL,"New York","United States",1.40,1915-05-22
+155,"Mount Desert Nurseries","Bar Harbor",NULL,Maine,"United States",42.75,1915-04-15
+156,"Mount Desert Nurseries","Bar Harbor",NULL,Maine,"United States",27.05,1915-04-19
+157,"Conrad Vollertsen",Rochester,NULL,"New York","United States",2.70,1915-05-01
+158,"Conrad Vollertsen",Rochester,NULL,"New York","United States",0.75,1915-08-06
+159,"Conrad Vollertsen",Rochester,NULL,"New York","United States",5.10,1915-11-05
+160,"Tickner Bros.",Rochester,NULL,"New York","United States",1.00,1915-01-18
+161,"G.T. Boncher",Rochester,NULL,"New York","United States",4.10,1915-04-21
+162,"G.T. Boncher",Rochester,NULL,"New York","United States",0.15,1915-05-06
+163,"New York Central Railroad Co.","New York City",NULL,"New York","United States",50.30,1915-05-06
+164,"New York Central Railroad Co.","New York City",NULL,"New York","United States",0.55,1915-05-27
+165,"Stephen Hoyts' Sons Co.","New Canaan",NULL,Connecticut,"United States",110.90,1915-03-20
+166,"E.W. Purtell and Adolf Schenk",Rochester,NULL,"New York","United States",5.00,1915-11-13
+167,"Albert Tickner",Rochester,NULL,"New York","United States",215.00,1915-04-05
+168,"Albert Tickner",Rochester,NULL,"New York","United States",2.00,1915-05-05
+169,"Albert Tickner",Rochester,NULL,"New York","United States",3.00,1915-05-06
+170,"Albert Tickner",Rochester,NULL,"New York","United States",4.75,1915-08-19
+171,"John Lewis Childs","Floral Park",NULL,"New York","United States",4.80,1915-04-12
+172,"Henry Kohanke & Son",Painesville,NULL,Ohio,"United States",0.75,1915-05-25
+173,"Henry Kohnake & Son",Painesville,NULL,Ohio,"United States",77.50,1915-10-23
+174,"Henry Kohnake & Son",Painesville,NULL,Ohio,"United States",7.20,1915-11-05
+175,"Henry Kohnake & Son",Painesville,NULL,Ohio,"United States",53.95,1915-11-08
+176,"Henry Kohnake & Son",Painesville,NULL,Ohio,"United States",113.50,1915-11-08
+177,"Mrs. G.G. Wright",Cambridge,NULL,"New York","United States",54.60,1915-04-30
+178,"E.J. Sackett",Rochester,NULL,"New York","United States",1.00,1915-05-22
+179,"E.J. Sackett",Rochester,NULL,"New York","United States",1.50,1915-07-27
+180,"E.J. Sackett",Rochester,NULL,"New York","United States",8.04,1915-12-04
+181,"H. Frank McDermott",Rochester,NULL,"New York","United States",1.54,1915-07-27
+182,"Mrs. John E. Durand",Rochester,NULL,"New York","United States",0.75,1915-05-04
+183,"L.M. Todd",Rochester,NULL,"New York","United States",90.86,1915-04-30
+184,"C.J. Chesim",Rochester,NULL,"New York","United States",12.50,1915-05-04
+185,"Oakland Cemetery Association","St. Paul",NULL,Minnesota,"United States",55.69,1915-10-19
+186,"Rev. D.M.N. Shyker",Clinton,NULL,"New York","United States",3.60,1915-04-04
+187,"Isaac Wilks",Linwood,NULL,"New York","United States",2.00,1915-04-28
+188,"Isaac Wilks",Linwood,NULL,"New York","United States",77.16,1915-05-12
+189,"Iasac Wilks",Linwood,NULL,"New York","United States",4.75,1915-05-13
+190,"Isaac Wilks",Linwood,NULL,"New York","United States",7.20,1915-07-12
+191,"Maloney Bros. and Wells",Dansville,NULL,"New York","United States",4.40,1915-05-04
+192,"Mrs. J. O'Callaghan",Rochester,NULL,"New York","United States",0.30,1915-05-12
+193,"M.E. Flanagan",Kingston,NULL,Ontario,Canada,1.87,1915-05-04
+194,"M.E. Flanagan",Kingston,NULL,Ontario,Canada,3.65,1915-10-11
+195,"John Hohener",Rochester,NULL,"New York","United States",0.80,1915-04-17
+196,"John Hohener",Rochester,NULL,"New York","United States",2.40,1915-04-24
+197,"John Hohener",Rochester,NULL,"New York","United States",2.40,1915-04-24
+198,"John Hohener",Rochester,NULL,"New York","United States",1.10,1915-05-10
+199,"H.P. Brewster",Rochester,NULL,"New York","United States",3.60,1915-05-22
+200,"H.P. Brewster",Rochester,NULL,"New York","United States",9.00,1915-05-24
+201,"F.E. Haight","New York City",NULL,"New York","United States",12.50,1915-04-22
+202,"Sisters of Notre Dame",Rochester,NULL,"New York","United States",70.04,1915-04-15
+203,"E. Frank Brewster",Rochester,NULL,"New York","United States",54.30,1915-04-29
+204,"E. Frank Brewster",Rochester,NULL,"New York","United States",2.40,1915-09-17
+205,"E. Frank Brewster",Rochester,NULL,"New York","United States",4.90,1915-12-31
+206,"Mrs. John M. Brainard",Auburn,NULL,"New York","United States",1.50,1915-04-05
+207,"Homewood Cemetery",Pittsburgh,NULL,Pennsylvania,"United States",80.75,1915-04-08
+208,"Edward W. Learning",Albany,NULL,"New York","United States",6.10,1915-04-30
+209,"Edwin A. Kanst",Chicago,NULL,Illinois,"United States",142.84,1915-04-23
+210,"Charles C. Hopkins",Rochester,NULL,"New York","United States",8.40,1915-05-10
+211,"William C. Endicott",Danvers,NULL,Massachusetts,"United States",20.58,1915-04-21
+212,"William C. Endicott",Danvers,NULL,Massachusetts,"United States",25.50,1915-11-20
+213,"Department of Public Works",Pittsburgh,NULL,Pennsylvania,"United States",57.00,1915-11-18
+214,"Kentucky Agricultural Experiment Station",Lexington,NULL,Kentucky,"United States",0.80,1915-11-17
+215,"R.W. Dixon & Son","New York City",NULL,"New York","United States",4.75,1915-05-13
+216,"John M. Brainard",Auburn,NULL,"New York","United States",3.75,1915-04-26
+217,"John M. Brainard",Auburn,NULL,"New York","United States",7.00,1915-05-18
+218,"John M. Brainard",Auburn,NULL,"New York","United States",8.00,1915-11-12
+219,"Mrs. Ira Davenport","New York City",NULL,"New York","United States",10.00,1915-08-19
+220,"Mrs. Ira Davenport","New York City",NULL,"New York","United States",27.60,1915-10-20
+221,"Rev. Henry Bedinger",Salem,NULL,Massachusetts,"United States",10.70,1915-05-04
+222,"John T. Cade","New York City",NULL,"New York","United States",31.00,1915-04-19
+223,"John T. Cade","New York City",NULL,"New York","United States",0.50,1915-05-03
+224,"Robert Stobie",Waterville,NULL,Maine,"United States",7.50,1915-05-08
+225,"Mrs. John T. Shaw",Birmingham,NULL,Michigan,"United States",11.25,1915-04-28
+226,"William Schmidt",Johnstown,NULL,Pennsylvania,"United States",61.25,1915-04-19
+227,"William Schmidt",Johnstown,NULL,Pennsylvania,"United States",3.44,1915-10-28
+228,"Charles Hunter",Niagara-on-the-Lake,NULL,Ontario,Canada,4.25,1915-04-27
+229,"L. Kountze","New York City",NULL,"New York","United States",2.00,1915-04-07
+230,"John J. Cruickshank",Hannibal,NULL,Missouri,"United States",3.00,1915-03-23
+231,"John J. Crucikshank",Hannibal,NULL,Missouri,"United States",1.00,1915-05-10
+232,"Henry A. Dreer",Philadelphia,NULL,Pennsylvania,"United States",25.60,1915-04-24
+233,"Henry A. Dreer",Philadelphia,NULL,Pennsylvania,"United States",13.90,1915-06-12
+234,"Henry A. Dreer",Philadelphia,NULL,Pennsylvania,"United States",14.50,1915-11-01
+235,"Oneida Community Ltd.",Kenwood,NULL,"New York","United States",18.50,1915-05-05
+236,"John S. Barker","South Bend",NULL,Indiana,"United States",54.50,1915-04-13
+237,"John S. Barker","South Bend",NULL,Indiana,"United States",14.78,1915-04-17
+238,"Harlem P. Kelsey",Salem,NULL,Massachusetts,"United States",1.65,1915-05-04
+239,"D.M. Ferry & Co.",Detroit,NULL,Michigan,"United States",6.12,1915-03-12
+240,"Devereaux Emmet","St. James",NULL,"New York","United States",21.40,1915-05-01
+241,"Devereaux Emmet","St. James",NULL,"New York","United States",0.30,1915-05-10
+242,"Devereaux Emmet","St. James",NULL,"New York","United States",1.75,1915-10-11
+243,"Devereaux Emmet","St. James",NULL,"New York","United States",2.40,1915-11-03
+244,"John M. Illin",Madison,NULL,Wisconsin,"United States",16.20,1915-04-20
+245,"J.C. Biddle (Supt.)",Ashland,NULL,Pennsylvania,"United States",17.45,1915-06-07
+246,"Grenville L. Winthrop","New York City",NULL,"New York","United States",51.00,1915-04-10
+247,"Grenville L. Winthrop","New York City",NULL,"New York","United States",15.00,1915-05-10
+248,"New Jersey Agricultural Experiment Station","New Brunswick",NULL,"New Jersey","United States",5.30,1915-04-01
+249,"New Jersey Agricultural Experiment Station","New Brunswick",NULL,"New Jersey","United States",2.00,1915-04-13
+250,"Kingsford Farm Nurseries",Oswego,NULL,"New York","United States",0.75,1915-05-14
+251,"Kingsford Farm Nurseries",Oswego,NULL,"New York","United States",0.81,1915-12-03
+252,"Louis C. Pilat",Ossining,NULL,"New York","United States",7.80,1915-04-19
+253,"Louis C. Pilat",Ossining,NULL,"New York","United States",2.32,1915-05-11
+254,"Louis C. Pilat",Ossining,NULL,"New York","United States",0.60,1915-05-12
+255,"Harbison-Walker Refractories Co.",Pittsburgh,NULL,Pennsylvania,"United States",4.85,1915-04-23
+256,"Harbison-Walker Refractories Co.",Pittsburgh,NULL,Pennsylvania,"United States",31.05,1915-04-26
+257,"Harbison-Walker Refractories Co.",Pittsburgh,NULL,Pennsylvania,"United States",2.70,1915-05-10
+258,"William Church Osborn","New York City",NULL,"New York","United States",25.35,1915-04-03
+259,"J.H. Teats' Sons",Wiliamson,NULL,"New York","United States",3.50,1915-03-30
+260,"J.H. Teats' Sons",Williamson,NULL,"New York","United States",18.55,1915-04-15
+261,"J.H. Teats' Sons",Williamson,NULL,"New York","United States",4.00,1915-05-10
+262,"F.W. Vanderbilt","Hyde Park",NULL,"New York","United States",16.70,1915-04-13
+263,"Michigan Agricultural College","East Lansing",NULL,Michigan,"United States",20.20,1915-04-09
+264,"Swain Nelson & Sons Co.",Chicago,NULL,Illinois,"United States",4.15,1915-04-21
+265,"Board of Park Commissioners","Niagara Falls",NULL,"New York","United States",12.00,1915-05-18
+266,"Prof. W.W. Rowlee",Ithaca,NULL,"New York","United States",1.50,1915-04-22
+267,"Prof. W.W. Rowlee",Ithaca,NULL,"New York","United States",15.00,1915-04-23
+268,"Prof. W.W. Rowlee",Ithaca,NULL,"New York","United States",142.62,1915-04-30
+269,"Henry T. Brown",Rochester,NULL,"New York","United States",1.20,1915-11-13
+270,"Seth H.T. Bush",Morton,NULL,"New York","United States",6.75,1915-05-10
+271,"Colgate University",Hamilton,NULL,"New York","United States",175.83,1915-05-08
+272,"Buffalo City Cemetery",Buffalo,NULL,"New York","United States",119.45,1915-04-27
+273,"Charles W. Leavitt Jr.",Hartsdale,NULL,"New York","United States",18.80,1915-04-12
+274,"B.F. Kelly",Rochester,NULL,"New York","United States",1.75,1915-05-01
+275,"George M. Ricks",Binghamton,NULL,"New York","United States",2.90,1915-04-09
+276,"Mrs. F.L. Norton",Cazenovia,NULL,"New York","United States",22.50,1915-05-06
+277,"Mrs. F.L. Norton",Cazenovia,NULL,"New York","United States",32.10,1915-05-08
+278,"Mrs. F.L. Norton",Cazenovia,NULL,"New York","United States",9.60,1915-05-12
+279,"Mrs. F.L. Norton",Cazenovia,NULL,"New York","United States",2.85,1915-05-15
+280,"Mrs. F.L. Norton",Cazenovia,NULL,"New York","United States",11.80,1915-11-11
+281,"Pittsfield Cemetery",Pittsfield,NULL,Massachusetts,"United States",111.20,1915-05-03
+282,"Pittsfield Cemetery",Pittsfield,NULL,Massachusetts,"United States",16.05,1915-05-11
+283,"Pittsfield Cemetery",Pittsfield,NULL,Massachusetts,"United States",28.50,1915-05-11
+284,"J. Bishop Putnam","New York City",NULL,"New York","United States",13.20,1915-04-09
+285,"George B. Hart",Rochester,NULL,"New York","United States",13.10,1915-05-08
+286,"L.D. Rumsey",Buffalo,NULL,"New York","United States",3.00,1915-05-05
+287,"L.D. Rumsey",Buffalo,NULL,"New York","United States",6.00,1915-05-10
+288,"L.D. Rumsey",Buffalo,NULL,"New York","United States",21.00,1915-08-17
+289,"Jerome B. Rice Seed Co.",Cambridge,NULL,"New York","United States",0.48,1915-05-10
+290,"Bool Floral Company",Ithaca,NULL,"New York","United States",18.53,1915-05-05
+291,"James B. Francis",Philadelphia,NULL,Pennsylvania,"United States",2.95,1915-04-27
+292,"James B. Francis",Philadelphia,NULL,Pennsylvania,"United States",3.75,1915-05-10
+293,"C.C. Laney",Rochester,NULL,"New York","United States",5.60,1915-05-06
+294,"John Heckel",Greece,NULL,"New York","United States",72.25,1915-04-30
+295,"Fairview Nurseries",Rochester,NULL,"New York","United States",18.40,1915-04-03
+296,"Convent of Sacred Heart",Rochester,NULL,"New York","United States",6.00,1915-11-10
+297,"Mrs. G.A. Ball",Muncie,NULL,Indiana,"United States",22.58,1915-05-03
+298,"Spencer Kellogg",Buffalo,NULL,"New York","United States",64.25,1915-02-09
+299,"Isaac Hicks & Son",Westbury,NULL,"New York","United States",1.30,1915-03-11
+300,"Isaac Hicks & Son",Westbury,NULL,"New York","United States",10.60,1915-04-09
+301,"H.D. Kountze","New York City",NULL,"New York","United States",5.00,1915-03-26
+302,"W.C. Dambach",Buffalo,NULL,"New York","United States",19.50,1915-04-02
+303,"W.C. Dambach",Buffalo,NULL,"New York","United States",41.75,1915-04-17
+304,"D.V.R. Manley",Perrysburg,NULL,Ohio,"United States",3.15,1915-04-05
+305,"D. Jannopouls","Webster Groves",NULL,Missouri,"United States",57.30,1915-04-04
+306,"A.M. White",Brockport,NULL,"New York","United States",19.00,1915-04-12
+307,"A.M. White",Brockport,NULL,"New York","United States",2.00,1915-04-17
+308,"A.M. White",Brockport,NULL,"New York","United States",3.80,1915-09-16
+309,"C.W. Baker",Cincinnati,NULL,Ohio,"United States",20.29,1915-04-12
+310,"Hearts' Delight Farm",Chazy,NULL,"New York","United States",14.25,1915-04-13
+311,"Hearts' Delight Farm",Chazy,NULL,"New York","United States",49.00,1915-04-19
+312,"Board of Park Commissioners",Milwaukee,NULL,Wisconsin,"United States",135.50,1915-04-14
+313,"Dr. H.J. Parker","New York City",NULL,"New York","United States",33.50,1915-04-16
+314,"Edward C. Walles",Chicago,NULL,Illinois,"United States",41.75,1915-04-17
+315,"Edward C. Walles",Chicago,NULL,Illinois,"United States",12.00,1915-04-20
+316,"Edward C. Walles",Chicago,NULL,Illinois,"United States",2.87,1915-06-02
+317,"Dr. Carroll Dunham",Irvington,NULL,"New York","United States",58.50,1915-04-17
+318,"Hobart J. Park","New York City",NULL,"New York","United States",24.90,1915-04-19
+319,"Hobart J. Park","New York City",NULL,"New York","United States",37.50,1915-11-06
+320,"Townsend & Fleming",Buffalo,NULL,"New York","United States",5.60,1915-04-20
+321,"M.P. Clough",Boston,NULL,Massachusetts,"United States",12.00,1915-04-20
+322,"Dukes' Farm",Somerville,NULL,"New Jersey","United States",145.10,1915-04-21
+323,"Dukes' Farm",Somerville,NULL,"New Jersey","United States",3.10,1915-03-08
+324,"C.P. Baker & Son",Utica,NULL,"New York","United States",10.75,1915-04-23
+325,"Eastern Nurseries","Jamaica Plain",NULL,Massachusetts,"United States",41.20,1915-04-23
+326,"Mrs. John Boyd Thatcher",Albany,NULL,"New York","United States",1.00,1915-04-26
+327,"James G. Cutler",Rochester,NULL,"New York","United States",30.00,1915-04-26
+328,"W.G. Markham",Avon,NULL,"New York","United States",75.00,1915-04-26
+329,"Hon. F.M. Davenport",Clinton,NULL,"New York","United States",21.05,1915-05-01
+330,"H.E. Wilson",Rochester,NULL,"New York","United States",7.50,1915-05-04
+331,"H.E. Wilson",Rochester,NULL,"New York","United States",7.06,1915-05-17
+332,"Mrs. J. Warren Cutler",Rochester,NULL,"New York","United States",36.00,1915-05-04
+333,"Henry W. Sage",Albany,NULL,"New York","United States",57.00,1915-05-06
+334,"Ludlow Manufacturing Associates",Ludlow,NULL,Massachusetts,"United States",15.60,1915-05-07
+335,"C.W. Bushinger","New Hartford",NULL,"New York","United States",31.50,1915-05-08
+336,"John Lawrance",Ogdensburg,NULL,"New York","United States",4.00,1915-05-08
+337,"Carl Gutell",Derby,NULL,"New York","United States",7.75,1915-05-08
+338,"Mandeville & King",Rochester,NULL,"New York","United States",23.35,1915-05-08
+339,"Mandeville & King",Rochester,NULL,"New York","United States",8.69,1915-05-10
+340,"Mrs. John Davenport",Bath,NULL,"New York","United States",1.20,1915-05-10
+341,"Mrs. John Davenport",Bath,NULL,"New York","United States",3.00,1915-05-11
+342,"William Smith",Saugerties,NULL,"New York","United States",15.90,1915-05-10
+343,"T.G. Moulson",Rochester,NULL,"New York","United States",13.70,1915-05-10
+344,"John Dunbar",Rochester,NULL,"New York","United States",0.90,1915-05-13
+345,"Gilman N. Perkins",Rochester,NULL,"New York","United States",30.00,1915-05-13
+346,"New York Agricultural Experiment Station",Geneva,NULL,"New York","United States",1.13,1915-05-13
+347,"New York Agricultural Experiment Station",Geneva,NULL,"New York","United States",0.57,1915-11-05
+348,"Grenville M. Ingleshe","Hudson Falls",NULL,"New York","United States",3.00,1915-05-13
+349,"Mrs. Wolcott Humphrey",Warsaw,NULL,"New York","United States",4.25,1915-05-13
+350,"J.D. Iffatson","Richfield Springs",NULL,"New York","United States",6.65,1915-05-15
+351,"H.H. Garfield",Rochester,NULL,"New York","United States",30.54,1915-05-17
+352,"H.H. Garfield",Rochester,NULL,"New York","United States",17.90,1915-05-22
+353,"Department of Public Works",Albany,NULL,"New York","United States",20.94,1915-05-17
+354,"John T. Morris",Philadelphia,NULL,Pennsylvania,"United States",3.00,1915-05-22
+355,"Mrs. Thomas Hunt",Tivoli,NULL,"New York","United States",41.50,1915-09-17
+356,"Mrs. Thomas Hunt",Tivoli,NULL,"New York","United States",58.50,1915-10-04
+357,"Mrs. Thomas Hunt",Tivoli,NULL,"New York","United States",18.75,1915-11-11
+358,"C.O. Armsbee",Montpelier,NULL,Vermont,"United States",22.50,1915-08-26
+359,"C.O. Armsbee",Montpelier,NULL,Vermont,"United States",47.75,1915-09-29
+360,"F.W. Gordon",Brockport,NULL,"New York","United States",22.20,1915-08-30
+361,"F.W. Gordon",Brockport,NULL,"New York","United States",5.40,1915-09-17
+362,"F.W. Gordon",Brockport,NULL,"New York","United States",75.93,1915-10-26
+363,"F.W. Gordon",Brockport,NULL,"New York","United States",9.20,1915-11-13
+364,"George Noyes Burt",Oswego,NULL,"New York","United States",4.00,1915-09-17
+365,"Vulcan Trading Co.",Clearfield,NULL,Pennsylvania,"United States",7.00,1915-10-11
+366,"Lays Brothers",Rochester,NULL,"New York","United States",245.74,1915-10-16
+367,"Lays Brothers",Rochester,NULL,"New York","United States",5.00,1915-10-21
+368,"Prof. E.C. Goddard","Ann Arbor",NULL,Michigan,"United States",2.25,1915-10-19
+369,"Mrs. William Littaner","Mount Morris",NULL,"New York","United States",19.32,1915-10-21
+370,"Hass' Home Nursery","Terre Haute",NULL,Indiana,"United States",2.00,1915-10-22
+371,"John A. Smethers & Son","Berwick ",NULL,Pennsylvania,"United States",5.20,1915-10-22
+372,"William Allen",Pittsburgh,NULL,Pennsylvania,"United States",12.75,1915-10-25
+373,"William Allen",Pittsburgh,NULL,Pennsylvania,"United States",37.95,1915-10-30
+374,"Department of Parks & Boulevards",Detroit,NULL,Michigan,"United States",355.00,1915-11-04
+375,"C.F. Garfield",Rochester,NULL,"New York","United States",8.40,1915-11-05
+376,"Cemetery of Spring Grove",Cincinnati,NULL,Ohio,"United States",30.20,1915-11-06
+377,"Maplewood Cemetery Association",Henrietta,NULL,"New York","United States",24.75,1915-11-06
+378,"Edward L. Clarkson",Tivoli,NULL,"New York","United States",19.75,1915-11-15
+379,"Edward L. Clarkson",Tivoli,NULL,"New York","United States",5.50,1915-11-27
+380,"S.D. Kirkham",Canandaigua,NULL,"New York","United States",1.40,1915-11-15
+381,"Edward W. Purtell",Rochester,NULL,"New York","United States",4.09,1915-11-16
+382,"Winterson's Seed Store",Chicago,NULL,Illinois,"United States",3.90,1915-11-19
+383,"E.L. Ryerson",Chicago,NULL,Illinois,"United States",3.00,1915-12-04
+384,"Mrs. Gilman H. Perkins",Rochester,NULL,"New York","United States",9.50,1915-12-04
+385,"Dr. G.A. Balhman",Rochester,NULL,"New York","United States",2.20,1915-07-27
+386,"W.N. Clark & Co.",Rochester,NULL,"New York","United States",93.30,1915-07-12
+387,"W.S. Markin",Boston,NULL,Massachusetts,"United States",10.00,1915-05-07
+388,"Paul Schoellkopf","Niagara Falls",NULL,"New York","United States",115.50,1915-11-12
+389,"George C. Moon","New York City",NULL,"New York","United States",0.50,1915-08-11
+390,"Mrs. Emily S. Rogers","Southwest Harbor",NULL,Maine,"United States",4.80,1915-04-17
+391,"Mrs. J.C. Colgate",Bennington,NULL,Vermont,"United States",6.50,1915-05-17
+392,"Mrs. J.C. Colgate",Bennington,NULL,Vermont,"United States",3.50,1915-10-09
+393,"W.S. Meyers",Rochester,NULL,"New York","United States",10.30,1915-10-28
+394,"W.S. Meyers",Rochester,NULL,"New York","United States",3.57,1915-11-15
+395,"Adolf Schenk",Rochester,NULL,"New York","United States",6.00,1915-10-04
+396,"F.D. Somers",Boston,NULL,Massachusetts,"United States",3.50,1915-05-13
+397,"F.D. Somers",Boston,NULL,Massachusetts,"United States",1.50,1915-10-18
+398,"Thomas Tyrrell","Niagara Falls",NULL,"New York","United States",10.35,1915-05-17
+399,"George A. Carnahan",Rochester,NULL,"New York","United States",5.00,1915-11-06
+400,"Miss M. Grager",Rochester,NULL,"New York","United States",0.32,1915-12-04
+401,"Mrs. Grenville Clark",Monadnock,NULL,"New Hampshire","United States",1.00,1915-05-10
+402,"Mrs. Grenville Clark",Monadnock,NULL,"New Hampshire","United States",17.00,1915-10-15
+403,"Clarence W. White","North Bennington",NULL,Vermont,"United States",23.80,1915-04-08
+404,"Clarence W. White","North Bennington",NULL,Vermont,"United States",17.30,1915-05-11
+405,"Mrs. D.C. Becker",Fairport,NULL,"New York","United States",6.40,1915-04-19
+406,"Mrs. D.C. Becker",Fairport,NULL,"New York","United States",13.70,1915-05-04
+407,"Northfield Hotel Co.",Northfield,NULL,Massachusetts,"United States",12.70,1915-05-14
+408,"J.F. Schoellkopf",Buffalo,NULL,"New York","United States",4.15,1915-04-02
+409,"J.F. Schoellkopf",Buffalo,NULL,"New York","United States",1.00,1915-10-25
+410,"Mrs. C.W. Bosworth",Milford,NULL,Ohio,"United States",12.50,1915-04-20
+411,"Mrs. C.W. Bosworth",Milford,NULL,Ohio,"United States",5.00,1915-05-03
+412,"Mrs. C.W. Bosworth",Milford,NULL,Ohio,"United States",7.75,1915-10-20
+413,"Mrs. C.W. Bosworth",Milford,NULL,Ohio,"United States",84.95,1915-10-20
+414,"Mrs. Charles D. Ely",Clyde,NULL,"New York","United States",40.00,1915-05-15
+415,"Mrs. George C. Retts",Rochester,NULL,"New York","United States",0.72,1915-04-24
+416,"Mrs. H.L. Brewster",Rochester,NULL,"New York","United States",1.00,1915-04-26
+417,"Irving Cox","Mill Neck",NULL,"New York","United States",7.70,1915-10-29
+418,"Irving Cox","Mill Neck",NULL,"New York","United States",1.60,1915-12-04
+419,"Edwin C. Goddard","Ann Arbor",NULL,Michigan,"United States",17.40,1915-05-06
+420,"Edwin C. Goddard","Ann Arbor",NULL,Michigan,"United States",38.05,1915-05-07
+421,"H.J. Heinz Co.",Pittsburgh,NULL,Pennsylvania,"United States",25.50,1915-04-10
+422,"H.J. Heinz Co.",Pittsburgh,NULL,Pennsylvania,"United States",16.25,1915-04-24
+423,"W.W. Rice",Watertown,NULL,"New York","United States",2.50,1915-10-20
+424,"Mrs. Thomas Hunt",Tivoli,NULL,"New York","United States",22.00,1915-05-12
+425,"Mrs. Thomas Hunt",Tivoli,NULL,"New York","United States",11.50,1915-05-15
+426,"Mrs. Thomas Hunt",Tivoli,NULL,"New York","United States",18.00,1915-05-17
+427,"Lewis J. Young","Clark Mills",NULL,"New York","United States",3.30,1915-04-10
+428,"David Eddy & Sons","Saratoga Springs",NULL,"New York","United States",0.50,1915-05-17
+429,"George N. Burt",Oswego,NULL,"New York","United States",10.00,1915-04-19
+430,"George N. Burt",Oswego,NULL,"New York","United States",6.25,1915-04-20
+431,"Herbert H. Dow",Midland,NULL,Michigan,"United States",28.80,1915-05-01
+432,"Herbert H. Dow",Midland,NULL,Michigan,"United States",3.00,1915-05-17
+433,"William Allen",Pittsburgh,NULL,Pennsylvania,"United States",15.20,1915-03-30
+434,"William Allen",Pittsburgh,NULL,Pennsylvania,"United States",12.85,1915-04-08
+435,"William Allen",Pittsburgh,NULL,Pennsylvania,"United States",14.80,1915-04-15
+436,"J.N. Conyngham",Wilkes-Barre,NULL,Pennsylvania,"United States",23.75,1915-04-29
+437,"Mrs. C.G. Cole",Corning,NULL,"New York","United States",5.00,1915-10-09
+438,"Alden A. Thorndike",Braintree,NULL,Massachusetts,"United States",68.85,1915-05-18
+439,"Mrs. Gersham W. Clark",Owego,NULL,"New York","United States",15.00,1915-04-27
+440,"R.W. Puffer",Boston,NULL,Massachusetts,"United States",1.00,1915-10-18
+441,"Dr. S.W. Little",Rochester,NULL,"New York","United States",7.60,1915-10-30
+442,"Edgar B. Van Winkle",Litchfield,NULL,Connecticut,"United States",22.70,1915-04-28
+443,"A.G. Moody",Northfield,NULL,Massachusetts,"United States",3.75,1915-05-10
+444,"F.H. Gordon",Brockport,NULL,"New York","United States",7.00,1915-04-19
+445,"F.H. Gordon",Brockport,NULL,"New York","United States",18.15,1915-04-29
+446,"James H. McEven",Wellsville,NULL,"New York","United States",10.00,1915-05-04
+447,"A.F. Kountze","New York City",NULL,"New York","United States",21.35,1915-04-21
+448,"A.F. Kountze","New York City",NULL,"New York","United States",7.50,1915-05-01
+449,"William S. Pingree","White River Junction",NULL,Vermont,"United States",0.80,1915-04-29
+450,"Nazareth Hall",Rochester,NULL,"New York","United States",2.80,1915-04-23
+451,"Nazareth Hall",Rochester,NULL,"New York","United States",15.40,1915-11-02
+452,"William Carson",Rochester,NULL,"New York","United States",3.00,1915-04-30
+453,"Mrs. H.A. Barrows",Rochester,NULL,"New York","United States",6.50,1915-04-26
+454,"J.M. Barrett","Fort Wayne",NULL,Indiana,"United States",4.20,1915-10-23
+455,"James Coates",Fonda,NULL,"New York","United States",2.40,1915-05-10
+456,"James Coates",Fonda,NULL,"New York","United States",2.25,1915-05-11
+457,"Oliver DeRidder",Rochester,NULL,"New York","United States",10.50,1915-05-07
+458,"J. Spencer Hosford",Kinderhook,NULL,"New York","United States",17.50,1915-10-18
+459,"Rev. George von Borse",Philadelphia,NULL,Pennsylvania,"United States",5.70,1915-04-17
+460,"James C. Connolly",Rochester,NULL,"New York","United States",1.18,1915-12-04
+461,"G.N. Proctor",Fitchburg,NULL,Massachusetts,"United States",16.20,1915-11-12
+462,"L.G. Wetmore",Rochester,NULL,"New York","United States",14.00,1915-09-24
+463,"J.L. Willard",Rochester,NULL,"New York","United States",3.00,1915-04-27
+464,"Theodore Strong","New Brunswick",NULL,"New Jersey","United States",1.50,1915-05-12
+465,"Col. H.A. Du Pont",Winterthur,NULL,Delaware,"United States",1.00,1915-04-08
+466,"H.H.S. Handy",Syracuse,NULL,"New York","United States",28.90,1915-10-30
+467,"Judge W.S. Andrews",Syracuse,NULL,"New York","United States",14.50,1915-05-05
+468,"Judge W.S. Andrews",Syracuse,NULL,"New York","United States",0.50,1915-11-11
+469,"Percy Lang",Waverly,NULL,"New York","United States",4.45,1915-05-01
+470,"Hydraulic Power Co.","Niagara Falls",NULL,"New York","United States",39.00,1915-05-12
+471,"Hydraulic Power Co.","Niagara Falls",NULL,"New York","United States",27.00,1915-05-18
+472,"Harry B. Smith",Goshen,NULL,"New York","United States",2.50,1915-03-23
+473,"Mrs. James B. Moore",Syracuse,NULL,"New York","United States",6.00,1915-05-08
+474,"Joseph T. Gilbert",Gilbertsville,NULL,"New York","United States",90.15,1915-05-10
+475,"L.H. Robinson",Holtsville,NULL,"New York","United States",2.95,1915-04-20
+476,"Charles C. Cook",Syracuse,NULL,"New York","United States",3.70,1915-05-15
+477,"Charles C. Cook",Syracuse,NULL,"New York","United States",10.00,1915-10-23
+478,"Robert Henkel",Detroit,NULL,Michigan,"United States",6.00,1915-05-04
+479,"Mrs. W.R. Bleckman",Rochester,NULL,"New York","United States",15.55,1915-10-09
+480,"Mrs. W.R. Bleckman",Rochester,NULL,"New York","United States",0.27,1915-11-17
+481,"S.R. Cleveland",Watertown,NULL,"New York","United States",21.00,1915-05-05
+482,"Graham S. Lacy","St. Joseph",NULL,Missouri,"United States",16.20,1915-04-17
+483,"William Mylacraine",Rochester,NULL,"New York","United States",6.53,1915-10-23
+484,"F.B. Scott",Syracuse,NULL,"New York","United States",3.15,1915-05-11
+485,"Edmond Lyon",Rochester,NULL,"New York","United States",40.50,1915-05-21
+486,"Edmond Lyon",Rochester,NULL,"New York","United States",5.00,1915-11-27
+487,"Mrs. J.N. Sheldon",Cuba,NULL,"New York","United States",5.20,1915-10-19
+488,"Mrs. C.D. Waterman",Detroit,NULL,Michigan,"United States",2.75,1915-11-13
+489,"Rudolph Matz","Hubbard Woods",NULL,Illinois,"United States",22.20,1915-04-13
+490,"Henry L. Wallace",Indianapolis,NULL,Indiana,"United States",21.00,1915-04-08
+491,"W.I. Tuttle",Baltimore,NULL,Maryland,"United States",6.25,1915-05-03
+492,"The Pfaudler Company",Rochester,NULL,"New York","United States",2.00,1915-03-25
+493,"The Pfaulder Company",Rochester,NULL,"New York","United States",1.50,1915-05-06
+494,"Henry W. Stern",Rochester,NULL,"New York","United States",5.10,1915-04-17
+495,"Henry W. Stern",Rochester,NULL,"New York","United States",2.20,1915-05-07
+496,"Henry W. Stern",Rochester,NULL,"New York","United States",187.00,1915-05-08
+497,"Henry W. Stern",Rochester,NULL,"New York","United States",3.95,1915-05-11
+498,"Mrs. Wood",Rochester,NULL,"New York","United States",0.35,1915-10-19
+499,"John M. Sullivan",Rochester,NULL,"New York","United States",1.57,1915-07-27
+500,"John M. Sillivan",Rochester,NULL,"New York","United States",4.10,1915-10-26
+501,"Mrs. Walter Rose",Geneva,NULL,"New York","United States",35.50,1915-05-22
+502,"Mrs. Walter Rose",Geneva,NULL,"New York","United States",41.47,1915-12-13
+503,"William H. Gragen",Rochester,NULL,"New York","United States",5.48,1915-10-26
+504,"William H. Gragen",Rochester,NULL,"New York","United States",0.60,1915-10-30
+505,"United States Department of Agriculture","Washington D.C.",NULL,DC,"United States",6.00,1915-10-29
+506,"A.L. Sherwood","Little Silver",NULL,"New Jersey","United States",0.53,1915-10-21
+507,"Justice R.H. Smith","New York City",NULL,"New York","United States",18.00,1915-03-26
+508,"Dr. J.B. Pellett",Hamburg,NULL,"New Jersey","United States",6.65,1915-03-27
+509,"Dr. J.B. Pellett",Hamburg,NULL,"New Jersey","United States",11.90,1915-04-27
+510,"Dr. J.B. Pellett",Hamburg,NULL,"New Jersey","United States",4.10,1915-05-18
+511,"J.B. Swift","Marshfield Hills",NULL,Massachusetts,"United States",1.00,1915-04-06
+512,"Ludwig Ulman","Chappaqua ",NULL,"New York","United States",5.00,1915-05-07
+513,"Ludwig Ulman",Chappaqua,NULL,"New York","United States",2.60,1915-10-20
+514,"W.J. Welsh",Dalton,NULL,Pennsylvania,"United States",16.55,1915-04-19
+515,"Giles Whiting",Scarborough,NULL,"New York","United States",15.30,1915-04-03
+516,"Cuthbert W. Pound",Lockport,NULL,"New York","United States",6.00,1915-09-16
+517,"Cuthbert W. Pound",Lockport,NULL,"New York","United States",1.50,1915-10-08
+518,"Michael Gunesch",Mentor,NULL,Ohio,"United States",18.75,1915-05-10
+519,"Gustavus Clapp",Framingham,NULL,Massachusetts,"United States",7.60,1915-04-09
+520,"J.W. Ladd",Victor,NULL,"New York","United States",13.20,1915-04-21
+521,"E.W. Brigham",Brockport,NULL,"New York","United States",6.00,1915-04-27
+522,"Walter C. Trumbull",Bullville,NULL,"New York","United States",15.00,1915-04-09
+523,"Walter Lewiston","New York City",NULL,"New York","United States",1462.56,1915-10-27
+524,"R.H. Kempp","Ann Arbor",NULL,Michigan,"United States",6.00,1915-04-10
+525,"R.B. Withrow","New Rochelle",NULL,"New York","United States",4.50,1915-04-09
+526,"J.B. Edgar",Avenel,NULL,"New Jersey","United States",3.60,1915-04-24
+527,"Clement S. Houghton",Boston,NULL,Massachusetts,"United States",11.90,1915-04-09
+528,"Mrs. Ella J. Corey",Plainfield,NULL,"New Jersey","United States",2.75,1915-04-22
+529,"Stuart W. Cramer",Charlotte,NULL,"North Carolina","United States",13.00,1915-03-25
+530,"Mrs. D.P. Rumsey",Buffalo,NULL,"New York","United States",75.00,1915-11-20
+531,"Edward H. Chapin",Geneseo,NULL,"New York","United States",13.00,1915-04-23
+532,"Edward H. Chapin",Geneseo,NULL,"New York","United States",46.30,1915-05-05
+533,"Harry Franklin Baker",Minneapolis,NULL,Minnesota,"United States",71.85,1915-04-17
+534,"William T. Creasy",Catawissa,NULL,Pennsylvania,"United States",12.35,1915-04-13
+535,"Reed & Lovatt Manufacturing Co.","New York City",NULL,"New York","United States",5.50,1915-11-13
+536,"J.E. Putnam",Holden,NULL,Massachusetts,"United States",0.60,1915-05-11
+537,"Eugene S. Clarke","Kansas City",NULL,Missouri,"United States",6.88,1915-04-19
+538,"W.P. Holliday",Detroit,NULL,Michigan,"United States",7.40,1915-04-19
+539,"W.P. Holliday",Detroit,NULL,Michigan,"United States",11.80,1915-04-22
+540,"Mrs. F.W. Stevens",Morristown,NULL,"New Jersey","United States",4.80,1915-05-11
+541,"Happ & Taggart","South Bend",NULL,Indiana,"United States",9.00,1915-04-17
+542,"Dudley Olcott",Albany,NULL,"New York","United States",44.30,1915-04-27
+543,"Gilbert Sanders",Trinidad,NULL,Colorado,"United States",5.60,1915-04-09
+544,"Mrs. A.S. Ingalls",Cleveland,NULL,Ohio,"United States",3.00,1915-04-19
+545,"A.R. Shattuck","New York City",NULL,"New York","United States",4.02,1915-04-10
+546,"A.R. Shattuck","New York City",NULL,"New York","United States",48.34,1915-05-04
+547,"Rev. Thomas F. Hickey",Rochester,NULL,"New York","United States",30.00,1915-05-25
+548,"Rev. Thomas F. Hickey",Rochester,NULL,"New York","United States",175.00,1915-10-28
+549,"Mrs. Archibald W. Taylor",Baltimore,NULL,Maryland,"United States",11.50,1915-04-07
+550,"Anton Tepe",Syracuse,NULL,"New York","United States",19.10,1915-05-08
+551,"W.H. Stobie",Waterville,NULL,Maine,"United States",59.20,1915-05-19
+552,"Vulcan Trading Co.",Clearfield,NULL,Pennsylvania,"United States",33.85,1915-04-21
+553,"Walter E. Draper",Westborough,NULL,Massachusetts,"United States",34.95,1915-04-19
+554,"Mrs. A.H. Taite",Towanda,NULL,Pennsylvania,"United States",4.30,1915-04-22
+555,"Mrs. A.H. Taite",Towanda,NULL,Pennsylvania,"United States",0.75,1915-05-10
+556,"Charles B. Hill","New York City",NULL,"New York","United States",10.40,1915-05-05
+557,"J.W. Holbertson",Hackensack,NULL,"New Jersey","United States",2.40,1915-05-11
+558,"A.J. Gifford",Schenectady,NULL,"New York","United States",3.35,1915-04-24
+559,"A.J. Gifford",Schenectady,NULL,"New York","United States",0.75,1915-11-15
+560,"Craig Colony for Epileptics",Sonyea,NULL,"New York","United States",40.00,1915-11-11
+561,"Rev. Dr. J. Leonard Levy",Pittsburgh,NULL,Pennsylvania,"United States",5.50,1915-05-06
+562,"Dr. W.C. Peters",Bangor,NULL,Maine,"United States",10.40,1915-05-17
+563,"Mrs. W.C. Gibson",Utica,NULL,"New York","United States",35.90,1915-04-19
+564,"C.S. Clapp",Lincoln,NULL,Massachusetts,"United States",9.00,1915-04-17
+565,"H.S. Hedge",Charlottesville,NULL,Virginia,"United States",3.20,1915-03-26
+566,"H.S. Hedge",Charlottesville,NULL,Virginia,"United States",1.35,1915-04-22
+567,"George C. Goodfellow",Montreal,NULL,Quebec,Canada,55.20,1915-03-29
+568,"Julius Rosenwald",Ravinia,NULL,Illinois,"United States",9.60,1915-03-30
+569,"Mrs. C.W. Bowen","New York City",NULL,"New York","United States",15.40,1915-04-07
+570,"Ferdinand Howald",Columbus,NULL,Ohio,"United States",22.65,1915-04-09
+571,"Irving S. Rowley",Medina,NULL,"New York","United States",4.50,1915-05-05
+572,"Irving S. Rowley",Medina,NULL,"New York","United States",6.85,1915-10-30
+573,"S.D. Kirkham",Canandaigua,NULL,"New York","United States",40.40,1915-05-07
+574,"Colgate Orchard Co.",Canton,NULL,Pennsylvania,"United States",20.70,1915-05-10
+575,"Mrs. F.D. Witherbee","Port Henry",NULL,"New York","United States",32.24,1915-05-03
+576,"Mrs. William Patterson","Penn Yan",NULL,"New York","United States",14.20,1915-05-13
+577,"George Urban Jr.",Buffalo,NULL,"New York","United States",3.60,1915-10-16
+578,"George Urban Jr.",Buffalo,NULL,"New York","United States",26.25,1915-11-27
+579,"Frank Fowler",Fremont,NULL,Nebraska,"United States",4.00,1915-04-07
+580,"Mrs. C.L. Tracy",Towanda,NULL,Pennsylvania,"United States",22.50,1915-04-21
+581,"Marian C. Coffin","New York City",NULL,"New York","United States",46.25,1915-11-21
+582,"Felix A. Vogel","New York City",NULL,"New York","United States",61.65,1915-04-21
+583,"Samuel Wallin",Amsterdam,NULL,"New York","United States",4.20,1915-03-30
+584,"E.N. Rowell Co.",Batavia,NULL,"New York","United States",65.00,1915-06-21
+585,"G.P. Weaklen & Co.",Pittsburgh,NULL,Pennsylvania,"United States",2.62,1915-05-11
+586,"Burt W. Alverson",Dexter,NULL,"New York","United States",9.60,1915-05-11
+587,"John Chandler",Sterling,NULL,Massachusetts,"United States",46.80,1915-04-16
+588,"William B. Osborne",Victor,NULL,"New York","United States",7.00,1915-05-12
+589,"C.W. Bushinger","New Hartford",NULL,"New York","United States",17.10,1915-04-17
+590,"C.W. Bushinger","New Hartford",NULL,"New York","United States",12.85,1915-04-29
+591,"C.W. Bushinger","New Hartford",NULL,"New York","United States",12.65,1915-05-04
+592,"C.W. Bushinger","New Hartford",NULL,"New York","United States",3.85,1915-05-05
+593,"Curtiss Brothers",Richland,NULL,"New York","United States",14.60,1915-05-08
+594,"B. Steiner",Riverdale,NULL,"New York","United States",7.25,1915-03-27
+595,"A.A. Marshall",Fitchburg,NULL,Massachusetts,"United States",169.35,1915-04-29
+596,"H.C. White","North Bennington",NULL,Vermont,"United States",1.25,1915-04-19
+597,"H.C. White","North Bennington",NULL,Vermont,"United States",4.85,1915-04-28
+598,"H.C. White","North Bennington",NULL,Vermont,"United States",10.75,1915-05-03
+599,"H.C. White","North Bennington",NULL,Vermont,"United States",0.40,1915-05-13
+600,"Connecticut Valley Orchard Co.",Westminster,NULL,Vermont,"United States",201.85,1915-04-24
+601,"Rev. Adolf C.S. Baltzer",Rochester,NULL,"New York","United States",2.70,1915-05-01
+602,"Rev. Adolf C.S. Baltzer",Rochester,NULL,"New York","United States",4.30,1915-05-11
+603,"Abraham Teal",Rochester,NULL,"New York","United States",2.50,1915-04-26
+604,"Mrs. C.M. Everest",Rochester,NULL,"New York","United States",14.00,1915-11-05
+605,"Mrs. C.M. Everest",Rochester,NULL,"New York","United States",7.50,1915-11-19
+606,"Dr. John O. Roe",Rochester,NULL,"New York","United States",0.70,1915-04-19
+607,"Dr. John O. Roe",Rochester,NULL,"New York","United States",4.95,1915-10-18
+608,"L.J. Frederick",Rochester,NULL,"New York","United States",12.20,1915-05-07
+609,"I. Friedlich",Brighton,NULL,"New York","United States",18.40,1915-05-04
+610,"Mrs. F.W. Belden",Aurora,NULL,Illinois,"United States",2.95,1915-05-13
+611,"William W. Stetson",Albany,NULL,"New York","United States",4.00,1915-11-09
+612,"Franklyn Hobbs",Chicago,NULL,Illinois,"United States",280.00,1915-11-06
+613,"A.J. Smith",Rochester,NULL,"New York","United States",2.25,1915-09-03
+614,"A.J. Smith",Rochester,NULL,"New York","United States",8.78,1915-10-29
+615,"G.G. Trull",Rochester,NULL,"New York","United States",8.60,1915-11-01
+616,"G.G. Trull",Rochester,NULL,"New York","United States",1.80,1915-11-20
+617,"Friederichs Bros. Realty Co.",Rochester,NULL,"New York","United States",2.80,1915-10-29
+619,"John E. Taeffe","New Canaan",NULL,Connecticut,"United States",5.00,1915-05-10
+620,"William Schrader",Johnstown,NULL,Pennsylvania,"United States",16.75,1915-05-01
+621,"William Schrader",Johnstown,NULL,Pennsylvania,"United States",1.00,1915-10-22
+622,"Arthur M. Harris","New York City",NULL,"New York","United States",0.50,1915-03-23
+623,"Arthur M. Harris","New York City",NULL,"New York","United States",4.05,1915-05-05
+624,"George E. Dunham",Utica,NULL,"New York","United States",11.00,1915-05-06
+625,"A. Herrington",Madison,NULL,"New Jersey","United States",8.20,1915-05-10
+626,"Larkin T. Trull",Lowell,NULL,Massachusetts,"United States",17.05,1915-04-26
+627,"Dr. Joseph L. Nichols","Saranac Lake",NULL,"New York","United States",11.30,1915-05-14
+628,"John D. Pearmain",Framingham,NULL,Massachusetts,"United States",442.50,1915-05-17
+629,"Oscar Pardo",Rochester,NULL,"New York","United States",1.00,1915-10-09
+630,"A.G. Clement",Albany,NULL,"New York","United States",5.25,1915-05-08
+631,"Mrs. W.B. Thompson","New York City",NULL,"New York","United States",2.00,1915-04-20
+632,"P.H. Babcock",Harvard,NULL,Massachusetts,"United States",7.10,1915-04-17
+633,"P.H. Babcock",Harvard,NULL,Massachusetts,"United States",10.00,1915-05-01
+634,"Leverett Bradley",Boston,NULL,Massachusetts,"United States",2.25,1915-04-12
+635,"Rodel Shalom Congregation",Pittsburgh,NULL,Pennsylvania,"United States",92.60,1915-04-15
+636,"Rodel Shalom Congregation",Pittsburgh,NULL,Pennsylvania,"United States",23.50,1915-10-16
+637,"Frank Curtis",Sheffield,NULL,Massachusetts,"United States",2.20,1915-05-11
+638,"Robert S. Morrison",Cambridge,NULL,Massachusetts,"United States",9.37,1915-04-26
+639,"George R. Woodin",Boston,NULL,Massachusetts,"United States",6.00,1915-04-10
+640,"Edward W. Purtell",Rochester,NULL,"New York","United States",0.50,1915-05-25
+641,"Taylor Instruments Co.",Rochester,NULL,"New York","United States",1.40,1915-05-08
+642,"Deaf Mute Institute",Rochester,NULL,"New York","United States",4.20,1915-05-06
+643,"E.W. Leaning",Albany,NULL,"New York","United States",5.40,1915-11-09
+644,"Mrs. Sarah H. Taggart",Salamanca,NULL,"New York","United States",1.50,1915-05-11
+645,"Syracuse Rendering Co.",Syracuse,NULL,"New York","United States",43.75,1915-05-07
+646,"Beech Grove Cemetery",Muncie,NULL,Indiana,"United States",10.00,1915-04-05
+647,"Beech Grove Cemetery",Muncie,NULL,Indiana,"United States",7.50,1915-04-13
+648,"John A. Nauman",Lancaster,NULL,Pennsylvania,"United States",31.95,1915-11-01
+649,"City of Colorado Springs","Colorado Springs",NULL,Colorado,"United States",23.00,1915-04-19
+650,"A.B. Sanderl",Rochester,NULL,"New York","United States",10.00,1915-04-29
+651,"Philip Kron",Rochester,NULL,"New York","United States",11.90,1915-04-27
+652,"Norumbega Park Co.",Auburndale,NULL,Massachusetts,"United States",30.60,1915-04-22
+653,"R.A. Little","Glens Falls",NULL,"New York","United States",6.00,1915-04-17
+654,"R.A. Little","Glens Falls",NULL,"New York","United States",0.25,1915-04-22
+655,"Lucius Hubbard","South Bend",NULL,Indiana,"United States",1.50,1915-05-13
+656,"C.G. Meaker",Auburn,NULL,"New York","United States",9.00,1915-04-26
+657,"Town of Brookline",Brookline,NULL,Massachusetts,"United States",179.75,1915-04-08
+658,"Oak Woods Cemetery Association",Chicago,NULL,Illinois,"United States",3.00,1915-04-22
+659,"Oak Woods Cemetery Association",Chicago,NULL,Illinois,"United States",101.75,1915-11-06
+660,"John B. Abbott",Rochester,NULL,"New York","United States",5.25,1915-04-27
+661,"M. Louise Dunning",Middletown,NULL,"New York","United States",2.25,1915-05-17
+662,"New York State School of Agriculture",Alfred,NULL,"New York","United States",15.60,1915-05-10
+663,"Mrs. H.C. Peeples",Rochester,NULL,"New York","United States",2.50,1915-10-09
+664,"Hon. H.S. Danforth",Rochester,NULL,"New York","United States",3.90,1915-04-14
+665,"Mrs. Storer",Rochester,NULL,"New York","United States",1.25,1915-04-30
+666,"Mrs. James G. Howell",Syracuse,NULL,"New York","United States",3.80,1915-04-22
+667,"Mrs. L.L. webber",Rochester,NULL,"New York","United States",1.00,1915-04-21
+668,"Sackett M. Barclay","New York City",NULL,"New York","United States",2.10,1915-04-24
+669,"Sackett M. Barclay","New York City",NULL,"New York","United States",4.80,1915-09-01
+670,"Sackett M. Barclay","New York City",NULL,"New York","United States",7.90,1915-09-24
+671,"Mooseheart Governors",Mooseheart,NULL,Illinois,"United States",5.50,1915-04-09
+672,"Mooseheart Governors",Mooseheart,NULL,Illinois,"United States",104.50,1915-04-30
+673,"Mrs. Aug. St. Gardens",Windsor,NULL,Vermont,"United States",2.00,1915-04-26
+674,"University of Rochester",Rochester,NULL,"New York","United States",10.50,1915-04-22
+675,"University of Rochester",Rochester,NULL,"New York","United States",4.50,1915-10-19
+676,"Harris & Wood",Rochester,NULL,"New York","United States",7.00,1915-05-07
+677,"Dudley W. Fay",Auburn,NULL,"New York","United States",5.00,1915-11-13
+678,"Rev. George H. Ottoway",Lyons,NULL,"New York","United States",14.68,1915-04-28
+679,"Thomas Newbold","New York City",NULL,"New York","United States",10.20,1915-05-03
+680,"Mrs. William H. Horton",Rochester,NULL,"New York","United States",10.10,1915-05-08
+681,"Dr. C.L. Brinistrol",Rochester,NULL,"New York","United States",1.05,1915-04-14
+682,"Dr. W.A. Keegan",Rochester,NULL,"New York","United States",6.00,1915-11-24
+683,"Mrs. W.C. Boyden",Beverly,NULL,Massachusetts,"United States",0.60,1915-05-12
+684,"Felician Sisters",Buffalo,NULL,"New York","United States",50.30,1915-05-08
+685,"C.O. Orunsbee",Montpelier,NULL,Vermont,"United States",15.30,1915-04-30
+686,"C.O. Orunsbee",Montpelier,NULL,Vermont,"United States",5.75,1915-05-03
+687,"C.O. Orunsbee",Montpelier,NULL,Vermont,"United States",40.45,1915-05-07
+688,"C.O. Orunsbee",Montpelier,NULL,Vermont,"United States",57.75,1915-05-07
+689,"H.C. Fancher",Tully,NULL,"New York","United States",9.85,1915-04-22
+690,"City of New Haven","New Haven",NULL,Connecticut,"United States",260.75,1915-04-12
+691,"Mrs. H. Dosenbach",Rochester,NULL,"New York","United States",0.50,1915-04-16
+692,"Mrs. H. Dosenbach",Rochester,NULL,"New York","United States",1.65,1915-05-10
+693,"John H. Brewster","New York City",NULL,"New York","United States",15.00,1915-09-24
+694,"John H. Brewster","New York City",NULL,"New York","United States",1.50,1915-10-15
+695,"John B. Ermer",Rochester,NULL,"New York","United States",3.00,1915-05-08
+696,"George S. Van Schaik",Rochester,NULL,"New York","United States",23.53,1915-05-17
+697,"J.A. Benjamin",Rochester,NULL,"New York","United States",4.70,1915-04-27
+698,"Samuel McRoberts","New York City",NULL,"New York","United States",38.75,1915-04-01
+699,"Josph T. Alling",Rochester,NULL,"New York","United States",18.00,1915-04-19
+700,"William H. Barr",Derby,NULL,"New York","United States",18.00,1915-05-08
+701,"S.D. Warriner",Montrose,NULL,Pennsylvania,"United States",18.30,1915-04-20
+702,"Eugene H. Tower","Spring Valley",NULL,"New York","United States",13.00,1915-05-12
+703,"G.A. Bergland",Milwaukee,NULL,Wisconsin,"United States",9.30,1915-05-03
+704,"John J.L. Frederick",Rochester,NULL,"New York","United States",19.00,1915-11-06
+705,"St. Paul Orphan Home",Greenville,NULL,Pennsylvania,"United States",84.92,1915-04-23
+706,"St. Paul Orphan Home",Greenville,NULL,Pennsylvania,"United States",5.31,1915-05-05
+707,"Dr. R.G. Cook",Canandaigua,NULL,"New York","United States",26.00,1915-10-21
+708,"Calvin S. McChesney",Troy,NULL,"New York","United States",7.74,1915-05-13
+709,"F.W. Wood",Baltimore,NULL,Maryland,"United States",17.40,1915-04-28
+710,"F.W. Wood",Baltimore,NULL,Maryland,"United States",15.25,1915-05-17
+711,"F.W. Wood",Baltimore,NULL,Maryland,"United States",8.00,1915-05-17
+712,"Hays Nursery Co.",Easton,NULL,Pennsylvania,"United States",3.75,1915-05-05
+713,"M.F. Bristol",Rochester,NULL,"New York","United States",4.50,1915-05-14
+714,"M.F. Bristol",Rochester,NULL,"New York","United States",36.25,1915-10-29
+715,"Henry M. Parmele","East Bloomfield",NULL,"New York","United States",2.00,1915-08-18
+716,"Henry M. Parmele","East Bloomfield",NULL,"New York","United States",3.20,1915-10-19
+717,"Mrs. D. McKelvey",Titusville,NULL,Pennsylvania,"United States",6.00,1915-04-02
+718,"Mrs. D. McKelvey",Titusville,NULL,Pennsylvania,"United States",17.70,1915-05-12
+719,"F.W. Brow Nursery Co.","Rose Hill",NULL,"New York","United States",109.00,1915-05-03
+720,"Mrs. C.T. DePuy",Rochester,NULL,"New York","United States",7.50,1915-04-12
+721,"Mrs. C.T. DePuy",Rochester,NULL,"New York","United States",14.40,1915-04-22
+722,"Mrs. C.T. DePuy",Rochester,NULL,"New York","United States",1.44,1915-05-04
+723,"Miss Florence O. Avery","Oxford ",NULL,Michigan,"United States",6.00,1915-04-13
+724,"Miss Florence O. Avery",Oxford,NULL,Michigan,"United States",2.40,1915-05-06
+725,"New York State School of Clay Workers",Alfred,NULL,"New York","United States",32.55,1915-10-28
+726,"E.H. Jennings",Avon,NULL,"New York","United States",1.00,1915-05-14
+727,"P. Chamberlain",Rochester,NULL,"New York","United States",5.20,1915-03-06
+728,"A. Hooker",Geneseo,NULL,"New York","United States",5.73,1915-05-11
+729,"Mrs. Claude Bragdon",Rochester,NULL,"New York","United States",6.50,1915-04-14
+730,"Mrs. Claude Bragdon",Rochester,NULL,"New York","United States",87.85,1915-05-24
+731,"Samuel H. Capen",Dedham,NULL,Massachusetts,"United States",4.70,1915-05-14
+732,"John J. Handrahan",Canandaigua,NULL,"New York","United States",110.00,1915-11-19
+733,"Paul J. Wurst",Holland,NULL,"New York","United States",17.70,1915-05-11
+734,"Mrs. James Grosvenor","New York City",NULL,"New York","United States",46.22,1915-05-12
+735,"Charles Mentor",Rochester,NULL,"New York","United States",7.00,1915-05-05
+736,"H.O. Culver",Pittsford,NULL,"New York","United States",5.30,1915-04-20
+737,"Home Acres Co.",Rochester,NULL,"New York","United States",50.00,1915-11-19
+738,"Mrs. Beatrix Farrand","New York City",NULL,"New York","United States",2.75,1915-03-24
+739,"Mrs. Beatrix Farrand","New York City",NULL,"New York","United States",3.35,1915-03-27
+740,"Mrs. Beatrix Farrand","New York City",NULL,"New York","United States",33.04,1915-04-06
+741,"Mrs. Beatrix Farrand","New York City",NULL,"New York","United States",42.02,1915-04-22
+742,"Mrs. Beatrix Farrand","New York City",NULL,"New York","United States",8.36,1915-05-01
+743,"Mrs. Beatrix Farrand","New York City",NULL,"New York","United States",9.85,1915-05-08
+744,"Joseph Griesedick","St. Louis",NULL,Missouri,"United States",12.65,1915-05-18
+745,"Dr. W.H. Marcy",Buffalo,NULL,"New York","United States",7.50,1915-11-16
+746,"A.F. Pfahl",Charlotte,NULL,"New York","United States",10.40,1915-04-16
+747,"W.P. Chase",Rochester,NULL,"New York","United States",2.50,1915-05-06
+748,"German American Button Co.",Rochester,NULL,"New York","United States",23.70,1915-11-15
+749,"Mrs. E.H. Cummings",Geneseo,NULL,"New York","United States",0.60,1915-05-14
+750,"W.H. Feierabend",Poughkeepsie,NULL,"New York","United States",5.13,1915-04-29
+751,"E. Van Voorhis",Rochester,NULL,"New York","United States",38.20,1915-04-26
+752,"E. Van Voorhis",Rochester,NULL,"New York","United States",18.00,1915-04-30
+753,"E. Van Voorhis",Rochester,NULL,"New York","United States",12.50,1915-08-19
+754,"E.A. Cruickshank","New York City",NULL,"New York","United States",4.25,1915-05-10
+755,"E.A. Cruickshank","New York City",NULL,"New York","United States",7.80,1915-11-18
+756,"J.V. Clement",Utica,NULL,"New York","United States",35.25,1915-05-10
+757,"J.V. Conyngham",Wilkes-Barre,NULL,Pennsylvania,"United States",7.20,1915-04-20
+758,"J.V. Conyngham",Wilkes-Barre,NULL,Pennsylvania,"United States",23.75,1915-04-29
+759,"Genesee Pure Food Co.","Le Roy",NULL,"New York","United States",8.00,1915-11-13
+760,"F.E. Barbour",Canajoharie,NULL,"New York","United States",4.75,1915-05-10
+761,"Dewitt Macomber",Brighton,NULL,"New York","United States",4.55,1915-04-30
+762,"Dewitt Macomber",Brighton,NULL,"New York","United States",14.40,1915-12-04
+763,"Hans Schmidt",Buffalo,NULL,"New York","United States",21.10,1915-04-28
+764,"Hans Schmidt",Buffalo,NULL,"New York","United States",100.00,1915-09-08
+765,"Hans Schmidt",Buffalo,NULL,"New York","United States",16.80,1915-09-15
+766,"Hans Schmidt",Buffalo,NULL,"New York","United States",79.00,1915-10-25
+767,"John Connors",Rochester,NULL,"New York","United States",7.70,1915-06-30
+768,"John Connors",Rochester,NULL,"New York","United States",10.46,1915-12-04
+769,"John G. Ells",Rochester,NULL,"New York","United States",3.00,1915-06-21
+770,"Iola Sanitarium",Rochester,NULL,"New York","United States",22.90,1915-10-29
+771,"Jens Jenson",Chicago,NULL,Illinois,"United States",4.58,1915-11-11
+772,"H.S. Holden",Syracuse,NULL,"New York","United States",17.20,1915-04-12
+773,"Mrs. E. Holmes",Rochester,NULL,"New York","United States",0.15,1915-04-16
+774,"Mrs. E. Holmes",Rochester,NULL,"New York","United States",5.00,1915-05-06
+775,"Mrs. E. Holmes",Rochester,NULL,"New York","United States",2.50,1915-10-09
+776,"C.B. Marlowe",Fairfax,NULL,Massachusetts,"United States",11.00,1915-04-29
+777,"Mrs. Ida Kinsell","Rochester Mills",NULL,Pennsylvania,"United States",7.00,1915-05-11
+778,"Commodore W.C. Eaton",Hamilton,NULL,"New York","United States",7.80,1915-04-27
+779,"Commodore W.C. Eaton",Hamilton,NULL,"New York","United States",0.38,1915-09-16
+780,"Mrs. F.W. Yates",Rochester,NULL,"New York","United States",4.00,1915-04-21
+781,"Mrs. F.W. Yates",Rochester,NULL,"New York","United States",5.50,1915-04-22
+782,"George D. Hale",Rochester,NULL,"New York","United States",6.00,1915-04-17
+783,"Robert Greaves",Rochester,NULL,"New York","United States",1.20,1915-04-20
+784,"Robert Greaves",Rochester,NULL,"New York","United States",2.75,1915-11-09
+785,"Mrs. Charles F. Wadsworth",Geneseo,NULL,"New York","United States",4.00,1915-04-17
+786,"Mrs. Charles F. Wadsworth",Geneseo,NULL,"New York","United States",8.30,1915-10-18
+787,"Mrs. Hiram W. Sibley",Rochester,NULL,"New York","United States",50.00,1915-04-19
+788,"Mrs. Hiram W. Sibley",Rochester,NULL,"New York","United States",1.00,1915-11-06
+789,"Gerald L. Hoyt",Staatsburg,NULL,"New York","United States",3.90,1915-04-09
+790,"Gerald L. Hoyt",Staatsburg,NULL,"New York","United States",1.00,1915-11-05
+791,"John H. Baker",Buffalo,NULL,"New York","United States",7.50,1915-10-23
+792,"Board of Park Commissioners","Fort Wayne",NULL,Indiana,"United States",280.00,1915-04-21
+793,"Board of Park Commissioners","Fort Wayne",NULL,Indiana,"United States",495.00,1915-11-06
+794,"Mrs. D.W. Garson",Rochester,NULL,"New York","United States",2.20,1915-04-17
+795,"Mrs. E.J. Milligan",Rochester,NULL,"New York","United States",0.50,1915-04-17
+796,"C.H. Sheen",Cincinnati,NULL,Ohio,"United States",2.80,1915-05-29
+797,"Somerville Cemetery Association",Somerville,NULL,"New Jersey","United States",36.00,1915-04-14
+798,"Mrs. Fitch Gilbert",Gilbertsville,NULL,"New York","United States",3.12,1915-10-18
+799,"Alexander Cochrane",Hamilton,NULL,Massachusetts,"United States",3.00,1915-05-11
+800,"Prof. William Z. Ripley","Newton Centre",NULL,Massachusetts,"United States",0.40,1915-10-09
+801,"Louis Stern","New York City",NULL,"New York","United States",70.55,1915-10-20
+802,"Louis Stern","New York City",NULL,"New York","United States",18.80,1915-11-19
+803,"Mrs. Bedard",Rochester,NULL,"New York","United States",0.50,1915-04-16
+804,"Mrs. Emma Flower Taylor",Watertown,NULL,"New York","United States",3.75,1915-05-05
+805,"Mrs. Emma Flower Taylor",Watertown,NULL,"New York","United States",54.50,1915-11-05
+806,"Mrs. Emma Flower Taylor",Watertown,NULL,"New York","United States",1.00,1915-11-12
+807,"G.W. Todd",Rochester,NULL,"New York","United States",0.90,1915-05-21
+808,"C.W. Goodyear",Buffalo,NULL,"New York","United States",2.35,1915-04-03
+809,"C.W. Goodyear",Buffalo,NULL,"New York","United States",2.50,1915-04-10
+810,"C.W. Goodyear",Buffalo,NULL,"New York","United States",6.00,1915-04-29
+811,"C.W. Goodyear",Buffalo,NULL,"New York","United States",35.50,1915-10-23
+812,"Lemuel E. Quigg","New York City",NULL,"New York","United States",3.00,1915-04-02
+813,"H.H. Babcock",Watertown,NULL,"New York","United States",3.50,1915-04-30
+814,"H.H. Babcock",Watertown,NULL,"New York","United States",4.35,1915-10-09
+815,"Ed. C. Griffith","New York City",NULL,"New York","United States",100.00,1915-04-05
+816,"Ed. C. Griffith","New York City",NULL,"New York","United States",75.00,1915-05-15
+817,"Mrs. E.C. Witherby",Syracuse,NULL,"New York","United States",110.25,1915-10-25
+818,"Miss Rowland",Rochester,NULL,"New York","United States",2.35,1915-05-07
+819,"Brooklyn Institute of Arts and Sciences",Brooklyn,NULL,"New York","United States",72.25,1915-04-26
+820,"James Adger Reynolds",Kinderhook,NULL,"New York","United States",9.00,1915-04-30
+821,"W.T. Sterling",Brooklyn,NULL,"New York","United States",7.96,1915-04-02
+822,"Mrs. S.T. Chase",Chicago,NULL,Illinois,"United States",26.27,1915-05-22
+823,"Mrs. S.T. Chase",Chicago,NULL,Illinois,"United States",12.00,1915-09-27
+824,"Mrs. E. Garrison",Poughkeepsie,NULL,"New York","United States",0.60,1915-04-02
+825,"Mrs. C.R. Woodin",Berwick,NULL,Pennsylvania,"United States",2.25,1915-04-09
+826,"Dr. Grace Dewey",Jacksonville,NULL,Illinois,"United States",3.00,1915-04-19
+827,"Mrs. F.M. Fellows",Rochester,NULL,"New York","United States",0.50,1915-04-12
+828,"C.S. Estabrook",Syracuse,NULL,"New York","United States",2.50,1915-05-11
+829,"William J. Lehle",Rochester,NULL,"New York","United States",1.00,1915-04-23
+830,"William J. Lehle",Rochester,NULL,"New York","United States",3.15,1915-10-13
+831,"S.H. Peck","East Aurora",NULL,"New York","United States",15.40,1915-05-11
+832,"W.P. Van Wickle","Washington D.C.",NULL,DC,"United States",6.50,1915-04-13
+833,"Mary E. Ament",Rochester,NULL,"New York","United States",0.50,1915-11-08
+834,"Rev. Carl N. Conrad",Rochester,NULL,"New York","United States",2.20,1915-05-05
+835,"Nathaniel T. Kidder",Boston,NULL,Massachusetts,"United States",1.38,1915-04-29
+836,"George P. Morey","South Bend",NULL,Indiana,"United States",0.92,1915-04-08
+837,"Frank B. Ewell",Rochester,NULL,"New York","United States",9.60,1915-04-22
+838,"Frank B. Ewell",Rochester,NULL,"New York","United States",2.00,1915-05-05
+839,"St. Agnes Cemetery",Albany,NULL,"New York","United States",32.95,1915-09-24
+840,"Nelson P. Bouney",Norwich,NULL,"New York","United States",1.40,1915-04-29
+841,"Nelson P. Bouney",Norwich,NULL,"New York","United States",0.75,1915-10-18
+842,"William R. Rickett",Ricketts,NULL,Pennsylvania,"United States",14.00,1915-05-08
+843,"Thomas Ford",Rochester,NULL,"New York","United States",7.00,1915-05-07
+844,"Thomas Ford",Rochester,NULL,"New York","United States",2.00,1915-05-13
+845,"Mrs. G.G. Davidge",Binghamton,NULL,"New York","United States",5.00,1915-11-01
+846,"W.L. Coughtry",Slingerlands,NULL,"New York","United States",4.35,1915-04-05
+847,"C.W. Heinold",Rochester,NULL,"New York","United States",12.71,1915-05-07
+848,"Dr. E.W. Moore",Rochester,NULL,"New York","United States",3.00,1915-04-30
+849,"Mrs. C.H. Boynton",Englewood,NULL,"New Jersey","United States",0.50,1915-11-05
+850,"J. Horace McFarland",Harrisburg,NULL,Pennsylvania,"United States",1.88,1915-04-01
+851,"L.K. Miller",Rochester,NULL,"New York","United States",4.00,1915-05-04
+852,"Miss Purcell",Rochester,NULL,"New York","United States",6.53,1915-10-18
+853,"F.C. Parliman",Rochester,NULL,"New York","United States",4.50,1915-11-19
+854,"Lucas P. Valiviess",Ponce,NULL,NULL,"Puerto Rico",7.49,1915-03-09
+855,"Vygeberg Company",Oakland,NULL,"New Jersey","United States",22.57,1915-03-27
+856,"Vygeberg Company",Oakland,NULL,"New Jersey","United States",16.80,1915-10-21
+857,"Vygeberg Company",Oakland,NULL,"New Jersey","United States",0.50,1915-11-13
+858,"Boys Industrial House",Oakdale,NULL,Pennsylvania,"United States",7.00,1915-04-19
+859,"R.N.C. Barnes",Andover,NULL,Massachusetts,"United States",4.25,1915-10-14
+860,"G. Clay Goodloe Seed Company",Lexington,NULL,Kentucky,"United States",33.35,1915-10-26
+861,"G. Clay Goodloe Seed Company",Lexington,NULL,Kentucky,"United States",0.33,1915-11-29
+862,"Mrs. Vincent M. Porter","Niagara Falls",NULL,"New York","United States",26.90,1915-04-29
+863,"Thomas R. Proctor",Utica,NULL,"New York","United States",40.00,1915-05-01
+864,"Thomas R. Proctor",Utica,NULL,"New York","United States",2.00,1915-05-13
+865,"George Haynes",Rochester,NULL,"New York","United States",2.34,1915-07-27
+866,"Mrs. John H. Brewster",Rochester,NULL,"New York","United States",6.00,1915-04-29
+867,"Mrs. John H. Brewster",Rochester,NULL,"New York","United States",4.97,1915-12-31
+868,"Miss Lucy J. Atwater",Poughkeepsie,NULL,"New York","United States",60.00,1915-04-12
+869,"Frank S. Peer",NULL,NULL,NULL,Guernsey,2.85,1915-02-04
+870,"George C. Drory",Nashville,NULL,Tennessee,"United States",1.50,1915-02-23
+871,"Laxton Brothers",Bedford,NULL,NULL,England,425.00,1915-02-26
+872,"Laxton Brothers",Bedford,NULL,NULL,England,3.36,1915-03-09
+873,"Charles E. Frankenbach & Sons",Southampton,NULL,"New York","United States",2.10,1915-02-26
+874,"D.E. Frederick",Seattle,NULL,Washington,"United States",6.00,1915-03-04
+875,"W.A. Hunter","Terre Haute",NULL,Indiana,"United States",2.97,1915-03-20
+876,"M.L. Heinze","New York City",NULL,"New York","United States",1.50,1915-03-24
+877,"R.A. Robertson",Providence,NULL,"Rhode Island","United States",3.00,1915-03-24
+878,"Arthur B. Emmons","New York City",NULL,"New York","United States",9.60,1915-03-24
+879,"A.H. Olmsted",Newport,NULL,"Rhode Island","United States",3.60,1915-03-24
+880,"Hugh L. Fox","New York City",NULL,"New York","United States",7.20,1915-03-25
+881,"Charles E. Holland","New York City",NULL,"New York","United States",4.45,1915-03-25
+882,"Sister M. Magdalene",Baltimore,NULL,Maryland,"United States",5.00,1915-03-25
+883,"Elizabeth Curtiss","Long Island City",NULL,"New York","United States",5.50,1915-03-25
+884,"Miss Mary S. Ames",Easton,NULL,Massachusetts,"United States",18.30,1915-03-25
+885,"E.F. Whitney","Oyster Bay ",NULL,"New York","United States",18.95,1915-03-25
+886,"Charles de Rham","New York City",NULL,"New York","United States",8.20,1915-03-25
+887,"Mrs. William Arnold",Babylon,NULL,"New York","United States",8.00,1915-03-26
+888,"Allen Hazen","Dobbs Ferry",NULL,"New York","United States",6.00,1915-03-26
+889,"Allen Hazen","Dobbs Ferry",NULL,"New York","United States",9.60,1915-04-27
+890,"C.C. Dula","New York City",NULL,"New York","United States",3.00,1915-03-26
+891,"James P. Gardner",Chicago,NULL,Illinois,"United States",6.25,1915-03-26
+892,"C.W. Crabb",Muncie,NULL,Indiana,"United States",10.35,1915-03-27
+893,"Carl L. Baumann",Dayton,NULL,Ohio,"United States",15.95,1915-03-27
+894,"Mrs. John A. Chapman","Lake Forest",NULL,Illinois,"United States",30.00,1915-03-27
+895,"H.A. Robinson & Co.","New York City",NULL,"New York","United States",9.80,1915-03-27
+896,"E.W. Falck",Leetsdale,NULL,Pennsylvania,"United States",1.50,1915-03-29
+897,"E.W. Falck",Leetsdale,NULL,Pennsylvania,"United States",1.50,1915-05-11
+898,"R.A. Metcalf","New York City",NULL,"New York","United States",1.76,1915-03-29
+899,"Joseph Harris Company",Coldwater,NULL,"New York","United States",1.35,1915-03-29
+900,"Joseph Harris Company",Coldwater,NULL,"New York","United States",3.90,1915-10-26
+901,"C.L. Van Inwagen",Newark,NULL,"New York","United States",4.44,1915-03-29
+902,"Walter Fisher",Winnetka,NULL,Illinois,"United States",7.32,1915-03-30
+903,"H.A. Jones",Sharon,NULL,Pennsylvania,"United States",4.80,1915-04-01
+904,"Albert E. Wright",Plainfield,NULL,"New Jersey","United States",9.00,1915-04-01
+905,"C.E. Palmer","New York City",NULL,"New York","United States",7.30,1915-04-01
+906,"General M.D. Hardin","Lake Forest",NULL,Illinois,"United States",30.90,1915-04-02
+907,"General M.D. Hardin","Lake Forest",NULL,Illinois,"United States",24.40,1915-10-13
+908,"L.O. Emmerich",Hazleton,NULL,Pennsylvania,"United States",14.40,1915-04-02
+909,"L.O. Emmerich",Hazleton,NULL,Pennsylvania,"United States",12.00,1915-11-01
+910,"H.A. Hoffman",Barrington,NULL,"Rhode Island","United States",44.56,1915-04-03
+911,"Dr. W.W. Walker","New York City",NULL,"New York","United States",1.70,1915-04-03
+912,"W.E. Verplanck","New York City",NULL,"New York","United States",3.80,1915-04-03
+913,"John R. Barnes",Yatesville,NULL,Connecticut,"United States",1.75,1915-04-03
+914,"George A. Poole",Chicago,NULL,Illinois,"United States",15.00,1915-04-03
+915,"George A. Poole",Chicago,NULL,Illinois,"United States",12.25,1915-04-17
+916,"Lakeville State Sanatorium",Middleborough,NULL,Massachusetts,"United States",58.50,1915-04-03
+917,"J.E. Spingaru",Amenia,NULL,"New York","United States",26.00,1915-04-03
+918,"Thomas M. Rowlette","New York City",NULL,"New York","United States",17.60,1915-04-05
+919,"H.A. Kelly",Cleveland,NULL,Ohio,"United States",16.30,1915-04-05
+920,"A. Van Slambrouch","Port Huron",NULL,Michigan,"United States",7.50,1915-04-06
+921,"A. Van Slambrouch","Port Huron",NULL,Michigan,"United States",10.90,1915-04-27
+922,"M.K. Barron",Kenwood,NULL,"New York","United States",2.20,1915-04-06
+923,"P.J. Prater","Terre Haute",NULL,Indiana,"United States",1.17,1915-04-08
+924,"P.J. Prater","Terre Haute",NULL,Indiana,"United States",0.30,1915-05-03
+925,"William N. Boller",Syracuse,NULL,"New York","United States",1.80,1915-04-06
+926,"Mrs. Sidney Blumenthal","New York City",NULL,"New York","United States",10.50,1915-04-06
+927,"W.C. Buell",Holcomb,NULL,"New York","United States",6.25,1915-04-06
+928,"Charles A. Colton",Newark,NULL,"New Jersey","United States",4.00,1915-04-06
+929,"James Henderson",Baldwinsville,NULL,"New York","United States",6.60,1915-04-06
+930,"John Sanford",Amsterdam,NULL,"New York","United States",44.30,1915-04-07
+931,"John Sanford",Amsterdam,NULL,"New York","United States",25.20,1915-05-06
+932,"Mrs. Lyman J. Gage","Point Loma",NULL,California,"United States",5.80,1915-04-07
+933,"W.C. Salmon",Peconic,NULL,"New York","United States",2.90,1915-04-07
+934,"A.A. Bryant",Binghamton,NULL,"New York","United States",7.50,1915-04-07
+935,"Walter Buck",Cohoes,NULL,"New York","United States",70.00,1915-04-08
+936,"Judge E.R.E. Kinsbrough",Danville,NULL,Illinois,"United States",17.60,1915-04-08
+937,"Decatur Coffin Co.",Decatur,NULL,Illinois,"United States",37.60,1915-04-07
+938,"A.L. Taggart",Indianapolis,NULL,Indiana,"United States",14.90,1915-04-08
+939,"A.L. Taggart",Indianapolis,NULL,Indiana,"United States",121.00,1915-10-22
+940,"Mrs. E.G. Rust",Saginaw,NULL,Michigan,"United States",12.00,1915-04-08
+941,"T.J. Rexford","Bemus Point",NULL,"New York","United States",24.10,1915-04-08
+942,"Pittsburgh Cut Flower",Gibsonia,NULL,Pennsylvania,"United States",6.08,1915-04-09
+943,"C.W. Pratt","Glen Cove",NULL,"New York","United States",11.60,1915-04-09
+944,"Ernest Werner","New York City",NULL,"New York","United States",12.75,1915-04-09
+945,"R.S. Taylor","Fort Wayne",NULL,Indiana,"United States",9.60,1915-04-09
+946,"R.S. Taylor","Fort Wayne",NULL,Indiana,"United States",0.10,1915-04-16
+947,"R.S. Taylor","Fort Wayne",NULL,Indiana,"United States",4.80,1915-04-24
+948,"F.W. Kirby","Glen Summit Springs",NULL,Pennsylvania,"United States",27.20,1915-04-09
+949,"F.W. Kirby","Glen Summit Springs",NULL,Pennsylvania,"United States",2.80,1915-05-03
+950,"Mrs. P.H. Holt",Summit,NULL,"New Jersey","United States",69.85,1915-04-09
+951,"Mrs. P.H. Holt",Summit,NULL,"New Jersey","United States",6.10,1915-04-21
+952,"Dr. Eugene A. Crockett",Boston,NULL,Massachusetts,"United States",39.60,1915-04-09
+953,"Dr. Flavius Packer","New York City",NULL,"New York","United States",10.35,1915-04-28
+954,"Dr. Flavius Packer","New York City",NULL,"New York","United States",52.95,1915-05-01
+955,"Major M.H. Day",Larchmont,NULL,"New York","United States",11.58,1915-04-10
+956,"Dr. John M. Lee",Rochester,NULL,"New York","United States",10.80,1915-04-10
+957,"Christian BUttlar",Milford,NULL,Pennsylvania,"United States",1.33,1915-04-10
+958,"J.L. Sherwood & Son","Washington D.C.",NULL,DC,"United States",14.50,1915-04-10
+959,"H.D. Sheldon",Detroit,NULL,Michigan,"United States",12.50,1915-04-12
+960,"Westville Library","New Haven",NULL,Connecticut,"United States",3.00,1915-04-12
+961,"Clarkson Cowl","Great Neck",NULL,"New York","United States",3.60,1915-04-12
+962,"Howard G. Cook",Leicester,NULL,Massachusetts,"United States",1.50,1915-04-12
+963,"W.B. Elmendorf",Albany,NULL,"New York","United States",6.00,1915-04-12
+964,"Department of Public Works",Providence,NULL,"Rhode Island","United States",88.00,1915-04-12
+965,"R.B. Dickey","Washington D.C.",NULL,DC,"United States",0.25,1915-04-12
+966,"C.F. Miller",Rochester,NULL,"New York","United States",2.25,1915-04-14
+967,"Mrs. Alexander Mack",Somerville,NULL,"New Jersey","United States",38.75,1915-04-14
+968,"Mike Plant",Danville,NULL,Illinois,"United States",35.85,1915-04-14
+969,"C.S. Dumont",Rochester,NULL,"New York","United States",4.80,1915-04-15
+970,"J.P.M. Richards",Spokane,NULL,Washington,"United States",11.10,1915-04-15
+971,"Groton Farms",Westbury,NULL,"New York","United States",20.58,1915-04-16
+972,"T.J. Behan",Rochester,NULL,"New York","United States",7.50,1915-04-16
+973,"Dr. G.N. Miller",Rhinebeck,NULL,"New York","United States",11.20,1915-04-16
+974,"T.R. Baker",Rochester,NULL,"New York","United States",1.95,1915-04-16
+975,"Ford, Bacon, & Davis","New York City",NULL,"New York","United States",16.01,1915-04-16
+976,"Mrs. W.H. Bromley",Spencerport,NULL,"New York","United States",1.90,1915-04-16
+977,"A.R. Boller",Buffalo,NULL,"New York","United States",8.50,1915-04-17
+978,"F.A. Wagner",Erie,NULL,Pennsylvania,"United States",109.20,1915-04-17
+979,"John Chester",Castleton-on-Hudson,NULL,"New York","United States",22.50,1915-04-17
+980,"G.E. Bennett",Rochester,NULL,"New York","United States",4.50,1915-04-17
+981,"Carl Rust Parker",Portland,NULL,Maine,"United States",21.50,1915-04-17
+982,"Calr Rust Parker",Portland,NULL,Maine,"United States",42.40,1915-05-07
+983,"C.E. Pope","Lake Forest",NULL,Illinois,"United States",9.60,1915-04-17
+984,"Edward C. Sherman",Moriches,NULL,"New York","United States",1.00,1915-04-17
+985,"John J. Glessner",Chicago,NULL,Illinois,"United States",6.00,1915-04-17
+986,"John J. Glessner",Chicago,NULL,Illinois,"United States",4.00,1915-10-21
+987,"M.J. Newell","Lake Forest",NULL,Illinois,"United States",2.00,1915-04-17
+988,"M.J. Newell","Lake Forest",NULL,Illinois,"United States",0.10,1915-07-27
+989,"George W. Thayer",Rochester,NULL,"New York","United States",4.65,1915-04-17
+990,"George L. Brayton",Utica,NULL,"New York","United States",7.10,1915-04-19
+991,"John Meyer","Mount Clemens",NULL,Michigan,"United States",1.50,1915-04-19
+992,"Hon. Charles W. Andrews",Syracuse,NULL,"New York","United States",4.55,1915-04-19
+993,"Hon. Charles W. Andrews",Syracuse,NULL,"New York","United States",0.10,1915-07-27
+994,"Waldo Necomer",Kinderhook,NULL,"New York","United States",12.75,1915-04-19
+995,"I.S. Matthews' Sons",Binghamton,NULL,"New York","United States",5.00,1915-04-19
+996,"Maxwell Steel Vault Co.",Oneida,NULL,"New York","United States",3.00,1915-04-19
+997,"Maxwell Steel Vault Co.",Oneida,NULL,"New York","United States",16.40,1915-04-20
+998,"Mrs. C.E. Oothont","New York City",NULL,"New York","United States",1.75,1915-04-19
+999,"Mrs. Robert R. Livingston","New York City",NULL,"New York","United States",7.50,1915-04-19
+1000,"Uhl & Parsons",Corning,NULL,"New York","United States",18.00,1915-04-19
+1001,"Charles B. Chase","Derby Village",NULL,"New Hampshire","United States",5.75,1915-04-19
+1002,"P.D. Dwight",Williamstown,NULL,Massachusetts,"United States",220.80,1915-04-19
+1003,"Mrs. Malcolm Gifford",Hudson,NULL,"New York","United States",10.00,1915-04-19
+1004,"P.J. Donivan",Rochester,NULL,"New York","United States",18.75,1915-04-19
+1005,"San Angelo Park Commission","San Angelo",NULL,Texas,"United States",26.64,1915-04-19
+1006,"Mrs. P.L. Coonley","Lake Forest",NULL,Illinois,"United States",62.25,1915-04-20
+1007,"A.W. Graham","St. Thomas",NULL,Ontario,Canada,24.28,1915-04-20
+1008,"Herman Garbers",Brighton,NULL,"New York","United States",34.10,1915-04-20
+1009,"George G. Booth",Detroit,NULL,Michigan,"United States",25.50,1915-04-20
+1010,"C.L. Couch",Buffalo,NULL,"New York","United States",20.83,1915-04-20
+1011,"C.L. Couch",Buffalo,NULL,"New York","United States",223.80,1915-05-08
+1012,"Charles R. Lewis",Cumberland,NULL,Maine,"United States",11.96,1915-04-20
+1013,"Mrs. Charles A. Kidder",Southborough,NULL,Massachusetts,"United States",2.00,1915-04-20
+1014,"Joseph R. Noel","Oak Park",NULL,Illinois,"United States",6.94,1915-04-20
+1015,"Emily Dutton Proctor",Proctor,NULL,Vermont,"United States",60.00,1915-04-20
+1016,"F.T. Parsons",Providence,NULL,"Rhode Island","United States",6.00,1915-04-20
+1017,"Professor Ernest J. Berg",Schenectady,NULL,"New York","United States",27.75,1915-04-20
+1018,"A.F. Williams",Corning,NULL,"New York","United States",3.10,1915-04-20
+1019,"Louis H. Schaefer & Son",Albany,NULL,"New York","United States",2.50,1915-04-20
+1020,"Louis H. Schaefer & Son",Albany,NULL,"New York","United States",7.23,1915-05-06
+1021,"Louis H. Schaefer & Son",Albany,NULL,"New York","United States",0.53,1915-05-15
+1022,"Louis H. Schaefer & Son",Albany,NULL,"New York","United States",4.38,1915-11-12
+1023,"Mrs. John Marker",Philadelphia,NULL,Pennsylvania,"United States",8.80,1915-04-20
+1024,"P.R. Plass",Rochester,NULL,"New York","United States",2.50,1915-04-20
+1025,"J.W. Oberlies",Rochester,NULL,"New York","United States",3.00,1915-04-20
+1026,"W.J. Foster",Syracuse,NULL,"New York","United States",17.50,1915-04-20
+1027,"New York Botanical Garden","New York City",NULL,"New York","United States",29.11,1915-04-20
+1028,"Mrs. M.F. McLaughlin","Lake Forest",NULL,Illinois,"United States",31.85,1915-04-21
+1029,"John J. Higgins",Brockport,NULL,"New York","United States",17.00,1915-04-21
+1030,"Upton & Co.",Rochester,NULL,"New York","United States",7.25,1915-04-21
+1031,"R.C. Graham","New York City",NULL,"New York","United States",14.50,1915-04-21
+1032,"Hazleton Country Club",Hazleton,NULL,Pennsylvania,"United States",2.88,1915-04-21
+1033,"Charles B. Dix","Glen Falls",NULL,"New York","United States",1.75,1915-04-21
+1034,"William Mitchell","New York City",NULL,"New York","United States",2.70,1915-04-21
+1035,"F.E. Richardson",Pittsburgh,NULL,Pennsylvania,"United States",31.50,1915-04-21
+1036,"LeRoy E. Sands",Hawley,NULL,Pennsylvania,"United States",13.30,1915-04-21
+1037,"LeRoy E. Sands",Hawley,NULL,Pennsylvania,"United States",1.12,1915-05-12
+1038,"Dr. Euplic Conoscenti",Newark,NULL,"New Jersey","United States",10.10,1915-04-21
+1039,"F.E. Boynton",Rochester,NULL,"New York","United States",2.55,1915-04-21
+1040,"F.E. Boynton",Rochester,NULL,"New York","United States",27.40,1915-04-30
+1041,"F.C. Trotter",Rochester,NULL,"New York","United States",9.35,1915-04-21
+1042,"George F. Lutz",Brownville,NULL,"New York","United States",36.70,1915-04-21
+1043,"William Irwin Co.","Big Run",NULL,Pennsylvania,"United States",16.05,1915-04-21
+1044,"Mrs. P.A. Rockefeller",Greenwich,NULL,Connecticut,"United States",42.00,1915-04-21
+1045,"Mrs. P.A. Rockefeller",Greenwich,NULL,Connecticut,"United States",1.55,1915-05-10
+1046,"R.H. Bulley",Syracuse,NULL,"New York","United States",4.05,1915-04-21
+1047,"C.I. Wetmore",Westford,NULL,Massachusetts,"United States",83.25,1915-04-22
+1048,"Henry F. Naylon",Buffalo,NULL,"New York","United States",12.80,1915-04-22
+1049,"J.G. France",Marshall,NULL,Michigan,"United States",20.00,1915-04-22
+1050,"Edward R. Mason",Binghamton,NULL,"New York","United States",4.20,1915-04-22
+1051,"John T. Morris",Philadelphia,NULL,Pennsylvania,"United States",2.85,1915-04-22
+1052,"Mrs. H.O. Apthorp",Milton,NULL,Massachusetts,"United States",0.50,1915-04-22
+1053,"F.W. Tenney",Hilton,NULL,"New York","United States",3.75,1915-04-22
+1054,"F.W. Tenney",Hilton,NULL,"New York","United States",16.00,1915-04-28
+1055,"Mrs. Herbert Humburch",Buffalo,NULL,"New York","United States",1.25,1915-04-22
+1056,"C.F. Cornigan",Rochester,NULL,"New York","United States",5.25,1915-04-22
+1057,"Mrs. Warren Ide",Rochester,NULL,"New York","United States",9.00,1915-04-22
+1058,"O.H. Piefer",Rochester,NULL,"New York","United States",3.00,1915-04-22
+1059,"Frank Taylor",Rochester,NULL,"New York","United States",6.00,1915-04-22
+1060,"A. Henderson & Co.",Chicago,NULL,Illinois,"United States",7.80,1915-04-22
+1061,"Harry A. Benyard Co.","New York City",NULL,"New York","United States",4.80,1915-04-22
+1062,"F.J. Schafer",Buffalo,NULL,"New York","United States",61.00,1915-04-22
+1063,"Prof. S.F. Clarke",Williamstown,NULL,Massachusetts,"United States",29.00,1915-04-23
+1064,"Prof. S.F. Clarke",Williamstown,NULL,Massachusetts,"United States",5.00,1915-05-13
+1065,"Hurley Cemetery Association",Hurley,NULL,"New York","United States",42.25,1915-04-23
+1066,"Cornwall Estate",Cornwall,NULL,Pennsylvania,"United States",17.10,1915-04-23
+1067,"David K. Bell",Brighton,NULL,"New York","United States",6.25,1915-04-23
+1068,"Frank Blake",Clinton,NULL,"New York","United States",5.40,1915-04-23
+1069,"John D. Wickle",Chatham,NULL,"New York","United States",20.35,1915-04-23
+1070,"Mrs. E.N. Lorscheider",Rochester,NULL,"New York","United States",7.10,1915-04-23
+1071,"Miss A.F. Kirk",Rochester,NULL,"New York","United States",4.20,1915-04-23
+1072,"W.V. Graeser",Rochester,NULL,"New York","United States",3.50,1915-04-24
+1073,"W.V. Graeser",Rochester,NULL,"New York","United States",1.50,1915-05-25
+1074,"Miss Mary L. Davis","Troy ",NULL,"New York","United States",0.35,1915-04-24
+1075,"George E. Talbot",Putnam,NULL,Connecticut,"United States",3.20,1915-04-24
+1076,"Ridgewood Nursery Co.",Schenectady,NULL,"New York","United States",8.75,1915-04-24
+1077,"E.J. Barker",Chicago,NULL,Illinois,"United States",20.00,1915-04-24
+1078,"Geraldyn Redmond",Tivoli,NULL,"New York","United States",24.00,1915-04-24
+1079,"Willard Robinson","Fort Edward",NULL,"New York","United States",0.60,1915-04-24
+1080,"Mrs. G.G. Ackerson",Hackensack,NULL,"New Jersey","United States",3.00,1915-04-24
+1081,"A.W. Koch",Cincinnati,NULL,Ohio,"United States",0.25,1915-04-24
+1082,"Robert Frame",Newport,NULL,"Rhode Island","United States",52.50,1915-04-24
+1083,"Dr. William A. Windell",Rochester,NULL,"New York","United States",1.00,1915-04-24
+1084,"Mrs. H.D. Tucker",Miamisburg,NULL,Ohio,"United States",3.90,1915-04-24
+1085,"Edwin S. Hooley","New York City",NULL,"New York","United States",51.50,1915-04-26
+1086,"Edwin S. Hooley","New York City",NULL,"New York","United States",1.00,1915-06-14
+1087,"F.W. Bradley","Bay City",NULL,Michigan,"United States",2.50,1915-04-26
+1088,"Illinois Printing Co.",Danville,NULL,Illinois,"United States",52.90,1915-04-26
+1089,"Walter L. Johnson",Monson,NULL,Maine,"United States",22.00,1915-04-26
+1090,"John B. Riley",Albany,NULL,"New York","United States",20.00,1915-04-26
+1091,"John E. McCormick",Albany,NULL,"New York","United States",12.00,1915-04-26
+1092,"Mrs. A. Markle",Hazleton,NULL,Pennsylvania,"United States",1.00,1915-04-26
+1093,"John Trowbridge",Cambridge,NULL,Massachusetts,"United States",1.50,1915-04-26
+1094,"G.J. Sanders",Groton,NULL,Massachusetts,"United States",0.70,1915-04-26
+1095,"Mrs. James Crawford",York,NULL,"New York","United States",2.50,1915-04-26
+1096,"Town & Gown Club",Ithaca,NULL,"New York","United States",15.00,1915-04-26
+1097,"Mrs. James McNaught",Rochester,NULL,"New York","United States",3.25,1915-04-26
+1098,"K.B. Castle",Rochester,NULL,"New York","United States",1.50,1915-04-26
+1099,"K.B. Castle",Rochester,NULL,"New York","United States",6.25,1915-04-30
+1100,"Angeldale Computing Scale Company",Elkhart,NULL,Pennsylvania,"United States",25.00,1915-04-26
+1101,"C.F. Paine",Rochester,NULL,"New York","United States",1.50,1915-04-26
+1102,"C.F. Paine",Rochester,NULL,"New York","United States",3.00,1915-05-07
+1103,"Mrs. George H. Clarke",Rochester,NULL,"New York","United States",80.45,1915-04-26
+1104,"Mrs. George L. Eaton",Rochester,NULL,"New York","United States",6.60,1915-04-26
+1105,"Mrs. George L. Eaton",Rochester,NULL,"New York","United States",1.80,1915-05-14
+1106,"Thomas Finncane",Mendon,NULL,"New York","United States",11.00,1915-04-27
+1107,"Dr. A.S. Knight","New York City",NULL,"New York","United States",9.00,1915-04-27
+1108,"I.N. Wilcox",Binghamton,NULL,"New York","United States",3.00,1915-04-27
+1109,"Charles Decker",Brockport,NULL,"New York","United States",4.00,1915-04-27
+1110,"J.M. Olmsted",Sardinia,NULL,"New York","United States",1.70,1915-04-27
+1111,"Charles S. McKendrick","New York City",NULL,"New York","United States",10.80,1915-04-27
+1112,"Mrs. C. Morton Smith",Philadelphia,NULL,Pennsylvania,"United States",10.80,1915-04-27
+1113,"Harry C. Goodwin",Rochester,NULL,"New York","United States",2.00,1915-04-27
+1114,"Mrs. A.S. Crapsey",Rochester,NULL,"New York","United States",4.25,1915-04-27
+1115,"Wilmot Castle",Rochester,NULL,"New York","United States",9.10,1915-04-27
+1116,"A.J. Corris",Rochester,NULL,"New York","United States",2.40,1915-04-27
+1117,"Henry Morgan",Rochester,NULL,"New York","United States",9.70,1915-04-27
+1118,"Henry Morgan",Rochester,NULL,"New York","United States",4.50,1915-05-04
+1119,"Henry Morgan",Rochester,NULL,"New York","United States",41.00,1915-05-11
+1120,"Mrs. J. Christ",Rochester,NULL,"New York","United States",1.00,1915-04-27
+1121,"Auburn City Hospital",Auburn,NULL,"New York","United States",8.80,1915-04-27
+1122,"E.C. Aderhold",Plymouth,NULL,Wisconsin,"United States",6.40,1915-04-28
+1123,"Albert Steiger",Holyoke,NULL,Massachusetts,"United States",33.79,1915-04-28
+1124,"Fred P. Washburn",Hackensack,NULL,"New Jersey","United States",2.10,1915-04-28
+1125,"J.M. Caffrey","New York City",NULL,"New York","United States",36.76,1915-04-28
+1126,"Z.G. Simmons","Twin Lakes",NULL,Wisconsin,"United States",14.55,1915-04-28
+1127,"J.A. Peterson",Cincinnati,NULL,Ohio,"United States",18.15,1915-04-28
+1128,"Will B. Otwell",Carlinville,NULL,Illinois,"United States",8.85,1915-04-28
+1129,"Austin & Rowley Cold Storage Co.",Medina,NULL,"New York","United States",53.35,1915-04-28
+1130,"James F. Thom",Hingham,NULL,Massachusetts,"United States",6.25,1915-04-29
+1131,"L.F. Hyde","Glens Falls",NULL,"New York","United States",22.50,1915-04-29
+1132,"N.H. Sabin",Williamstown,NULL,Massachusetts,"United States",2.80,1915-04-29
+1133,"Jacob Swanson",Chicago,NULL,Illinois,"United States",7.68,1915-04-29
+1134,"Mrs. Arthur C. Smith",Omaha,NULL,Nebraska,"United States",10.25,1915-04-29
+1135,"Delaware & Hudson Co.",Albany,NULL,"New York","United States",50.00,1915-04-29
+1136,"Miss C. Furniss","New York City",NULL,"New York","United States",7.20,1915-04-29
+1137,"F.L. Green",Whitby,NULL,Ontario,Canada,18.70,1915-04-29
+1138,"Mrs. C.H. Davis",Saginaw,NULL,Michigan,"United States",31.60,1915-04-29
+1139,"J.D. Cogswell",Rochester,NULL,"New York","United States",3.78,1915-04-29
+1140,"Samuel S. Nixon",Carnegie,NULL,Pennsylvania,"United States",8.60,1915-04-29
+1141,"John T. Coventry",Lima,NULL,"New York","United States",9.25,1915-04-29
+1142,"John S. Ames",Boston,NULL,Massachusetts,"United States",65.90,1915-04-29
+1143,"Miss F. Dean",Stamford,NULL,Connecticut,"United States",20.18,1915-04-29
+1144,"New York College of Forestry",Syracuse,NULL,"New York","United States",12.50,1915-04-30
+1145,"Dupry & Ferguson",Montreal,NULL,Quebec,Canada,42.50,1915-04-30
+1146,"Col. Cary Sanger",Sangerfield,NULL,"New York","United States",19.10,1915-04-29
+1147,"Allen Dourn","New York City",NULL,"New York","United States",5.50,1915-04-30
+1148,"W.H. Ellis",Newark,NULL,"New Jersey","United States",3.00,1915-04-30
+1149,"Rev. Francis Parr",Buffalo,NULL,"New York","United States",39.00,1915-04-30
+1150,"Edward L. Welsh",Philadelphia,NULL,Pennsylvania,"United States",7.80,1915-04-30
+1151,"W.H.H. Rogers",Rochester,NULL,"New York","United States",7.25,1915-04-30
+1152,"B.G. Bennett",Rochester,NULL,"New York","United States",25.00,1915-04-30
+1153,"B.G. Bennett",Rochester,NULL,"New York","United States",4.00,1915-05-17
+1154,"B.G. Bennett",Rochester,NULL,"New York","United States",1.80,1915-06-04
+1155,"Mary Hendricks",Rochester,NULL,"New York","United States",3.00,1915-04-30
+1156,"Floyd Greene",Rochester,NULL,"New York","United States",3.00,1915-04-30
+1157,"The Kramb Co.","Oak Harbor",NULL,Ohio,"United States",1.85,1915-04-30
+1158,"J.M. Dickinson",Spencerport,NULL,"New York","United States",2.00,1915-05-01
+1159,"H.E. Veyhl",Rochester,NULL,"New York","United States",1.70,1915-05-01
+1160,"Miss Edith M. Farr",Philadelphia,NULL,Pennsylvania,"United States",13.35,1915-05-01
+1161,"Frank Rumsey",Buffalo,NULL,"New York","United States",53.40,1915-05-01
+1162,"O.W. Crabb",Muncie,NULL,Indiana,"United States",12.00,1915-05-01
+1163,"O.W. Crabb",Muncie,NULL,Indiana,"United States",10.35,1915-03-21
+1164,"O.W. Crabb",Muncie,NULL,Indiana,"United States",14.50,1915-05-29
+1165,"Rev. H. Regenbogen",Auburn,NULL,"New York","United States",13.20,1915-05-01
+1166,"Dixmont Hospital for Insane",Dixmont,NULL,Pennsylvania,"United States",198.95,1915-05-01
+1167,"R.S. Keep",Lockport,NULL,"New York","United States",3.50,1915-05-01
+1168,"George Shelter",Pittsford,NULL,"New York","United States",87.90,1915-05-01
+1169,"George Shelter",Pittsford,NULL,"New York","United States",41.00,1915-05-13
+1170,"H.W. Wilcox",Fairport,NULL,"New York","United States",7.50,1915-05-01
+1171,"Rev. W.B. McCarthy",Sonyea,NULL,"New York","United States",4.50,1915-05-01
+1172,"Charles H. Babcock",Rochester,NULL,"New York","United States",262.25,1915-05-01
+1173,"J.R. Van Inwegan",Rochester,NULL,"New York","United States",1.00,1915-05-01
+1174,"John A. Swayze",Dalton,NULL,Pennsylvania,"United States",6.85,1915-05-01
+1175,"Agricultural Experiment Station","Fort Collins",NULL,Colorado,"United States",11.00,1915-05-01
+1176,"Philip C. Heald",Greenville,NULL,"New Hampshire","United States",189.25,1915-05-03
+1177,"George B. Moeller",Decatur,NULL,Illinois,"United States",5.50,1915-05-03
+1178,"George I. Abbott",Rochester,NULL,"New York","United States",8.30,1915-05-03
+1179,"J. Ritz",Rochester,NULL,"New York","United States",5.45,1915-05-03
+1180,"Mirs. E.T.H. Gibson",Belgrade,NULL,Maine,"United States",1.00,1915-05-03
+1181,"F.H. Ebeling",Syracuse,NULL,"New York","United States",4.50,1915-05-03
+1182,"John Aspinwall",Brooklyn,NULL,"New York","United States",5.05,1915-05-03
+1183,"John Aspinwall",Brooklyn,NULL,"New York","United States",17.70,1915-11-23
+1184,"N. Bruce MacKelvie","Port Washington",NULL,"New York","United States",74.00,1915-05-03
+1185,"Mrs. Robert M. Parmelee",Boston,NULL,Massachusetts,"United States",36.25,1915-05-03
+1186,"Mrs. Robert M. Parmelee",Boston,NULL,Massachusetts,"United States",26.50,1915-08-17
+1187,"John S. Gibson",Newark,NULL,"New Jersey","United States",13.00,1915-05-03
+1188,"A.G. Shlotterbeck",Portland,NULL,Maine,"United States",8.40,1915-05-03
+1189,"Anna L. Browne",Rochester,NULL,"New York","United States",2.00,1915-05-03
+1190,"Mrs. Arthur E. Sutherland",Rochester,NULL,"New York","United States",16.00,1915-05-04
+1191,"Mrs. Wheaton Matthews",Rochester,NULL,"New York","United States",9.80,1915-05-04
+1192,"Mrs. Hubbard Cooke",Cleveland,NULL,Ohio,"United States",5.70,1915-05-04
+1193,"Hector L. Dery",Montreal,NULL,Quebec,Canada,2.40,1915-05-04
+1194,"H.L. Rumsey",Wolcott,NULL,"New York","United States",10.00,1915-05-04
+1195,"Dr. C.R. Witlerspoon",Rochester,NULL,"New York","United States",30.00,1915-05-04
+1196,"H.P. Beebe",Fredonia,NULL,"New York","United States",21.00,1915-05-04
+1197,"New York Conservation Commission",Albany,NULL,"New York","United States",91.25,1915-05-05
+1198,"Mrs. Trimby",Rochester,NULL,"New York","United States",1.95,1915-05-05
+1199,"Carl Ran",Rochester,NULL,"New York","United States",0.50,1915-05-06
+1200,"Doctor Patter",Rochester,NULL,"New York","United States",1.00,1915-05-06
+1201,"A. Waterstrate",Rochester,NULL,"New York","United States",1.15,1915-05-06
+1202,"Fred Repp",Rochester,NULL,"New York","United States",3.40,1915-05-06
+1203,"John Leach",Rochester,NULL,"New York","United States",6.00,1915-05-06
+1204,"Mrs. W.R. Shoop",Rochester,NULL,"New York","United States",1.00,1915-05-06
+1205,"W.M. Crane Jr.",Dalton,NULL,Massachusetts,"United States",18.50,1915-05-05
+1206,"F.M. Whitney","Old Westbury",NULL,"New York","United States",18.75,1915-05-05
+1207,"Mrs. C.G. La Farge","New York City",NULL,"New York","United States",4.00,1915-05-05
+1208,"Ralph H. Poole","Lake Forest",NULL,Illinois,"United States",1.00,1915-05-05
+1209,"R.S. Whitman","Little Falls",NULL,"New York","United States",5.00,1915-05-05
+1210,"Martin P. Rice",Schenectady,NULL,"New York","United States",61.70,1915-05-05
+1211,"F.W. Jenkins",Binghamton,NULL,"New York","United States",5.00,1915-05-05
+1212,"Mrs. Guy Warner Eastman",Norwichtown,NULL,Connecticut,"United States",1.00,1915-05-05
+1213,"G.E. Taylor",Rochester,NULL,"New York","United States",57.16,1915-05-05
+1214,"Mrs. Catherine Rex",Rochester,NULL,"New York","United States",1.00,1915-05-05
+1215,"Rev. G.V. Burns",Rochester,NULL,"New York","United States",2.50,1915-05-06
+1216,"Peter Rapp",Rochester,NULL,"New York","United States",3.00,1915-05-06
+1217,"Kathleen Rossney",Rochester,NULL,"New York","United States",6.00,1915-05-06
+1218,"Kee Lox Manufacturing Co.",Rochester,NULL,"New York","United States",5.70,1915-05-06
+1219,"F.M. Simpson",Rochester,NULL,"New York","United States",0.25,1915-05-06
+1220,"Mrs. Frank S. Noble",Rochester,NULL,"New York","United States",2.00,1915-05-06
+1221,"Dr. J.E. Dunn",Rochester,NULL,"New York","United States",8.50,1915-05-06
+1222,"H.R. Lewis",Rochester,NULL,"New York","United States",20.00,1915-05-06
+1223,"Mrs. T. Patton",Rochester,NULL,"New York","United States",1.50,1915-05-06
+1224,"Mrs. Higbie",Rochester,NULL,"New York","United States",3.45,1915-05-06
+1225,"Walter Angus",Chapinville,NULL,Connecticut,"United States",21.40,1915-05-06
+1226,"E.F. Gillibrand",Plattsburgh,NULL,"New York","United States",10.00,1915-05-06
+1227,"A.C. Cheney",Castleton-on-Hudson,NULL,"New York","United States",39.00,1915-05-06
+1228,"Henderson Farms",Mohawk,NULL,"New York","United States",118.65,1915-05-06
+1229,"Henderson Farms",Mohawk,NULL,"New York","United States",6.00,1915-08-05
+1230,"Daniel G. Lacy",Brookline,NULL,Massachusetts,"United States",14.70,1915-05-06
+1231,"Board of Education",Springville,NULL,"New York","United States",37.00,1915-05-06
+1232,"West End Brewing Co.",Utica,NULL,"New York","United States",13.50,1915-05-06
+1233,"Redfield Proctor",Proctor,NULL,Vermont,"United States",5.70,1915-05-06
+1234,"W.F. Balkan",Rochester,NULL,"New York","United States",7.50,1915-05-06
+1235,"Erickson Perkins",Rochester,NULL,"New York","United States",27.00,1915-05-06
+1236,"Miss Kent",Rochester,NULL,"New York","United States",37.00,1915-05-07
+1237,"C.A. Dean",Wellesley,NULL,Massachusetts,"United States",27.00,1915-05-07
+1238,"C.A. Dean",Wellesley,NULL,Massachusetts,"United States",10.80,1915-05-14
+1239,"Mrs. John M. Murphy",Rochester,NULL,"New York","United States",7.50,1915-05-07
+1240,"Mrs. George C. Buell",Rochester,NULL,"New York","United States",4.55,1915-05-07
+1241,"A.P. Whipple",Rochester,NULL,"New York","United States",3.75,1915-05-07
+1242,"School No. 13",Rochester,NULL,"New York","United States",3.00,1915-05-07
+1243,"B.R. Erskine","Mount Clemens",NULL,Michigan,"United States",1.00,1915-05-07
+1244,"Mrs. Kate L. Brady",Brighton,NULL,"New York","United States",78.12,1915-05-07
+1245,"George Harris",Pittsford,NULL,"New York","United States",62.30,1915-05-07
+1246,"Mrs. C. Knoblauch","Bolton Landing",NULL,"New York","United States",3.35,1915-05-07
+1247,"R.F. Leavens",Fitchburg,NULL,Massachusetts,"United States",13.00,1915-05-07
+1248,"Prof. George P. Burns",Burlington,NULL,Vermont,"United States",25.35,1915-05-07
+1249,"Prof. George P. Burns",Burlington,NULL,Vermont,"United States",26.70,1915-05-10
+1250,"Mrs. Frank L. Stevens","North Hoosick",NULL,"New York","United States",63.40,1915-05-07
+1251,"Mrs. C.W. Dodge",Rochester,NULL,"New York","United States",5.50,1915-05-07
+1252,"L.P. Gunson & Co.",Rochester,NULL,"New York","United States",5.80,1915-05-08
+1253,"Jesse W. Lindsey",Rochester,NULL,"New York","United States",88.85,1915-05-08
+1254,"Jesse W. Lindsey",Rochester,NULL,"New York","United States",58.00,1915-05-11
+1255,"Jesse W. Lindsey",Rochester,NULL,"New York","United States",62.50,1915-05-25
+1256,"Jesse W. Lindsey",Rochester,NULL,"New York","United States",28.00,1915-06-21
+1257,"James H. West Jr.",Irondequoit,NULL,"New York","United States",9.75,1915-05-08
+1258,"MIss E.F. Reid",Rochester,NULL,"New York","United States",2.65,1915-05-08
+1259,"Mrs. G. Finesdale",Rochester,NULL,"New York","United States",1.50,1915-05-08
+1260,"Home Nursery Co.",Rome,NULL,"New York","United States",21.15,1915-05-08
+1261,"Home Nursery Co.",Rome,NULL,"New York","United States",3.00,1915-06-07
+1262,"Proctor & Gamble Co.",Ivorydale,NULL,Ohio,"United States",70.50,1915-05-08
+1263,"Gerald M. Richmond",Providence,NULL,"Rhode Island","United States",0.90,1915-05-08
+1264,"Mrs. J.L. Burnett",Canandaigua,NULL,"New York","United States",0.75,1915-05-08
+1265,"Holy Sepulchre Cemetery",Rochester,NULL,"New York","United States",115.00,1915-05-08
+1266,"Holy Sepulchre Cemetery",Rochester,NULL,"New York","United States",3.00,1915-11-03
+1267,"Holy Sepulchre Cemetery",Rochester,NULL,"New York","United States",105.00,1915-11-06
+1268,"Mrs. E. Einstein","New York City",NULL,"New York","United States",5.65,1915-05-08
+1269,"Board of Public Works",Corning,NULL,"New York","United States",22.00,1915-05-08
+1270,"A.M. Rust",Saginaw,NULL,Michigan,"United States",1.00,1915-05-08
+1271,"E.J. Waters",Barrington,NULL,"Rhode Island","United States",5.00,1915-05-08
+1272,"J.D. MacMahon","Niagara Falls",NULL,"New York","United States",60.35,1915-05-08
+1273,"Metropolitan Life Insurance Co. Sanatorium","Mount McGregor",NULL,"New York","United States",116.50,1915-05-08
+1274,"William Scully",Montreal,NULL,Quebec,Canada,50.95,1915-05-08
+1275,"Rev. J.P. Brophy",Rochester,NULL,"New York","United States",4.50,1915-05-08
+1276,"Henry Holt","New York City",NULL,"New York","United States",9.60,1915-05-10
+1277,"John Stewart",Burlington,NULL,Vermont,"United States",7.20,1915-05-10
+1278,"E.J. Lewis",Middleport,NULL,"New York","United States",6.25,1915-05-10
+1279,"Mrs. Martin Hammond",NULL,NULL,"New York","United States",0.75,1915-05-10
+1280,"C.G. Marsh",Weedsport,NULL,"New York","United States",1.50,1915-05-10
+1281,"C.G. Marsh",Weedsport,NULL,"New York","United States",6.40,1915-10-26
+1282,"C.G. Marsh",Weedsport,NULL,"New York","United States",0.40,1915-11-13
+1283,"C.V.B. Barse Co.",Olean,NULL,"New York","United States",22.75,1915-05-10
+1284,"Mrs. William Olsted",Geneseo,NULL,"New York","United States",6.75,1915-05-10
+1285,"Dr. S.H. French",Amsterdam,NULL,"New York","United States",6.00,1915-05-10
+1286,"The Floracrofters",Hagerstown,NULL,Maryland,"United States",4.50,1915-05-10
+1287,"Albany Country Club",Albany,NULL,"New York","United States",42.00,1915-05-10
+1288,"Mrs. Perkins Bass",Chicago,NULL,Illinois,"United States",9.90,1915-05-10
+1289,"Fred Barku",Gibsonia,NULL,Pennsylvania,"United States",3.00,1915-05-10
+1290,"Albert W. Skinnern",Watertown,NULL,"New York","United States",4.60,1915-05-10
+1291,"Samuel Kinder & Bro.",Bristol,NULL,"Rhode Island","United States",1.75,1915-05-10
+1292,"P.F.H. Morley",Saginaw,NULL,Michigan,"United States",8.25,1915-05-10
+1293,"Mt. Royal Cemetery Co.",Montreal,NULL,Quebec,Canada,49.95,1915-05-10
+1294,"J.W. Roe",Oshkosh,NULL,Wisconsin,"United States",5.50,1915-05-10
+1295,"Gustave C.C. Schrader",Elmhurst,NULL,"New York","United States",17.40,1915-05-10
+1296,"Gustave C.C. Schrader",Elmhurst,NULL,"New York","United States",4.50,1915-05-24
+1297,"Mrs. B.L. Gordon",Spokane,NULL,Washington,"United States",4.50,1915-05-10
+1298,"James S. Ramage",Spokane,NULL,Washington,"United States",6.75,1915-05-10
+1299,"J.A. Vanderbelt",Rochester,NULL,"New York","United States",12.10,1915-05-11
+1300,"John A. Van Liew",Rochester,NULL,"New York","United States",8.30,1915-05-11
+1301,"F.M. Ambrose","South Byfield",NULL,Massachusetts,"United States",54.75,1915-05-11
+1302,"C.E. Winchell","North Adams",NULL,Massachusetts,"United States",4.50,1915-05-11
+1303,"Charles F. Bruins",Alfred,NULL,"New York","United States",2.00,1915-05-11
+1304,"Mrs. Emmons Blaine","Lake Forest",NULL,Illinois,"United States",4.80,1915-05-11
+1305,"Mrs. B.P. Bole",Cleveland,NULL,Ohio,"United States",8.10,1915-05-11
+1306,"Mayer Real Estate Co.",Erie,NULL,Pennsylvania,"United States",7.50,1915-05-11
+1307,"G.T. Williams",Brooklyn,NULL,"New York","United States",6.00,1915-05-11
+1308,"Prof. H.C. Davidson",Ithaca,NULL,"New York","United States",6.90,1915-05-11
+1309,"B. Edmund David","New York City",NULL,"New York","United States",14.90,1915-05-12
+1310,"Mrs. F. Ingalls","New Hartford",NULL,"New York","United States",3.35,1915-05-12
+1311,"A.M. Lord",Brighton,NULL,"New York","United States",4.80,1915-05-12
+1312,"George E. Fisher",Rochester,NULL,"New York","United States",16.00,1915-05-12
+1313,"Mrs. Jones",Rochester,NULL,"New York","United States",3.00,1915-05-12
+1314,"L. Travis",Rochester,NULL,"New York","United States",0.50,1915-05-12
+1315,"Edward Robideaux",Helena,NULL,"New York","United States",3.00,1915-05-12
+1316,"Mary Lewis Reception Hospital",Loomis,NULL,"New York","United States",2.50,1915-05-12
+1317,"Charles T. Wallace",Buffalo,NULL,"New York","United States",1.00,1915-05-12
+1318,"New York School of Agriculture",Canton,NULL,"New York","United States",15.00,1915-05-12
+1319,"W.C. Ball",Muncie,NULL,Indiana,"United States",5.00,1915-05-12
+1320,"William H. Peck",Scranton,NULL,Pennsylvania,"United States",7.90,1915-05-12
+1321,"Mrs. H.L. Johnson",NULL,NULL,NULL,"United States",44.05,1915-05-12
+1322,"Fred W. Wise","East Aurora",NULL,"New York","United States",14.51,1915-05-12
+1323,"Richard T. Stevens",Katonah,NULL,"New York","United States",66.50,1915-05-12
+1324,"Mrs. Lucy Eliot","New York City",NULL,"New York","United States",6.50,1915-05-12
+1325,"C.C. Clarke",Ironton,NULL,"New York","United States",4.50,1915-05-12
+1326,"George A. Hill",Martinsburg,NULL,"West Virginia","United States",1.00,1915-05-12
+1327,"A.B. Wright",Buffalo,NULL,"New York","United States",44.00,1915-05-12
+1328,"A.B. Wright",Buffalo,NULL,"New York","United States",13.60,1915-10-26
+1329,"Board of Education","Niagara Falls",NULL,"New York","United States",35.80,1915-05-12
+1330,"Matti Laitala",Fitchburg,NULL,Massachusetts,"United States",76.65,1915-05-13
+1331,"G.H. Fladd",Irondequoit,NULL,"New York","United States",9.00,1915-05-13
+1332,"William W. Bush",Rushford,NULL,"New York","United States",0.72,1915-05-13
+1333,"F.C. Soule",Syracuse,NULL,"New York","United States",7.50,1915-05-13
+1334,"Edgerstoune Farms",Princeton,NULL,"New Jersey","United States",13.50,1915-05-13
+1335,"P.G. Bahler",Williamson,NULL,"New York","United States",2.50,1915-05-13
+1336,"P.W. Holt","New York City",NULL,"New York","United States",9.75,1915-05-13
+1337,"Eaton Rapids Wollen Mill","Eaton Rapids",NULL,Michigan,"United States",1.50,1915-05-13
+1338,"Mrs. B.P. Ames",Utica,NULL,"New York","United States",0.25,1915-05-13
+1339,"O.W. Hall",Beverly,NULL,Massachusetts,"United States",1.20,1915-05-13
+1340,"Miss Elma Louies","Lake George",NULL,"New York","United States",1.00,1915-05-13
+1341,"J. Herbert Shedd",Woonsocket,NULL,"Rhode Island","United States",1.60,1915-05-13
+1342,"Miss M.F. Vines",Mechanicville,NULL,"New York","United States",0.50,1915-05-13
+1343,"Miss Elizabeth C. Sewall","Wellesley Hills",NULL,Massachusetts,"United States",5.20,1915-05-13
+1344,"Mrs. John A. Merritt",Lockport,NULL,"New York","United States",1.70,1915-05-13
+1345,"E.W. Bishop","Le Roy",NULL,"New York","United States",5.60,1915-05-13
+1346,"Mrs. William Pollock",Pittsfield,NULL,Massachusetts,"United States",4.00,1915-05-13
+1347,"A.B. Landt",Northwood,NULL,"North Dakota","United States",11.85,1915-05-13
+1348,"Mrs. E. Perry",Henrietta,NULL,"New York","United States",3.50,1915-05-13
+1349,"Marshall Brower",Rhinebeck,NULL,"New York","United States",6.50,1915-05-13
+1350,"Louis Starkweather",Henrietta,NULL,"New York","United States",2.00,1915-05-14
+1351,"Alonzo Wookey",Peoria,NULL,Illinois,"United States",4.00,1915-05-14
+1352,"George W. Ray",Norwich,NULL,"New York","United States",1.00,1915-05-14
+1353,"Arthur H. Master","New York City",NULL,"New York","United States",4.00,1915-05-14
+1354,"Rev. George C. Frost",Oriskany,NULL,"New York","United States",1.50,1915-05-14
+1355,"Joseph P. Tower",Millbrook,NULL,"New York","United States",10.75,1915-05-14
+1356,"Sydney Yonden",Pittsburgh,NULL,Pennsylvania,"United States",12.75,1915-05-14
+1357,"Mrs. E.M. Godwin",Brooklyn,NULL,"New York","United States",18.00,1915-05-14
+1358,"Mrs. Harvey S. Gay",Hartsdale,NULL,"New York","United States",11.50,1915-05-14
+1359,"John G. Greatuex",Newport,NULL,"Rhode Island","United States",98.50,1915-05-14
+1360,"Walter C. Stokes","New York City",NULL,"New York","United States",36.00,1915-05-14
+1361,"Walter C. Stokes","New York City",NULL,"New York","United States",10.80,1915-11-16
+1362,"Rev. Robert M. Reilly",Castleton-on-Hudson,NULL,"New York","United States",149.00,1915-05-14
+1363,"Mrs. Walter H. Cluett","Saranac Lake",NULL,"New York","United States",28.90,1915-05-18
+1364,"Dr. Victor Jr. Chambers",Brighton,NULL,"New York","United States",15.40,1915-05-15
+1365,"Dr. Victor Jr. Chambers",Brighton,NULL,"New York","United States",22.05,1915-09-17
+1366,"C.H. Barker",Rochester,NULL,"New York","United States",0.50,1915-05-15
+1367,"E.R. Foreman",Rochester,NULL,"New York","United States",5.55,1915-05-15
+1368,"P.C. Beatty",Rochester,NULL,"New York","United States",5.00,1915-05-15
+1369,"E.C. Way",Rochester,NULL,"New York","United States",3.20,1915-05-15
+1370,"Mrs. A.B. Eastwood",Rochester,NULL,"New York","United States",5.00,1915-05-15
+1371,"R.R. Howard",Wellesley,NULL,Massachusetts,"United States",0.90,1915-05-15
+1372,"School Sisters of Notre Dame",Greenville,NULL,Wisconsin,"United States",1.95,1915-05-15
+1373,"Mrs. M.R. Stugis",Boston,NULL,Massachusetts,"United States",4.80,1915-05-15
+1374,"Herbert L. Pratt","Lake Clear",NULL,"New York","United States",51.05,1915-05-15
+1375,"Thomas R. Phillips",Kingston,NULL,Pennsylvania,"United States",0.75,1915-05-15
+1376,"H.W. Bame",Albany,NULL,"New York","United States",1.00,1915-05-15
+1377,"Miss Gertrude Watson",Pittsfield,NULL,Massachusetts,"United States",6.00,1915-05-15
+1378,"F.C. Roys","Hoosick Falls",NULL,"New York","United States",8.45,1915-05-15
+1379,"Miss F. O'Connor",Rochester,NULL,"New York","United States",2.75,1915-05-15
+1380,"W.A. Forman","New York City",NULL,"New York","United States",2.38,1915-05-15
+1381,"Mary E. Box",Buffalo,NULL,"New York","United States",2.00,1915-05-15
+1382,"Mrs. C.E. Merriam",Schenectady,NULL,"New York","United States",2.00,1915-05-15
+1383,"Albert Winslow",Schaghticoke,NULL,"New York","United States",0.30,1915-05-18
+1384,"Z.D. Blackistone","Washington D.C.",NULL,DC,"United States",6.11,1915-05-17
+1385,"F.L. Warrin",Stockbridge,NULL,Massachusetts,"United States",10.50,1915-05-17
+1386,"James McNall",Rochester,NULL,"New York","United States",5.50,1915-05-18
+1387,"Jacob Parker",Rochester,NULL,"New York","United States",6.00,1915-05-18
+1388,"Fonts & Harper Carriage Manufacturing Company","Terre Haute",NULL,Indiana,"United States",0.50,1915-05-18
+1389,"Miss Edith Morgan",Aurora,NULL,"New York","United States",3.00,1915-05-18
+1390,"Ralph A. Kellogg",Amherst,NULL,"New York","United States",115.30,1915-05-19
+1391,"Miss Baker",Rochester,NULL,"New York","United States",3.00,1915-05-19
+1392,"John McNab",Rochester,NULL,"New York","United States",2.00,1915-05-19
+1393,"H.W. Rippey",Rochester,NULL,"New York","United States",4.30,1915-05-20
+1394,"G.W. Todd & Co.",Rochester,NULL,"New York","United States",53.10,1915-05-21
+1395,"Doctor Snow",Rochester,NULL,"New York","United States",6.30,1915-05-22
+1396,"T.H. Groves",Scranton,NULL,Pennsylvania,"United States",9.02,1915-05-22
+1397,"J.W. Gillis",Pittsford,NULL,"New York","United States",4.80,1915-05-25
+1398,"Bretton Woods Co.","Bretton Woods",NULL,"New Hampshire","United States",2.00,1915-05-27
+1399,"H.C. Cohen",Rochester,NULL,"New York","United States",2.49,1915-05-29
+1400,"George J. Keyes",Rochester,NULL,"New York","United States",45.00,1915-06-02
+1401,"Mrs. Paul Kennedy","New York City",NULL,"New York","United States",2.45,1915-06-07
+1402,"Mrs. Paul Kennedy","New York City",NULL,"New York","United States",11.20,1915-10-26
+1403,"Mrs. E.M. Ashley",Lockport,NULL,"New York","United States",17.50,1915-08-18
+1404,"Mrs. E.M. Ashley",Lockport,NULL,"New York","United States",19.00,1915-08-26
+1405,"Mrs. E.M. Ashley",Lockport,NULL,"New York","United States",7.50,1915-09-02
+1406,"H.M. Witbeck",Lockport,NULL,"New York","United States",15.00,1915-08-18
+1407,"H.M. Witbeck",Lockport,NULL,"New York","United States",0.75,1915-10-09
+1408,"Mrs. E.P. Wilbur","Alexandria Bay",NULL,"New York","United States",15.00,1915-08-17
+1409,"Mrs. K.L. Schaefer",Rochester,NULL,"New York","United States",56.50,1915-08-17
+1410,"Rogers and Ryan",Rochester,NULL,"New York","United States",1170.50,1915-08-23
+1411,"Rogers and Ryan",Rochester,NULL,"New York","United States",80.75,1915-09-08
+1412,"Countess Langier Villars","Bar Harbor",NULL,Maine,"United States",20.00,1915-08-26
+1413,"Countess Langier Villars","Bar Harbor",NULL,Maine,"United States",4.46,1915-11-05
+1414,"A.G. Clement",Bergen,NULL,"New York","United States",5.00,1915-08-30
+1415,"J.H. Frederich",Johnstown,NULL,"New York","United States",75.00,1915-09-01
+1416,"J.H. Frederich",Johnstown,NULL,"New York","United States",22.35,1915-09-17
+1417,"Mrs. Charles I. Avery",Auburn,NULL,"New York","United States",9.00,1915-09-02
+1418,"Julius Crance",Urbana,NULL,"New York","United States",1.18,1915-09-15
+1419,"Miss F.M. Moore",Syosset,NULL,"New York","United States",10.00,1915-09-15
+1420,"Theo N. Ripson",Hempstead,NULL,"New York","United States",0.90,1915-09-16
+1421,"Thomas R. Kimball",Omaha,NULL,Nebraska,"United States",7.80,1915-09-17
+1422,"H.L. Wardwell","Richfield Springs",NULL,"New York","United States",12.00,1915-09-17
+1423,"H.L. Wardwell","Richfield Springs",NULL,"New York","United States",18.30,1915-10-19
+1424,"Miss A.B. Jennings",Fairfield,NULL,Connecticut,"United States",172.80,1915-09-17
+1425,"Miss A.B. Jennings",Fairfield,NULL,Connecticut,"United States",9.00,1915-09-29
+1426,"Miss A.B. Jennings",Fairfield,NULL,Connecticut,"United States",194.00,1915-10-16
+1427,"Miss A.B. Jennings",Fairfield,NULL,Connecticut,"United States",14.40,1915-11-23
+1428,"M.T. Brown",Rochester,NULL,"New York","United States",5.60,1915-09-17
+1429,"J.B. Costello",Syracuse,NULL,"New York","United States",1.00,1915-09-22
+1430,"Board of Park Commissioners",Toledo,NULL,Ohio,"United States",2620.50,1915-11-20
+1431,"W.R. Kenan Jr.",Lockport,NULL,"New York","United States",79.00,1915-09-23
+1432,"E.L. Anstett",Rochester,NULL,"New York","United States",48.00,1915-09-27
+1433,"E.L. Anstett",Rochester,NULL,"New York","United States",9.75,1915-10-04
+1434,"E.L. Anstett",Rochester,NULL,"New York","United States",34.50,1915-11-09
+1435,"E.L. Anstett",Rochester,NULL,"New York","United States",166.65,1915-11-15
+1436,"J.C. Smock",Hudson,NULL,"New York","United States",3.00,1915-09-27
+1437,"J.C. Smock",Hudson,NULL,"New York","United States",13.00,1915-10-09
+1438,"Hon. William Laughlin","Niagara Falls",NULL,"New York","United States",32.00,1915-09-29
+1439,"Henry Dodd",Rochester,NULL,"New York","United States",40.00,1915-11-23
+1440,"Mrs. Isaac M. Potter",Providence,NULL,"Rhode Island","United States",6.50,1915-10-01
+1441,"Mrs. W.R. Howard",Rochester,NULL,"New York","United States",3.70,1915-10-01
+1442,"Mrs. W.R. Howard",Rochester,NULL,"New York","United States",1.25,1915-10-19
+1443,"Mrs. W.R. Howard",Rochester,NULL,"New York","United States",0.30,1915-10-30
+1444,"Mrs. E.W. Bradford",Bennington,NULL,Vermont,"United States",1.85,1915-10-01
+1445,"Mrs. Robert Thompson",Southampton,NULL,"New York","United States",1.25,1915-10-02
+1446,"Mrs. George Carr","Glen Summit Springs",NULL,Pennsylvania,"United States",9.00,1915-10-04
+1447,"Charles Stafford",Wauwatosa,NULL,Wisconsin,"United States",2.00,1915-10-08
+1448,"Mrs. William S. Nichols",Rye,NULL,"New York","United States",11.50,1915-10-08
+1449,"S. Hiller",Gowanda,NULL,"New York","United States",4.00,1915-10-08
+1450,"R.S. Nichols",Boston,NULL,Massachusetts,"United States",4.00,1915-10-08
+1451,"J.H. Fiebing",Milwaukee,NULL,Wisconsin,"United States",0.75,1915-10-09
+1452,"Mrs. F. Randean",Rochester,NULL,"New York","United States",1.50,1915-10-09
+1453,"Miss Sarah M. Hall",Rochester,NULL,"New York","United States",1.00,1915-10-09
+1454,"Frank Keiper",Rochester,NULL,"New York","United States",4.80,1915-10-09
+1455,"Dr. P.C. Jensen",Manistee,NULL,Michigan,"United States",1.50,1915-10-09
+1456,"J.L. Patton",Schenectady,NULL,"New York","United States",1.50,1915-10-09
+1457,"Mrs. W.H.T. Wetherby",Clyde,NULL,"New York","United States",5.00,1915-10-09
+1458,"Henry A. Murray","New York City",NULL,"New York","United States",9.90,1915-10-09
+1459,"J.D. Rucker","Grosse Point",NULL,Michigan,"United States",9.60,1915-10-09
+1460,"George E. Legg",Syracuse,NULL,"New York","United States",2.90,1915-10-09
+1461,"Channing Frothingham","New Canaan",NULL,Connecticut,"United States",4.50,1915-10-09
+1462,"John D. Nickle",Chatham,NULL,"New York","United States",1.50,1915-10-09
+1463,"M.A. La Boule","West Bend",NULL,Wisconsin,"United States",3.50,1915-10-09
+1464,"Bernard S. Heaney",Rochester,NULL,"New York","United States",1.75,1915-10-09
+1465,"F.S. Roberts",Rochester,NULL,"New York","United States",10.00,1915-10-13
+1466,"John A. Burnham",Marblehead,NULL,Massachusetts,"United States",2.50,1915-10-14
+1467,"Mrs. J.D.C. Bradley",Southborough,NULL,Massachusetts,"United States",5.90,1915-10-14
+1468,"Robert C. Pruyn",Albany,NULL,"New York","United States",10.50,1915-10-14
+1469,"S.E. Leith","New York City",NULL,"New York","United States",24.35,1915-10-15
+1470,"W.M. Hand",Culver,NULL,Indiana,"United States",6.00,1915-10-16
+1471,"Thomas J. Sears","South Coventry",NULL,Connecticut,"United States",30.00,1915-10-16
+1472,"Charles Mulford Robinson",Rochester,NULL,"New York","United States",15.07,1915-10-16
+1473,"G.D. Curtis",Rochester,NULL,"New York","United States",27.00,1915-10-18
+1474,"John R. Lee",Detroit,NULL,Michigan,"United States",43.00,1915-10-18
+1475,"John R. Lee",Detroit,NULL,Michigan,"United States",100.00,1915-11-09
+1476,"Prospect Cemetery Association",Prospect,NULL,"New York","United States",17.80,1915-10-18
+1477,"W.A. Mullen",Shamokin,NULL,Pennsylvania,"United States",1.50,1915-10-18
+1478,"Yale Laundry Co.",Syracuse,NULL,"New York","United States",43.00,1915-10-19
+1479,"E.N. Powell",Batavia,NULL,"New York","United States",9.50,1915-10-19
+1480,"E.N. Powell",Batavia,NULL,"New York","United States",6.00,1915-10-21
+1481,"Rochester Lawn Tennis Club",Rochester,NULL,"New York","United States",15.00,1915-10-19
+1482,"Rochester Lawn Tennis Club",Rochester,NULL,"New York","United States",9.55,1915-10-28
+1483,"Rochester Lawn Tennis Club",Rochester,NULL,"New York","United States",1.00,1915-11-22
+1484,"Mrs. Walter Cope",Saunderstown,NULL,"Rhode Island","United States",8.00,1915-10-19
+1485,"The Clifton Hotel","Niagara Falls",NULL,Ontario,Canada,4.57,1915-10-19
+1486,"Mrs. E.V. Hoy",Salamanca,NULL,"New York","United States",2.20,1915-10-19
+1487,"Mrs. John L. Haines",Pittsburgh,NULL,Pennsylvania,"United States",7.45,1915-10-19
+1488,"Mrs. Edwin Lodge","Grosse Pointe Farms",NULL,Michigan,"United States",6.50,1915-10-19
+1489,"Elderfield-Hartshom Hardware Co.","Niagara Falls",NULL,"New York","United States",4.00,1915-10-19
+1490,"Elderfield-Hartshom Hardware Co.","Niagara Falls",NULL,"New York","United States",5.20,1915-11-27
+1491,"Mrs. C.W. Bingham","Mount Morris ",NULL,"New York","United States",23.10,1915-10-19
+1492,"Francis School",Pittsford,NULL,"New York","United States",2.50,1915-10-19
+1493,"James S. Lee",Naples,NULL,"New York","United States",3.50,1915-10-19
+1494,"Milo L. Cleveland",Brockport,NULL,"New York","United States",9.90,1915-10-19
+1495,"Phillip Vierhellen (Secretary)",Fairoaks,NULL,Pennsylvania,"United States",65.00,1915-10-19
+1496,"Phillip Vierhellen (Secretary)",Fairoaks,NULL,Pennsylvania,"United States",26.00,1915-11-12
+1497,"F.B. Harwood",Buffalo,NULL,"New York","United States",9.55,1915-10-20
+1498,"F.B. Harwood",Buffalo,NULL,"New York","United States",6.20,1915-10-25
+1499,"Mrs. James Shand",Lancaster,NULL,Pennsylvania,"United States",2.00,1915-10-20
+1500,"Dr. E.C. Chamberlain","Croton Falls",NULL,"New York","United States",16.00,1915-10-21
+1501,"Mrs. J. Hobart Warren","Hoosick Falls",NULL,"New York","United States",10.80,1915-10-21
+1502,"Dr. N.W. Soble",Rochester,NULL,"New York","United States",3.00,1915-10-21
+1503,"James Boyd",Haverford,NULL,Pennsylvania,"United States",6.00,1915-10-21
+1504,"James Boyd",Haverford,NULL,Pennsylvania,"United States",3.00,1915-11-09
+1505,"G.A. Hollinger","North Bergen",NULL,"New Jersey","United States",3.40,1915-10-21
+1506,"Herman C. Schultz",Milwaukee,NULL,Wisconsin,"United States",10.45,1915-10-21
+1507,"William M. Havan",Rochester,NULL,"New York","United States",1.00,1915-10-22
+1508,"Mrs. Frederick Townsend",Albany,NULL,"New York","United States",20.00,1915-10-22
+1509,"Dr. Frederick Sefton",Auburn,NULL,"New York","United States",10.80,1915-10-22
+1510,"P.H. Thomas",Warrenton,NULL,Virginia,"United States",4.25,1915-10-22
+1511,"Mrs. William Verbeck",Manlius,NULL,"New York","United States",7.90,1915-10-22
+1512,"H.S. Olmsted",Medina,NULL,"New York","United States",5.50,1915-10-22
+1513,"E.L. Welsh",Wakefield,NULL,"Rhode Island","United States",6.10,1915-10-22
+1514,"W.C. Wyckoff","New York City",NULL,"New York","United States",5.80,1915-10-22
+1515,"Mrs. William Emerson","East Jaffrey",NULL,"New Hampshire","United States",5.00,1915-10-22
+1516,"E.A. Musser",Muncy,NULL,Pennsylvania,"United States",3.05,1915-10-22
+1517,"Gifford Pinchot",Milford,NULL,Pennsylvania,"United States",14.50,1915-10-22
+1518,"G.G. McPherson",Rochester,NULL,"New York","United States",2.00,1915-10-22
+1519,"Mrs. Herbert Tuttle",Hillsboro,NULL,Ohio,"United States",3.70,1915-10-23
+1520,"J.B. Webb","St. Louis",NULL,Missouri,"United States",4.90,1915-10-23
+1521,"R.A. Allison",Jackson,NULL,Tennessee,"United States",9.60,1915-10-23
+1522,"Mrs. Charles Neave",Ossining,NULL,"New York","United States",1.20,1915-10-23
+1523,"C.M. Wilmarth","Glens Falls",NULL,"New York","United States",8.40,1915-10-23
+1524,"Charles Stern",Rochester,NULL,"New York","United States",4.30,1915-10-23
+1525,"John R. Hart",Rochester,NULL,"New York","United States",1.50,1915-10-23
+1526,"James H. West & Sons",Irondequoit,NULL,"New York","United States",7.50,1915-10-23
+1527,"Gains C. Moore",Rochester,NULL,"New York","United States",4.20,1915-10-23
+1528,"M. Whitaker","East Liverpool",NULL,Ohio,"United States",6.75,1915-10-25
+1529,"Mrs. F.M. Burdick","New York City",NULL,"New York","United States",11.07,1915-10-26
+1530,"Mrs. Edward Shove",Canandaigua,NULL,"New York","United States",3.91,1915-10-26
+1531,"R. Newbold",Huguenot,NULL,"New York","United States",3.25,1915-10-26
+1532,"Louis Webb",Shelburne,NULL,Vermont,"United States",1.80,1915-10-26
+1533,"E.C. Fish",Elmira,NULL,"New York","United States",11.50,1915-10-26
+1534,"Miss Edith T.H. Ingalls","New Hartford",NULL,"New York","United States",3.30,1915-10-26
+1535,"George P. Decker",Rochester,NULL,"New York","United States",2.65,1915-10-27
+1536,"George P. Decker",Rochester,NULL,"New York","United States",8.50,1915-11-06
+1537,"Lewis B. Preston","New York City",NULL,"New York","United States",18.60,1915-10-28
+1539,"William G. Jackson",Rochester,NULL,"New York","United States",20.00,1915-10-28
+1540,"E. Edwards",Rochester,NULL,"New York","United States",5.45,1915-10-28
+1541,"Mrs. J.J. McInerney",Rochester,NULL,"New York","United States",19.25,1915-10-28
+1542,"Mrs. J.J. McInerney",Rochester,NULL,"New York","United States",23.81,1915-11-10
+1543,"City of Niagara Falls","Niagara Falls",NULL,"New York","United States",113.30,1915-10-28
+1544,"T.B. Coppage (Superintendent)",Springfield,NULL,Missouri,"United States",3.60,1915-10-28
+1545,"Burr L. Smith",Hornell,NULL,"New York","United States",4.00,1915-10-28
+1546,"John A. Jones","New York City",NULL,"New York","United States",1.50,1915-10-28
+1547,"John A. Jones","New York City",NULL,"New York","United States",2.00,1915-11-05
+1548,"Prof. Hugh Findley",Syracuse,NULL,"New York","United States",2.40,1915-10-28
+1549,"Edward Ellery",Schenectady,NULL,"New York","United States",6.40,1915-10-28
+1550,"Jerry Keleher",Rochester,NULL,"New York","United States",0.75,1915-10-28
+1551,"D.W. Campbell",Montreal,NULL,Quebec,Canada,10.80,1915-10-29
+1552,"C.A. Davenport",Rochester,NULL,"New York","United States",23.50,1915-10-29
+1553,"W.S. Edwards",Coalburg,NULL,"West Virginia","United States",0.81,1915-10-28
+1554,"A.M. Skinner",Watertown,NULL,"New York","United States",15.00,1915-10-30
+1555,"J. Warrant Castleman",Rochester,NULL,"New York","United States",30.20,1915-10-30
+1556,"J. Warrant Castleman",Rochester,NULL,"New York","United States",0.45,1915-11-03
+1557,"Mrs. C.C. Clarke",Neebish,NULL,Michigan,"United States",19.10,1915-10-30
+1558,"Rev. James B. Hayden",Schenectady,NULL,"New York","United States",12.25,1915-10-30
+1559,"Mrs. N.M. Collins",Rochester,NULL,"New York","United States",2.00,1915-10-30
+1560,"P. Compton Miller","New York City",NULL,"New York","United States",10.10,1915-10-30
+1561,"Thomas R. McHugh",Rochester,NULL,"New York","United States",2.00,1915-10-30
+1562,"Miss Julia E. Bailey",Rochester,NULL,"New York","United States",13.40,1915-11-01
+1563,"Frederick M. Power",Solvay,NULL,"New York","United States",1.80,1915-11-01
+1564,"George W. Cliffe",Philadelphia,NULL,Pennsylvania,"United States",44.40,1915-11-01
+1565,"R.N. Kalbfleisch",Rochester,NULL,"New York","United States",1.50,1915-11-01
+1566,"J.M. Atherton",Louisville,NULL,Kentucky,"United States",105.15,1915-11-03
+1567,"J.M. Atherton",Louisville,NULL,Kentucky,"United States",12.00,1915-11-05
+1568,"J.M. Atherton",Louisville,NULL,Kentucky,"United States",8.50,1915-11-19
+1569,"Dr. Irving M. Snow",Buffalo,NULL,"New York","United States",89.11,1915-11-03
+1570,"Mrs. F.N. Goodyear",Buffalo,NULL,"New York","United States",5.62,1915-11-03
+1571,"Clifford L. Miller","New York City",NULL,"New York","United States",125.00,1915-11-03
+1572,"Philip Bender (Superintendent)",Albany,NULL,"New York","United States",375.00,1915-11-03
+1573,"Philip Bender (Superintendent)",Albany,NULL,"New York","United States",125.00,1915-11-17
+1574,"United German and Roman Catholic Cemetery Ass",Buffalo,NULL,"New York","United States",9.00,1915-11-04
+1575,"J.A. Blumtach",Rochester,NULL,"New York","United States",5.00,1915-11-05
+1576,"L.N. Glasser",Rochester,NULL,"New York","United States",2.55,1915-11-05
+1577,"Dr. C.F. Moll",Rochester,NULL,"New York","United States",10.20,1915-11-05
+1578,"Smith Sheldon",Rochester,NULL,"New York","United States",10.15,1915-11-05
+1579,"Mrs. W.P. Lamb",Rochester,NULL,"New York","United States",4.00,1915-11-05
+1580,"C.E. Kellogg",Rochester,NULL,"New York","United States",2.90,1915-11-05
+1581,"A.L. Hubbard","South Bend",NULL,Indiana,"United States",0.50,1915-11-05
+1582,"A.L. Hubbard","South Bend",NULL,Indiana,"United States",0.50,1915-11-16
+1583,"A.L. Hubbard","South Bend",NULL,Indiana,"United States",9.50,1915-11-19
+1584,"A.L. Hubbard","South Bend",NULL,Indiana,"United States",0.75,1915-11-20
+1585,"Charles M. Dow",Jamestown,NULL,"New York","United States",51.25,1915-11-05
+1586,"R.W. Griswold",Ithaca,NULL,"New York","United States",1.50,1915-11-05
+1587,"E. Pfahl",Rochester,NULL,"New York","United States",3.00,1915-11-05
+1588,"Mrs. D.D. Hubbard",Rochester,NULL,"New York","United States",7.50,1915-11-05
+1589,"M. Kelly",Utica,NULL,"New York","United States",8.00,1915-11-06
+1590,"Mrs. George R. Balch",Cincinnati,NULL,Ohio,"United States",20.20,1915-11-06
+1591,"William Palmer Smith",Plainfield,NULL,"New Jersey","United States",17.70,1915-11-08
+1592,"A.T. Jennings",Fulton,NULL,"New York","United States",6.12,1915-11-08
+1593,"Mrs. F.L. Crabbe",Rochester,NULL,"New York","United States",2.02,1915-11-08
+1594,"Adolph Rydquist",Rochester,NULL,"New York","United States",4.65,1915-11-09
+1595,"The Tilden Company","New Lebanon",NULL,"New York","United States",11.60,1915-11-09
+1596,"Marie J. Sayers",Buffalo,NULL,"New York","United States",5.60,1915-11-09
+1597,"John House",Rochester,NULL,"New York","United States",3.28,1915-11-10
+1598,"Miss Dell",Greenwich,NULL,Connecticut,"United States",11.60,1915-11-10
+1599,"Miss Dell",Greenwich,NULL,Connecticut,"United States",7.20,1915-11-19
+1600,"Mrs. Margaret C. Aldrich",Barrytown,NULL,"New York","United States",4.80,1915-11-10
+1601,"P. Bigelow",Walden,NULL,"New York","United States",10.50,1915-11-10
+1602,"Mrs. Andrew McNally",Evanston,NULL,Illinois,"United States",13.15,1915-11-11
+1603,"E.H. Westbrook",Hemlock,NULL,"New York","United States",54.50,1915-11-11
+1604,"R.B. Lowe",Fitchburg,NULL,Massachusetts,"United States",19.80,1915-11-11
+1605,"Mrs. Walter B. James","New York City",NULL,"New York","United States",9.25,1915-11-11
+1606,"Fairmont Hospital No. 3 ",Fairmont,NULL,"West Virginia","United States",6.00,1915-11-11
+1607,"West Virginia Children's Home",Elkins,NULL,"West Virginia","United States",8.00,1915-11-11
+1608,"West Virginia Industrial School for Boys","Grafton ",NULL,"West Virginia","United States",20.00,1915-11-11
+1609,"West Virginia Orphans Home",Huntington,NULL,"West Virginia","United States",20.00,1915-11-11
+1610,"West Liberty Normal School","West Liberty",NULL,"West Virginia","United States",15.00,1915-11-11
+1611,"Welch Hospital No. 1",Welch,NULL,"West Virginia","United States",30.00,1915-11-11
+1612,"West Virginia University",Morgantown,NULL,"West Virginia","United States",50.00,1915-11-11
+1613,"Huntington State Hospital",Huntington,NULL,"West Virginia","United States",35.00,1915-11-11
+1614,"West Virginia School for Deaf and Blind",Romney,NULL,"West Virginia","United States",40.00,1915-11-11
+1615,"Spencer State Hospital",Spencer,NULL,"West Virginia","United States",100.00,1915-11-11
+1616,"Carl Falkenbach",Sterlington,NULL,"New York","United States",205.25,1915-11-11
+1617,"Alvan Donnan",Washington,NULL,Pennsylvania,"United States",12.00,1915-11-12
+1618,"F.C. Wiker","Washington D.C.",NULL,DC,"United States",2.00,1915-11-12
+1619,"L.W. Howell",Rochester,NULL,"New York","United States",8.50,1915-11-12
+1620,"L.W. Howell",Rochester,NULL,"New York","United States",5.20,1915-11-15
+1621,"L.W. Howell",Rochester,NULL,"New York","United States",1.60,1915-11-19
+1622,"H.F. West",Rochester,NULL,"New York","United States",4.70,1915-11-12
+1623,"St. Monica's Church",Rochester,NULL,"New York","United States",12.20,1915-11-12
+1624,"George C. Smith",Newburgh,NULL,"New York","United States",5.90,1915-11-13
+1625,"Martin P. Meyer",Rochester,NULL,"New York","United States",0.50,1915-11-13
+1626,"J. Henry Ferguson",Baltimore,NULL,Maryland,"United States",2.50,1915-11-13
+1627,"Phillip W. Thomas","Kansas City",NULL,Missouri,"United States",49.80,1915-11-13
+1628,"Mrs. Christopher J. Heffernan",Amsterdam,NULL,"New York","United States",17.00,1915-11-13
+1629,"Mrs. Christopher J. Heffernan",Amsterdam,NULL,"New York","United States",9.10,1915-11-29
+1630,"John H. Martin","Grand Rapids",NULL,Michigan,"United States",5.50,1915-11-15
+1631,"Rev. George William Douglas","Tuxedo Park",NULL,"New York","United States",4.90,1915-11-15
+1632,"Fleming Nevin",Sewickley,NULL,Pennsylvania,"United States",6.00,1915-11-15
+1633,"Emmet Belknap (Superintendent)",Lockport,NULL,"New York","United States",4.15,1915-11-15
+1634,"William Boon (Superintendent)",Syracuse,NULL,"New York","United States",6.08,1915-11-15
+1635,"George M. Cosh",Ithaca,NULL,"New York","United States",21.10,1915-11-18
+1636,"Dr. L.L. Bulton",Rochester,NULL,"New York","United States",1.00,1915-11-15
+1637,"Mrs. B. Hoffman",Stockbridge,NULL,Massachusetts,"United States",16.60,1915-11-15
+1638,"Agricultural Experiment Station",Newark,NULL,Delaware,"United States",1.20,1915-11-15
+1639,"John Beuggeman",Rochester,NULL,"New York","United States",31.80,1915-11-15
+1640,"National Malleable Casting Co.",Sharon,NULL,Pennsylvania,"United States",3.75,1915-11-16
+1641,"Mrs. W.R. Grace","Great Neck",NULL,"New York","United States",12.40,1915-11-16
+1642,"William Harris Douglass","New York City",NULL,"New York","United States",8.10,1915-11-17
+1643,"William Harris Douglass","New York City",NULL,"New York","United States",0.78,1915-11-27
+1644,"Miss Meeker",Utica,NULL,"New York","United States",5.00,1915-11-17
+1645,"T.H. Beckwith",Rochester,NULL,"New York","United States",1.80,1915-11-17
+1646,"L. Stern","New York City",NULL,"New York","United States",18.80,1915-11-19
+1647,"Edgar W. Ford","Grand Rapids",NULL,Michigan,"United States",1.00,1915-11-19
+1648,"Charles K. Friedler",Detroit,NULL,Michigan,"United States",3.00,1915-11-19
+1649,"Sisters of Mercy",Rochester,NULL,"New York","United States",6.20,1915-11-20
+1650,"Mrs. G.A. Maguire",Rochester,NULL,"New York","United States",7.50,1915-11-20
+1651,"James W. Cromwell",Summit,NULL,"New Jersey","United States",2.40,1915-11-22
+1652,"Joseph P. Gibson",Halethorpe,NULL,Maryland,"United States",2.75,1915-11-22
+1653,"H.S. Baker",Warsaw,NULL,"New York","United States",10.75,1915-11-23
+1654,"Prentice Sanger","New York City",NULL,"New York","United States",1.00,1915-11-23
+1655,"E.J. Meyer",Rochester,NULL,"New York","United States",29.50,1915-11-23
+1656,"Mrs. A. Schoellkopf","Niagara Falls",NULL,"New York","United States",7.50,1915-11-27
+1657,"James Vick",Rochester,NULL,"New York","United States",2.40,1915-11-27
+1658,"Miss Lillian Gragen",Rochester,NULL,"New York","United States",1.77,1915-12-04
+1659,"Miss Lillian Gragen",Rochester,NULL,"New York","United States",0.32,1915-12-04
+1660,"Mrs. A. Fetchenbach",Rochester,NULL,"New York","United States",1.00,1915-12-04
+1661,"Mrs. George A. Babcock",Rochester,NULL,"New York","United States",2.08,1915-12-04
+1662,"Sisters of the Visitation",Springfield,NULL,Illinois,"United States",1.00,1915-12-20
+1663,"George Hilmer",Rochester,NULL,"New York","United States",100.00,1915-12-31
+1664,"Lyman Sptizer",Toledo,NULL,Ohio,"United States",9.60,1915-12-31

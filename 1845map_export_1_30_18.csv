@@ -1,0 +1,718 @@
+ID,Name,City,County,State,Country,Amount,Date
+4,Cash,Rochester,,"New York","United States",1.20,1845-01-06
+5,"H. Becker",Rochester,,"New York","United States",6.87,1845-01-07
+6,"D.R. Barton",Rochester,,"New York","United States",3.50,1845-01-09
+7,"E. Johnson",Rochester,,"New York","United States",2.00,1845-01-16
+8,"S. Stevens",Rochester,,"New York","United States",3.00,1845-01-16
+9,"D.R. Barton",Rochester,,"New York","United States",1.25,1845-01-16
+10,Cash,Rochester,,"New York","United States",1.00,1845-01-18
+11,"Robert Haight",Rochester,,"New York","United States",1.00,1845-01-20
+12,Cash,Rochester,,"New York","United States",0.88,1845-01-20
+13,Cash,Rochester,,"New York","United States",0.25,1845-01-21
+14,"Mrs. James Hawks",Rochester,,"New York","United States",0.75,1845-01-23
+15,Cash,Rochester,,"New York","United States",3.38,1845-01-25
+16,Cash,Rochester,,"New York","United States",3.00,1845-01-27
+17,"J.M. Whitney",Rochester,,"New York","United States",1.00,1845-01-30
+18,"Hiram Becker",Rochester,,"New York","United States",9.25,1845-02-01
+19,Cash,Rochester,,"New York","United States",7.00,1845-02-03
+20,"Hiram Becker",Rochester,,"New York","United States",3.00,1845-02-11
+21,Cash,Rochester,,"New York","United States",0.50,1845-02-12
+22,Cash,Rochester,,"New York","United States",2.08,1845-02-17
+23,Cash,Rochester,,"New York","United States",2.12,1845-02-25
+24,"Mrs. John F. Bush",Rochester,,"New York","United States",0.25,1845-02-25
+25,Cash,Rochester,,"New York","United States",1.10,1845-02-25
+26,Cash,Rochester,,"New York","United States",0.25,1845-02-26
+27,Cash,Rochester,,"New York","United States",3.00,1845-02-27
+28,"John Allen",Rochester,,"New York","United States",2.00,1845-02-27
+29,"William Sherwood",Southport,,Connecticut,"United States",5.00,1845-02-28
+30,"Victor Atwood","St. Albans",,Vermont,"United States",4.00,1845-02-28
+31,Cash,Rochester,,"New York","United States",0.31,1845-03-01
+32,"E.F. Smith",Rochester,,"New York","United States",4.00,1845-03-01
+33,"Samuel Stevens",Rochester,,"New York","United States",0.25,1845-03-01
+34,"B.F. Smith & Co.",Rochester,,"New York","United States",3.00,1845-02-05
+35,Cash,Rochester,,"New York","United States",2.69,1845-03-04
+36,Cash,Rochester,,"New York","United States",6.00,1845-03-05
+37,Cash,Rochester,,"New York","United States",0.75,1845-03-06
+38,Cash,Rochester,,"New York","United States",3.56,1845-03-07
+39,Cash,Rochester,,"New York","United States",5.63,1845-03-08
+40,"E. Huntington",Lebanon,,Connecticut,"United States",3.50,1845-03-08
+41,"E.D. Smith",Rochester,,"New York","United States",35.88,1845-03-08
+43,Cash,Rochester,,"New York","United States",1.00,1845-03-13
+44,"Marcus Morse",Rochester,,"New York","United States",3.50,1845-03-13
+45,Cash,Rochester,,"New York","United States",3.25,1845-03-15
+46,"L.D. Fort","New York City",,"New York","United States",3.00,1845-03-17
+47,"J.D. Smith","Port Hope",,Ontario,Canada,15.00,1845-03-17
+48,"Samuel R.",Hamilton,,Ontario,Canada,3.00,1845-03-17
+49,Cash,Rochester,,"New York","United States",0.93,1845-03-22
+50,"H.J. Hastings",Rochester,,"New York","United States",0.75,1845-03-22
+51,"E.W. Stevenson","St. Catharines",,Ontario,Canada,13.61,1845-03-24
+52,"Captain Dick",Toronto,,Ontario,Canada,9.21,1845-03-25
+53,"D. Toulerson",Rochester,,"New York","United States",12.50,1845-03-25
+54,"Everard Peck",Rochester,,"New York","United States",1.00,1845-03-26
+55,"Zera Burr",Rochester,,"New York","United States",1.00,1845-03-26
+56,"Connell & Curtis",Rochester,,"New York","United States",1.25,1845-03-26
+57,"William B. Walton",Schenectady,,"New York","United States",3.25,1845-03-26
+58,"William Stickney",Boston,,Massachusetts,"United States",3.63,1845-03-26
+59,"Joseph Buck & Co.",Boston,,"New York","United States",25.50,1845-03-26
+60,"James Whitney",Rochester,,"New York","United States",1.00,1845-03-26
+61,"Luther Tucker",Albany,,"New York","United States",4.00,1845-03-26
+62,"Mr. Fay",Rochester,,"New York","United States",1.00,1845-03-27
+63,"Mr. Hall",Rochester,,"New York","United States",6.00,1845-03-27
+64,"Moody O.","West Newbury",,Massachusetts,"United States",1.00,1845-03-27
+65,"C.D. Palmer",Waterville,,"New York","United States",11.38,1845-03-27
+66,"J. Mead",Rochester,,"New York","United States",18.67,1845-03-27
+67,Cash,Rochester,,"New York","United States",5.00,1845-03-27
+68,"Daniel Jones",Baldwinsville,,"New York","United States",21.25,1845-03-27
+69,"I. Cook",Rochester,,"New York","United States",8.50,1845-03-28
+70,"S. Hoyt",Rochester,,"New York","United States",1.00,1845-03-28
+71,"Thomas Hart Rochester",Rochester,,"New York","United States",0.38,1845-03-28
+72,"C. Morse",Rochester,,"New York","United States",0.81,1845-03-28
+73,Cash,Rochester,,"New York","United States",29.01,1845-03-28
+74,"B. Bradley",Dansville,,"New York","United States",24.52,1845-03-29
+75,"V.R. Rowe",Rochester,,"New York","United States",3.75,1845-03-29
+76,"Aaron Erickson",Rochester,,"New York","United States",6.63,1845-03-29
+77,"A. Reynolds",Rochester,,"New York","United States",3.00,1845-03-29
+78,Cash,Rochester,,"New York","United States",15.83,1845-03-29
+79,Cash,Rochester,,"New York","United States",12.25,1845-03-29
+80,Cash,Rochester,,"New York","United States",1.88,1845-03-29
+81,"Robert Evans",Erie,,Pennsylvania,"United States",1.00,1845-03-29
+82,Cash,Rochester,,"New York","United States",14.75,1845-03-29
+83,Cash,Rochester,,"New York","United States",22.51,1845-03-29
+84,"James Buchan",Rochester,,"New York","United States",19.50,1845-03-31
+85,"V.R. Rowe",Rochester,,"New York","United States",13.63,1845-03-31
+86,"V.R. Rowe",Rochester,,"New York","United States",17.25,1845-03-31
+87,"William Taylor",Rochester,,"New York","United States",3.00,1845-03-31
+88,"Miss E. Wadsworth",Geneseo,,"New York","United States",9.06,1845-03-31
+89,"Joseph Cochrane",Rochester,,"New York","United States",3.38,1845-03-31
+90,"E. Donnelly",Rochester,,"New York","United States",3.38,1845-03-31
+91,"Samuel Kerr & Co. ",Hamilton,,Ontario,Canada,68.84,1845-03-31
+92,Cash,Rochester,,"New York","United States",62.00,1845-03-31
+93,"Jacob Graves",Rochester,,"New York","United States",7.50,1845-04-01
+94,"Philander Tobey",Rochester,,"New York","United States",6.50,1845-04-01
+95,"Ethan Allen Hopkins",Rochester,,"New York","United States",4.00,1845-04-01
+96,"Philander Tobey",Rochester,,"New York","United States",0.88,1845-04-01
+97,"W.R. Boulton",Toronto,,Ontario,Canada,26.25,1845-04-01
+98,Cash,Rochester,,"New York","United States",62.57,1845-04-01
+99,"C.M. Gidings",Cleveland,,Ohio,"United States",13.76,1845-04-01
+100,"R. Hilliard",Cleveland,,Ohio,"United States",8.88,1845-04-01
+101,"William Case",Cleveland,,Ohio,"United States",46.50,1845-04-01
+102,"W.G. Verplanck",Geneva,,"New York","United States",21.00,1845-04-01
+103,"Daniel Russell",Portland,,Maine,"United States",3.82,1845-04-02
+104,"John R. Lee",Buffalo,,"New York","United States",4.75,1845-04-03
+105,"H.W. Dunford",Syracuse,,"New York","United States",7.87,1845-04-03
+106,"S.M. Brown",Elbridge,,"New York","United States",26.88,1845-04-03
+107,"James Matthews",Coshocton,,Ohio,"United States",5.00,1845-04-03
+108,"J. Vance Boswell",Cobourg,,Ontario,Canada,10.00,1845-04-03
+109,"Victor Atwood","St. Albans",,Vermont,"United States",4.00,1845-04-03
+110,"Willson Thorburn & Co.",Albany,,"New York","United States",11.93,1845-04-03
+111,"Erastus Cushing",Cleveland,,Ohio,"United States",2.75,1845-04-03
+112,"E.F. Smith",Rochester,,"New York","United States",5.50,1845-04-03
+113,"G.F. Ramsdell",Livonia,,"New York","United States",5.00,1845-04-03
+114,Cash,Rochester,,"New York","United States",11.69,1845-04-03
+115,"I.R. Fasset",Troy,,"New York","United States",19.00,1845-04-03
+116,"James Whitney",Rochester,,"New York","United States",35.92,1845-04-03
+117,"Dr. H.A. Ackley",Cleveland,,Ohio,"United States",13.25,1845-04-04
+118,"George P. Mowry",Geneva,,"New York","United States",4.38,1845-04-04
+119,"Hovey & Co.",Boston,,Massachusetts,"United States",17.00,1845-04-04
+120,"George H. Markland",Kingston,,Ontario,Canada,4.00,1845-04-04
+121,Cash,Rochester,,"New York","United States",32.38,1845-04-04
+122,"George A. Wilkin",Rochester,,"New York","United States",10.00,1845-08-07
+123,"Isaac Cox",Wheatland,,"New York","United States",33.75,1845-04-05
+124,"James Whitney",Rochester,,"New York","United States",6.50,1845-04-05
+125,"John Kinshell",Rochester,,"New York","United States",3.75,1845-04-05
+126,"Thomas O'Donaghue",Rochester,,"New York","United States",3.75,1845-04-05
+127,Cash,Rochester,,"New York","United States",55.87,1845-04-05
+128,"Cash by J.W. Johnson",Rochester,,"New York","United States",68.95,1845-04-05
+129,"Peter Conway",Rochester,,"New York","United States",3.00,1845-04-07
+130,"George A. Wilkin",Rochester,,"New York","United States",2.25,1845-04-07
+131,"C.L. Hoskins","Seneca Falls",,"New York","United States",2.50,1845-04-07
+132,"F.C. Leverance",Cleveland,,Ohio,"United States",21.50,1845-04-07
+133,"Charles A. Stettson","New York City",,"New York","United States",68.50,1845-04-07
+134,"Edward Skelvell",Millcreek,,Ontario,Canada,17.38,1845-04-07
+135,"Jacob Howe",Rochester,,"New York","United States",1.12,1845-04-07
+136,"V.R. Rowe",Rochester,,"New York","United States",0.75,1845-04-07
+137,"John Miller",Rochester,,"New York","United States",1.00,1845-04-07
+138,Cash,Rochester,,"New York","United States",4.30,1845-04-07
+139,Cash,Rochester,,"New York","United States",7.00,1845-04-08
+140,"B.F. Smith & Co.",Rochester,,"New York","United States",1.50,1845-04-08
+141,"George P. Mowry",Geneva,,"New York","United States",4.38,1845-04-08
+142,Cash,Rochester,,"New York","United States",5.00,1845-04-08
+143,Cash,Rochester,,"New York","United States",37.75,1845-04-10
+144,"W.H. Cheney",Rochester,,"New York","United States",7.25,1845-04-10
+145,"V.R. Rowe",Rochester,,"New York","United States",0.87,1845-04-10
+146,"Thomas Hart Rochester",Rochester,,"New York","United States",5.50,1845-04-10
+147,"Robert Venn",Rochester,,"New York","United States",4.50,1845-04-11
+148,"Philander Tobey",Rochester,,"New York","United States",1.50,1845-04-11
+149,"Charles F. Crosman",Rochester,,"New York","United States",7.62,1845-04-11
+150,"E.S. Brayten",Utica,,"New York","United States",7.00,1845-04-11
+151,"John Miller",Columbus,,Ohio,"United States",50.00,1845-04-11
+152,"George S. Dana",Utica,,"New York","United States",5.00,1845-04-11
+153,"D. Russell",Portland,,Maine,"United States",3.82,1845-04-11
+154,Cash,Auburn,,"New York","United States",51.91,1845-04-11
+155,Cash,Rochester,,"New York","United States",12.00,1845-04-11
+156,"John Klein",Oswego,,"New York","United States",116.07,1845-04-11
+157,"Jacob Hyne",Rochester,,"New York","United States",2.00,1845-04-11
+158,"W.R. Boulton",Toronto,,Ontario,Canada,2.50,1845-04-11
+159,Cash,Rochester,,"New York","United States",18.63,1845-04-12
+160,"Luther Graves",Rochester,,"New York","United States",4.25,1845-04-12
+161,"Jacob Graves",Rochester,,"New York","United States",1.25,1845-04-12
+162,"N.B. Northrop",Rochester,,"New York","United States",2.25,1845-04-12
+163,"M.F. Whitehead","Port Hope",,Ontario,Canada,2.25,1845-04-12
+164,"John King",Rochester,,"New York","United States",1.50,1845-04-12
+165,"H. Gray",Detroit,,Michigan,"United States",13.75,1845-04-14
+166,"S.D. Smith",Lansingburgh,,"New York","United States",12.50,1845-04-14
+167,"N.E. Crittenden",Cleveland,,Ohio,"United States",9.75,1845-04-14
+168,"C.M. Gidings",Cleveland,,Ohio,"United States",6.00,1845-04-14
+169,"W.H. Cheney",Rochester,,"New York","United States",1.38,1845-04-14
+170,"Marcus Morse",Rochester,,"New York","United States",2.00,1845-04-14
+171,"L.A. Allen",Rochester,,"New York","United States",2.50,1845-04-14
+172,"Sylvester Brown",Rochester,,"New York","United States",1.25,1845-04-14
+173,"W. Connell Curtis",Rochester,,"New York","United States",4.00,1845-04-14
+174,"James Whitney",Rochester,,"New York","United States",7.50,1845-04-14
+175,"Horatio Fenn",Rochester,,"New York","United States",10.12,1845-04-14
+176,"William Graves",Rochester,,"New York","United States",1.50,1845-04-14
+177,"Reverend James Fuller",Rochester,,"New York","United States",7.75,1845-04-14
+178,"J.M. Hubbard",Buffalo,,"New York","United States",3.25,1845-04-14
+179,"Montgomery Campbell",Cobourg,,Ontario,Canada,24.25,1845-04-14
+180,"Enos T. Throop",Auburn,,"New York","United States",5.50,1845-04-14
+181,"James Wadsworth",Auburn,,"New York","United States",18.25,1845-04-14
+182,"John Donnellan",Rochester,,"New York","United States",21.33,1845-04-14
+183,Cash,Rochester,,"New York","United States",21.33,1845-04-14
+184,"John King",Rochester,,"New York","United States",3.00,1845-04-15
+185,"Isaac Cox",Wheatland,,"New York","United States",9.75,1845-04-15
+186,"G.S. Jennings",Rochester,,"New York","United States",4.63,1845-04-15
+187,"E. Cashing",Cleveland,,Ohio,"United States",3.00,1845-04-15
+188,Cash,Rochester,,"New York","United States",40.37,1845-04-15
+189,"Stephen H. Smith",Lonsdale,,"Rhode Island","United States",3.00,1845-04-15
+190,"W.R. Boulton",Toronto,,Ontario,Canada,10.75,1845-04-15
+191,"James Wadsworth",Auburn,,"New York","United States",3.50,1845-04-15
+192,"George S. Dana",Utica,,"New York","United States",5.75,1845-04-15
+193,"Samuel McClure",Watertown,,"New York","United States",10.50,1845-04-15
+194,"Thomas Hogg & Sons","New York City",,"New York","United States",6.20,1845-04-15
+195,"H.D. Wade",Rochester,,"New York","United States",3.50,1845-04-15
+196,"Alpine Grant",Ogdensburg,,"New York","United States",13.87,1845-04-16
+197,"B.F. Smith & Co.",Rochester,,"New York","United States",8.38,1845-04-16
+198,"J.A. Eastman",Rochester,,"New York","United States",2.50,1845-04-16
+199,Cash,Rochester,,"New York","United States",32.20,1845-04-16
+200,"Steel & Cutting",Auburn,,"New York","United States",7.50,1845-04-17
+201,"Brinesnaid at Robert King",Rochester,,"New York","United States",3.50,1845-04-17
+202,"Reverend  Mr. Brewster",Livonia,,"New York","United States",1.25,1845-04-17
+203,"B.F. Angel",Geneseo,,"New York","United States",7.50,1845-04-17
+204,"Abel Ward",Schenectady,,"New York","United States",40.75,1845-04-17
+205,"S. Whitney",Rochester,,"New York","United States",5.25,1845-04-17
+206,"D.T. Mosely",Skaneateles,,"New York","United States",12.13,1845-04-17
+207,"Baron Grant",Kingston,,Ontario,Canada,26.50,1845-04-17
+208,"R. Stanton",Toronto,,Ontario,Canada,17.50,1845-04-17
+209,"Judge Samuel Miller",Rochester,,"New York","United States",2.50,1845-04-17
+210,"E. Taylor",Rochester,,"New York","United States",1.25,1845-04-17
+211,"Sylvester Clarke",Clyde,,"New York","United States",11.75,1845-04-18
+212,Cash,Rochester,,"New York","United States",13.41,1845-04-18
+213,"Cash by E.Niles",Dansville,,"New York","United States",2.00,1845-04-18
+215,"M.F. Whitehead","Port Hope",,Ontario,Canada,4.00,1845-04-19
+216,"James Lenon",Rochester,,"New York","United States",1.75,1845-04-19
+217,"Joshua Tripp",Rochester,,"New York","United States",1.00,1845-04-19
+218,"V.R. Rowe",Rochester,,"New York","United States",0.87,1845-04-19
+219,"E. Niles",Dansville,,"New York","United States",1.50,1845-04-19
+220,"Thomas Reid",Providence,,"Rhode Island","United States",5.00,1845-04-19
+221,Cash,Rochester,,"New York","United States",21.11,1845-04-19
+222,"Horace Cobb",Brighton,,"New York","United States",4.00,1845-04-19
+223,"Cleveland Painter",Cleveland,,Ohio,"United States",0.50,1845-04-21
+224,"E. Wolcott",Rochester,,"New York","United States",4.75,1845-04-21
+225,"J.A. Collins",Skaneateles,,"New York","United States",41.92,1845-04-21
+226,"James Whitney",Rochester,,"New York","United States",1.50,1845-04-21
+227,Kelly,Rochester,,"New York","United States",1.88,1845-04-21
+228,"Enos T. Throop",Auburn,,"New York","United States",5.00,1845-04-21
+229,"Cash by Becker",Rochester,,"New York","United States",10.80,1845-04-21
+230,Cash,Rochester,,"New York","United States",31.17,1845-04-21
+231,Cash,Rochester,,"New York","United States",4.50,1845-04-21
+232,"Alderman Stillwell",Rochester,,"New York","United States",8.00,1845-04-21
+233,Cash,Duanesburg,,"New York","United States",1.00,1845-04-21
+234,"E.S. Brayten",Utica,,"New York","United States",7.00,1845-04-21
+235,"Samuel Kerr & Co. ",Hamilton,,Ontario,Canada,19.68,1845-04-22
+236,"J. Vance Boswell",Cobourg,,Ontario,Canada,20.25,1845-04-22
+237,"B.F. Smith & Co.",Rochester,,"New York","United States",21.50,1845-04-22
+238,"L. Perrigo",Rochester,,"New York","United States",1.25,1845-04-22
+239,"Cleveland Painter",Cleveland,,Ohio,"United States",3.75,1845-04-22
+240,"John Gray",Toronto,,Ontario,Canada,26.25,1845-04-01
+241,"R.D. Rogers",Rochester,,"New York","United States",4.51,1845-04-22
+242,Cash,Rochester,,"New York","United States",37.80,1845-04-22
+243,"Samuel Kerr & Co. ",Hamilton,,Ontario,Canada,4.12,1845-04-22
+244,"J.H. Watts",Rochester,,"New York","United States",0.75,1845-04-22
+245,"C.G. Wilson",Rochester,,"New York","United States",0.88,1845-04-22
+246,"Amos Sawyer",Rochester,,"New York","United States",10.00,1845-04-22
+247,"William Graves",Rochester,,"New York","United States",1.50,1845-04-22
+248,"Joshua Tripp",Rochester,,"New York","United States",8.60,1845-04-23
+249,"George Dawson",Rochester,,"New York","United States",4.25,1845-04-23
+250,"A. Reynolds",Rochester,,"New York","United States",0.50,1845-04-23
+251,"L.D. Ely",Rochester,,"New York","United States",1.00,1845-04-23
+252,"W.J. Southerin",Rochester,,"New York","United States",1.50,1845-04-23
+253,"General H.L. Stevens",Pontiac,,Michigan,"United States",6.75,1845-04-23
+254,"Mrs. Elmira Whiting",Clyde,,"New York","United States",6.38,1845-04-23
+255,"J.V. Fasset",Troy,,"New York","United States",9.25,1845-04-23
+256,Cash,Rochester,,"New York","United States",29.66,1845-04-23
+257,"E.F. Smith",Rochester,,"New York","United States",1.25,1845-04-23
+258,"J. Vance Boswell",Cobourg,,Ontario,Canada,23.75,1845-04-23
+259,"Captain Dick",Toronto,,Ontario,Canada,21.74,1845-04-24
+260,McCovigal,Cobourg,,Ontario,Canada,5.25,1845-04-24
+261,"Joshua Tripp",Rochester,,"New York","United States",1.50,1845-04-24
+262,"John H. Thompson",Rochester,,"New York","United States",2.75,1845-04-24
+263,"Daniel Brownell & Co.",Rochester,,"New York","United States",15.00,1845-04-24
+264,Cash,Rochester,,"New York","United States",74.25,1845-04-24
+265,"J.A. Eastman",Rochester,,"New York","United States",2.00,1845-04-24
+266,"V.R. Rowe",Rochester,,"New York","United States",2.68,1845-04-24
+267,"E. Strong",Rochester,,"New York","United States",0.87,1845-04-25
+268,"Judge Strong",Rochester,,"New York","United States",0.50,1845-04-25
+269,Cash,Rochester,,"New York","United States",18.48,1845-04-25
+270,"Strong & Dawson",Rochester,,"New York","United States",3.43,1845-04-26
+271,"R.O. Duggan",Hamilton,,Ontario,Canada,19.00,1845-04-26
+272,"B.F. Smith & Co.",Rochester,,"New York","United States",1.00,1845-04-26
+273,Cash,Rochester,,"New York","United States",13.38,1845-04-26
+274,"Cash by Becker",Rochester,,"New York","United States",22.96,1845-04-26
+275,"E.S. Alport",Toronto,,Ontario,Canada,9.93,1845-04-28
+276,"George Shale",Rochester,,"New York","United States",1.75,1845-04-28
+277,Cash,Rochester,,"New York","United States",5.68,1845-04-28
+278,"Cash by Becker",Rochester,,"New York","United States",8.19,1845-04-28
+279,Cash,Rochester,,"New York","United States",5.50,1845-04-29
+280,"J. Vance Boswell",Cobourg,,Ontario,Canada,12.00,1845-04-29
+281,"Cash by Becker",Rochester,,"New York","United States",5.80,1845-04-29
+282,"Mrs. F.P. Goodsel",Brantford,,Ontario,Canada,1.50,1845-04-30
+283,"Dr. Elwood",Rochester,,"New York","United States",20.00,1845-04-30
+284,"William Hubbard",Rochester,,"New York","United States",5.50,1845-04-30
+285,"J.A. Eastman",Rochester,,"New York","United States",0.50,1845-04-30
+286,"William Kidd",Rochester,,"New York","United States",3.00,1845-04-30
+287,Cash,Rochester,,"New York","United States",10.87,1845-04-30
+288,"M.F. Whitehead","Port Hope",,Ontario,Canada,4.00,1845-04-30
+289,"S.D. Foot","New York City",,"New York","United States",3.00,1845-04-30
+290,"Ralph Francis",Rochester,,"New York","United States",4.07,1845-04-30
+291,Cash,Rochester,,"New York","United States",2.81,1845-05-01
+292,Cash,Rochester,,"New York","United States",39.75,1845-05-02
+293,Cash,Rochester,,"New York","United States",0.88,1845-05-02
+294,"B.M. Baker",Rochester,,"New York","United States",2.50,1845-05-03
+295,"J.M. Fish",Rochester,,"New York","United States",2.52,1845-05-03
+296,Cash,Rochester,,"New York","United States",3.23,1845-05-03
+297,"E.S. Alport",Toronto,,Ontario,Canada,3.00,1845-05-05
+298,Cash,Rochester,,"New York","United States",0.38,1845-05-05
+299,Cash,Rochester,,"New York","United States",11.87,1845-05-05
+300,Cash,Rochester,,"New York","United States",4.96,1845-05-07
+301,"Hastings & Hubbard",Troy,,Michigan,"United States",7.25,1845-05-07
+302,Cash,Rochester,,"New York","United States",0.87,1845-05-07
+303,Cash,Rochester,,"New York","United States",4.68,1845-05-08
+304,Cash,Rochester,,"New York","United States",5.93,1845-05-09
+305,"Captain Vedder",Canandaigua,,"New York","United States",10.00,1845-05-09
+306,"C. Powell",Greece,,"New York","United States",0.75,1845-05-09
+307,"John Hair",Rochester,,"New York","United States",1.00,1845-05-10
+308,Cash,Rochester,,"New York","United States",3.75,1845-05-10
+309,"Cash by Becker",Auburn,,"New York","United States",27.07,1845-05-12
+310,Cash,Rochester,,"New York","United States",5.69,1845-05-12
+311,"Mrs. H. Becker",Rochester,,"New York","United States",0.25,1845-05-12
+312,"J.W. Johnson",Rochester,,"New York","United States",0.25,1845-05-12
+313,Cash,Rochester,,"New York","United States",3.74,1845-05-12
+314,Cash,Rochester,,"New York","United States",5.75,1845-05-12
+315,"John Klein",Oswego,,"New York","United States",17.75,1845-05-13
+316,"Charles Smyth",Oswego,,"New York","United States",4.00,1845-05-13
+317,"Major Bumphrey",Rochester,,"New York","United States",3.60,1845-05-13
+318,Cash,Rochester,,"New York","United States",0.50,1845-05-15
+319,Cash,Rochester,,"New York","United States",4.56,1845-05-16
+320,"A. Erickson",Rochester,,"New York","United States",0.50,1845-05-16
+321,"Mrs. James Hawks",Rochester,,"New York","United States",1.56,1845-05-16
+322,Cash,Rochester,,"New York","United States",8.02,1845-05-17
+323,"Cash by P. Connolly",Rochester,,"New York","United States",1.10,1845-05-17
+324,"E. Pope",Rochester,,"New York","United States",0.50,1845-05-18
+325,Cash,Rochester,,"New York","United States",55.91,1845-05-19
+326,"Dr. Elwood",Rochester,,"New York","United States",0.56,1845-05-20
+327,Cash,Rochester,,"New York","United States",6.56,1845-05-20
+328,Cash,Rochester,,"New York","United States",7.00,1845-05-20
+329,Cash,Rochester,,"New York","United States",56.09,1845-05-22
+330,Cash,Rochester,,"New York","United States",6.02,1845-05-22
+331,"Mrs. Dunlap",Toronto,,Ontario,Canada,2.00,1845-05-22
+332,"Cash by Jubez",Palmyra,,"New York","United States",45.26,1845-05-23
+333,Cash,Rochester,,"New York","United States",44.70,1845-05-23
+334,"D.T. Mosely",Skaneateles,,"New York","United States",5.00,1845-05-24
+335,Cash,Rochester,,"New York","United States",3.86,1845-05-24
+336,"Mrs. A. Reynolds",Rochester,,"New York","United States",0.50,1845-05-26
+337,Cash,Rochester,,"New York","United States",2.18,1845-05-26
+338,Cash,Rochester,,"New York","United States",16.80,1845-05-27
+339,Cash,Rochester,,"New York","United States",2.53,1845-05-28
+340,"Dr. Knapp",Rochester,,"New York","United States",6.00,1845-05-28
+341,Cash,Rochester,,"New York","United States",3.68,1845-05-29
+342,Cash,Rochester,,"New York","United States",0.38,1845-05-31
+343,Cash,Batavia,,"New York","United States",30.00,1845-05-31
+344,Cash,Rochester,,"New York","United States",3.12,1845-06-02
+345,"Cash from Williamson",Toronto,,Ontario,Canada,19.00,1845-06-02
+346,"Cash from Jabez Dawes","Mt. Morris",,"New York","United States",23.35,1845-06-02
+347,"Silas Parsons",Lockport,,"New York","United States",5.00,1845-06-02
+348,"George Leslie",Toronto,,Ontario,Canada,1.50,1845-06-02
+349,"Thomas Hart Rochester",Rochester,,"New York","United States",1.50,1845-06-03
+350,Cash,Rochester,,"New York","United States",3.87,1845-06-02
+351,"Cash by Becker",Kingston,,Ontario,Canada,72.41,1845-06-04
+352,"Charles Daly & Sons",Coleraine,NULL,NULL,Ireland,60.00,1845-06-04
+354,Cash,Rochester,,"New York","United States",2.00,1845-06-04
+355,"William A. Langworthy",Rochester,,"New York","United States",3.31,1845-06-05
+356,"Charles C. Miller",Rochester,,"New York","United States",1.25,1845-06-05
+357,Cash,Rochester,,"New York","United States",2.95,1845-06-05
+358,Cash,Albion,,"New York","United States",23.65,1845-06-06
+359,Cash,Rochester,,"New York","United States",5.70,1845-06-06
+360,"Dr. Elwood",Rochester,,"New York","United States",0.75,1845-06-08
+361,"Cash by Becker",Attica,,"New York","United States",18.95,1845-06-08
+362,Cash,Rochester,,"New York","United States",7.50,1845-06-08
+363,Cash,Rochester,,"New York","United States",0.50,1845-06-10
+364,Cash,Rochester,,"New York","United States",1.43,1845-06-11
+365,Cash,Rochester,,"New York","United States",7.59,1845-06-12
+366,Cash,Rochester,,"New York","United States",1.75,1845-06-13
+367,"Cash by Becker",Geneva,,"New York","United States",31.00,1845-06-14
+368,Cash,Rochester,,"New York","United States",1.19,1845-06-14
+369,Cash,Rochester,,"New York","United States",2.75,1845-06-16
+370,"Jacob M. Whitney",Rochester,,"New York","United States",0.50,1845-06-16
+371,"James Hair",Rochester,,"New York","United States",1.25,1845-06-16
+372,Cash,Rochester,,"New York","United States",1.12,1845-06-17
+373,Cash,Rochester,,"New York","United States",4.70,1845-06-18
+374,Cash,Rochester,,"New York","United States",1.37,1845-06-19
+375,Cash,Rochester,,"New York","United States",1.68,1845-06-20
+376,"Cash from Jabez Dawes",Utica,,"New York","United States",50.43,1845-06-21
+377,Cash,Rochester,,"New York","United States",1.15,1845-06-21
+378,"N. Goodsell",Brantford,,Ontario,Canada,1.00,1845-06-21
+379,Cash,Rochester,,"New York","United States",1.00,1845-06-23
+380,Cash,Rochester,,"New York","United States",0.25,1845-06-24
+381,Cash,Rochester,,"New York","United States",4.00,1845-06-25
+382,"Cash by Becker",Ogdensburg,,"New York","United States",13.87,1845-06-26
+383,Cash,Rochester,,"New York","United States",2.75,1845-06-26
+384,"James H. Watts",Rochester,,"New York","United States",0.50,1845-06-27
+385,Cash,Rochester,,"New York","United States",2.73,1845-06-27
+386,Cash,Rochester,,"New York","United States",4.23,1845-06-28
+387,Cash,Rochester,,"New York","United States",1.37,1845-06-30
+388,Cash,Rochester,,"New York","United States",3.58,1845-07-02
+389,Cash,Rochester,,"New York","United States",2.50,1845-07-03
+390,Cash,Rochester,,"New York","United States",9.13,1845-07-04
+391,Cash,Rochester,,"New York","United States",7.72,1845-07-05
+392,Cash,Rochester,,"New York","United States",5.13,1845-07-07
+393,Cash,Rochester,,"New York","United States",2.25,1845-07-08
+394,"Zera Burr",Rochester,,"New York","United States",2.63,1845-07-10
+395,"J. Cochrane",Rochester,,"New York","United States",1.50,1845-07-10
+396,Cash,Rochester,,"New York","United States",1.41,1845-07-10
+397,Cash,Rochester,,"New York","United States",1.88,1845-07-12
+398,"Cash by Becker",Kingston,,Ontario,Canada,49.65,1845-07-12
+399,"Alex Kelsey",Rochester,,"New York","United States",2.00,1845-07-12
+400,Cash,Rochester,,"New York","United States",1.00,1845-07-11
+401,"George Leslie",Toronto,,Ontario,Canada,5.00,1845-07-14
+402,Cash,Rochester,,"New York","United States",2.06,1845-07-14
+403,Cash,Rochester,,"New York","United States",0.37,1845-07-15
+404,Cash,Rochester,,"New York","United States",1.14,1845-07-17
+405,Cash,Rochester,,"New York","United States",2.87,1845-07-18
+406,"Cash from Jabez Dawes",Kingston,,Ontario,Canada,34.45,1845-07-19
+407,Cash,Rochester,,"New York","United States",0.53,1845-07-19
+408,"James Stevenson",Brockville,,Ontario,Canada,2.00,1845-07-19
+409,"Honorable H. VanRensselear",Ogdensburg,,"New York","United States",2.50,1845-07-21
+410,Cash,Rochester,,"New York","United States",6.00,1845-07-22
+411,Cash,Rochester,,"New York","United States",2.15,1845-07-23
+412,Cash,Rochester,,"New York","United States",1.50,1845-07-24
+413,"John Miller",Columbus,,Ohio,"United States",50.00,1845-07-25
+414,Cash,Rochester,,"New York","United States",52.68,1845-07-26
+415,Cash,Rochester,,"New York","United States",1.50,1845-07-28
+416,Cash,Rochester,,"New York","United States",0.50,1845-07-30
+417,"Marcus Morse",Rochester,,"New York","United States",1.50,1845-07-30
+418,Cash,Rochester,,"New York","United States",1.12,1845-08-01
+419,Cash,Rochester,,"New York","United States",1.88,1845-08-02
+420,Cash,Rochester,,"New York","United States",0.06,1845-08-06
+421,Cash,Rochester,,"New York","United States",0.63,1845-08-06
+422,Cash,Rochester,,"New York","United States",1.25,1845-08-07
+423,"Samuel Kerr & Co. ",Hamilton,,Ontario,Canada,5.00,1845-08-07
+424,Cash,Rochester,,"New York","United States",0.25,1845-08-08
+425,Cash,Rochester,,"New York","United States",1.00,1845-08-09
+426,"George Leslie",Toronto,,Ontario,Canada,6.75,1845-08-10
+427,Cash,Rochester,,"New York","United States",3.75,1845-08-13
+428,Cash,Rochester,,"New York","United States",7.85,1845-08-14
+429,"James W. Sibley",Rochester,,"New York","United States",10.00,1845-08-14
+430,"Mrs. James Wadsworth",Auburn,,"New York","United States",8.00,1845-08-16
+431,"George Leslie",Toronto,,Ontario,Canada,1.00,1845-08-16
+432,"Verplank & Loomis",Rochester,,"New York","United States",8.00,1845-08-16
+433,Cash,Rochester,,"New York","United States",6.38,1845-08-19
+434,Cash,Rochester,,"New York","United States",1.50,1845-08-20
+435,Cash,Rochester,,"New York","United States",0.75,1845-08-21
+436,Cash,Rochester,,"New York","United States",0.50,1845-08-22
+437,Cash,Rochester,,"New York","United States",6.32,1845-08-23
+438,"Mrs. Dunlap",Toronto,,Ontario,Canada,5.00,1845-08-24
+439,Cash,Rochester,,"New York","United States",1.43,1845-08-25
+440,Cash,Rochester,,"New York","United States",1.91,1845-08-26
+441,Cash,Rochester,,"New York","United States",5.00,1845-08-27
+442,Cash,Rochester,,"New York","United States",0.81,1845-08-28
+443,Cash,Rochester,,"New York","United States",0.62,1845-08-29
+444,Cash,Rochester,,"New York","United States",0.81,1845-08-30
+445,Cash,Rochester,,"New York","United States",1.25,1845-09-02
+446,"Mr. Allis",Rochester,,"New York","United States",0.75,1845-09-02
+447,"J.C. Seldon",Williamsburg,,"New York","United States",2.88,1845-09-02
+448,Cash,Rochester,,"New York","United States",2.75,1845-09-02
+449,Cash,Rochester,,"New York","United States",0.50,1845-09-03
+450,Cash,Rochester,,"New York","United States",4.50,1845-09-08
+451,Cash,Rochester,,"New York","United States",0.50,1845-09-09
+452,Cash,Rochester,,"New York","United States",0.68,1845-09-10
+453,Cash,Rochester,,"New York","United States",2.89,1845-09-12
+454,Cash,Rochester,,"New York","United States",2.89,1845-09-13
+455,Cash,Rochester,,"New York","United States",2.13,1845-09-15
+456,Cash,Rochester,,"New York","United States",14.99,1845-09-20
+457,Cash,Rochester,,"New York","United States",2.10,1845-09-22
+458,"James W. Sibley",Rochester,,"New York","United States",10.00,1845-09-23
+459,Cash,Rochester,,"New York","United States",10.79,1845-09-23
+460,"Mrs. Smith",Wheatland,,"New York","United States",3.25,1845-09-23
+461,Cash,Rochester,,"New York","United States",3.00,1845-09-23
+462,"Edward Donnelly",Hamilton,,Ontario,Canada,20.00,1845-09-23
+463,Cash,Rochester,,"New York","United States",0.13,1845-09-24
+464,Cash,Rochester,,"New York","United States",1.00,1845-09-25
+465,"Michael Brown","Seneca Falls",,"New York","United States",18.50,1845-09-25
+466,"D. Cox",Rochester,,"New York","United States",5.50,1845-09-25
+467,Cash,Rochester,,"New York","United States",0.76,1845-09-25
+468,"Mr. Turner",Toronto,,Ontario,Canada,9.38,1845-09-25
+469,"Samuel Kerr & Co. ",Hamilton,,Ontario,Canada,11.38,1845-09-26
+470,"Honorable H. VanRensselear",Ogdensburg,,"New York","United States",11.00,1845-09-26
+471,Cash,Rochester,,"New York","United States",1.75,1845-09-26
+472,Cash,Rochester,,"New York","United States",1.83,1845-09-27
+473,Cash,Rochester,,"New York","United States",2.52,1845-09-29
+474,"F.F. Parker",Rochester,,"New York","United States",7.00,1845-09-29
+475,Cash,Rochester,,"New York","United States",27.38,1845-09-29
+476,"D. McMarlin",Perth,,Ontario,Canada,34.88,1845-10-01
+477,Cash,Rochester,,"New York","United States",0.61,1845-10-01
+478,Cash,Rochester,,"New York","United States",10.00,1845-10-02
+479,"C. Powers",Rochester,,"New York","United States",1.31,1845-10-03
+480,Cash,Rochester,,"New York","United States",10.10,1845-10-04
+481,"Benjamin Bradley",Dansville,,"New York","United States",13.63,1845-10-04
+482,"Louis van Houtte",Ghent,,NULL,Belgium,39.00,0000-00-00
+483,"Alex Gordon",Paris,,Ontario,Canada,34.25,1845-10-06
+484,"Mr. Jose",Troy,,Michigan,"United States",2.25,1845-10-06
+485,"Seth Whalen",Rochester,,"New York","United States",3.75,1845-10-06
+486,Cash,Rochester,,"New York","United States",6.35,1845-10-07
+487,"James Hair",Rochester,,"New York","United States",13.00,1845-10-08
+488,"A. Cowry","Mt. Morris",,"New York","United States",3.00,1845-10-08
+489,"G.F. Pratt",Buffalo,,"New York","United States",2.00,1845-10-08
+490,"Henry E. Rochester",Rochester,,"New York","United States",2.00,1845-10-09
+491,"Michael Brown","Seneca Falls",,"New York","United States",18.50,1845-10-09
+492,"J.H. Stanley","Le Roy",,"New York","United States",7.00,1845-10-09
+493,"Dr. G.F. Prutt",Buffalo,,"New York","United States",2.00,1845-10-09
+494,"B.C. Hoyt","St. Joseph",,Michigan,"United States",5.00,1845-10-09
+495,"A. Cowry","Mt. Morris",,"New York","United States",1.25,1845-10-09
+496,"P. Danmont",Louisville,,Kentucky,"United States",5.25,1845-10-09
+497,"Thomas L. Bogert",Utica,,"New York","United States",1.63,1845-10-09
+498,"Gideon Granger",Canandaigua,,"New York","United States",5.63,1845-10-09
+499,"M.R. Cobb & Co.",Schoolcraft,,Michigan,"United States",35.50,1845-10-09
+500,"G.W. Armin","Le Roy",,"New York","United States",12.00,1845-10-10
+501,"Mr. Southwick",Rochester,,"New York","United States",7.00,1845-10-10
+502,"Mr. Powers",Rochester,,"New York","United States",2.00,1845-10-10
+503,"Joseph Armin",Rochester,,"New York","United States",0.87,1845-10-10
+504,"Edward Donnelly",Hamilton,,Ontario,Canada,61.67,1845-10-11
+505,"Dr. E.G. Munn",Chicago,,Illinois,"United States",6.25,1845-10-11
+506,Parker,Rochester,,"New York","United States",1.00,1845-10-11
+507,Cash,Rochester,,"New York","United States",0.25,1845-10-11
+508,"R.O. Duggan",Hamilton,,Ontario,Canada,14.12,1845-10-11
+509,"Terrence Brannigan",Hamilton,,Ontario,Canada,25.00,1845-10-11
+510,Cash,Rochester,,"New York","United States",2.25,1845-10-13
+511,"Mr. Church",Rochester,,"New York","United States",5.00,1845-10-14
+512,"Mr. Sheldon",Rochester,,"New York","United States",1.50,1845-10-14
+513,Cash,Rochester,,"New York","United States",1.25,1845-10-14
+514,"Charles W. Brennan",Kingston,,Ontario,Canada,65.25,1845-10-14
+515,"L. Paddock",Watertown,,"New York","United States",18.38,1845-10-14
+516,"Honorable Adam Ferguson",Woodhill,,Ontario,Canada,15.63,1845-10-14
+517,"C.M. Gidings",Cleveland,,Ohio,"United States",3.25,1845-10-14
+518,"S. Brega",Hamilton,,Ontario,Canada,7.63,1845-10-14
+519,"Samuel Kerr & Co. ",Hamilton,,Ontario,Canada,8.12,1845-10-14
+520,"John Dougall",Montreal,,Quebec,Canada,51.00,1845-10-14
+521,"William R. Grinnell",Levanna,,"New York","United States",18.38,1845-10-15
+522,"Captain Briggs",Rochester,,"New York","United States",9.00,1845-10-15
+523,"E. Watts",Rochester,,"New York","United States",1.13,1845-10-15
+524,"A.H. Nichols",Rochester,,"New York","United States",6.50,1845-10-15
+525,Cash,Rochester,,"New York","United States",0.25,1845-10-15
+526,"Mr. Chrysler",Rochester,,"New York","United States",4.00,1845-10-15
+527,"H. Blanchard",Rochester,,"New York","United States",9.00,1845-10-15
+528,"James M. Quarters",Rochester,,"New York","United States",1.50,1845-10-16
+529,"P. Hankes",Rochester,,"New York","United States",4.50,1845-10-16
+530,"Ledyard Lincklaen",Cazenovia,,"New York","United States",15.00,1845-10-16
+531,"Captain Monteith",Canandaigua,,"New York","United States",4.25,1845-10-17
+532,"Alonzo Frost",Rochester,,"New York","United States",8.00,1845-10-17
+533,"Thomas L. Bogert",Utica,,"New York","United States",18.15,1845-10-17
+534,"Dr. John Tompkins",Tompkins,,"New York","United States",20.75,1845-10-17
+535,"George Leslie",Toronto,,Ontario,Canada,20.00,1845-10-17
+536,Cash,Rochester,,"New York","United States",7.21,1845-10-17
+537,Cash,Rochester,,"New York","United States",4.25,1845-10-18
+538,"N.F. Rochester",Rochester,,"New York","United States",3.13,1845-10-18
+539,"Hastings Hubbard & Davis",Troy,,Michigan,"United States",10.00,1845-10-20
+540,"J. Casson",Canastota,,"New York","United States",4.00,1845-10-20
+541,Cash,Rochester,,"New York","United States",8.00,1845-10-20
+542,"Charles Kelly",Rochester,,"New York","United States",22.50,1845-10-21
+543,"Samuel Kerr & Co. ",Hamilton,,Ontario,Canada,8.13,1845-10-21
+544,"Rafaela Santibanez",Havana,,NULL,Cuba,8.63,1845-10-21
+545,Cash,Rochester,,"New York","United States",8.25,1845-10-21
+546,Cash,Rochester,,"New York","United States",5.75,1845-10-22
+547,"Henry Haight",Rochester,,"New York","United States",4.00,1845-10-22
+548,"James W. Sibley",Rochester,,"New York","United States",97.00,1845-10-22
+549,"G.W. Armin","Le Roy",,"New York","United States",3.38,1845-10-22
+550,"Dr. William Ely",Rochester,,"New York","United States",0.50,1845-10-23
+551,"D.S. Curtis",Rochester,,"New York","United States",2.50,1845-10-23
+552,"James Buchan",Rochester,,"New York","United States",30.00,1845-10-23
+553,Cash,Rochester,,"New York","United States",3.75,1845-10-23
+554,Cash,Rochester,,"New York","United States",19.80,1845-10-23
+555,"Benjamin Bradley",Dansville,,"New York","United States",4.00,1845-10-23
+556,"Benjamin Bradley",Dansville,,"New York","United States",7.38,1845-10-23
+557,"W.G. Griffin",Rochester,,"New York","United States",1.00,1845-10-24
+558,"B.F. Smith & Co.",Rochester,,"New York","United States",2.25,1845-10-24
+559,"A.R. Frisbie",Clyde,,"New York","United States",22.59,1845-10-24
+560,"H. Smith",Kingston,,Ontario,Canada,10.50,1845-10-24
+561,"Marcus Morse",Rochester,,"New York","United States",13.25,1845-10-25
+562,"B.F. Smith & Co.",Rochester,,"New York","United States",0.25,1845-10-25
+563,"W.H. Cheney",Rochester,,"New York","United States",0.75,1845-10-25
+564,"L.W. Jerome",Rochester,,"New York","United States",2.50,1845-10-25
+565,"Daniel Jones",Baldwinsville,,"New York","United States",42.88,1845-10-25
+566,"E.L. Throop",Auburn,,"New York","United States",8.38,1845-10-25
+567,Cash,Rochester,,"New York","United States",22.38,1845-10-25
+568,"Cash by Becker",Rochester,,"New York","United States",4.50,1845-10-25
+569,Cash,Rochester,,"New York","United States",22.88,1845-10-24
+570,"Mrs. A. Wells",Rochester,,"New York","United States",13.00,1845-10-27
+571,"McIntosh & Co.",Cleveland,,Ohio,"United States",14.37,1845-10-27
+572,"Horatio N. Shaw",Rochester,,"New York","United States",12.00,1845-10-27
+573,"S.O. Smith",Rochester,,"New York","United States",5.88,1845-10-27
+574,Cash,Rochester,,"New York","United States",35.05,1845-10-27
+575,"James Buchan",Rochester,,"New York","United States",2.00,1845-10-28
+576,"J.A. Eastman",Rochester,,"New York","United States",4.20,1845-10-28
+577,"L.C. Woodruff",Dansville,,"New York","United States",17.00,1845-10-28
+578,"Elliot & Co.",Cleveland,,"New York","United States",12.75,1845-10-28
+579,"Samuel Kerr & Co. ",Hamilton,,Ontario,Canada,11.26,1845-10-28
+580,Cash,Rochester,,"New York","United States",9.63,1845-10-28
+581,"Honorable H. VanRensselear",Rochester,,"New York","United States",33.00,1845-10-29
+582,"A. Grant",Rochester,,"New York","United States",3.38,1845-10-29
+583,"George Whitney",Rochester,,"New York","United States",9.50,1845-10-29
+584,"E. Scrantom",Rochester,,"New York","United States",7.25,1845-10-29
+585,Cash,Rochester,,"New York","United States",3.38,1845-10-29
+586,"William John Wells Lyons",Rochester,,"New York","United States",11.18,1845-10-29
+587,"Mathew Mackie",Clyde,,"New York","United States",14.44,1845-10-29
+588,Cash,Rochester,,"New York","United States",3.25,1845-10-29
+589,"N.F. Rochester",Rochester,,"New York","United States",3.50,1845-10-30
+590,"L.W. Swam",Rochester,,"New York","United States",1.50,1845-10-30
+591,"William Jackel",Rochester,,"New York","United States",13.40,1845-10-30
+592,"James Fleming",Toronto,,Ontario,Canada,18.50,1845-10-30
+593,"E. Scrantom",Rochester,,"New York","United States",9.68,1845-10-30
+594,"V.R. Rowe",Rochester,,"New York","United States",8.63,1845-10-30
+595,"G.H. Mumford",Rochester,,"New York","United States",7.05,1845-10-30
+596,Cash,Rochester,,"New York","United States",32.26,1845-10-30
+597,"Thomas M. Hunt",Auburn,,"New York","United States",12.50,1845-10-31
+598,"Merrit Peckham",Utica,,"New York","United States",2.00,1845-10-31
+599,"Cephas Smith",Newport,,"New York","United States",14.25,1845-10-31
+600,Cash,Rochester,,"New York","United States",3.00,1845-10-31
+601,"R. VanRensselear",Syracuse,,"New York","United States",17.00,1845-10-31
+602,"W.H. Boulton (John Gray is Gardener)",Toronto,,Ontario,Canada,183.25,1845-11-01
+603,"J.A. Eastman",Rochester,,"New York","United States",3.38,1845-11-01
+604,"George Leslie",Toronto,,Ontario,Canada,159.12,1845-11-01
+605,"George Leslie",Toronto,,Ontario,Canada,29.63,1845-10-07
+606,"Cash by Becker",Rochester,,"New York","United States",9.75,1845-11-01
+607,Cash,Rochester,,"New York","United States",3.10,1845-11-01
+608,"Augustus L. Clarckson",Potsdam,,"New York","United States",47.50,1845-11-01
+609,"D.B. Smith","Port Byron",,"New York","United States",11.62,1845-11-03
+610,"J.H. Morris",Detroit,,Michigan,"United States",6.25,1845-11-03
+611,"L.C. Woodruff",Dansville,,"New York","United States",6.25,1845-11-03
+612,"L.O. Smith",Rochester,,"New York","United States",1.75,1845-11-03
+613,"N.F. Rochester",Rochester,,"New York","United States",4.75,1845-11-03
+614,"McIntosh & Co.",Cleveland,,Ohio,"United States",38.00,1845-11-03
+615,"James C. Reed",Dalton,,Ohio,"United States",9.00,1845-11-03
+616,Cash,Rochester,,"New York","United States",3.88,1845-11-03
+617,"Dr. Halsted",Rochester,,"New York","United States",11.13,1845-11-03
+618,"Frances King",Philadelphia,,Pennsylvania,"United States",10.00,1845-11-03
+619,Cash,Rochester,,"New York","United States",5.06,1845-11-03
+620,"William Hopkins",Rochester,,"New York","United States",2.00,1845-11-03
+621,Cash,Rochester,,"New York","United States",5.16,1845-11-05
+622,"N.E. Crittenden",Cleveland,,Ohio,"United States",6.00,1845-11-05
+623,"Amos Clift",Gaines,,"New York","United States",5.00,1845-11-05
+624,"Francis King",Philadelphia,,Pennsylvania,"United States",12.00,1845-11-05
+625,"Thomas M. Hunt",Auburn,,"New York","United States",2.75,1845-11-06
+626,"Joseph L. Lucas",Rochester,,"New York","United States",42.00,1845-11-06
+627,"George Leslie",Toronto,,Ontario,Canada,70.75,1845-11-06
+628,"Ritchie & Dick",Philadelphia,,Pennsylvania,"United States",25.50,1845-11-06
+629,"Frederick Whittlesy",Rochester,,"New York","United States",8.50,1845-11-06
+630,"George E. King",Rochester,,"New York","United States",12.75,1845-11-07
+631,"B.F. Doley",Belleville,,Ontario,Canada,22.88,1845-11-07
+632,"L.C. Woodruff",Dansville,,"New York","United States",5.00,1845-11-07
+633,"L.B. Stewart","Johnson Creek",,"New York","United States",38.08,1845-11-07
+634,"L.B. Benchly",Newport,,"New York","United States",3.00,1845-11-07
+635,"Judge Beardsley",Utica,,"New York","United States",9.75,1845-11-07
+636,"Judge Jewitt",Utica,,"New York","United States",6.88,1845-11-07
+637,"Miss Shaw",Utica,,"New York","United States",7.75,1845-11-07
+638,"Captain Green",Utica,,"New York","United States",5.00,1845-11-07
+639,Cash,Rochester,,"New York","United States",2.50,1845-11-07
+640,Cash,Rochester,,"New York","United States",0.49,1845-11-07
+641,"Mathew Mackie",Clyde,,"New York","United States",15.12,1845-11-08
+642,"John Wells",Clyde,,"New York","United States",11.00,1845-11-08
+643,Cash,Rochester,,"New York","United States",6.50,1845-11-08
+644,"Thomas Robinson",Marley,"Anne Arundel",Maryland,"United States",53.71,1845-11-08
+645,"Marcus Morse",Rochester,,"New York","United States",2.38,1845-11-10
+646,"L. Stone",Derby,,Connecticut,"United States",3.00,1845-11-10
+647,"L.B. Benchly",Newport,,"New York","United States",4.00,1845-11-10
+648,"Albert A. Hudson",Syracuse,,"New York","United States",10.00,1845-11-10
+649,"R.H. Wells",Rochester,,"New York","United States",4.25,1845-11-10
+650,"G.S. Boulton",Cobourg,,Ontario,Canada,2.75,1845-11-10
+651,"Merrit Peckham",Utica,,"New York","United States",6.87,1845-11-10
+652,"A. Rowe",Rochester,,"New York","United States",25.25,1845-11-10
+653,"John Rapalge",Rochester,,"New York","United States",3.50,1845-11-10
+654,Cash,Rochester,,"New York","United States",8.75,1845-11-10
+655,"A. Sargent",Bloomfield,,Ontario,Canada,4.12,1845-11-11
+656,"A. Rowe",Rochester,,"New York","United States",5.00,1845-11-11
+657,"Bissell & Hooker",Rochester,,"New York","United States",6.00,1845-11-11
+658,"E.B. Wheeler",Rochester,,"New York","United States",1.50,1845-11-12
+659,"Mr. Silence",Rochester,,"New York","United States",3.00,1845-11-12
+660,Cash,Rochester,,"New York","United States",3.50,1845-11-12
+661,"Timothy C. Dwight","Black Rock",,"New York","United States",2.75,1845-11-12
+662,"Power & Goodsell Co.",Rochester,,"New York","United States",18.50,1845-11-12
+663,"S.O. Smith",Rochester,,"New York","United States",1.00,1845-11-12
+664,"Mrs. James Wadsworth",Auburn,,"New York","United States",13.25,1845-11-12
+665,"J.A. Eastman",Rochester,,"New York","United States",0.50,1845-11-12
+666,"F. Williams",Newark,,"New Jersey","United States",39.52,1845-11-14
+667,"A.C. Bliss",Flushing,,Michigan,"United States",4.25,1845-11-13
+668,"Dr. L.W. Noble",Fayetteville,,"New York","United States",4.75,1845-11-13
+669,"Mr. Stafford",Byron,,"New York","United States",1.94,1845-11-13
+670,"N.E. Paine",Rochester,,"New York","United States",8.62,1845-11-14
+671,"S. Lewis",Rochester,,"New York","United States",4.75,1845-11-14
+672,"F. Williams",Newark,,"New Jersey","United States",27.52,1845-11-14
+673,Cash,Rochester,,"New York","United States",3.25,1845-11-14
+674,"Mrs. Rochester",Rochester,,"New York","United States",1.00,1845-11-14
+675,"George H. Mumford",Rochester,,"New York","United States",3.50,1845-11-14
+676,"John Tompkins",Rochester,,"New York","United States",1.25,1845-11-14
+677,Cash,Rochester,,"New York","United States",12.38,1845-11-15
+678,"Thomas Hogg & Sons","New York City",,"New York","United States",5.81,1845-11-15
+679,"L.P. Eldridge",Boston,,Massachusetts,"United States",8.00,1845-11-17
+680,"Mrs. Wilcox",Rochester,,"New York","United States",1.13,1845-11-17
+681,"John Rapalge",Rochester,,"New York","United States",1.50,1845-11-17
+682,"Ralph M. Crysler",Rochester,,"New York","United States",20.75,1845-11-17
+683,"W.R. Smith",Macedon,,"New York","United States",55.62,1845-11-17
+684,Cash,Rochester,,"New York","United States",2.75,1845-11-17
+685,Cash,Rochester,,"New York","United States",4.00,1845-11-18
+686,"L. Hodges",Buffalo,,"New York","United States",43.00,1845-11-18
+687,Cash,Rochester,,"New York","United States",0.87,1845-11-18
+688,"L. Hodges",Buffalo,,"New York","United States",7.00,1845-11-18
+689,"S. Worden",Oswego,,"New York","United States",4.00,1845-11-18
+690,"Levi L. Loomis",Geneva,,"New York","United States",12.25,1845-11-20
+691,"Fletcher Williams",Rochester,,"New York","United States",2.01,1845-11-19
+692,Cash,Rochester,,"New York","United States",3.25,1845-11-19
+693,Cash,Rochester,,"New York","United States",38.80,1845-11-20
+694,"W.H. Perkins",Rochester,,"New York","United States",4.00,1845-11-20
+695,"George Leslie",Toronto,,Ontario,Canada,9.00,1845-11-20
+696,"Edward Whalen",Rochester,,"New York","United States",2.38,1845-11-20
+697,Cash,Rochester,,"New York","United States",8.88,1845-11-20
+698,"Mrs. Joseph Hawks",Rochester,,"New York","United States",1.25,1845-11-20
+699,"John Tompkins",Rochester,,"New York","United States",10.25,1845-11-20
+700,"H. Blanchard",Rochester,,"New York","United States",14.63,1845-11-20
+701,"Mr. Hannah",Rochester,,"New York","United States",1.50,1845-11-20
+702,"Mrs. Baumstark",Rochester,,"New York","United States",3.63,1845-11-20
+703,Cash,Rochester,,"New York","United States",10.50,1845-11-22
+704,Cash,Rochester,,"New York","United States",2.25,1845-11-24
+705,Cash,Rochester,,"New York","United States",0.25,1845-11-25
+706,"J.J. Thomas",Macedon,,"New York","United States",6.00,1845-11-23
+707,Cash,Rochester,,"New York","United States",3.00,1845-12-26
+708,"J.W. Whitney",Rochester,,"New York","United States",2.00,1845-12-26
+709,"Marcus Morse",Rochester,,"New York","United States",5.00,1845-12-29
+724,"John Tompkins",Rochester,NULL,"New York","United States",16.25,1845-10-17
+710,"Mrs. Baumstark",Rochester,NULL,"New York","United States",7.37,1845-04-17
+711,"Mrs. Baumstark",Rochester,NULL,"New York","United States",4.54,1845-07-03
+712,"A. Reynolds",Rochester,NULL,"New York","United States",2.00,1845-05-00
+714,"B.F. Smith & Co.",Rochester,NULL,"New York","United States",23.75,1845-06-06
+715,"B.F. Smith & Co.",Rochester,NULL,"New York","United States",7.87,1845-04-02
+716,"B.F. Smith & Co.",Rochester,NULL,"New York","United States",26.88,1845-04-02
+717,"S. Boardman",Rochester,NULL,"New York","United States",4.50,1845-04-17
+719,"John Gray",Toronto,NULL,Ontario,Canada,10.75,1845-04-15
+720,"John Gray",Toronto,NULL,Ontario,Canada,6.75,1845-04-22
+721,"John Gray",Toronto,NULL,Ontario,Canada,10.87,1845-04-22
+725,"John Tompkins",Rochester,NULL,"New York","United States",3.00,1845-05-05
+726,"John Tompkins",Rochester,NULL,"New York","United States",3.00,1845-09-18
+727,"William Case",Cleveland,NULL,Ohio,"United States",9.00,1845-04-14

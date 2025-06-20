@@ -1,0 +1,1307 @@
+ID,Name,City,County,State,Country,Amount,Date
+2,"Thomas Rivers and Son",Sawbridgeworth,NULL,NULL,England,6.63,1865-01-23
+3,"Lee Hull","Fort Madison",NULL,Iowa,"United States",58.75,1865-03-23
+4,"Lee Hull","Fort Madison",NULL,Iowa,"United States",10.25,1865-04-25
+5,"Lee Hull","Fort Madison",NULL,Iowa,"United States",141.00,1865-09-29
+6,"Lee Hull","Fort Madison",NULL,Iowa,"United States",61.00,1865-10-05
+7,"J. Langdon",Elmira,NULL,"New York","United States",144.50,1865-03-30
+8,"J. Langdon",Elmira,NULL,"New York","United States",59.00,1865-04-14
+9,"J. Langdon",Elmira,NULL,"New York","United States",15.00,1865-04-17
+10,"Charles T. Schmidt","New York City",NULL,"New York","United States",10.88,1865-04-13
+11,"W.J. Chaplin",Princeton,NULL,Indiana,"United States",3.75,1865-06-29
+12,"W.J. Chaplin",Princeton,NULL,Indiana,"United States",121.21,1865-11-03
+13,"M.C. Johnson",Lexington,NULL,Kentucky,"United States",5.00,1865-04-04
+14,"Cowing and Co.","Seneca Falls",NULL,"New York","United States",2.65,1865-04-12
+15,"Cowing and Co.","Seneca Falls",NULL,"New York","United States",115.50,1865-04-28
+16,"F.W. Little",NULL,NULL,NULL,NULL,7.50,1865-05-10
+17,"F.W. Little",NULL,NULL,NULL,NULL,0.60,1865-06-29
+18,"J.B. Stemper",Milwaukee,NULL,Wisconsin,"United States",398.48,1865-04-15
+19,"Owen Gaffney",Rochester,NULL,"New York","United States",1.00,1865-12-28
+20,"Owen Gaffney",Rochester,NULL,"New York","United States",1.25,1865-10-14
+21,"Godfrey Zimmerman",Buffalo,NULL,"New York","United States",70.43,1865-04-10
+22,"Godfrey Zimmerman",Buffalo,NULL,"New York","United States",16.50,1865-04-12
+23,"Frost and Co.",Rochester,NULL,"New York","United States",0.50,1865-03-25
+24,"Frost and Co.",Rochester,NULL,"New York","United States",2.25,1865-03-27
+25,"Frost and Co.",Rochester,NULL,"New York","United States",0.72,1865-04-01
+26,"Frost and Co.",Rochester,NULL,"New York","United States",3.96,1865-04-04
+27,"Frost and Co.",Rochester,NULL,"New York","United States",28.75,1865-04-06
+28,"Frost and Co.",Rochester,NULL,"New York","United States",1.60,1865-04-11
+29,"Frost and Co.",Rochester,NULL,"New York","United States",6.84,1865-04-14
+30,"Frost and Co.",Rochester,NULL,"New York","United States",3.20,1865-04-15
+31,"Frost and Co.",Rochester,NULL,"New York","United States",1.00,1865-04-17
+32,"Frost and Co.",Rochester,NULL,"New York","United States",2.91,1865-04-18
+33,"Frost and Co.",Rochester,NULL,"New York","United States",1.56,1865-04-22
+34,"Frost and Co.",Rochester,NULL,"New York","United States",0.36,1865-05-22
+35,"Frost and Co.",Rochester,NULL,"New York","United States",1.50,1865-05-05
+36,"Frost and Co.",Rochester,NULL,"New York","United States",3.43,1865-07-25
+37,"E.H. Hollister",Rochester,NULL,"New York","United States",2.56,1865-11-28
+38,"C.W. Seelye",Rochester,NULL,"New York","United States",67.00,1865-03-22
+39,"C.W. Seelye",Rochester,NULL,"New York","United States",11.83,1865-04-10
+40,"C.W. Seelye",Rochester,NULL,"New York","United States",1.00,1865-04-11
+41,"C.W. Seelye",Rochester,NULL,"New York","United States",6.55,1865-04-12
+42,"C.W. Seelye",Rochester,NULL,"New York","United States",19.44,1865-04-13
+43,"C.W. Seelye",Rochester,NULL,"New York","United States",8.37,1865-04-19
+44,"C.W. Seelye",Rochester,NULL,"New York","United States",4.64,1865-11-01
+45,"J. Donnellan and Co.",Rochester,NULL,"New York","United States",10.40,1865-03-27
+46,"J. Donnellan and Co.",Rochester,NULL,"New York","United States",25.00,1865-04-05
+47,"J. Donnellan and Co.",Rochester,NULL,"New York","United States",90.42,1865-04-06
+48,"J. Donnellan and Co.",Rochester,NULL,"New York","United States",27.94,1865-04-11
+49,"J. Donnellan and Co.",Rochester,NULL,"New York","United States",0.50,1865-04-13
+50,"J. Donnellan and Co.",Rochester,NULL,"New York","United States",0.50,1865-04-13
+51,"S.J. Miller",Grantsville,NULL,Maryland,"United States",56.50,1865-03-25
+52,"John S. Barnes",Woodstown,NULL,"New Jersey","United States",9.25,1865-04-20
+53,"Tobias Martin",Mercersburg,NULL,Pennsylvania,"United States",236.50,1865-11-02
+54,"Silas Boardman",Brighton,NULL,"New York","United States",5.40,1865-04-24
+55,"Silas Boardman",Brighton,NULL,"New York","United States",19.56,1865-10-06
+56,"J.B. Stemper",Milwaukee,NULL,Wisconsin,"United States",99.78,1865-11-02
+57,"C.T. Mallinckrodt",Augusta,NULL,Missouri,"United States",225.00,1865-10-28
+58,"W.F. Heins","New York City",NULL,"New York","United States",21.50,1865-10-23
+59,"D.C. Richmond",Sandusky,NULL,Ohio,"United States",27.20,1865-03-24
+60,"Oliver C. Gray",Ottawa,NULL,Illinois,"United States",33.95,1865-03-30
+62,"James Curmine",Atwater,NULL,Ohio,"United States",7.00,1865-04-11
+61,"M.H. Scott",Toledo,NULL,Ohio,"United States",11.85,1865-04-22
+63,"W.H. Biggam",Charleston,NULL,"New York","United States",13.00,1865-04-29
+64,"Levi Defrest",Wynantskill,NULL,"New York","United States",5.00,1865-04-29
+65,"Henry T. Mudd","St. Louis",NULL,Missouri,"United States",208.25,1865-10-20
+66,"Henry T. Mudd","St. Louis",NULL,Missouri,"United States",96.75,1865-11-04
+67,"Henry Michel","St. Louis",NULL,Missouri,"United States",90.25,1865-10-16
+68,"Elisha Cooley",Jackson,NULL,Michigan,"United States",52.50,1865-03-29
+69,"Elisha Cooley",Jackson,NULL,Michigan,"United States",11.00,1865-04-04
+70,"Jabez Capps and Sons","Mt. Pulaski",NULL,Illinois,"United States",200.00,1865-04-06
+71,"Jabez Capps and Sons","Mt. Pulaski",NULL,Illinois,"United States",136.00,1865-10-09
+72,"Jabez Capps and Sons","Mt. Pulaski",NULL,Illinois,"United States",9.38,1865-12-27
+73,"William Muir","Fox Creek",NULL,Missouri,"United States",90.54,1865-11-06
+74,"William Muir","Fox Creek",NULL,Missouri,"United States",1.36,1865-12-20
+75,"Edward E. Potter",Madison,NULL,"New Jersey","United States",37.25,1865-11-07
+76,"George H. Holliday",Carlinville,NULL,Illinois,"United States",95.99,1865-03-24
+77,"Edwin Sanford","Des Moines",NULL,Iowa,"United States",10.75,1865-04-25
+78,"Sister Charitina",Emmitsburg,NULL,Maryland,"United States",37.50,1865-10-25
+79,"Reverend W.F. Payne",Rochester,NULL,"New York","United States",6.50,1865-12-23
+80,"H. Chaffee",Tolono,NULL,Illinois,"United States",35.50,1865-03-23
+81,"Aaron Ericksn",Rochester,NULL,"New York","United States",4.20,1865-04-04
+82,"A. Gesell",Rochester,NULL,"New York","United States",107.79,1865-03-13
+83,"A. Gesell",Rochester,NULL,"New York","United States",83.40,1865-08-30
+84,"H.P. Brewster",Rochester,NULL,"New York","United States",2.50,1865-01-02
+85,"H.P. Brewster",Rochester,NULL,"New York","United States",2.25,1865-04-29
+86,"H.P. Brewster",Rochester,NULL,"New York","United States",0.50,1865-05-09
+87,"H.P. Brewster",Rochester,NULL,"New York","United States",3.00,1865-05-16
+88,"H.P. Brewster",Rochester,NULL,"New York","United States",2.00,1865-06-17
+89,"H.P. Brewster",Rochester,NULL,"New York","United States",0.50,1865-11-14
+90,"H.P. Brewster",Rochester,NULL,"New York","United States",28.35,1865-11-22
+91,"H.P. Brewster",Rochester,NULL,"New York","United States",3.25,1865-11-27
+92,"H.P. Brewster",Rochester,NULL,"New York","United States",4.50,1865-11-30
+93,"H.P. Brewster",Rochester,NULL,"New York","United States",5.00,1865-12-07
+94,"H.R. Noll",Wilkes-Barre,NULL,Pennsylvania,"United States",23.10,1865-04-11
+95,"H.G. McCracken",Springfield,NULL,Missouri,"United States",81.25,1865-03-24
+96,"H.G. McCracken",Springfield,NULL,Missouri,"United States",80.50,1865-10-28
+97,"H.G. McCracken",Springfield,NULL,Missouri,"United States",16.37,1865-12-20
+98,"Henry Shaw","St. Louis",NULL,Missouri,"United States",64.76,1865-04-12
+99,"Lenk & Co.",Toledo,NULL,Ohio,"United States",48.14,1865-04-20
+100,"Lenk & Co.",Toledo,NULL,Ohio,"United States",230.50,1865-09-28
+101,"Lenk & Co.",Toledo,NULL,Ohio,"United States",51.25,1865-09-29
+102,"W. & T. Smith",Geneva,NULL,"New York","United States",6.00,1865-01-06
+103,"W. & T. Smith",Geneva,NULL,"New York","United States",50.38,1865-01-23
+104,"W. & T. Smith",Geneva,NULL,"New York","United States",45.75,1865-03-31
+105,"W. & T. Smith",Geneva,NULL,"New York","United States",1783.25,1865-04-07
+106,"W. & T. Smith",Geneva,NULL,"New York","United States",20.50,1865-04-12
+107,"W. & T. Smith",Geneva,NULL,"New York","United States",10.00,1865-04-15
+108,"W. & T. Smith",Geneva,NULL,"New York","United States",437.51,1865-09-28
+109,"Samuel Moulson",Rochester,NULL,"New York","United States",20.35,1865-05-26
+110,"Benjamin Bannan",Pottsville,NULL,Pennsylvania,"United States",106.75,1865-11-03
+111,"T.C. Maxwell & Bro.",Geneva,NULL,"New York","United States",8.00,1865-03-04
+112,"T.C. Maxwell & Bro.",Geneva,NULL,"New York","United States",20.75,1865-04-10
+113,"T.C. Maxwell & Bro.",Geneva,NULL,"New York","United States",11.25,1865-04-19
+114,"T.C. Maxwell & Bro.",Geneva,NULL,"New York","United States",74.60,1865-10-21
+115,"P.S. Peterson",Chicago,NULL,Illinois,"United States",0.75,1865-01-03
+116,"P.S. Peterson",Chicago,NULL,Illinois,"United States",60.75,1865-03-28
+117,"P.S. Peterson",Chicago,NULL,Illinois,"United States",304.51,1865-03-30
+118,"P.S. Peterson",Chicago,NULL,Illinois,"United States",173.63,1865-03-31
+119,"D.M. Dewey",Rochester,NULL,"New York","United States",1.25,1865-11-08
+120,"D.M. Dewey",Rochester,NULL,"New York","United States",15.00,1865-12-16
+121,"S.B. Kelly",Brighton,NULL,"New York","United States",3.33,1865-03-31
+122,"S.B. Kelly",Brighton,NULL,"New York","United States",7.35,1865-04-03
+123,"S.B. Kelly",Brighton,NULL,"New York","United States",187.27,1865-04-08
+124,"S.B. Kelly",Brighton,NULL,"New York","United States",45.50,1865-04-12
+125,"S.B. Kelly",Brighton,NULL,"New York","United States",1.00,1865-10-10
+126,"H.E. Hooker & Co.",Rochester,NULL,"New York","United States",176.50,1865-03-29
+127,"H.E. Hooker & Co.",Rochester,NULL,"New York","United States",64.10,1865-03-31
+128,"H.E. Hooker & Co.",Rochester,NULL,"New York","United States",3.20,1865-04-05
+129,"H.E. Hooker & Co.",Rochester,NULL,"New York","United States",34.25,1865-04-06
+130,"H.E. Hooker & Co.",Rochester,NULL,"New York","United States",35.00,1865-04-10
+131,"H.E. Hooker & Co.",Rochester,NULL,"New York","United States",12.67,1865-04-14
+132,"H.E. Hooker & Co.",Rochester,NULL,"New York","United States",14.79,1865-04-19
+133,"H.E. Hooker & Co.",Rochester,NULL,"New York","United States",1.50,1865-04-22
+134,"H.E. Hooker & Co.",Rochester,NULL,"New York","United States",2.88,1865-04-25
+135,"H.E. Hooker & Co.",Rochester,NULL,"New York","United States",31.74,1865-04-27
+136,"H.E. Hooker & Co.",Rochester,NULL,"New York","United States",10.00,1865-05-12
+137,"H.E. Hooker & Co.",Rochester,NULL,"New York","United States",3.00,1865-07-06
+138,"Gould Beckwith",Brighton,NULL,"New York","United States",149.45,1865-03-31
+139,"Gould Beckwith",Brighton,NULL,"New York","United States",25.85,1865-04-05
+140,"Gould Beckwith",Brighton,NULL,"New York","United States",33.16,1865-04-14
+141,"Gould Beckwith",Brighton,NULL,"New York","United States",21.34,1865-04-20
+142,"Gould Beckwith",Brighton,NULL,"New York","United States",1.50,1865-08-21
+143,"Gould Beckwith",Brighton,NULL,"New York","United States",80.50,1865-10-03
+144,"Gould Beckwith",Brighton,NULL,"New York","United States",18.08,1865-10-04
+145,"Gould Beckwith",Brighton,NULL,"New York","United States",23.15,1865-10-10
+146,"Gould Beckwith",Brighton,NULL,"New York","United States",6.93,1865-10-21
+147,"Gould Beckwith",Brighton,NULL,"New York","United States",40.00,1865-11-09
+148,"Gould Beckwith",Brighton,NULL,"New York","United States",15.00,1865-11-25
+149,"T.B. Yale & Co.",Brighton,NULL,"New York","United States",2.00,1865-03-28
+150,"T.B. Yale & Co.",Brighton,NULL,"New York","United States",27.54,1865-04-10
+151,"T.B. Yale & Co.",Brighton,NULL,"New York","United States",359.04,1865-04-25
+152,"T.B. Yale & Co.",Brighton,NULL,"New York","United States",10.00,1865-09-28
+153,"T.B. Yale & Co.",Brighton,NULL,"New York","United States",23.30,1865-10-10
+154,"T.B. Yale & Co.",Brighton,NULL,"New York","United States",12.30,1865-10-11
+155,"T.B. Yale & Co.",Brighton,NULL,"New York","United States",36.00,1865-10-17
+156,"Thomas & Herendeen",Macedon,NULL,"New York","United States",61.40,1865-04-26
+157,"Thomas & Herendeen",Macedon,NULL,"New York","United States",32.40,1865-04-27
+158,"Storrs & Harrison",Painesville,NULL,Ohio,"United States",93.81,1865-09-29
+159,"Storrs & Harrison",Painesville,NULL,Ohio,"United States",85.00,1865-10-11
+160,"C.J. Mills",Rochester,NULL,"New York","United States",494.00,1865-03-29
+161,"C.J. Mills",Rochester,NULL,"New York","United States",84.00,1865-04-07
+162,"C.J. Mills",Rochester,NULL,"New York","United States",120.00,1865-04-20
+163,"C.J. Mills",Rochester,NULL,"New York","United States",112.00,1865-04-21
+164,"Jacob Wentz",Rochester,NULL,"New York","United States",24.40,1865-03-29
+165,"Jacob Wentz",Rochester,NULL,"New York","United States",39.25,1865-10-10
+166,"Jacob Wentz",Rochester,NULL,"New York","United States",0.90,1865-10-31
+167,"Jacob Wentz",Rochester,NULL,"New York","United States",1.44,1865-11-01
+168,"Moore Brother",Brighton,NULL,"New York","United States",10.40,1865-04-01
+169,"Ryan and Dempsey",Rochester,NULL,"New York","United States",7.50,1865-04-05
+170,"Ryan and Dempsey",Rochester,NULL,"New York","United States",40.40,1865-04-10
+171,"Ryan and Dempsey",Rochester,NULL,"New York","United States",80.00,1865-04-15
+172,"Ryan and Dempsey",Rochester,NULL,"New York","United States",0.30,1865-04-28
+173,"Ryan and Dempsey",Rochester,NULL,"New York","United States",2.50,1865-08-18
+174,"Ryan and Dempsey",Rochester,NULL,"New York","United States",19.82,1865-10-16
+175,"Ryan and Dempsey",Rochester,NULL,"New York","United States",5.50,1865-10-19
+176,"Hooker Farley and Co.",Rochester,NULL,"New York","United States",256.44,1865-04-04
+177,"Hooker Farley and Co.",Rochester,NULL,"New York","United States",61.83,1865-09-27
+178,"Hooker Farley and Co.",Rochester,NULL,"New York","United States",3.52,1865-09-28
+179,"Hooker Farley and Co.",Rochester,NULL,"New York","United States",3.36,1865-09-30
+180,"Hooker Farley and Co.",Rochester,NULL,"New York","United States",3.30,1865-10-03
+181,"Hooker Farley and Co.",Rochester,NULL,"New York","United States",14.00,1865-10-10
+182,"C. Parsons at Mt. Hope Cemetery",Rochester,NULL,"New York","United States",28.44,1865-04-25
+183,"C. Parsons at Mt. Hope Cemetery",Rochester,NULL,"New York","United States",13.70,1865-05-30
+184,"C. Parsons at Mt. Hope Cemetery",Rochester,NULL,"New York","United States",9.00,1865-06-05
+185,"B.T. Perrigo",Clarkson,NULL,"New York","United States",556.35,1865-04-13
+186,"Thomas Lawrence",Ogdensburg,NULL,"New York","United States",13.98,1865-04-08
+187,"Thomas Lawrence",Ogdensburg,NULL,"New York","United States",68.70,1865-04-25
+188,"Thomas Lawrence",Ogdensburg,NULL,"New York","United States",27.60,1865-10-11
+189,"Mark Miller","Des Moines",NULL,Iowa,"United States",48.44,1865-03-30
+190,"Mark Miller","Des Moines",NULL,Iowa,"United States",16.36,1865-04-06
+191,"Mark Miller","Des Moines",NULL,Iowa,"United States",10.07,1865-04-20
+192,"R.G. Hanford",Columbus,NULL,Ohio,"United States",259.00,1865-03-17
+193,"R.G. Hanford",Columbus,NULL,Ohio,"United States",17.00,1865-03-24
+194,"R.G. Hanford",Columbus,NULL,Ohio,"United States",5.68,1865-11-22
+195,"R.G. Hanford",Columbus,NULL,Ohio,"United States",20.48,1865-12-05
+196,"Charles Moulson",Rochester,NULL,"New York","United States",4.38,1865-03-29
+197,"Charles Moulson",Rochester,NULL,"New York","United States",10.20,1865-03-30
+198,"Charles Moulson",Rochester,NULL,"New York","United States",3.75,1865-04-03
+199,"Charles Moulson",Rochester,NULL,"New York","United States",1.85,1865-04-04
+200,"Charles Moulson",Rochester,NULL,"New York","United States",1.00,1865-04-17
+201,"Charles Moulson",Rochester,NULL,"New York","United States",1.50,1865-10-09
+202,"Charles Moulson",Rochester,NULL,"New York","United States",4.00,1865-10-13
+203,"Charles Moulson",Rochester,NULL,"New York","United States",5.75,1865-10-21
+204,"E.H. Hyde","North Bangor",NULL,"New York","United States",790.65,1865-04-14
+205,"E.H. Hyde","North Bangor",NULL,"New York","United States",6.00,1865-07-25
+206,"E.H. Hyde","North Bangor",NULL,"New York","United States",1376.67,1865-10-18
+207,"E.H. Hyde","North Bangor",NULL,"New York","United States",3.50,1865-10-18
+208,"E.H. Hyde","North Bangor",NULL,"New York","United States",0.90,1865-12-04
+209,"E.H. Hyde","North Bangor",NULL,"New York","United States",0.91,1865-12-18
+210,"Henry Bockstoce",Pittsburgh,NULL,Pennsylvania,"United States",51.75,1865-11-03
+211,"D.C. Benton",Quincy,NULL,Illinois,"United States",158.75,1865-11-01
+212,"Bronson and Dodge","Warsaw ",NULL,Indiana,"United States",117.80,1865-11-03
+213,"P.P. Peck",Nashville,NULL,Tennessee,"United States",100.00,1865-11-06
+214,"W.C. Wilson",Baltimore,NULL,Maryland,"United States",47.55,1865-11-06
+215,"Professor Charles Davies",Fishkill,NULL,"New York","United States",43.25,1865-11-07
+216,"Francis Geele",Sheboygan,NULL,Wisconsin,"United States",45.25,1865-11-07
+217,"A. Clements",Lowell,NULL,Massachusetts,"United States",150.00,1865-11-21
+218,"William Thomas","Le Roy",NULL,"New York","United States",166.30,1865-11-15
+219,"T. Wallis (Lunatic Asylum)",Rochester,NULL,"New York","United States",15.00,1865-11-17
+220,"T. Wallis (Lunatic Asylum)",Rochester,NULL,"New York","United States",4.00,1865-11-18
+221,"O.N. Allen",Danville,NULL,Virginia,"United States",94.25,1865-11-24
+222,"D.M. Dewey",Rochester,NULL,"New York","United States",10.20,1865-02-15
+223,"Fletcher Williams",Newark,NULL,"New Jersey","United States",40.70,1865-11-07
+224,"Lewis Ellsworth and Co.",Naperville,NULL,Illinois,"United States",27.14,1865-04-15
+225,"Lewis Ellsworth and Co.",Naperville,NULL,Illinois,"United States",207.00,1865-09-30
+226,"J.J. Astor Jr.","New York City",NULL,"New York","United States",18.25,1865-04-22
+227,"John McConville",Rochester,NULL,"New York","United States",5.25,1865-10-28
+228,"C.A. Lowber",Medina,NULL,"New York","United States",3.75,1865-04-17
+229,"William Hoopes",Downington,NULL,Pennsylvania,"United States",175.00,1865-09-30
+230,"John T. Coleman",Middletown,NULL,"New York","United States",61.00,1865-11-03
+231,"H.G. Russell",Carmago,NULL,Illinois,"United States",23.00,1865-10-28
+232,"William Churchill",Rochester,NULL,"New York","United States",0.60,1865-04-04
+233,"S. Ramsey",Argusville,NULL,"New York","United States",3.10,1865-10-26
+234,"J.B. McCartney",Blandinsville,NULL,Illinois,"United States",19.20,1865-10-31
+235,"George F. Danforth",Rochester,NULL,"New York","United States",7.50,1865-04-17
+236,"George F. Danforth",Rochester,NULL,"New York","United States",1.75,1865-04-25
+237,"George F. Danforth",Rochester,NULL,"New York","United States",23.70,1865-11-21
+238,"John Hazleton",Delaware,NULL,Ohio,"United States",13.17,1865-11-22
+239,"George T. Stanley",Cleveland,NULL,Ohio,"United States",11.75,1865-11-21
+240,"Lyman Churchill",Rochester,NULL,"New York","United States",15.00,1865-09-25
+241,"Frederick Leitz",Easton,NULL,Pennsylvania,"United States",12.75,1865-09-29
+242,"Frederick Leitz",Easton,NULL,Pennsylvania,"United States",2.00,1865-11-23
+243,"O.R. Cummings","New Haven",NULL,"New York","United States",17.55,1865-11-04
+244,"H.E. Pierrepont",Luzerne,NULL,"New York","United States",15.00,1865-10-28
+245,"Cyrus Howes","East Dennis",NULL,Massachusetts,"United States",10.00,1865-10-30
+246,"S. Rosenblatt",Rochester,NULL,"New York","United States",3.38,1865-04-03
+247,"Leo Weltz",Wilmington,NULL,Ohio,"United States",113.75,1865-03-23
+248,"John Kerr",Kingston,NULL,Ontario,Canada,8.88,1865-09-16
+249,"John Kerr",Kingston,NULL,Ontario,Canada,1.10,1865-09-28
+250,"Ira W. Green","West Rush",NULL,"New York","United States",6.00,1865-04-13
+251,"Dean Richmond",Batavia,NULL,"New York","United States",16.50,1865-11-24
+252,"Charles D. Gibson","New York City",NULL,"New York","United States",8.50,1865-04-24
+253,"William Bort",Niles,NULL,Michigan,"United States",81.00,1865-09-29
+254,"C.T. Bradley and Metcalf",Milwaukee,NULL,Wisconsin,"United States",116.60,1865-03-27
+255,"M.L. Dunlap",Champaign,NULL,Illinois,"United States",163.25,1865-09-29
+256,"A.S. Barry",Alton,NULL,Illinois,"United States",162.00,1865-09-29
+257,"C.E. Palmer",Ilion,NULL,"New York","United States",0.94,1865-12-14
+258,"Edward S. Rand Jr.",Boston,NULL,Massachusetts,"United States",54.35,1865-04-28
+259,"Isaac W. Danforth",Boston,NULL,Massachusetts,"United States",15.15,1865-04-26
+260,"Isaac W. Danforth",Boston,NULL,Massachusetts,"United States",47.25,1865-11-03
+261,"Edward Litts","Port Byron",NULL,"New York","United States",78.10,1865-04-25
+262,"Thomas C. Street",Clifton,NULL,Ontario,Canada,12.23,1865-11-04
+263,"Dr. H.F. Montgomery",Rochester,NULL,"New York","United States",0.50,1865-05-10
+264,"Dr. H.F. Montgomery",Rochester,NULL,"New York","United States",2.30,1865-11-07
+265,"J.L. Dodge","New York City",NULL,"New York","United States",77.00,1865-11-04
+266,"L. Roberts",Tarrytown,NULL,"New York","United States",145.50,1865-11-04
+267,"L. Roberts",Tarrytown,NULL,"New York","United States",71.25,1865-11-09
+268,"Samuel E. Latta",Friendship,NULL,"New York","United States",23.63,1865-04-07
+269,"Honorable William Sprague",Providence,NULL,"Rhode Island","United States",106.25,1865-11-06
+270,"B.K. Bliss",Springfield,NULL,Massachusetts,"United States",4.62,1865-05-20
+271,"W.J. Delcher and Bro.",Baltimore,NULL,Maryland,"United States",76.00,1865-11-06
+272,"A.B. Bennett",Brantford,NULL,Ontario,Canada,30.00,1865-11-07
+273,"S.P. Conover",Middletown,NULL,"New Jersey","United States",454.50,1865-11-07
+274,"Mahlon Moon",Morrisville,NULL,Pennsylvania,"United States",12.71,1865-11-07
+275,"H.P. Norton",Brockport,NULL,"New York","United States",1.45,1865-04-11
+276,"H.P. Norton",Brockport,NULL,"New York","United States",1.75,1865-04-24
+277,"H.P. Norton",Brockport,NULL,"New York","United States",8.00,1865-05-16
+278,"J. Kadletz",Stapleton,NULL,"New York","United States",99.85,1865-11-07
+279,"Mrs. Dewey",Rochester,NULL,"New York","United States",2.50,1865-11-06
+280,"B.B. Lansing",Buffalo,NULL,"New York","United States",12.80,1865-11-07
+281,"Major L. Williams",Batavia,NULL,"New York","United States",19.75,1865-11-06
+282,"S.D. Walbridge",Rochester,NULL,"New York","United States",191.20,1865-11-06
+283,"W.S. Livingston","New York City",NULL,"New York","United States",10.00,1865-11-06
+284,"William D. Somers",Urbana,NULL,Illinois,"United States",81.00,1865-09-30
+285,"Henry Weber","Washington D.C.",NULL,DC,"United States",10.35,1865-11-07
+286,"Horatio G. Warner",Brighton,NULL,"New York","United States",3.25,1865-12-04
+287,"M.P. Chapin",Knoxville,NULL,Tennessee,"United States",5.00,1865-11-07
+288,"W.C. Willard",Galesburg,NULL,Illinois,"United States",19.58,1865-09-04
+289,"Robert M. Stark",Toronto,NULL,Ontario,Canada,1.12,1865-12-04
+290,"Maurice Sanders",Chicopee,NULL,Massachusetts,"United States",47.80,1865-10-28
+291,"Isaac Moorhead",Erie,NULL,Pennsylvania,"United States",4.75,1865-04-28
+292,"Honorable A.C. Paige",Schenectady,NULL,"New York","United States",8.00,1865-04-15
+293,"C. Reissig",Chicago,NULL,Illinois,"United States",14.25,1865-07-17
+294,"C. Reissig",Chicago,NULL,Illinois,"United States",0.50,1865-12-05
+295,"Major A. Scott",Erie,NULL,Pennsylvania,"United States",1.25,1865-05-11
+296,"W.M. Johnson",Adams,NULL,"New York","United States",9.00,1865-04-28
+297,"W.M. Johnson",Adams,NULL,"New York","United States",6.25,1865-05-22
+298,"David Monfort",Monroe,NULL,Ohio,"United States",520.50,1865-10-21
+299,"J.R. & A. Bather",Clinton,NULL,"New York","United States",24.55,1865-09-05
+300,"J.R. & A. Bather",Clinton,NULL,"New York","United States",139.50,1865-09-30
+301,"J.R. & A. Bather",Clinton,NULL,"New York","United States",60.10,1865-11-21
+302,"A. Couse",Detroit,NULL,Michigan,"United States",38.00,1865-03-30
+303,"James Vick",Rochester,NULL,"New York","United States",11.95,1865-04-19
+304,"James Vick",Rochester,NULL,"New York","United States",75.00,1865-04-19
+305,"James Vick",Rochester,NULL,"New York","United States",6.00,1865-04-28
+306,"James Vick",Rochester,NULL,"New York","United States",1.12,1865-04-28
+307,"James Vick",Rochester,NULL,"New York","United States",1.20,1865-05-03
+308,"James Vick",Rochester,NULL,"New York","United States",2.35,1865-05-04
+309,"R. Thomson",Lisbon,NULL,"New York","United States",31.02,1865-05-06
+310,"David Burn",Cobourg,NULL,Ontario,Canada,10.38,1865-10-20
+311,"F. Gorton",Rochester,NULL,"New York","United States",3.00,1865-01-02
+312,"F. Gorton",Rochester,NULL,"New York","United States",0.50,1865-10-21
+313,"F. Gorton",Rochester,NULL,"New York","United States",0.50,1865-10-25
+314,"F. Gorton",Rochester,NULL,"New York","United States",5.10,1865-12-22
+315,"J.E. Guilbault",Montreal,NULL,Quebec,Canada,19.50,1865-04-25
+316,"C.S. Hart",Watertown,NULL,"New York","United States",2.35,1865-04-06
+317,"C.S. Hart",Watertown,NULL,"New York","United States",88.57,1865-10-10
+318,"Henry Plessner",Toledo,NULL,Ohio,"United States",4.80,1865-09-14
+319,"Henry Plessner",Toledo,NULL,Ohio,"United States",27.00,1865-10-11
+320,"Henry Plessner",Toledo,NULL,Ohio,"United States",5.00,1865-10-20
+321,"Henry Plessner",Toledo,NULL,Ohio,"United States",24.75,1865-10-27
+322,"F.J. Hall",Dexter,NULL,"New York","United States",17.50,1865-09-18
+323,"Charles T. Simpson",Tiskilwa,NULL,Illinois,"United States",8.60,1865-09-19
+324,"L. Menand",Albany,NULL,"New York","United States",39.00,1865-04-17
+325,"L. Menand",Albany,NULL,"New York","United States",29.00,1865-04-28
+326,"L. Menand",Albany,NULL,"New York","United States",12.85,1865-11-24
+327,"H. Hunt",Avoca,NULL,"New York","United States",6.25,1865-09-20
+328,"Samuel Campbell","New York Mills",NULL,"New York","United States",20.50,1865-09-20
+329,"G.W. Allen",Auburn,NULL,"New York","United States",9.50,1865-09-20
+330,"H.O. Cheesbro",Canandaigua,NULL,"New York","United States",129.87,1865-11-21
+331,"E.G. Lowber","Bald Mountain",NULL,"New York","United States",87.65,1865-04-25
+332,"J. Morse",Winthrop,NULL,Maine,"United States",7.65,1865-11-07
+333,"T.A. Chadwick","Battle Creek",NULL,Michigan,"United States",19.45,1865-11-06
+334,"William H. Shearer",Carlisle,NULL,Pennsylvania,"United States",54.50,1865-11-04
+335,"Lewis Hine",Randolph,NULL,Pennsylvania,"United States",12.00,1865-05-06
+336,"John Gabel",Erie,NULL,Pennsylvania,"United States",6.25,1865-11-03
+337,"John Gabel",Erie,NULL,Pennsylvania,"United States",18.45,1865-11-18
+338,"James Terry",Rochester,NULL,"New York","United States",1.50,1865-06-29
+339,"James Terry",Rochester,NULL,"New York","United States",5.00,1865-12-26
+340,"E.J. Evans and Co.",York,NULL,Pennsylvania,"United States",12.20,1865-08-04
+341,"J. Shuter Smith","Port Hope",NULL,Ontario,Canada,4.35,1865-05-11
+342,"C. Holt",Webster,NULL,"New York","United States",16.10,1865-04-11
+343,"C. Holt",Webster,NULL,"New York","United States",12.90,1865-04-15
+344,"A. Minard",Lockport,NULL,"New York","United States",6.50,1865-06-27
+345,"F.I. Meech",Shelburne,NULL,Vermont,"United States",59.70,1865-04-26
+346,"D.H. Gildersleeve","New York City",NULL,"New York","United States",60.95,1865-11-04
+347,"D.H. Gildersleeve","New York City",NULL,"New York","United States",18.00,1865-11-18
+348,"Ogden Haggerty","New York City",NULL,"New York","United States",12.63,1865-11-04
+349,"Ogden Haggerty","New York City",NULL,"New York","United States",9.75,1865-11-24
+350,"John H. Iglehart",Laurel,NULL,Maryland,"United States",1.50,1865-06-28
+351,"W.B. Douglas",Geneva,NULL,"New York","United States",3.00,1865-04-11
+352,"W.B. Douglas",Geneva,NULL,"New York","United States",8.90,1865-04-25
+353,"W.B. Douglas",Geneva,NULL,"New York","United States",2.50,1865-04-28
+354,"W.B. Douglas",Geneva,NULL,"New York","United States",40.95,1865-11-03
+355,"D. Clark","New York City",NULL,"New York","United States",3.23,1865-04-04
+356,"C.B. Adams","Mt. Morris",NULL,"New York","United States",6.00,1865-03-25
+357,"C.B. Adams","Mt. Morris",NULL,"New York","United States",4.00,1865-04-22
+358,"N. Tamblingson",Rochester,NULL,"New York","United States",19.62,1865-05-10
+359,"N. Tamblingson",Rochester,NULL,"New York","United States",1.00,1865-05-12
+360,"N. Tamblingson",Rochester,NULL,"New York","United States",6.00,1865-05-25
+361,"James L. Stone",Trumansburg,NULL,"New York","United States",2.10,1865-04-27
+362,"S.S. Northrop",Pontiac,NULL,Michigan,"United States",5.00,1865-05-03
+363,"S.S. Northrop",Pontiac,NULL,Michigan,"United States",25.00,1865-05-19
+364,"D.B. DeLand",Fairport,NULL,"New York","United States",2.00,1865-04-28
+365,"A.B. Bennett",Brantford,NULL,Ontario,Canada,5.00,1865-06-12
+366,"L.M. Ford and Co.","St. Paul",NULL,Minnesota,"United States",6.50,1865-05-19
+367,"L.M. Ford and Co.","St. Paul",NULL,Minnesota,"United States",2.98,1865-07-09
+368,"L.M. Ford and Co.","St. Paul",NULL,Minnesota,"United States",11.35,1865-09-13
+369,"L.M. Ford and Co.","St. Paul",NULL,Minnesota,"United States",19.50,1865-10-30
+370,"A.R. Smith",Troy,NULL,"New York","United States",12.00,1865-11-18
+371,"Thomas M. North","New York City",NULL,"New York","United States",17.00,1865-05-02
+372,"Charles Fitzsimons",Rochester,NULL,"New York","United States",24.80,1865-04-06
+373,"Charles Fitzsimons",Rochester,NULL,"New York","United States",5.00,1865-05-11
+374,"Charles Fitzsimons",Rochester,NULL,"New York","United States",2.75,1865-05-25
+375,"Charles Drexel",Watertown,NULL,"New York","United States",12.38,1865-10-11
+376,"Sage Sons and Co.",Buffalo,NULL,"New York","United States",60.40,1865-03-06
+377,"Sage Sons and Co.",Buffalo,NULL,"New York","United States",63.75,1865-09-22
+378,"Stickney and Baumbach",Wauwatosa,NULL,Wisconsin,"United States",5.25,1865-10-03
+379,"John Gray",Toronto,NULL,Ontario,Canada,30.48,1865-04-18
+380,"John Gray",Toronto,NULL,Ontario,Canada,196.25,1865-10-09
+381,"John Gray",Toronto,NULL,Ontario,Canada,41.25,1865-11-07
+382,"John Gray",Toronto,NULL,Ontario,Canada,37.75,1865-11-15
+383,"Levi A. Ward",Rochester,NULL,"New York","United States",3.00,1865-06-23
+384,"Levi A. Ward",Rochester,NULL,"New York","United States",10.20,1865-11-07
+385,"Levi A. Ward",Rochester,NULL,"New York","United States",1.00,1865-11-07
+386,"John H. Hill",Rochester,NULL,"New York","United States",1.50,1865-06-08
+387,"John Rapalje",Rochester,NULL,"New York","United States",7.05,1865-11-04
+388,"John Rapalje",Rochester,NULL,"New York","United States",2.00,1865-11-18
+389,"John Rapalji",Rochester,NULL,"New York","United States",0.50,1865-11-24
+390,"Henry Belden",Rochester,NULL,"New York","United States",1.50,1865-09-07
+391,"R. Buist and Son",Philadelphia,NULL,Pennsylvania,"United States",6.50,1865-10-16
+392,"C.H. Webster",Binghamton,NULL,"New York","United States",19.60,1865-11-06
+393,"Oscar D. Dike",Rochester,NULL,"New York","United States",9.25,1865-03-15
+394,"Oscar D. Dike",Rochester,NULL,"New York","United States",25.56,1865-03-31
+395,"J. Cochrane",Havana,NULL,Illinois,"United States",33.25,1865-11-06
+396,"J. Cochrane",Havana,NULL,Illinois,"United States",0.25,1865-11-28
+397,"J.S. Weyer",Madison,NULL,Indiana,"United States",29.80,1865-11-02
+398,"Charles M. Elleard","St. Louis",NULL,Missouri,"United States",171.00,1865-11-03
+399,"D.A. January","St. Louis",NULL,Missouri,"United States",22.60,1865-11-04
+400,"Horatio O. Stone",Chicago,NULL,Illinois,"United States",6.50,1865-11-04
+401,"Dr. S.M. Robinson",Watertown,NULL,"New York","United States",8.75,1865-03-27
+402,"George C. Buell",Rochester,NULL,"New York","United States",5.50,1865-04-20
+403,"George C. Buell",Rochester,NULL,"New York","United States",2.15,1865-06-08
+404,"Dr. W.W. Ely",Rochester,NULL,"New York","United States",4.00,1865-04-25
+405,"Dr. W.W. Ely",Rochester,NULL,"New York","United States",1.50,1865-07-11
+406,"Col. E.G. Marshall",Rochester,NULL,"New York","United States",13.00,1865-01-28
+407,"James H. Ricketts",Newburgh,NULL,"New York","United States",6.05,1865-04-25
+408,"James H. Ricketts",Newburgh,NULL,"New York","United States",32.05,1865-11-06
+409,"E. Hollister",Woodlawn,NULL,Illinois,"United States",252.25,1865-10-25
+410,"Mrs. Vernam",Rochester,NULL,"New York","United States",3.00,1865-01-02
+411,"Mrs. Vernam",Rochester,NULL,"New York","United States",5.25,1865-11-27
+412,"Robert Bell",Brighton,NULL,"New York","United States",15.25,1865-04-19
+413,"Robert Bell",Brighton,NULL,"New York","United States",3.60,1865-11-27
+414,"John Eddy",Adams,NULL,"New York","United States",8.88,1865-05-18
+415,"Honorable H.R. Selden",Rochester,NULL,"New York","United States",12.00,1865-04-03
+416,"Honorable H.R. Selden",Rochester,NULL,"New York","United States",24.00,1865-04-15
+417,"Honorable H.R. Selden",Rochester,NULL,"New York","United States",12.50,1865-04-29
+418,"Curtis Morey and Co.",Rochester,NULL,"New York","United States",2.00,1865-08-30
+419,"E.R. Carpenter",Jamestown,NULL,"New York","United States",10.12,1865-07-10
+420,"E.R. Carpenter",Jamestown,NULL,"New York","United States",206.29,1865-10-09
+421,"John Ruigh",Detroit,NULL,Michigan,"United States",12.50,1865-05-11
+422,"William A. Galbraith",Erie,NULL,Pennsylvania,"United States",22.75,1865-10-11
+423,"Charles H. Chapin",Rochester,NULL,"New York","United States",24.00,1865-04-28
+424,"Charles H. Chapin",Rochester,NULL,"New York","United States",9.00,1865-09-23
+425,"Charles H. Chapin",Rochester,NULL,"New York","United States",14.00,1865-10-14
+426,"Charles H. Chapin",Rochester,NULL,"New York","United States",4.00,1865-12-15
+427,"H.D. Hester",Galesburg,NULL,Illinois,"United States",27.97,1865-03-28
+428,"John Burke",Syracuse,NULL,"New York","United States",9.00,1865-05-01
+429,"E. Newbury",Brooklyn,NULL,Connecticut,"United States",57.37,1865-11-01
+430,"Thomas B. Devereux",Utica,NULL,"New York","United States",17.25,1865-04-25
+431,"Thomas B. Devereux",Utica,NULL,"New York","United States",10.00,1865-05-03
+432,"Neally Bros and Bock",Burlington,NULL,Iowa,"United States",315.00,1865-10-26
+433,"Ramsdell Loud an Co.",Adrian,NULL,Michigan,"United States",7.25,1865-03-23
+434,"D.W. Beadle","St. Catharines",NULL,Ontario,Canada,1.87,1865-04-12
+435,"D.W. Beadle","St. Catharines",NULL,Ontario,Canada,5.00,1865-07-04
+436,"J.B. Cline",Webster,NULL,"New York","United States",56.10,1865-10-05
+437,"T. Covington","Fort Wayne",NULL,Indiana,"United States",97.70,1865-11-03
+438,"D.D. Pierce",Bushnell,NULL,Illinois,"United States",556.55,1865-10-27
+439,"W.E. Hoyt",Syracuse,NULL,"New York","United States",1.75,1865-04-24
+440,"W.E. Hoyt",Syracuse,NULL,"New York","United States",3.50,1865-05-01
+441,"W.E. Hoyt",Syracuse,NULL,"New York","United States",3.13,1865-05-15
+442,"W.E. Hoyt",Syracuse,NULL,"New York","United States",2.62,1865-05-18
+443,"W.E. Hoyt",Syracuse,NULL,"New York","United States",2.00,1865-05-26
+444,"George Mostow",Aurora,NULL,Illinois,"United States",50.00,1865-10-27
+445,"Robert Scott",Philadelphia,NULL,Pennsylvania,"United States",310.00,1865-11-14
+446,"E. Lake",Topsfield,NULL,Massachusetts,"United States",50.50,1865-11-04
+447,"Kenyon Cox","New York City",NULL,"New York","United States",62.80,1865-11-07
+448,"E. Moody and Son",Lockport,NULL,"New York","United States",30.25,1865-10-09
+449,"E. Hollister Jr.",Alton,NULL,Illinois,"United States",83.00,1865-10-31
+450,"Dr. L. Fritsch",Evansville,NULL,Indiana,"United States",6.73,1865-03-29
+451,"Dr. L. Fritsch",Evansville,NULL,Indiana,"United States",47.80,1865-11-07
+452,"Paul Butz","New Castle",NULL,Pennsylvania,"United States",82.50,1865-11-06
+453,"George S. Beach",Binghamton,NULL,"New York","United States",7.10,1865-11-04
+454,"D.P. Wood",Syracuse,NULL,"New York","United States",31.50,1865-04-26
+455,"W. D'Oench","St. Louis",NULL,Missouri,"United States",12.00,1865-03-23
+456,"Daniel B. Pierson",Cincinnati,NULL,Ohio,"United States",25.45,1865-10-30
+457,"T.R. Crittenden",Albany,NULL,"New York","United States",4.00,1865-10-05
+458,"T.R. Crittenden",Albany,NULL,"New York","United States",2.00,1865-10-20
+459,"W.E. Phillips",Montreal,NULL,Quebec,Canada,39.00,1865-10-06
+460,"B.E. Clarke","New York City",NULL,"New York","United States",7.25,1865-10-06
+461,"Sidney Church",Rochester,NULL,"New York","United States",13.50,1865-10-07
+462,"George N. Brady",Detroit,NULL,Michigan,"United States",3.00,1865-10-09
+463,"J.A. Marley",Burlington,NULL,Iowa,"United States",61.00,1865-10-09
+464,"C.C. Martin","South Whitley",NULL,Indiana,"United States",1.75,1865-10-10
+465,"C.C. Martin","South Whitley",NULL,Indiana,"United States",1.50,1865-10-17
+466,"C.C. Martin","South Whitley",NULL,Indiana,"United States",5.25,1865-12-08
+467,"A.N. Easton",Belvidere,NULL,"New Jersey","United States",79.25,1865-04-25
+468,"W.C. Harding",Boston,NULL,Massachusetts,"United States",17.50,1865-10-11
+469,"W.D. Walcott","New York Mills",NULL,"New York","United States",2.25,1865-10-11
+470,"William Buckler",Baltimore,NULL,Maryland,"United States",16.75,1865-11-06
+471,"George Barry",Alton,NULL,Illinois,"United States",93.30,1865-10-05
+472,"B.A. Hosom",Coshocton,NULL,Ohio,"United States",220.75,1865-10-06
+473,"William Adair",Detroit,NULL,Michigan,"United States",80.50,1865-10-07
+474,"William Adair",Detroit,NULL,Michigan,"United States",115.50,1865-10-30
+475,"L. Provancher","Port Newfoundland",NULL,Newfoundland,Canada,46.75,1865-04-26
+476,"L. Provancher","Port Newfoundland",NULL,Newfoundland,Canada,64.25,1865-10-03
+477,"F.K. Phoenix",Bloomington,NULL,Illinois,"United States",1238.25,1865-09-29
+478,"F.K. Phoenix",Bloomington,NULL,Illinois,"United States",18.75,1865-09-30
+479,"F.K. Phoenix",Bloomington,NULL,Illinois,"United States",108.00,1865-11-07
+480,"W.H. Ward",Rochester,NULL,"New York","United States",5.00,1865-10-18
+481,"W.H. Ward",Rochester,NULL,"New York","United States",5.00,1865-12-09
+482,"Charles Knapp",Newark,NULL,"New Jersey","United States",29.40,1865-10-18
+483,"D.D. Wheeler","South Adams",NULL,Massachusetts,"United States",7.45,1865-10-20
+484,"Baylis and Bro.",Carondelet,NULL,Missouri,"United States",312.50,1865-10-03
+485,"Edward Dore",Hudson,NULL,Wisconsin,"United States",7.00,1865-10-20
+486,"John C. Weinberger",Indianapolis,NULL,Iowa,"United States",41.00,1865-11-03
+487,"S.C. Marshall",Massillon,NULL,Ohio,"United States",25.25,1865-10-24
+488,"E.T. Throop Martin",Auburn,NULL,"New York","United States",21.75,1865-04-29
+489,"William Holton",Hamilton,NULL,Ontario,Canada,17.50,1865-10-27
+490,"Daniel Rice",Girard,NULL,Pennsylvania,"United States",119.10,1865-05-23
+491,"R.H. Lee",Millville,NULL,"New York","United States",3.60,1865-10-27
+492,"S.W. Hughes",Connersville,NULL,Indiana,"United States",14.00,1865-10-28
+493,"S.W. Hughes",Connersville,NULL,Indiana,"United States",2.00,1865-11-07
+494,"George W. Wheeler",Palmyra,NULL,"New York","United States",2.00,1865-10-30
+495,"John C. Teas",Raysville,NULL,Indiana,"United States",147.75,1865-04-27
+496,"Judge E. Pierrepont",Garrison,NULL,"New York","United States",123.30,1865-11-07
+497,"G.C. Coit and Son",Buffalo,NULL,"New York","United States",2.75,1865-10-30
+498,"A.W. Hatch",Milwaukee,NULL,Wisconsin,"United States",10.75,1865-10-30
+499,"J.W. Howes",Montreal,NULL,Quebec,Canada,7.25,1865-10-31
+500,"Hovey and Co.",Boston,NULL,Massachusetts,"United States",2.65,1865-05-10
+501,"R. Coleman",Lyn,NULL,Ontario,Canada,62.00,1865-10-31
+502,"Mrs. H.T.M. Ayres",NULL,NULL,Indiana,"United States",10.00,1865-10-31
+503,"Reverend J.H. Creighton",Chillicothe,NULL,Ohio,"United States",2.20,1865-08-01
+504,"F.H. James",Lancaster,NULL,"New York","United States",32.57,1865-10-26
+505,"F.H. James",Lancaster,NULL,"New York","United States",5.00,1865-10-31
+506,"J.H. Martindale",Rochester,NULL,"New York","United States",6.00,1865-10-11
+507,"Moore Hemm and Co.",Sidney,NULL,Ohio,"United States",10.00,1865-10-11
+508,"C.F. Paine",Rochester,NULL,"New York","United States",3.50,1865-10-11
+509,"D.H. Bogue and Son",Attica,NULL,"New York","United States",81.00,1865-10-13
+510,"Aaron Lovecraft",Rochester,NULL,"New York","United States",11.25,1865-10-14
+511,"Aaron Lovecraft",Rochester,NULL,"New York","United States",2.25,1865-11-14
+512,"Sisters of Charity",Buffalo,NULL,"New York","United States",24.75,1865-10-16
+513,"Harvey Bissell",Toledo,NULL,Ohio,"United States",6.80,1865-10-17
+514,"Eli Wheeler",Elmira,NULL,"New York","United States",6.25,1865-10-17
+515,"Everard Palmer",Buffalo,NULL,"New York","United States",3.63,1865-05-01
+516,"Everard Palmer",Buffalo,NULL,"New York","United States",15.50,1865-09-16
+517,"B.G. Morss","Red Falls",NULL,"New York","United States",17.40,1865-11-06
+518,"Addison M. Smith","Washington D.C.",NULL,DC,"United States",16.00,1865-11-07
+519,"Jeremiah Shinn",Shinnston,NULL,"West Virginia","United States",7.25,1865-11-07
+520,"R.P. Hayes",Buffalo,NULL,"New York","United States",6.25,1865-12-30
+521,"M.J. Monroe",Rochester,NULL,"New York","United States",3.00,1865-05-05
+522,"M.J. Monroe",Rochester,NULL,"New York","United States",0.60,1865-06-02
+523,"M.J. Monroe",Rochester,NULL,"New York","United States",2.50,1865-06-19
+524,"Thomas Garwood",Trenton,NULL,"New Jersey","United States",3.85,1865-11-04
+525,"Sisters of Charity",Germantown,NULL,Pennsylvania,"United States",10.00,1865-11-03
+526,"L.W.A. Jacobi",Milwaukee,NULL,Wisconsin,"United States",2.00,1865-10-17
+527,"L.W.A. Jacobi",Milwaukee,NULL,Wisconsin,"United States",11.25,1865-11-09
+528,"Josiah Salter",Rochester,NULL,"New York","United States",1.00,1865-04-11
+529,"Josiah Salter",Rochester,NULL,"New York","United States",103.50,1865-05-01
+530,"Josiah Salter",Rochester,NULL,"New York","United States",6.15,1865-05-05
+531,"Martin Lewis",Chicago,NULL,Illinois,"United States",107.00,1865-10-11
+532,"Honorable Isador Bush","St. Louis",NULL,Missouri,"United States",299.00,1865-10-11
+533,"H. Chapin","South Bend",NULL,Indiana,"United States",59.24,1865-03-24
+534,"Charles D. Palmer",Waterville,NULL,"New York","United States",4.15,1865-10-24
+535,"Thomas B. Harvey","Niagara Falls",NULL,Ontario,Canada,7.05,1865-11-04
+536,"W.H. Boulton",Toronto,NULL,Ontario,Canada,5.50,1865-04-22
+537,"Mrs. W.H. Perkins",Rochester,NULL,"New York","United States",1.00,1865-05-02
+538,"Mrs. W.H. Perkins",Rochester,NULL,"New York","United States",2.08,1865-05-09
+539,"F.G. Franciscus",Lewistown,NULL,Pennsylvania,"United States",13.05,1865-11-13
+540,"F.G. Franciscus",Lewistown,NULL,Pennsylvania,"United States",0.10,1865-12-30
+541,"J.T. ad J.G. Frost","New Hamburg",NULL,"New York","United States",46.50,1865-03-31
+542,"Francis Dana",Rochester,NULL,"New York","United States",2.50,1865-04-06
+543,"Mrs. J.V.R. Champan",Rochester,NULL,"New York","United States",12.85,1865-05-15
+544,"Mrs. J.V.R. Chapman",Rochester,NULL,"New York","United States",2.00,1865-05-22
+545,"Thomas O'Connor",Brantford,NULL,Ontario,Canada,33.50,1865-10-23
+546,"Thomas O'Connor",Brantford,NULL,Ontario,Canada,52.00,1865-11-01
+547,"Ovide Brunet","Quebec City",NULL,Quebec,Canada,82.30,1865-10-23
+548,"F.G. Franciscus",Lewistown,NULL,Pennsylvania,"United States",18.10,1865-10-24
+549,"F.G. Franciscus",Lewistown,NULL,Pennsylvania,"United States",13.05,1865-11-13
+550,"F.G. Franciscus",Lewistown,NULL,Pennsylvania,"United States",0.10,1865-12-30
+551,"A.M. Johnston",Buffalo,NULL,"New York","United States",12.50,1865-05-02
+552,"P. Richards",Tolono,NULL,Illinois,"United States",106.25,1865-10-26
+553,"W.C. Stone",Rochester,NULL,"New York","United States",5.40,1865-01-28
+554,"Alexander Hone",Rochester,NULL,"New York","United States",12.20,1865-04-06
+555,"Thomas Ellwood",Dodgeville,NULL,Wisconsin,"United States",3.00,1865-01-28
+556,"A.J. Elias",Painesville,NULL,Ohio,"United States",6.00,1865-02-03
+557,"G.H. Ellis",Rochester,NULL,"New York","United States",6.00,1865-02-01
+558,"G.H. Ellis",Rochester,NULL,"New York","United States",2.00,1865-03-07
+559,"G.H. Ellis",Rochester,NULL,"New York","United States",20.75,1865-03-04
+560,"Ezra M. Parsons",Rochester,NULL,"New York","United States",5.00,1865-02-17
+561,"John F. Phillips","Port Mercer",NULL,"New Jersey","United States",2.00,1865-02-18
+562,"Mrs. Thomas Arner",Rochester,NULL,"New York","United States",14.00,1865-02-25
+563,"Charles J. Burke",Rochester,NULL,"New York","United States",5.00,1865-06-19
+564,"William G. Talbert","Sand Beach",NULL,Michigan,"United States",33.00,1865-03-27
+565,"S.S. Lauver",Galena,NULL,Illinois,"United States",29.00,1865-04-13
+566,"S.S. Lauver",Galena,NULL,Illinois,"United States",1.00,1865-04-14
+567,"S.S. Lauver",Galena,NULL,Illinois,"United States",77.25,1865-10-27
+568,"S.S. Lauver",Galena,NULL,Illinois,"United States",4.75,1865-10-27
+569,"H.J. Vesey","Mount Pisgah",NULL,Indiana,"United States",10.00,1865-04-28
+570,"J.R. and A. Bather",Clinton,NULL,Iowa,"United States",12.00,1865-03-24
+571,"J.R. and A. Bather",Clinton,NULL,Iowa,"United States",45.50,1865-05-11
+572,"Dr. E.W. Sylvester",Lyons,NULL,"New York","United States",4.60,1865-03-27
+573,"Thomas Lightfoot","Maiden Creek",NULL,Iowa,"United States",21.00,1865-04-01
+574,"S.W. Hall",Elmira,NULL,"New York","United States",7.35,1865-11-13
+575,"J.S. Sewall","St. Paul",NULL,Minnesota,"United States",30.60,1865-03-23
+576,"William E. Gowdy",Walden,NULL,"New York","United States",38.40,1865-04-03
+577,"Wilson Baughman",Greensburg,NULL,Pennsylvania,"United States",10.05,1865-03-30
+578,"George P. Clarkson",Rochester,NULL,"New York","United States",6.50,1865-09-18
+579,"James M. Hoyt",Cleveland,NULL,Ohio,"United States",17.50,1865-03-28
+580,"Mrs. J.M. Nelson","Grand Rapids",NULL,Michigan,"United States",32.60,1865-04-26
+581,"Mrs. J.M. Nelson","Grand Rapids",NULL,Michigan,"United States",5.00,1865-08-16
+582,"D.H. Prentice",Genesee,NULL,Wisconsin,"United States",5.75,1865-02-11
+583,"James Matthews",Knoxville,NULL,Iowa,"United States",16.25,1865-03-23
+584,"D.A. Robertson","St. Paul",NULL,Minnesota,"United States",39.45,1865-05-02
+585,"E. Ellwanger",Rush,NULL,"New York","United States",7.50,1865-04-08
+586,"E. Ellwanger",Rush,NULL,"New York","United States",3.60,1865-04-26
+587,"F.M. Tenny",Orange,NULL,Massachusetts,"United States",16.79,1865-04-11
+588,"Lewis R. Hawkins","Maple Glen",NULL,Minnesota,"United States",1.00,1865-01-19
+589,"Lewis R. Hawkins","Maple Glen",NULL,Minnesota,"United States",154.79,1865-04-25
+590,"John Bray",Schuyler,Schuyler,"New York","United States",117.81,1865-04-24
+591,"B.H. Crippin",Johnstonsburg,NULL,"New York","United States",20.00,1865-05-16
+592,"W. Comstock",Sweden,NULL,"New York","United States",155.00,1865-11-08
+593,"Robert Wilson",Wyoming,NULL,Pennsylvania,"United States",101.75,1865-11-06
+594,"Mrs. R.H. Wells",Buffalo,NULL,"New York","United States",2.00,1865-11-13
+595,"David M. Clarkson",Newburgh,NULL,"New York","United States",21.38,1865-11-08
+596,"Thomas Hannay",Providence,NULL,"Rhode Island","United States",47.00,1865-11-08
+597,"A.W. Hovey",Pontiac,NULL,Michigan,"United States",18.50,1865-11-09
+598,"Mrs. Henry Kip",Buffalo,NULL,"New York","United States",6.38,1865-11-13
+599,"Samuel Buck","Crown Point Centre",NULL,"New York","United States",31.89,1865-04-27
+600,"H.A. Truax",Lyons,NULL,Iowa,"United States",46.00,1865-10-23
+601,"L.L. Whitlock",Brandon,NULL,Vermont,"United States",2756.91,1865-04-18
+602,"O. Root",Clinton,NULL,"New York","United States",2.50,1865-04-21
+603,"A. Vickery",Rochester,NULL,"New York","United States",0.50,1865-03-30
+604,"A. Vickery",Rochester,NULL,"New York","United States",6.00,1865-05-01
+605,"John A. Dennett","North Berwick",NULL,Maine,"United States",44.40,1865-04-26
+606,"S.J. Dorwin",Watertown,NULL,"New York","United States",23.75,1865-04-27
+607,"S.J. Dorwin",Watertown,NULL,"New York","United States",16.75,1865-05-06
+608,"S.J. Dorwin",Watertown,NULL,"New York","United States",21.25,1865-05-19
+609,"H.E. Bridge","St. Louis",NULL,Missouri,"United States",11.25,1865-03-15
+610,"H.E. Bridge","St. Louis",NULL,Missouri,"United States",57.10,1865-03-23
+611,"Benjamin N. Huntingdon",Rome,NULL,"New York","United States",10.00,1865-03-31
+612,"George Alford","Quebec City",NULL,Quebec,Canada,21.60,1865-04-22
+613,"A.W. Wheelock",Leicester,NULL,"New York","United States",21.49,1865-04-25
+614,"William Tufts",Boston,NULL,Massachusetts,"United States",5.00,1865-04-08
+615,"Mrs. E. Kiesling","Rural Hill",NULL,"New York","United States",12.88,1865-03-30
+616,"W.A. Baldwin","Belle Plaine",NULL,Minnesota,"United States",10.00,1865-04-28
+617,"Joseph Annin","Le Roy",NULL,"New York","United States",4.90,1865-04-28
+618,"John C. Hepler",Reading,NULL,Pennsylvania,"United States",6.60,1865-04-03
+619,"J.B. Hayes",Caribou,NULL,Maine,"United States",5.00,1865-05-01
+620,"C.A. Stetson","New York City",NULL,"New York","United States",54.25,1865-04-26
+621,"H.H. Morgan",Rochester,NULL,"New York","United States",9.00,1865-04-27
+622,"J.H. Stuart",Rochester,NULL,"New York","United States",3.00,1865-04-27
+623,"S.H. Fish",Buffalo,NULL,"New York","United States",10.50,1865-04-07
+624,"D. Eggert and Son","New York City",NULL,"New York","United States",10.93,1865-04-15
+625,"J.M. Burdick",Ilion,NULL,"New York","United States",123.09,1865-04-26
+626,"Reverend L.H. Sheldon",Westborough,NULL,Massachusetts,"United States",101.30,1865-11-03
+627,"L.H. Carpenter",Rochester,NULL,"New York","United States",51.56,1865-04-15
+628,"L.H. Carpenter",Rochester,NULL,"New York","United States",1.80,1865-04-20
+629,"L.H. Carpenter",Rochester,NULL,"New York","United States",6.20,1865-04-22
+630,"L.H. Carpenter",Rochester,NULL,"New York","United States",57.96,1865-10-17
+631,"O.H. Palmer",Rochester,NULL,"New York","United States",60.67,1865-04-25
+632,"O.H. Palmer",Rochester,NULL,"New York","United States",15.00,1865-05-01
+633,"O.H. Palmer",Rochester,NULL,"New York","United States",5.25,1865-12-13
+634,"George H. Palmer",Rochester,NULL,"New York","United States",1.25,1865-02-24
+635,"George H. Palmer",Rochester,NULL,"New York","United States",13.50,1865-04-13
+636,"George H. Palmer",Rochester,NULL,"New York","United States",10.00,1865-04-18
+637,"George H. Palmer",Rochester,NULL,"New York","United States",2.00,1865-04-22
+638,"George H. Palmer",Rochester,NULL,"New York","United States",5.00,1865-04-27
+639,"George H. Palmer",Rochester,NULL,"New York","United States",0.75,1865-05-05
+640,"S. Donnelly",Rochester,NULL,"New York","United States",5.70,1865-05-08
+641,"S. Donnelly",Rochester,NULL,"New York","United States",24.95,1865-05-15
+642,"S. Donnelly",Rochester,NULL,"New York","United States",19.96,1865-05-22
+643,"Thomas L. Ritter",Oshawa,NULL,Ontario,Canada,4.75,1865-04-28
+644,"John Burns",Penfield,NULL,"New York","United States",2.05,1865-10-23
+645,"City of Rochester",Rochester,NULL,"New York","United States",24.00,1865-04-21
+646,"City of Rochester",Rochester,NULL,"New York","United States",10.50,1865-04-26
+647,"City of Rochester",Rochester,NULL,"New York","United States",12.00,1865-05-26
+648,"Turner and Parsons",Henderson,NULL,Kentucky,"United States",23.50,1865-10-21
+649,"Lewis Nicholson","East Rockport",NULL,Ohio,"United States",21.00,1865-03-25
+650,"Lewis Nicholson","East Rockport",NULL,Ohio,"United States",164.75,1865-09-30
+651,"Schirrmacher and Whitnall",Milwaukee,NULL,Wisconsin,"United States",20.41,1865-04-21
+652,"H.M. Calkins",Henrietta,NULL,"New York","United States",13.50,1865-04-06
+653,"H.M. Calkins",Henrietta,NULL,"New York","United States",1.75,1865-04-13
+654,"A. Sunderbrock",Cincinnati,NULL,Ohio,"United States",3.00,1865-11-15
+655,"A. Bradley",Pittsburgh,NULL,Pennsylvania,"United States",22.00,1865-11-15
+656,"E.A. Thompson",Cincinnati,NULL,Ohio,"United States",35.00,1865-11-15
+657,"Francis Cist",Cincinnati,NULL,Ohio,"United States",20.00,1865-11-16
+658,"Samuel Caldwell",Cincinnati,NULL,Ohio,"United States",11.20,1865-11-16
+659,"Convent of the Sacred Heart",Rochester,NULL,"New York","United States",30.00,1865-11-16
+660,"Convent of the Sacred Heart",Rochester,NULL,"New York","United States",16.15,1865-11-30
+661,"John D. Park",Cincinnati,NULL,Ohio,"United States",7.00,1865-11-17
+662,"Alfred Curtis",Sharon,NULL,Pennsylvania,"United States",48.00,1865-04-28
+663,"Alfred Curtis",Sharon,NULL,Pennsylvania,"United States",212.80,1865-11-17
+664,"Allen Munroe",Syracuse,NULL,"New York","United States",5.00,1865-04-25
+665,"Mrs. H.B. Earle",Worcester,NULL,Massachusetts,"United States",19.75,1865-04-26
+666,"H.M. Ross",Goderich,NULL,Ontario,Canada,16.84,1865-04-22
+667,"James Paton",Canandaigua,NULL,"New York","United States",7.50,1865-02-05
+668,"James Paton",Canandaigua,NULL,"New York","United States",5.00,1865-06-17
+669,"Theodore Gruenthal",Nyack,NULL,"New York","United States",36.50,1865-03-31
+670,"H.R. Pritchard",Rochester,NULL,"New York","United States",27.95,1865-04-25
+671,"Walter Morse",Eaton,NULL,"New York","United States",5.75,1865-05-17
+672,"George O. Stuart","Quebec City",NULL,Quebec,Canada,11.30,1865-10-17
+673,"James Farnham",Corfu,NULL,"New York","United States",44.40,1865-04-28
+674,"Arthur T.H. Williams","Port Hope",NULL,Ontario,Canada,10.50,1865-04-24
+675,"F.D. Torrance",Rochester,NULL,"New York","United States",2.17,1865-05-26
+676,"F.D. Torrance",Rochester,NULL,"New York","United States",1.50,1865-06-22
+677,"Robert Montgomery",Buffalo,NULL,"New York","United States",21.00,1865-05-20
+678,"George S. Ledyard",Cazenovia,NULL,"New York","United States",9.50,1865-04-25
+679,"E.W. Knight","Glen Falls",NULL,"New York","United States",37.55,1865-05-04
+680,"James McKechnie",Canandaigua,NULL,"New York","United States",4.60,1865-05-25
+681,"W.A. Gregg",Lima,NULL,"New York","United States",4.50,1865-10-23
+682,"Richard Church",Belvidere,NULL,"New York","United States",30.00,1865-05-02
+683,"Richard Church",Belvidere,NULL,"New York","United States",24.90,1865-11-13
+684,"A.P. Foster",Brighton,NULL,"New York","United States",21.25,1865-04-24
+685,"J.V. Van Alen","Penn Yan",NULL,"New York","United States",4.25,1865-05-03
+686,"R.N. Rice",Detroit,NULL,Michigan,"United States",10.75,1865-04-26
+687,"C.V. Jeffery",Rochester,NULL,"New York","United States",13.75,1865-09-25
+688,"C.V. Jeffery",Rochester,NULL,"New York","United States",2.00,1865-10-07
+689,"F.C. Hansen",Toledo,NULL,Ohio,"United States",17.00,1865-04-08
+690,"H. Holcomb","East Bloomfield",NULL,"New York","United States",21.25,1865-04-22
+691,"Beckham and Co.",Richmond,NULL,Virginia,"United States",19.75,1865-11-20
+692,"C.C. Walker",Detroit,NULL,Michigan,"United States",24.45,1865-11-20
+693,"Frederick Zimmer",Rochester,NULL,"New York","United States",9.00,1865-01-06
+694,"Frederick Zimmer",Rochester,NULL,"New York","United States",6.00,1865-04-04
+695,"Frederick Zimmer",Rochester,NULL,"New York","United States",5.55,1865-04-06
+696,"Mrs. L. Hazen",Medford,NULL,Minnesota,"United States",15.53,1865-11-22
+697,"R.J. Meigs","Washington D.C.",NULL,DC,"United States",25.05,1865-11-25
+698,"Palmer and Turpin",Richmond,NULL,Virginia,"United States",15.50,1865-11-27
+699,"Theodore D. Barton",Buffalo,NULL,"New York","United States",4.75,1865-04-24
+700,"S.B. Gavitt",Lyons,NULL,"New York","United States",4.30,1865-04-25
+701,"S.B. Gavitt",Lyons,NULL,"New York","United States",0.25,1865-04-27
+702,"J.R. Chatfield",Owego,NULL,"New York","United States",3.63,1865-04-24
+703,"Mrs. S.B. Harris",Salem,NULL,"New Jersey","United States",5.25,1865-10-31
+704,"F.J. Scott",Toledo,NULL,Ohio,"United States",8.00,1865-04-21
+705,"N.B. Phelps",Rochester,NULL,"New York","United States",2.00,1865-11-15
+706,"Newell Barnard",Saginaw,NULL,Michigan,"United States",17.58,1865-04-24
+707,"H.N. Curtis",Rochester,NULL,"New York","United States",2.50,1865-05-30
+708,"H.N. Curtis",Rochester,NULL,"New York","United States",1.05,1865-06-05
+709,"Fletcher Williams",Newark,NULL,"New Jersey","United States",11.80,1865-02-25
+710,"Fletcher Williams",Newark,NULL,"New Jersey","United States",19.65,1865-03-03
+711,"Fletcher Williams",Newark,NULL,"New Jersey","United States",9.80,1865-06-09
+712,"W.H. Johnston",Corry,NULL,Pennsylvania,"United States",101.82,1865-04-11
+713,"George G. Clarkson",Rochester,NULL,"New York","United States",4.00,1865-09-19
+714,"William King",Rochester,NULL,"New York","United States",1.60,1865-04-07
+715,"William King",Rochester,NULL,"New York","United States",2.51,1865-04-14
+716,"William King",Rochester,NULL,"New York","United States",2.25,1865-05-05
+717,"William King",Rochester,NULL,"New York","United States",6.00,1865-05-25
+718,"William King",Rochester,NULL,"New York","United States",2.85,1865-07-17
+719,"William King",Rochester,NULL,"New York","United States",1.00,1865-10-16
+720,"Oliver Allen",Mumford,NULL,"New York","United States",27.75,1865-04-14
+721,"Henry L. Sedgewick","New York City",NULL,"New York","United States",17.05,1865-04-03
+722,"W.H. Robbins",Dubuque,NULL,Iowa,"United States",10.25,1865-10-07
+723,"Reverend P. Bede",Rochester,NULL,"New York","United States",3.00,1865-05-17
+724,"Reverend P. Bede",Rochester,NULL,"New York","United States",2.50,1865-11-23
+725,"L.J.A. Papineau",Montreal,NULL,Quebec,Canada,12.50,1865-05-03
+726,"Charles R. Kelly","Shakers Basin",NULL,"New York","United States",28.20,1865-11-07
+727,"J.B. Putnam","Five Mile River",NULL,Connecticut,"United States",11.85,1865-03-23
+728,"Erastus Darrow",Rochester,NULL,"New York","United States",5.00,1865-12-04
+729,"Father Holzer",Rochester,NULL,"New York","United States",5.25,1865-03-23
+730,"Les Souers de la Charite",Deschambault,NULL,Quebec,Canada,23.50,1865-10-16
+731,"George Baker",Toledo,NULL,Ohio,"United States",49.25,1865-03-24
+732,"Joseph Mackay",Montreal,NULL,Quebec,Canada,8.25,1865-04-26
+733,"Augusts Pratt","N. Middleborough",NULL,Massachusetts,"United States",54.75,1865-05-16
+734,"William Saunders",London,NULL,Ontario,Canada,45.95,1865-11-04
+735,"W.G. Lewis",Framingham,NULL,Massachusetts,"United States",2.25,1865-11-15
+736,"Charles Wilds",Valatie,NULL,"New York","United States",77.75,1865-04-22
+737,"Charles Wilds",Valatie,NULL,"New York","United States",18.38,1865-05-05
+738,"Charles Wilds",Valatie,NULL,"New York","United States",38.50,1865-11-07
+739,"Robert Caldwell",Sidney,NULL,Ohio,"United States",47.50,1865-03-16
+740,"R.J. Thornton",Newport,NULL,Kentucky,"United States",10.00,1865-07-17
+741,"R.J. Thornton",Newport,NULL,Kentucky,"United States",83.00,1865-11-03
+742,"Charles Mayer",Indianapolis,NULL,Indiana,"United States",44.50,1865-03-25
+743,"Job T. Elletson",Auburn,NULL,"New York","United States",30.18,1865-11-04
+744,"G.C. Brackett",Lawrence,NULL,Kansas,"United States",40.86,1865-03-31
+745,"T.A. Newton",Rochester,NULL,"New York","United States",2.00,1865-06-14
+746,"D.F. Hatmaker","Milo Centre",Yates,"New York","United States",7.75,1865-04-26
+747,"John Wood",Quincy,NULL,Illinois,"United States",20.50,1865-05-03
+749,"E. Cobb",Chicago,NULL,Illinois,"United States",6.38,1865-04-20
+750,"H.P. Frazier",Dorset,NULL,Ohio,"United States",143.56,1865-04-18
+751,"H.P. Frazier",Dorset,NULL,Ohio,"United States",8.93,1865-05-01
+752,"Mrs. J.R. Elwood",Rochester,NULL,"New York","United States",3.50,1865-03-25
+753,"Mrs. J.R. Elwood",Rochester,NULL,"New York","United States",8.50,1865-04-03
+754,"Mrs. J.R. Elwood",Rochester,NULL,"New York","United States",29.90,1865-04-25
+755,"Mrs. J.R. Elwood",Rochester,NULL,"New York","United States",3.00,1865-05-05
+756,"Orange Judd","New York City",NULL,"New York","United States",110.00,1865-02-15
+757,"Orange Judd","New York City",NULL,"New York","United States",0.50,1865-05-31
+758,"Orange Judd","New York City",NULL,"New York","United States",100.50,1865-05-03
+759,"Orange Judd","New York City",NULL,"New York","United States",100.50,1865-09-16
+760,"Henry L. Churchill",Rochester,NULL,"New York","United States",3.75,1865-03-06
+761,"Henry L. Churchill",Rochester,NULL,"New York","United States",11.00,1865-03-23
+762,"Henry L. Churchill",Rochester,NULL,"New York","United States",15.00,1865-04-19
+763,"Henry L. Churchill",Rochester,NULL,"New York","United States",3.00,1865-05-30
+764,"Henry L. Churchill",Rochester,NULL,"New York","United States",7.00,1865-08-11
+765,"D.D.T. Moore",Rochester,NULL,"New York","United States",3.00,1865-02-17
+766,"D.D.T. Moore",Rochester,NULL,"New York","United States",7.00,1865-06-02
+767,"D.D.T. Moore",Rochester,NULL,"New York","United States",3.00,1865-06-15
+768,"D.D.T. Moore",Rochester,NULL,"New York","United States",2.00,1865-11-13
+769,"G.H. Perkins",Rochester,NULL,"New York","United States",1.50,1865-02-14
+770,"G.H. Perkins",Rochester,NULL,"New York","United States",1.50,1865-02-16
+771,"G.H. Perkins",Rochester,NULL,"New York","United States",8.30,1865-04-25
+772,"G.H. Perkins",Rochester,NULL,"New York","United States",6.00,1865-04-29
+773,"G.H. Perkins",Rochester,NULL,"New York","United States",1.55,1865-05-24
+774,"G.H. Perkins",Rochester,NULL,"New York","United States",4.75,1865-05-25
+775,"G.H. Perkins",Rochester,NULL,"New York","United States",2.50,1865-06-13
+776,"McCarthy and Flower",Penfield,NULL,"New York","United States",40.00,1865-03-23
+777,"McCarthy and Flower",Penfield,NULL,"New York","United States",16.00,1865-03-30
+778,"John H. Meyers","New York City",NULL,"New York","United States",16.15,1865-12-04
+779,"Dr. E. B. Taylor",Horsetown,NULL,California,"United States",2.20,1865-03-24
+780,"E.S. Churchill",Rochester,NULL,"New York","United States",2.50,1865-03-23
+781,"E.S. Churchill",Rochester,NULL,"New York","United States",1.50,1865-06-29
+782,"E.S. Churchill",Rochester,NULL,"New York","United States",4.75,1865-09-06
+783,"R.N. Gere",Syracuse,NULL,"New York","United States",49.15,1865-01-10
+784,"R.N. Gere",Syracuse,NULL,"New York","United States",1.50,1865-01-13
+785,"R.N. Gere",Syracuse,NULL,"New York","United States",13.75,1865-03-31
+786,"R.N. Gere",Syracuse,NULL,"New York","United States",9.38,1865-04-27
+787,"S.W. Norton",Lemont,NULL,Illinois,"United States",65.35,1865-03-24
+788,"Martin Braum",Adel,NULL,Iowa,"United States",164.15,1865-03-24
+789,"L.P. Chandler",Madison,NULL,Wisconsin,"United States",4.00,1865-02-18
+790,"James W. Crawford",Rockport,NULL,Indiana,"United States",35.00,1865-03-23
+791,"J.F. Bridge","New York City",NULL,"New York","United States",33.40,1865-03-31
+792,"Charles P. Watkins",Davenport,NULL,Iowa,"United States",85.00,1865-03-23
+793,"George P. Marston","Fort Atkinson",NULL,Wisconsin,"United States",111.41,1865-03-24
+794,"John Manning",Youngstown,NULL,Ohio,"United States",11.90,1865-02-18
+795,"John Manning",Youngstown,NULL,Ohio,"United States",196.85,1865-04-08
+796,"John Manning",Youngstown,NULL,Ohio,"United States",219.50,1865-10-18
+797,"John Klehm",Dunton,NULL,Illinois,"United States",5.50,1865-03-03
+798,"John Klehm",Dunton,NULL,Illinois,"United States",78.50,1865-03-23
+799,"W.A. Royce",Newburgh,NULL,"New York","United States",70.75,1865-03-17
+800,"James F. Wilson",Fairfield,NULL,Iowa,"United States",109.75,1865-03-23
+801,"George Lovecraft","Mount Vernon",NULL,"New York","United States",358.15,1865-01-25
+802,"George Lovecraft","Mount Vernon",NULL,"New York","United States",371.75,1865-01-25
+803,"George Lovecraft","Mount Vernon",NULL,"New York","United States",280.18,1865-01-25
+804,"George Lovecraft","Mount Vernon",NULL,"New York","United States",1075.90,1865-06-30
+805,"James McGivern",Rochester,NULL,"New York","United States",1820.13,1865-06-13
+806,"James McGivern",Rochester,NULL,"New York","United States",3.00,1865-06-13
+807,"James McGivern",Rochester,NULL,"New York","United States",2521.88,1865-12-25
+808,"Ralph Buckingham",Marbledale,NULL,Connecticut,"United States",4.20,1865-03-03
+809,"Ralph Buckingham",Marbledale,NULL,Connecticut,"United States",15.40,1865-04-25
+910,"Edward Sahland",Quincy,NULL,Illinois,"United States",16.75,1865-03-04
+911,"T.L. Falkner",Henry,NULL,Illinois,"United States",8.00,1865-03-15
+912,"Darlington Cope",Rienblerville,NULL,Pennsylvania,"United States",5.00,1865-03-21
+913,"D.H. Craig",Peekskill,NULL,"New York","United States",7.45,1865-03-23
+914,"A. Barton",Columbus,NULL,Kentucky,"United States",10.00,1865-03-23
+915,"Andrew Rabold","Bowling Green",NULL,Kentucky,"United States",5.80,1865-03-23
+916,"Samuel G. Wolcott",Utica,NULL,"New York","United States",11.00,1865-03-24
+917,"William Munger",Chicago,NULL,Illinois,"United States",9.50,1865-03-24
+918,"Theodore Brinker","St. John",NULL,Indiana,"United States",4.95,1865-03-24
+919,"John Carlisle",Indianapolis,NULL,Indiana,"United States",18.25,1865-03-24
+920,"James A. Scott",Greencastle,NULL,Indiana,"United States",25.80,1865-03-24
+921,"William Brown",Nicholasville,NULL,Kentucky,"United States",26.20,1865-03-24
+922,"Lewis Stagg",Cincinnati,NULL,Ohio,"United States",10.95,1865-03-24
+923,"H.E. Woodruff",Winimac,NULL,Indiana,"United States",25.50,1865-03-24
+924,"H.E. Woodruff",Winimac,NULL,Indiana,"United States",100.00,1865-10-11
+925,"George Nestel",Mascoutah,NULL,Illinois,"United States",6.00,1865-03-24
+926,"John Ten Brock",Paris,NULL,Illinois,"United States",25.00,1865-03-27
+927,"Henry Godeking",Belleville,NULL,Illinois,"United States",10.75,1865-03-27
+928,"James Weed",Muscatine,NULL,Iowa,"United States",20.00,1865-03-27
+929,"James Weed",Muscatine,NULL,Iowa,"United States",1.00,1865-05-31
+930,"Charles Place","New York City",NULL,"New York","United States",3.50,1865-03-24
+931,"P.T. Brown","New York City",NULL,"New York","United States",1.20,1865-03-27
+932,"L.P. Marsh",Zanesville,NULL,Ohio,"United States",15.15,1865-03-28
+933,"Joseph Duguett",Lockport,NULL,"New York","United States",3.50,1865-03-28
+934,"G. Wittbold",Chicago,NULL,Illinois,"United States",10.70,1865-03-28
+935,"Isaac Van Ansdal",Dayton,NULL,Ohio,"United States",12.30,1865-03-28
+936,"F.N. Page",Athens,NULL,Pennsylvania,"United States",21.75,1865-03-28
+937,"F.N. Page",Athens,NULL,Pennsylvania,"United States",29.00,1865-05-09
+938,"Daniel H. Ford",Albany,NULL,"New York","United States",5.00,1865-03-28
+939,"W.N. Clark Jr.","New York City",NULL,"New York","United States",11.02,1865-03-28
+940,"Mrs. M.A. Kittle",Lansing,NULL,Michigan,"United States",2.00,1865-03-28
+941,"C. Smith",Forester,NULL,Michigan,"United States",26.25,1865-03-28
+942,"J.C. Swan","Webster Groves",NULL,Missouri,"United States",4.60,1865-03-28
+943,"Max Hjortsberg",Chicago,NULL,Illinois,"United States",8.00,1865-03-30
+944,"Max Hjortsberg",Chicago,NULL,Illinois,"United States",2.00,1865-04-27
+945,"A.B. Fuller","Great Bend",NULL,Pennsylvania,"United States",7.40,1865-03-30
+946,"Charles Washburn",Worcester,NULL,Massachusetts,"United States",6.25,1865-03-31
+947,"W.A. Thayer",Cooperstown,NULL,"New York","United States",9.40,1865-03-31
+948,"W.A. Thayer",Cooperstown,NULL,"New York","United States",4.25,1865-05-04
+949,"W.H. Wilkinson","South Adams",NULL,Massachusetts,"United States",1.38,1865-03-31
+950,"Thomas B. Deniston",Peru,NULL,Indiana,"United States",7.50,1865-03-31
+951,"T.L. Andrews",Clyde,NULL,"New York","United States",3.00,1865-03-30
+952,"F. Herring",Goshen,NULL,Indiana,"United States",2.00,1865-03-30
+953,"F. Herring",Goshen,NULL,Indiana,"United States",3.00,1865-04-28
+954,"Edward Faile","New York City",NULL,"New York","United States",29.20,1865-03-31
+955,"T.W. Barhydt",Burlington,NULL,Iowa,"United States",13.00,1865-03-31
+956,"T.W. Barhydt",Burlington,NULL,Iowa,"United States",13.00,1865-04-26
+957,"Hall and Co.",Toledo,NULL,Ohio,"United States",10.75,1865-03-31
+958,"D.C. Chase",Burtonsville,NULL,"New York","United States",15.00,1865-03-31
+959,"Charles Minchin",Simcoe,NULL,Ontario,Canada,7.60,1865-04-15
+960,"H. Blanton",Frankfort,NULL,Kentucky,"United States",26.60,1865-04-04
+961,"Stephen G. Marcon",Chatham,NULL,"New Jersey","United States",28.60,1865-04-22
+962,"R.I. Dodge","New York City",NULL,"New York","United States",39.65,1865-04-20
+963,"William Tanner",Lawrence,NULL,Kansas,"United States",5.20,1865-03-22
+964,"William Tanner",Lawrence,NULL,Kansas,"United States",25.00,1865-04-13
+965,"G.W. Fountain",Waverly,NULL,"New York","United States",5.00,1865-05-04
+966,"Bronson Graves and Selover",Geneva,NULL,"New York","United States",10.25,1865-03-23
+967,"Bronson Graves and Selover",Geneva,NULL,"New York","United States",4.25,1865-07-31
+968,"Bronson Graves and Selover",Geneva,NULL,"New York","United States",4.00,1865-08-17
+969,"Bronson Graves and Selover",Geneva,NULL,"New York","United States",19.00,1865-10-17
+970,"George E. Timme",Chicago,NULL,Illinois,"United States",44.00,1865-03-23
+971,"George E. Timme",Chicago,NULL,Illinois,"United States",5.38,1865-04-20
+972,"George E. Timme",Chicago,NULL,Illinois,"United States",3.00,1865-07-14
+973,"John Clarke","New Lisbon",NULL,Ohio,"United States",63.50,1865-03-24
+974,"Sidney Pulsifer",Peoria,NULL,Illinois,"United States",7.75,1865-03-29
+975,"Sidney Pulsifer",Peoria,NULL,Illinois,"United States",7.75,1865-04-22
+976,"E.V. Haughwood","New York City",NULL,"New York","United States",117.25,1865-03-31
+977,"W.W. Evans","New York City",NULL,"New York","United States",90.50,1865-03-31
+978,"David N. Ryder",Pawtucket,NULL,"Rhode Island","United States",79.25,1865-03-31
+979,"D.H. Conkling",Bennington,NULL,Vermont,"United States",104.50,1865-03-31
+980,"D.H. Conkling",Bennington,NULL,Vermont,"United States",23.25,1865-04-28
+981,"Reverend W.M.D. Ryan","Washington D.C.",NULL,DC,"United States",157.45,1865-03-31
+982,"Samuel A. Willoughby","Saratoga Springs",NULL,"New York","United States",46.75,1865-03-31
+983,"D.H. Prentice",Genesee,NULL,Wisconsin,"United States",11.88,1865-03-23
+984,"Jared D. Powell",Katonah,NULL,"New York","United States",47.50,1865-04-24
+985,"J.T. Temple",Davenport,NULL,Iowa,"United States",130.00,1865-04-01
+986,"Sol K. Riblet",Newago,NULL,Michigan,"United States",89.75,1865-04-20
+987,"Robert Steed","Port Huron",NULL,Michigan,"United States",47.37,1865-04-20
+988,"Honestus Stearns",Felchville,NULL,Vermont,"United States",100.00,1865-04-06
+989,"Brother Azarie",Albany,NULL,"New York","United States",187.64,1865-04-01
+990,"Andrew H. Green","New York City",NULL,"New York","United States",10.00,1865-05-06
+991,"Pierre De Murguindo",Baltimore,NULL,Maryland,"United States",22.95,1865-04-04
+992,"Matthew Crawford","East Cleveland",NULL,Ohio,"United States",76.25,1865-04-07
+993,"R. Brinkerhoff",Mansfield,NULL,Ohio,"United States",25.70,1865-04-07
+994,"D.A. Smith",Parishville,NULL,"New York","United States",39.25,1865-04-20
+995,"H. Freeman",Salem,NULL,"New York","United States",6.25,1865-04-21
+996,"Mrs. Rollin Birchard",Shoreham,NULL,Vermont,"United States",6.75,1865-04-14
+997,"George Thomas","West Whiteland",NULL,Pennsylvania,"United States",7.70,1865-04-03
+998,"Martha L.P. Robinson","Union Springs",NULL,"New York","United States",4.00,1865-04-17
+999,"Emery Smeed",Dayton,NULL,Michigan,"United States",6.00,1865-04-03
+1000,"Robert T. Whitlock",Fredericktown,NULL,Ohio,"United States",5.00,1865-04-04
+1001,"John Griswold",Elmira,NULL,Kentucky,"United States",15.75,1865-04-01
+1002,"W.C. Bryant","New York City",NULL,"New York","United States",5.00,1865-04-01
+1003,"D. Strauss & Co.",Elmira,NULL,"New York","United States",3.00,1865-04-01
+1004,"Francis Spring",Rochester,NULL,"New York","United States",7.80,1865-04-03
+1005,"J.E. Andrews","Potter Hill",NULL,"New York","United States",3.00,1865-04-04
+1006,"Charles K. Lincoln",Owego,NULL,"New York","United States",12.50,1865-04-05
+1007,"Mrs. E.B. Mott",Auburn,NULL,Indiana,"United States",6.00,1865-04-05
+1008,"Samuel J. Wells",Fayetteville,NULL,"New York","United States",2.00,1865-04-05
+1009,"H. & H. Baldwin",Rochester,NULL,"New York","United States",2.00,1865-04-06
+1010,"H. & H. Baldwin",Rochester,NULL,"New York","United States",1.00,1865-09-28
+1011,"Samuel E. Latta",Friendship,NULL,"New York","United States",176.32,1865-04-24
+1012,"Samuel E. Latta",Friendship,NULL,"New York","United States",9.25,1865-04-29
+1013,"Samuel E. Latta",Friendship,NULL,"New York","United States",11.75,1865-05-06
+1014,"Samuel E. Latta",Friendship,NULL,"New York","United States",3.85,1865-05-19
+1015,"Samuel E. Latta",Friendship,NULL,"New York","United States",4.00,1865-09-09
+1016,"Samuel E. Latta",Friendship,NULL,"New York","United States",59.90,1865-11-03
+1017,"Samuel E. Latta",Friendship,NULL,"New York","United States",11.25,1865-11-20
+1018,"J.B. Penfield",Oswego,NULL,"New York","United States",106.50,1865-04-24
+1019,"J.B. Penfield",Oswego,NULL,"New York","United States",35.25,1865-05-05
+1020,"J.B. Penfield",Oswego,NULL,"New York","United States",19.00,1865-05-26
+1021,"J.B. Penfield",Oswego,NULL,"New York","United States",25.50,1865-06-09
+1022,"H.A. Congar and Co.",Whitewater,NULL,Wisconsin,"United States",52.58,1865-04-05
+1023,"H.A. Congar and Co.",Whitewater,NULL,Wisconsin,"United States",119.65,1865-04-06
+1024,"H.A. Congar and Co.",Whitewater,NULL,Wisconsin,"United States",374.75,1865-09-28
+1025,"H.A. Congar and Co.",Whitewater,NULL,Wisconsin,"United States",90.75,1865-09-30
+1026,"H.A. Congar and Co.",Whitewater,NULL,Wisconsin,"United States",16.50,1865-11-06
+1027,"James H. Cruise",Elmira,NULL,"New York","United States",81.88,1865-04-14
+1028,"James H. Cruise",Elmira,NULL,"New York","United States",10.00,1865-04-18
+1029,"James H. Cruise",Elmira,NULL,"New York","United States",20.50,1865-05-16
+1030,"James H. Cruise",Elmira,NULL,"New York","United States",37.54,1865-10-07
+1031,"James H. Cruise",Elmira,NULL,"New York","United States",9.50,1865-10-11
+1032,"James H. Cruise",Elmira,NULL,"New York","United States",294.15,1865-10-14
+1033,"James H. Cruise",Elmira,NULL,"New York","United States",13.53,1865-11-25
+1034,"John Weiss",Rochester,NULL,"New York","United States",5.00,1865-04-15
+1035,"John Weiss",Rochester,NULL,"New York","United States",5.50,1865-04-15
+1036,"John Weiss",Rochester,NULL,"New York","United States",1.50,1865-05-13
+1037,"John Weiss",Rochester,NULL,"New York","United States",0.80,1865-06-05
+1038,"John Weiss",Rochester,NULL,"New York","United States",3.00,1865-08-07
+1039,"John Weiss",Rochester,NULL,"New York","United States",8.45,1865-10-06
+1040,"John Weiss",Rochester,NULL,"New York","United States",0.50,1865-12-22
+1041,"Captain G.W. Kitts",Rodman,NULL,"New York","United States",354.21,1865-04-21
+1042,"Captain G.W. Kitts",Rodman,NULL,"New York","United States",13.45,1865-04-29
+1043,"Captain G.W. Kitts",Rodman,NULL,"New York","United States",27.40,1865-05-02
+1044,"George Maynard",Toronto,NULL,Ontario,Canada,3.00,1865-04-07
+1045,"John Holmes","Burnt Hills",NULL,"New York","United States",6.00,1865-04-07
+1046,"M. Edgar",Rochester,NULL,"New York","United States",5.50,1865-04-07
+1047,"J.W. Jackson",Schenectady,NULL,"New York","United States",4.50,1865-04-08
+1048,"Mrs. E. Conkey",Rochester,NULL,"New York","United States",8.00,1865-04-08
+1049,"Mrs. E. Conkey",Rochester,NULL,"New York","United States",18.50,1865-04-27
+1050,"Robert Kingman",Peterborough,NULL,Ontario,Canada,15.00,1865-04-08
+1051,"Haman Haas",Rochester,NULL,"New York","United States",4.00,1865-04-08
+1052,"H.K. Morse",Poland,NULL,Ontario,Canada,9.30,1865-04-10
+1053,"A.W. Hillman",Sharptown,NULL,"New Jersey","United States",4.00,1865-04-11
+1054,"Moses Bailey",Winterset,NULL,Iowa,"United States",5.50,1865-04-11
+1056,"Thomas Frothingham",Rochester,NULL,"New York","United States",4.50,1865-04-13
+1057,"A.S. Mann",Rochester,NULL,"New York","United States",3.50,1865-04-17
+1058,"Frederick Doriot","Columbus Grove",NULL,Ohio,"United States",16.30,1865-04-17
+1059,"J.D. Roberts",Buffalo,NULL,"New York","United States",12.38,1865-04-18
+1060,"Alert Hose Co.",Rochester,NULL,"New York","United States",12.00,1865-04-19
+1061,"Alert Hose Co.",Rochester,NULL,"New York","United States",10.00,1865-07-03
+1062,"L. Doty",Batavia,NULL,"New York","United States",14.25,1865-04-19
+1063,"William Wood and Co.",Rochester,NULL,"New York","United States",208.75,1865-04-07
+1064,"Mrs P.C. Brooks",Boston,NULL,Massachusetts,"United States",48.95,1865-04-12
+1065,"H. Gronner",Galena,NULL,Illinois,"United States",40.25,1865-04-12
+1066,"Charles F. Park","New York City",NULL,"New York","United States",33.45,1865-04-13
+1067,"W.C. Wilson","New York City",NULL,"New York","United States",12.50,1865-04-13
+1068,"W.C. Wilson","New York City",NULL,"New York","United States",25.75,1865-05-05
+1069,"James Melvine",Rochester,NULL,"New York","United States",1.10,1865-04-13
+1070,"James Melvine",Rochester,NULL,"New York","United States",2.80,1865-05-02
+1071,"James Melvine",Rochester,NULL,"New York","United States",1.63,1865-06-23
+1072,"James Melvine",Rochester,NULL,"New York","United States",0.44,1865-07-05
+1073,"James Melvine",Rochester,NULL,"New York","United States",2.25,1865-07-11
+1074,"Mrs. F.M. Adams",Rochester,NULL,"New York","United States",1.50,1865-04-13
+1075,"Mrs. F.M. Adams",Rochester,NULL,"New York","United States",1.00,1865-05-27
+1076,"Mrs. F.M. Adams",Rochester,NULL,"New York","United States",3.00,1865-09-23
+1077,"Mrs. F.M. Adams",Rochester,NULL,"New York","United States",5.00,1865-12-09
+1078,"John H. Kern",Syracuse,NULL,"New York","United States",24.38,1865-04-14
+1079,"S.B. Raymond",Rochester,NULL,"New York","United States",4.00,1865-04-15
+1080,"S.B. Raymond",Rochester,NULL,"New York","United States",1.00,1865-04-19
+1081,"R. Beauvais","St. Louis",NULL,Missouri,"United States",54.00,1865-04-15
+1082,"William Simpson",Philadelphia,NULL,Pennsylvania,"United States",20.00,1865-04-15
+1083,"E. Sharpe and Son",Lockport,NULL,"New York","United States",347.06,1865-04-17
+1084,"E. Sharpe and Son",Lockport,NULL,"New York","United States",1045.00,1865-11-07
+1085,"G.B. Hammond","Spring Valley",NULL,"New York","United States",43.50,1865-04-20
+1086,"A. Park",Canisteo,NULL,"New York","United States",3.00,1865-04-20
+1087,"A. Taylor",Burlington,NULL,Vermont,"United States",115.65,1865-04-20
+1088,"G.S. Welles",Hartford,NULL,Connecticut,"United States",52.58,1865-04-20
+1089,"James Stewart",Memphis,NULL,Tennessee,"United States",98.75,1865-04-21
+1090,"George P. Davies",Johnstown,NULL,"New York","United States",84.06,1865-04-21
+1091,"George P. Davies",Johnstown,NULL,"New York","United States",6.09,1865-05-10
+1092,"Gideon Lee","New York City",NULL,"New York","United States",172.24,1865-04-21
+1093,"Stephen Clemons",Rutland,NULL,Vermont,"United States",308.70,1865-04-21
+1094,"E.S. Pike",Painesville,NULL,Ohio,"United States",36.70,1865-04-22
+1095,"H.P. Noyes",Springfield,NULL,Massachusetts,"United States",77.50,1865-04-22
+1096,"A.B. Buttles",Columbus,NULL,Ohio,"United States",98.00,1865-04-22
+1097,"John Adams",Rochester,NULL,"New York","United States",18.25,1865-04-24
+1098,"John Adams",Rochester,NULL,"New York","United States",7.50,1865-05-23
+1099,"J.B. Crosby",Janesville,NULL,Wisconsin,"United States",15.75,1865-04-20
+1100,"W.A. Brodie",Geneseo,NULL,"New York","United States",7.40,1865-04-20
+1101,"Mrs. J. Pollack",Esopus,NULL,"New York","United States",24.40,1865-04-20
+1103,"E.R. Bean",Jefferson,NULL,Illinois,"United States",20.55,1865-04-20
+1102,"E.C. Wooster","New York City",NULL,"New York","United States",27.30,1865-04-21
+1104,"Mrs. R.B. Berger",Polo,NULL,Illinois,"United States",5.00,1865-04-21
+1105,"Bayard Taylor","Kennett Square",NULL,Pennsylvania,"United States",31.65,1865-04-21
+1106,"J.S. Farlow and Co.",Boston,NULL,Massachusetts,"United States",34.50,1865-04-21
+1107,"George H. Kelsey",Elmira,NULL,"New York","United States",23.25,1865-04-22
+1108,"Mrs. E.A. Lewis",Batavia,NULL,"New York","United States",9.75,1865-04-22
+1109,"J.B. Herbert","Old Bridge",NULL,"New Jersey","United States",28.80,1865-04-22
+1110,"Thomas Barlow",Canastota,NULL,"New York","United States",7.70,1865-04-22
+1111,"George O. Sanborn",Boston,NULL,Massachusetts,"United States",8.25,1865-04-22
+1112,"D.B. Wesson",Springfield,NULL,Massachusetts,"United States",10.75,1865-04-22
+1113,"James McFarlane","New York City",NULL,"New York","United States",3.85,1865-04-22
+1114,"Eli Rose",Maryland,NULL,"New York","United States",10.00,1865-04-22
+1115,"Joshua Coit","New Haven",NULL,Connecticut,"United States",22.00,1865-04-22
+1116,"S.G. Wight",Detroit,NULL,Michigan,"United States",5.00,1865-04-22
+1117,"George F. Robinson",Fairfield,NULL,Connecticut,"United States",11.00,1865-04-22
+1118,"D.G. Hubbard","East Bridgewater",NULL,Massachusetts,"United States",34.35,1865-04-22
+1119,"D.G. Hubbard","East Bridgewater",NULL,Massachusetts,"United States",0.65,1865-04-25
+1120,"F. Cozzens","New York City",NULL,"New York","United States",39.25,1865-04-22
+1121,"G.A. Dunscomb","New York City",NULL,"New York","United States",17.00,1865-04-22
+1122,"H.B. Hurlbut","South Vineland",NULL,"New Jersey","United States",6.00,1865-04-22
+1123,"L.W. Ledyard",Cazenovia,NULL,"New York","United States",19.50,1865-04-22
+1124,"Mrs. E.G. Townsend",Boston,NULL,Massachusetts,"United States",7.70,1865-04-24
+1125,"A.D. Gridley",Clinton,NULL,"New York","United States",2.88,1865-04-24
+1126,"Stephen Nelson",Otonabee,NULL,Ontario,Canada,7.20,1865-04-24
+1127,"Dr. J. Ozanne Jr.",Racine,NULL,Wisconsin,"United States",14.90,1865-04-24
+1128,"E. Jennings",Rochester,NULL,"New York","United States",8.10,1865-04-24
+1129,"M.W. Brooks",Brooklyn,NULL,"New York","United States",26.50,1865-04-24
+1130,"C. Waydell",Rochester,NULL,"New York","United States",7.80,1865-04-25
+1131,"John Meyers","New York City",NULL,"New York","United States",9.20,1865-04-25
+1132,"H.D. Hester",Galesburg,NULL,Illinois,"United States",9.00,1865-04-24
+1133,"H.D. Hester",Galesburg,NULL,Illinois,"United States",59.30,1865-10-06
+1134,"George Urban",Buffalo,NULL,"New York","United States",4.50,1865-04-24
+1135,"George Urban",Buffalo,NULL,"New York","United States",3.87,1865-05-02
+1136,"D. Nicol",Kingston,NULL,Ontario,Canada,54.75,1865-04-24
+1137,"Reverend D. Williamson",Kingston,NULL,Ontario,Canada,84.50,1865-04-24
+1138,"Reverend D. Williamson",Kingston,NULL,Ontario,Canada,20.75,1865-05-02
+1139,"Matthew Mackie",Clyde,NULL,"New York","United States",105.21,1865-04-25
+1140,"Matthew Mackie",Clyde,NULL,"New York","United States",6.50,1865-04-29
+1141,"S. Dibble",Murray,NULL,"New York","United States",57.70,1865-04-25
+1142,"D. Dibble",Murray,NULL,"New York","United States",25.50,1865-05-10
+1143,"Charles D. DeWitt",Walden,NULL,"New York","United States",30.70,1865-04-25
+1144,"Levi Burt",Walpole,NULL,"New Hampshire","United States",44.32,1865-04-25
+1145,"G. Raphael",Philadelphia,NULL,Pennsylvania,"United States",19.40,1865-04-25
+1146,"G. Raphael",Philadelphia,NULL,Pennsylvania,"United States",29.50,1865-05-05
+1147,"G. Raphael",Philadelphia,NULL,Pennsylvania,"United States",10.00,1865-05-17
+1148,"G. Raphael",Philadelphia,NULL,Pennsylvania,"United States",34.45,1865-11-07
+1149,"Thomas Roberts",Panora,NULL,Iowa,"United States",264.50,1865-04-25
+1150,"H. Brewster",Rochester,NULL,"New York","United States",17.25,1865-04-26
+1151,"J. Smart","Port Hope",NULL,Ontario,Canada,26.00,1865-04-26
+1152,"A.S. Rich",Buffalo,NULL,"New York","United States",9.75,1865-04-25
+1153,"A. Hagar",Buffalo,NULL,"New York","United States",3.68,1865-04-25
+1154,"Hiram Curtis",Albion,NULL,"New York","United States",7.38,1865-04-25
+1155,"A.J. Coe","West Meriden",NULL,Connecticut,"United States",18.75,1865-04-25
+1156,"Charles Osborne","North Vassalboro",NULL,Maine,"United States",19.75,1865-04-25
+1157,"Samuel Brace","New Haven",NULL,Connecticut,"United States",2.75,1865-04-25
+1158,"J.C. Sterling",Watertown,NULL,"New York","United States",13.43,1865-04-25
+1159,"D.H. Tuthill",Elmira,NULL,"New York","United States",5.25,1865-04-25
+1160,"Henry Martin",Buffalo,NULL,"New York","United States",17.63,1865-04-25
+1161,"Thomas B. Merritt","St. Catharines",NULL,Ontario,Canada,4.15,1865-04-25
+1162,"Edward Adams",London,NULL,Ontario,Canada,6.50,1865-04-25
+1163,"Mrs. J. Frost",Geneva,NULL,"New York","United States",6.25,1865-04-25
+1164,"Mrs. J. Frost",Geneva,NULL,"New York","United States",5.25,1865-06-13
+1165,"C.W. Carpenter","St. Paul",NULL,Minnesota,"United States",11.25,1865-04-26
+1166,"H.C. Martin",Brunswick,NULL,Maine,"United States",15.95,1865-04-26
+1167,"H.C. Martin",Brunswick,NULL,Maine,"United States",4.05,1865-04-05
+1168,"F.H. Bicknell","North Tunbridge",NULL,Vermont,"United States",29.05,1865-04-26
+1169,"J.F. Townsend",Westfield,NULL,"New York","United States",5.00,1865-04-26
+1170,"Mrs. C. Pierson",Jordan,NULL,"New York","United States",3.00,1865-04-26
+1171,"F.B. Faucher",Lansingburgh,NULL,"New York","United States",31.90,1865-04-26
+1172,"John E. Mole",NULL,NULL,Massachusetts,"United States",3.75,1865-04-26
+1173,"C.W. Ensign",Madison,NULL,Ohio,"United States",8.30,1865-04-26
+1174,"James Murray",Ogdensburg,NULL,"New York","United States",10.09,1865-04-26
+1175,"James Murray",Ogdensburg,NULL,"New York","United States",1.41,1865-04-28
+1176,"James Murray",Ogdensburg,NULL,"New York","United States",32.70,1865-05-08
+1177,"W.B. Farrell",Chicago,NULL,Illinois,"United States",20.00,1865-04-26
+1178,"W.B. Farrell",Chicago,NULL,Illinois,"United States",3.84,1865-05-09
+1179,"Isaiah Blood","Ballston Spa",NULL,"New York","United States",11.60,1865-04-26
+1180,"Dr. A.E. Ames",Minneapolis,NULL,Minnesota,"United States",6.25,1865-04-26
+1181,"Joshua Pierce","Washington D.C.",NULL,DC,"United States",7.50,1865-04-26
+1182,"William T. Stackpole",Tidioute,NULL,Pennsylvania,"United States",17.90,1865-04-26
+1183,"Samuel L. Bronson","New Haven",NULL,Connecticut,"United States",6.50,1865-04-26
+1184,"Mrs E. Sourbeck",Alliance,NULL,Ohio,"United States",3.00,1865-04-26
+1185,"E.A. Matthieson",Newburgh,NULL,"New York","United States",19.05,1865-04-26
+1186,"John Girvin",Rochester,NULL,"New York","United States",3.00,1865-04-27
+1187,"Daniel Leary",Rochester,NULL,"New York","United States",5.95,1865-04-27
+1188,"Mrs. C.J. Hawkins",Rochester,NULL,"New York","United States",7.30,1865-04-27
+1189,"Mrs. J.C.C. Gibbs",Livonia,NULL,"New York","United States",6.45,1865-04-27
+1190,"F.C. Lathrop","Le Roy",NULL,"New York","United States",4.75,1865-04-27
+1191,"S.B. Howell",NULL,NULL,"New York","United States",3.68,1865-04-27
+1192,"George B. White","Union Springs",NULL,"New York","United States",3.00,1865-04-27
+1193,"T.M. Perrine",Aurora,NULL,Illinois,"United States",16.00,1865-04-27
+1194,"D.H. Odell",Brant,NULL,"New York","United States",6.00,1865-04-27
+1195,"S.H. Worthington",Buffalo,NULL,"New York","United States",4.80,1865-04-28
+1196,"S.H. Worthington",Buffalo,NULL,"New York","United States",5.50,1865-09-18
+1197,"G.W. Holt",Westfield,NULL,"New York","United States",4.00,1865-04-27
+1198,"E.B. Benjamin Jr.","Pleasant Mount",NULL,Pennsylvania,"United States",15.00,1865-04-27
+1199,"E.B. Benjamin Jr.","Pleasant Mount",NULL,Pennsylvania,"United States",28.50,1865-11-04
+1200,"J. Christie","Jersey City",NULL,"New Jersey","United States",15.75,1865-04-28
+1201,"Jac. Flick","Sharon Springs",NULL,"New York","United States",26.23,1865-04-28
+1202,"C.S. Munson",Bucyrus,NULL,Ohio,"United States",7.00,1865-04-28
+1203,"Jacob Brougham",Root,NULL,"New York","United States",5.00,1865-04-29
+1204,"G. Vroman",Lowville,NULL,"New York","United States",13.50,1865-04-29
+1205,"E.B. La Rue",Hammondsport,NULL,"New York","United States",9.50,1865-04-29
+1206,"Mrs. A.H. Embler",Windsor,NULL,Connecticut,"United States",3.25,1865-04-29
+1207,"B. Kittridge",Peekskill,NULL,"New York","United States",26.20,1865-04-29
+1208,"B. Kittridge",Peekskill,NULL,"New York","United States",37.55,1865-11-06
+1209,"C.H. Decker","Liberty Falls",NULL,"New York","United States",2.87,1865-04-29
+1210,"F.M. Cowles",Lansing,NULL,Michigan,"United States",3.37,1865-04-29
+1211,"Mrs. Frederick T. Strong",Watertown,NULL,"New York","United States",13.45,1865-04-29
+1212,"Silas Folsom",Attica,NULL,"New York","United States",8.25,1865-04-29
+1213,"J.A. Plattman",Erie,NULL,Pennsylvania,"United States",21.50,1865-04-29
+1214,"Dr. B.F. Gilkeson",Rochester,NULL,"New York","United States",1.70,1865-04-29
+1215,"B. Hathaway","Little Prairie Ronde",NULL,Michigan,"United States",24.75,1865-04-27
+1216,"B. Hathaway","Little Prairie Ronde",NULL,Michigan,"United States",0.75,1865-05-10
+1217,"William Potkora",Albany,NULL,"New York","United States",19.90,1865-04-27
+1218,"Mrs. M.A. McEwen",Columbus,NULL,Indiana,"United States",7.00,1865-05-01
+1219,"George Loveridge",Churchville,NULL,"New York","United States",7.00,1865-05-01
+1220,"W.H. Wilson",Jackson,NULL,Michigan,"United States",6.36,1865-05-01
+1221,"John Loud",Egypt,NULL,"New York","United States",3.50,1865-05-04
+1222,"L.B. Grover",Rochester,NULL,"New York","United States",8.35,1865-05-01
+1223,"Mrs. L. Hubbleman",Avon,NULL,"New York","United States",6.75,1865-05-01
+1224,"Mrs. G.W. Wellner",Auburn,NULL,"New York","United States",2.00,1865-05-01
+1225,"F.W. Sargent","Mount Vernon",NULL,"New York","United States",28.50,1865-04-26
+1226,"Austin Hurd and Co",Dansville,NULL,"New York","United States",41.25,1865-04-26
+1227,"J.C. Hughes",Scio,NULL,"New York","United States",25.25,1865-04-26
+1228,"J.C. Hughes",Scio,NULL,"New York","United States",7.58,1865-10-02
+1229,"H.M. Singer",Lemont,NULL,Illinois,"United States",27.75,1865-04-26
+1230,"Edward G. Hyde",Pittsburgh,NULL,Pennsylvania,"United States",74.00,1865-11-07
+1231,"A.C. Heath","New York City",NULL,"New York","United States",31.85,1865-04-26
+1232,"N. Robler","Fort Ann",NULL,"New York","United States",30.00,1865-04-26
+1233,"D. H.S. Haskell",Alton,NULL,Illinois,"United States",34.50,1865-04-27
+1234,"James Laselle","New York City",NULL,"New York","United States",31.95,1865-04-27
+1235,"William Gordon","St. Helens",NULL,Ontario,Canada,34.80,1865-04-27
+1236,"John P. Wiswall",Watervliet,NULL,"New York","United States",69.53,1865-04-27
+1237,"Thomas F. Croft",Scarborough,NULL,"New York","United States",56.25,1865-04-29
+1238,"P. Shaughnessy","Rock Island",NULL,Illinois,"United States",114.75,1865-04-29
+1239,"John M. Finch",Hornellsville,NULL,"New York","United States",160.15,1865-05-03
+1240,"John M. Finch",Hornellsville,NULL,"New York","United States",34.00,1865-05-12
+1241,"L.M. Warner",Cobleskill,NULL,"New York","United States",35.85,1865-05-01
+1242,"A. Pinsoneault",Montreal,NULL,Quebec,Canada,39.25,1865-05-01
+1243,"Richard F.C. Ellis",Rochester,NULL,"New York","United States",3.00,1865-05-02
+1244,"Richard F.C. Ellis",Rochester,NULL,"New York","United States",1.75,1865-06-14
+1245,"Richard F.C. Ellis",Rochester,NULL,"New York","United States",2.50,1865-06-15
+1246,"Richard F.C. Ellis",Rochester,NULL,"New York","United States",4.50,1865-12-26
+1247,"Charles F. Bingham","Port Hope",NULL,Ontario,Canada,32.00,1865-05-03
+1248,"Alexander Mitchell",Milwaukee,NULL,Wisconsin,"United States",22.25,1865-05-05
+1249,"P.M. Crandall",Rochester,NULL,"New York","United States",6.00,1865-05-06
+1250,"P.M. Crandall",Rochester,NULL,"New York","United States",6.00,1865-05-09
+1251,"P.M. Crandall",Rochester,NULL,"New York","United States",9.00,1865-10-25
+1252,"J.A. Crawford",Corfu,NULL,"New York","United States",107.25,1865-05-11
+1253,"Samuel Sinclair",Rochester,NULL,"New York","United States",41.50,1865-05-12
+1254,"A.F. Lynch",Elgin,NULL,Illinois,"United States",43.00,1865-05-20
+1255,"William Knapp",Rochester,NULL,"New York","United States",18.25,1865-05-30
+1256,"William Knapp",Rochester,NULL,"New York","United States",3.50,1865-06-28
+1257,"William Addis",Springfield,NULL,Ohio,"United States",18.50,1865-05-02
+1258,"Mrs. William Brewster",Rochester,NULL,"New York","United States",3.00,1865-05-02
+1259,"Samuel Forser",Dayton,NULL,Ohio,"United States",16.60,1865-05-02
+1260,"J.A. Falk",Chicago,NULL,Illinois,"United States",4.00,1865-04-03
+1261,"R. Lauderdale",Cleveland,NULL,Ohio,"United States",20.66,1865-05-03
+1262,"D.C. Haynes","St. Catharines",NULL,Ontario,Canada,6.75,1865-05-03
+1263,"G.P. Linsley",Millville,NULL,"New York","United States",5.00,1865-05-03
+1264,"James Brackett",Rochester,NULL,"New York","United States",7.00,1865-05-03
+1265,"Miss H.C. Willard",Galesburg,NULL,Illinois,"United States",1.50,1865-05-04
+1266,"Rufus Reed",Newark,NULL,"New York","United States",5.52,1865-05-04
+1267,"Mrs. E.B. Hamilton","New York City",NULL,"New York","United States",7.12,1865-05-05
+1268,"S. McCarragher",Moscow,NULL,Pennsylvania,"United States",7.85,1865-05-05
+1269,"H. Watrous",Ogdensburg,NULL,"New York","United States",4.10,1865-05-06
+1270,"Captain Verner",Clifton,NULL,Ontario,Canada,6.50,1865-05-08
+1271,"John Tanner",Riverton,NULL,"New Jersey","United States",12.85,1865-05-08
+1272,"Daniel Morse",Lockport,NULL,"New York","United States",14.00,1865-05-08
+1273,"D.W. Raymonds",Conneaut,NULL,Ohio,"United States",6.75,1865-05-10
+1274,"Miller and Greiner",Buffalo,NULL,"New York","United States",7.00,1865-05-10
+1275,"Miller and Greiner",Buffalo,NULL,"New York","United States",36.25,1865-11-07
+1276,"Miller and Griener",Buffalo,NULL,"New York","United States",7.05,1865-11-13
+1277,"Jacob F. Hayen",Buffalo,NULL,"New York","United States",5.00,1865-05-10
+1278,"J.E. Turner",Binghamton,NULL,"New York","United States",5.00,1865-05-10
+1279,"Christian Schurz",Monee,NULL,Illinois,"United States",4.25,1865-05-11
+1280,"Charles T. Coit",Buffalo,NULL,"New York","United States",7.00,1865-05-11
+1281,"Isaac C. Hair",Rochester,NULL,"New York","United States",3.25,1865-05-13
+1282,"Honorable William Sheppard",Drummondville,NULL,Quebec,Canada,5.00,1865-05-13
+1283,"A.B. Riford and Co.",Woodstock,NULL,Illinois,"United States",11.50,1865-05-13
+1284,"E.H. Raymond",Rochester,NULL,"New York","United States",6.50,1865-05-13
+1285,"Isaac S. Bush",Chicago,NULL,Illinois,"United States",4.25,1865-05-15
+1286,"Ira M. Randall",Churchville,NULL,"New York","United States",29.00,1865-05-15
+1287,"William O. Pettit",Wilson,NULL,"New York","United States",3.25,1865-05-16
+1288,"C.R. Parmelee",Olivet,NULL,Michigan,"United States",12.00,1865-05-22
+1289,"Mrs. J.L. Reid",Rochester,NULL,"New York","United States",6.00,1865-05-22
+1290,"Reverend W.A. Niles",Corning,NULL,"New York","United States",2.75,1865-05-24
+1291,"L.P. Alexander",Buchanan,NULL,Michigan,"United States",5.00,1865-05-25
+1292,"Levi J. Merrick",Milwaukee,NULL,Wisconsin,"United States",10.00,1865-05-27
+1293,"H.P. Langworthy",Rochester,NULL,"New York","United States",5.00,1865-05-27
+1294,"E.F. Cooper",Watertown,NULL,"New York","United States",3.50,1865-06-02
+1295,"Mrs. A. Hills",Canandaigua,NULL,"New York","United States",2.25,1865-06-05
+1296,"Mrs Joseph Hall",Rochester,NULL,"New York","United States",1.75,1865-06-10
+1297,"George Stevens",Greenfield,NULL,Massachusetts,"United States",10.00,1865-06-12
+1298,"John Chorlton",Rochester,NULL,"New York","United States",14.50,1865-06-13
+1299,"G.H. Mumford Jr. ",Rochester,NULL,"New York","United States",1.50,1865-06-13
+1300,"Samuel Hill",Northhampton,NULL,Massachusetts,"United States",1.75,1865-06-13
+1301,"George Palmer",Rochester,NULL,"New York","United States",6.00,1865-06-19
+1302,"C.C.H. Miller",Rochester,NULL,"New York","United States",2.00,1865-06-27
+1303,"Thomas Burk","Niagara Falls",NULL,Ontario,Canada,5.55,1865-10-29
+1305,"George Palmer",Rochester,NULL,"New York","United States",6.00,1865-06-19
+1306,"C.C.H. Miller",Rochester,NULL,"New York","United States",2.00,1865-06-27
+1307,"Thomas Burk","Niagara Falls",NULL,Ontario,Canada,5.55,1865-10-29
+1308,"George H. Mumford",Rochester,NULL,"New York","United States",32.50,1865-05-05
+1309,"George H. Mumford",Rochester,NULL,"New York","United States",2.00,1865-05-09
+1310,"George H. Mumford",Rochester,NULL,"New York","United States",9.00,1865-05-11
+1311,"George H. Mumford",Rochester,NULL,"New York","United States",2.25,1865-05-22
+1312,"George H. Mumford",Rochester,NULL,"New York","United States",3.25,1865-06-27
+1313,"George H. Mumford",Rochester,NULL,"New York","United States",2.62,1865-07-06
+1314,"George H. Mumford",Rochester,NULL,"New York","United States",2.25,1865-07-13
+1315,"James Vick",Rochester,NULL,"New York","United States",1.40,1865-05-10
+1316,"James Vick",Rochester,NULL,"New York","United States",0.50,1865-06-12
+1317,"James Vick",Rochester,NULL,"New York","United States",2.25,1865-10-03
+1318,"James Vick",Rochester,NULL,"New York","United States",2.00,1865-10-19
+1319,"Mrs. W.H. Perkins",Rochester,NULL,"New York","United States",0.60,1865-06-08
+1320,"Mrs. W.H. Perkins",Rochester,NULL,"New York","United States",1.00,1865-06-26
+1321,"Mrs. W.H. Perkins",Rochester,NULL,"New York","United States",1.00,1865-07-18
+1322,"Mrs. W.H. Perkins",Rochester,NULL,"New York","United States",4.00,1865-08-08
+1324,"Mrs. W.H. Perkins",Rochester,NULL,"New York","United States",0.50,1865-09-16
+1325,"Mrs. W.H. Perkins",Rochester,NULL,"New York","United States",1.00,1865-09-16
+1326,"Mrs. W.H. Perkins",Rochester,NULL,"New York","United States",1.00,1865-11-04
+1327,"Mrs. W.H. Perkins",Rochester,NULL,"New York","United States",3.50,1865-11-06
+1328,"F.C. Schoen",Rochester,NULL,"New York","United States",32.77,1865-07-20
+1329,"F.C. Schoen",Rochester,NULL,"New York","United States",10.12,1865-07-21
+1330,"F.C. Schoen",Rochester,NULL,"New York","United States",9.52,1865-07-22
+1331,"F.C. Schoen",Rochester,NULL,"New York","United States",12.45,1865-07-24
+1332,"F.C. Schoen",Rochester,NULL,"New York","United States",10.60,1865-07-25
+1333,"F.C. Schoen",Rochester,NULL,"New York","United States",7.63,1865-07-28
+1334,"F.C. Schoen",Rochester,NULL,"New York","United States",23.77,1865-08-04
+1335,"F.C. Schoen",Rochester,NULL,"New York","United States",3.30,1865-08-05
+1336,"F.C. Schoen",Rochester,NULL,"New York","United States",25.35,1865-08-07
+1337,"F.C. Schoen",Rochester,NULL,"New York","United States",8.10,1865-12-22
+1338,"Levi S. Fulton",Rochester,NULL,"New York","United States",3.60,1865-05-13
+1339,"William Simpson",Amsterdam,NULL,"New York","United States",0.50,1865-06-27
+1340,"William Niles",Davenport,NULL,Iowa,"United States",20.00,1865-07-17
+1341,"William Niles",Davenport,NULL,Iowa,"United States",339.44,1865-10-17
+1342,"S. McKinney",Vineland,NULL,"New Jersey","United States",100.00,1865-10-06
+1343,"Dr. W.W. Ely",Rochester,NULL,"New York","United States",6.00,1865-09-19
+1344,"Dr. W.W. Ely",Rochester,NULL,"New York","United States",13.40,1865-09-29
+1345,"H. Kountz",Omaha,NULL,Nebraska,"United States",50.00,1865-10-03
+1346,"Col. S.B. Holabird",Amenia,NULL,"New York","United States",40.50,1865-11-03
+1357,"C.H. Dunham",Bridgewater,NULL,Massachusetts,"United States",127.35,1865-11-02
+1358,"John T. Foote",Morristown,NULL,"New Jersey","United States",145.00,1865-11-04
+1359,"A.S. Hall",Vineland,NULL,"New Jersey","United States",127.00,1865-11-02
+1360,"R.J. Black",Bremen,NULL,Ohio,"United States",40.65,1865-11-07
+1361,"R.J. Black",Bremen,NULL,Ohio,"United States",53.75,1865-11-30
+1362,"Reverend O.J. King",Keosauqua,NULL,Iowa,"United States",0.75,1865-11-28
+1363,"J.H. Dunham",Chicago,NULL,Illinois,"United States",28.00,1865-12-08
+1364,"J.R. Graves",Magnolia,NULL,Mississippi,"United States",89.50,1865-12-13
+1365,"George Gorham",Auburn,NULL,"New York","United States",3.00,1865-12-21
+1366,"George Gorham",Auburn,NULL,"New York","United States",3.00,1865-12-25
+1367,"W.H. Crawford",Washington,NULL,Utah,"United States",1.70,1865-07-05
+1368,"N.B. Ellison",Rochester,NULL,"New York","United States",10.85,1865-07-06
+1369,"Professor M.B. Anderson",Rochester,NULL,"New York","United States",4.00,1865-07-13
+1370,"E.T. Hollister",Alton,NULL,Illinois,"United States",1.50,1865-07-19
+1371,"E.T. Hollister",Alton,NULL,Illinois,"United States",1.00,1865-11-30
+1372,"E.C. Smith",Rochester,NULL,"New York","United States",9.50,1865-07-20
+1373,"J.W. Gray",Albion,NULL,"New York","United States",3.00,1865-08-01
+1374,"James Cunningham",Rochester,NULL,"New York","United States",6.00,1865-08-08
+1375,"H.C. Wisner",Rochester,NULL,"New York","United States",6.00,1865-09-09
+1376,"Sidney Meeker","Fort Ann",NULL,"New York","United States",71.00,1865-10-19
+1377,"A. Young",Loveland,NULL,Ohio,"United States",20.00,1865-12-09
+1378,"Reverend A. Van De Braak",Buffalo,NULL,"New York","United States",5.25,1865-12-14
+1379,"W.S. Sharp",Salem,NULL,"New Jersey","United States",4.00,1865-12-18
+1380,"M. Griswold",Wellington,NULL,Ohio,"United States",4.00,1865-12-20
+1381,"Lyman Munger",Rochester,NULL,"New York","United States",6.00,1865-12-21
+1382,"Mrs. Thomas Hawks",Rochester,NULL,"New York","United States",5.00,1865-12-23
+1383,"Branch and Cutts",Orwell,NULL,Vermont,"United States",2.00,1865-12-04
+1384,"Nelson Chapin",Auburn,NULL,"New York","United States",1.00,1865-12-14
+1385,"J.B. Witter",Republic,NULL,Ohio,"United States",0.93,1865-12-14
+1386,"Duncan McLaren",Franktown,NULL,Ontario,Canada,0.95,1865-12-14
+1387,"Eden Reed",Joliet,NULL,Illinois,"United States",0.94,1865-12-18
+1388,"S.P. and William Southwick","Walnut Fork",NULL,Iowa,"United States",29.75,1865-12-23
+1389,"S. Estes",Milford,NULL,"New York","United States",0.95,1865-12-30
+1390,"H.B. Baxter","Purdy Creek",Steuben,"New York","United States",1.00,1865-08-28
+1391,"Sidney B. Roby",Rochester,NULL,"New York","United States",4.50,1865-09-01
+1392,"Sidney B. Roby",Rochester,NULL,"New York","United States",14.50,1865-09-01
+1393,"Sidney B. Roby",Rochester,NULL,"New York","United States",0.75,1865-11-02
+1394,"Sidney B. Roby",Rochester,NULL,"New York","United States",23.25,1865-11-02
+1395,"Sidney B. Roby",Rochester,NULL,"New York","United States",2.25,1865-12-08
+1396,"T.D. Ramsdell and Co.",Adrian,NULL,Michigan,"United States",20.85,1865-09-13
+1397,"T.D. Ramsdell and Co.",Adrian,NULL,Michigan,"United States",2.75,1865-10-04
+1398,"T.D. Ramsdell and Co.",Adrian,NULL,Michigan,"United States",47.50,1865-10-13
+1399,"Charles A. Boynton",Vineland,NULL,"New Jersey","United States",1251.07,1865-10-28
+1400,"Roberts and Smith",Panora,NULL,Iowa,"United States",1310.26,1865-10-21
+1401,"Washburn and Mann",Randolph,NULL,Vermont,"United States",1.65,1865-10-19
+1402,"A. Hance and Son","Red Bank",NULL,"New Jersey","United States",305.50,1865-11-04
+1403,"McNair and Jordan",Davenport,NULL,Iowa,"United States",4.50,1865-11-09
+1404,"McNair and Jordan",Davenport,NULL,Iowa,"United States",3.00,1865-12-04
+1405,"Frost and Co.",Rochester,NULL,"New York","United States",7.60,1865-09-04
+1406,"Frost and Co.",Rochester,NULL,"New York","United States",12.23,1865-09-27
+1407,"Frost and Co.",Rochester,NULL,"New York","United States",1.80,1865-09-29
+1408,"Frost and Co.",Rochester,NULL,"New York","United States",27.83,1865-10-04
+1409,"Frost and Co.",Rochester,NULL,"New York","United States",17.65,1865-10-10
+1410,"Frost and Co.",Rochester,NULL,"New York","United States",12.00,1865-10-10
+1411,"Frost and Co.",Rochester,NULL,"New York","United States",6.00,1865-10-17
+1412,"Frost and Co.",Rochester,NULL,"New York","United States",2.10,1865-10-23
+1413,"Frost and Co.",Rochester,NULL,"New York","United States",0.60,1865-11-13
+1414,"H.E. Hooker and Co.",Rochester,NULL,"New York","United States",500.00,1865-09-27
+1415,"H.E. Hooker and Co.",Rochester,NULL,"New York","United States",13.13,1865-09-28
+1416,"H.E. Hooker and Co.",Rochester,NULL,"New York","United States",2.50,1865-10-10
+1417,"H.E. Hooker and Co.",Rochester,NULL,"New York","United States",15.66,1865-10-10
+1418,"H.E. Hooker and Co.",Rochester,NULL,"New York","United States",9.20,1865-11-09
+1419,"H.E. Hooker and Co.",Rochester,NULL,"New York","United States",16.93,1865-11-15
+1420,"Dicksons and Co.",Edinburgh,NULL,NULL,Scotland,638.04,1865-12-31
+1421,"John Palmer and Son",Annan,NULL,NULL,Scotland,42.50,1865-03-10

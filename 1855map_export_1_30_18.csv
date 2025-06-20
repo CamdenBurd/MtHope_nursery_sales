@@ -1,0 +1,1899 @@
+ID,Name,City,County,State,Country,Amount,Date
+4,"Alfred McVeigh",Lancaster,,Ohio,"United States",3.75,1855-01-02
+5,"P.B. Ewing",Lancaster,,Ohio,"United States",30.00,1855-01-02
+6,"P.B. Ewing",Lancaster,,Ohio,"United States",50.00,1855-01-02
+7,"R. Paterson",Picqua,,Ohio,"United States",10.00,1855-01-02
+8,"John Small",Woodstock,,Ontario,Canada,8.90,1855-01-06
+9,"John H. Babcock",Rochester,,"New York","United States",3.00,1855-01-01
+10,"J. Domelaw & Nephews",Rochester,,"New York","United States",18.50,1855-01-01
+11,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",5.00,1855-01-05
+12,"S.B. Robey & Co.",Rochester,,"New York","United States",28.00,1855-01-17
+13,"George G. Hikes",Louisville,,Kentucky,"United States",12.00,1855-01-17
+14,"John W. Ladd","Oregon City",,Oregon,"United States",2.22,1855-01-17
+15,"G.H. Perkins",Rochester,,"New York","United States",4.00,1855-01-25
+16,"A. Frost & Co.",Rochester,,"New York","United States",2.50,1855-01-30
+17,"Henry Musselman",Florence,,Alabama,"United States",2.00,1855-01-12
+18,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",16.75,1855-01-12
+19,"Brown & Ellis","New York City",,"New York","United States",10.00,1855-01-17
+20,"S. Nicholson & Co.",Cleveland,,Ohio,"United States",4.25,1855-01-18
+21,"H. Hagan","Yazoo City",,Mississippi,"United States",22.12,1855-01-20
+22,"Henry D. Rice",Owego,,"New York","United States",0.50,1855-01-22
+23,"C. Kelly & Co.",Hamilton,,Ontario,Canada,32.50,1855-01-22
+24,"George Merion",Columbus,,Ohio,"United States",4.75,1855-01-22
+25,"John W. Ladd","Oregon City",,Oregon,"United States",9.64,1855-01-25
+26,"W.A. Whitfield","St. Louis",,Missouri,"United States",10.00,1855-01-25
+27,"Leander Dascomb","Madison ",Lake,Ohio,"United States",29.85,1855-01-25
+28,"D. Reidmont",Augusta,,Georgia,"United States",1.00,1855-01-29
+29,"A. Frost & Co.",Rochester,,"New York","United States",0.12,1855-01-31
+30,"William L. Paul",Millersburg,,Pennsylvania,"United States",1.00,1855-01-29
+31,"C.J. Ryan & Co.",Rochester,,"New York","United States",32.00,1855-02-02
+32,"G.H. Perkins",Rochester,,"New York","United States",1.50,1855-02-08
+33,"G.H. Perkins",Rochester,,"New York","United States",5.00,1855-02-14
+34,"George Munger",Rochester,,"New York","United States",3.00,1855-02-14
+35,"G.H. Perkins",Rochester,,"New York","United States",4.00,1855-02-19
+36,"Hovey & Co.",Boston,,Massachusetts,"United States",1.50,1855-02-19
+37,"D.J. Thurston",Adrian,,Michigan,"United States",12.25,1855-02-19
+38,"J. Domelaw & Nephews",Rochester,,"New York","United States",5.00,1855-02-19
+39,"Jacob Weaver",Darbeyville,Pickaway,Ohio,"United States",24.00,1855-02-05
+40,"A.L. Clark",Circleville,,Ohio,"United States",24.00,1855-02-05
+41,"C. Kelly & Co.",Hamilton,,Ontario,Canada,1.00,1855-02-17
+42,"A.E. & S.L. Wilcox",Flint,,Michigan,"United States",102.00,1855-02-17
+43,"William Pierce","Jackson Ferry",,Virginia,"United States",4.29,1855-02-17
+44,"H.G. Woodward",Beloit,,Wisconsin,"United States",9.50,1855-02-20
+45,"W.H. Perkins",Rochester,,"New York","United States",0.75,1855-02-20
+46,"J.H. Pierce",Dayton,,Ohio,"United States",6.38,1855-02-20
+47,"Edward Dagge",Rochester,,"New York","United States",32.00,1855-02-10
+48,illegible,Rochester,,"New York","United States",13.50,1855-02-10
+49,"Thomas Billslaud",Rochester,,"New York","United States",2.50,1855-02-10
+50,"J. Domelaw & Nephews",Rochester,,"New York","United States",1.58,1855-03-02
+51,"George Ellwanger",Rochester,,"New York","United States",44.00,1855-03-02
+52,"Patrick Barry",Rochester,,"New York","United States",46.00,1855-03-02
+53,"P.R. Fruoff",Auburn,,"New York","United States",3.00,1855-03-02
+54,"R.S. Batiles",Girard,,Pennsylvania,"United States",4.05,1855-03-03
+55,"Thomas Billslaud",Rochester,,"New York","United States",4.50,1855-03-03
+56,"Edward Dagge",Rochester,,"New York","United States",17.50,1855-03-03
+57,"William McKinley",Harmony,,Illinois,"United States",9.25,1855-03-06
+58,"Fraus Clymer",Galion,,Ohio,"United States",5.25,1855-03-06
+59,"E.G. Eggling",Richmond,,Virginia,"United States",18.50,1855-03-06
+60,"Hooker & Co.",Rochester,,"New York","United States",2.00,1855-03-08
+61,"Bissell & Hooker",Rochester,,"New York","United States",6.00,1855-03-08
+62,"H. Becker & Co.",Rochester,,"New York","United States",13.00,1855-03-10
+63,"G. Smith",NULL,,Kentucky,"United States",16.50,1855-03-10
+64,"Mrs. N.R. Haskill",Monroe,,Michigan,"United States",0.50,1855-03-10
+65,"J.V. Petticoles",Cincinnati,,Ohio,"United States",5.00,1855-03-12
+66,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",509.03,1855-03-17
+67,"L.E. Brown",Eminence,,Kentucky,"United States",8.77,1855-03-19
+68,"Jason Brown",Akron,,Ohio,"United States",2.24,1855-03-19
+69,"John J. Thomas",Macedon,,"New York","United States",75.15,1855-03-20
+70,"B.M. Watson",Plymouth,,Massachusetts,"United States",1.00,1855-03-21
+71,"Asa Anthony",Rochester,,"New York","United States",15.96,1855-03-23
+72,"James Orr",Springfield,,Illinois,"United States",9.25,1855-03-24
+73,"William Hart",Rochester,,"New York","United States",5.00,1855-03-24
+74,"Thomas Billslaud",Rochester,,"New York","United States",17.50,1855-03-24
+75,"Myron Hall",Batavia,,"New York","United States",50.00,1855-03-24
+76,"D. Danverse",Orleans,,NULL,France,10.08,1855-03-24
+77,"Desforse Thuillur",Orleans,,NULL,France,2.00,1855-03-24
+78,"G.H. Withers",Danville,,Kentucky,"United States",1.00,1855-03-24
+79,"George W. Campbell",Delaware,,Ohio,"United States",3.00,1855-03-24
+80,"G.D. Henderson",Granville,,Illinois,"United States",3.00,1855-03-24
+81,"Simon H. Ellis","New Moscow",,Ohio,"United States",10.00,1855-03-24
+82,"G.H. Withers",Danville,,Kentucky,"United States",154.09,1855-03-27
+83,"Thomas Allen",Winchester,,Virginia,"United States",6.50,1855-03-28
+84,"J.H. Mallory",Franklin,,Tennessee,"United States",60.00,1855-03-28
+85,"A. Frost & Co.",Rochester,,"New York","United States",0.50,1855-03-29
+86,"Selah Mathews",Rochester,,"New York","United States",1.00,1855-03-29
+87,"Bradley Bofs",Ellington,,"New York","United States",16.75,1855-03-31
+88,"Dexter Snow",Chicopee,,Massachusetts,"United States",3.00,1855-03-01
+89,"John Duff",Kingston,,Ontario,Canada,3.00,1855-03-01
+90,"Mrs. N.R. Haskill",Monroe,,Michigan,"United States",4.25,1855-03-10
+91,"A. Loomis",Byron,,"New York","United States",6.00,1855-03-15
+92,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",67.00,1855-03-15
+93,"G.H. Perkins",Rochester,,"New York","United States",5.00,1855-03-24
+94,"W.C. Wells",Lockport,,Illinois,"United States",1.00,1855-03-27
+95,"Thomas Allen",Winchester,,Virginia,"United States",4.50,1855-03-28
+96,"Thomas Rivers",Sawbridgeworth,,NULL,England,10.25,1855-03-28
+97,"Selah Mathews",Rochester,,"New York","United States",15.51,1855-03-30
+98,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",51.23,1855-04-04
+99,"A. Updegraff",Williamsport,,Pennsylvania,"United States",4.50,1855-04-05
+100,"John Duff",Kingston,,Ontario,Canada,4.50,1855-04-05
+101,"P.R. Fruoff",Auburn,,"New York","United States",9.75,1855-04-05
+102,"Dexter Snow",Chicopee,,Massachusetts,"United States",2.00,1855-04-06
+103,"J.J. Taylor",Princeton,,Illinois,"United States",6.25,1855-04-06
+104,"George Craft",Brookline,,Massachusetts,"United States",10.00,1855-04-06
+105,"R. Crangle",Wheeling,,"West Virginia","United States",7.84,1855-04-06
+106,"P.R. Fruoff",Auburn,,"New York","United States",1.25,1855-04-07
+107,"S. Moulson",Rochester,,"New York","United States",186.00,1855-04-07
+108,"George G. Hikes",Louisville,,Kentucky,"United States",21.00,1855-04-07
+109,"Lee Hull","Fort Madison",,Iowa,"United States",6.46,1855-04-07
+110,"J.H. Creighton",Columbus,,Ohio,"United States",0.12,1855-04-07
+111,"William King",Rochester,,"New York","United States",2.47,1855-04-09
+112,"A.J. Garner",Lena,,Illinois,"United States",60.54,1855-04-09
+113,"D.W. Powers",Rochester,,"New York","United States",2.00,1855-04-09
+114,"Eastman Colby",Brockport,,"New York","United States",1.75,1855-04-09
+115,"A.D. Briggs",Springfield,,Massachusetts,"United States",7.50,1855-04-10
+116,"L. Ellsworth & Co.",Naperville,,Illinois,"United States",17.60,1855-04-11
+117,"A. Covey",Penfield,,"New York","United States",6.25,1855-04-11
+118,"Andrew Erskine",Evansville,,Indiana,"United States",8.75,1855-04-11
+119,"Thomas Dowling","Terre Haute",,Indiana,"United States",71.57,1855-04-10
+120,"John Jay Smith",Philadelphia,,Pennsylvania,"United States",24.00,1855-04-11
+121,"Findlay & Dwire",Davenport,,Iowa,"United States",29.12,1855-04-11
+122,"Charles Gifford",Milwaukee,,Wisconsin,"United States",30.99,1855-04-11
+123,"A.J. Dean",Adrian,,Michigan,"United States",21.36,1855-04-12
+124,"M.L. Sullivant",Columbus,,Ohio,"United States",30.64,1855-04-12
+125,"August N. Fisher",Columbus,,Ohio,"United States",27.23,1855-04-12
+126,"Colby & Willey",Janesville,,Wisconsin,"United States",46.25,1855-04-12
+127,"D.H. Kinney","Rock Island",,Illinois,"United States",36.00,1855-04-12
+128,"Asher Hance & John","Rock Island",,Illinois,"United States",7.50,1855-04-12
+129,"Joseph W. Plumly",Marietta,,Ohio,"United States",19.00,1855-04-12
+130,"Maurice Sanders",Chicopee,,Massachusetts,"United States",10.50,1855-04-12
+131,"Hobbs & Walker",Williamson,,Kentucky,"United States",94.50,1855-04-12
+132,"J.T. Little",Dixon,,Illinois,"United States",77.02,1855-04-12
+133,"Lewis Hauderson","Beersheba Springs",,Tennessee,"United States",5.50,1855-04-12
+134,"L.J. Rose",Keosauqua,,Iowa,"United States",105.85,1855-04-12
+135,"M. Grady & Carmichael",Nashville,,Tennessee,"United States",2.00,1855-04-13
+136,"William Resor",Cincinnati,,Ohio,"United States",54.00,1855-04-13
+137,"H.G. Woodward",Beloit,,Wisconsin,"United States",12.58,1855-04-13
+138,"George W. Robinson",Baldwinsville,,"New York","United States",7.17,1855-04-13
+139,"Henry Shaw","St. Louis",,Missouri,"United States",20.75,1855-04-13
+140,"J.D. Richardson",Buckeystown,,Maryland,"United States",9.00,1855-04-13
+141,"F. Drake & Co.",Racine,,Wisconsin,"United States",66.00,1855-04-13
+142,"E.B. & J.H. Drake",Janesville,,Wisconsin,"United States",13.32,1855-04-13
+143,"Jabey Capps & John","Mt. Pulaski",,Illinois,"United States",41.66,1855-04-13
+144,"Samuel Edwards","La Moille",,Illinois,"United States",694.27,1855-04-13
+145,"Selah Mathews",Rochester,,"New York","United States",5.50,1855-04-14
+146,"Samuel Craighead",Dayton,,Ohio,"United States",3.84,1855-04-14
+147,"F.K. Phoenix",Bloomington,,Illinois,"United States",342.03,1855-04-14
+148,"Mrs. Mary Carpenter",Bloomfield,,Iowa,"United States",69.27,1855-04-14
+149,"A.G. Hanford",Waukesha,,Wisconsin,"United States",16.37,1855-04-14
+150,"L.M. Ford & Co.","St. Paul",,Minnesota,"United States",218.10,1855-04-14
+151,"John Fleming",Pittsburgh,,Pennsylvania,"United States",19.88,1855-04-14
+152,"John Carlisle",Indianapolis,,Indiana,"United States",5.00,1855-04-16
+153,"Charles Reps",Keokuk,,Iowa,"United States",6.25,1855-04-16
+154,"D.C. Young",Joliet,,Illinois,"United States",8.25,1855-04-16
+155,"F. & H. Fry",Brockport,,"New York","United States",4.25,1855-04-16
+156,"William J. Price",Cleveland,,Ohio,"United States",14.50,1855-04-16
+157,"Dr. C.V. Jones",Covington,,Indiana,"United States",46.75,1855-04-16
+158,"David G. Scott",Dubuque,,Iowa,"United States",51.11,1855-04-17
+159,"Stephen Willson",Wellsboro,,Pennsylvania,"United States",7.63,1855-04-17
+160,"E.S. Cooper",Henderson,,Illinois,"United States",24.01,1855-04-17
+161,"August N. Fisher",Brighton,,"New York","United States",8.55,1855-04-17
+162,"James M. Clark",Baraboo,,Wisconsin,"United States",1.63,1855-04-17
+163,"Charles Denton",Milwaukee,,Wisconsin,"United States",65.13,1855-04-17
+164,"James Vick Jr.",Rochester,,"New York","United States",2.75,1855-04-17
+165,"George G. Lowry",Elizaville,,Kentucky,"United States",8.87,1855-04-17
+166,"Charles Mayer",Indianapolis,,Indiana,"United States",24.49,1855-04-17
+167,"C.C. Richtmeyer",Indianapolis,,Indiana,"United States",10.05,1855-04-18
+168,"N. Draper",Rochester,,"New York","United States",0.75,1855-04-18
+169,"William R. Harvey",Lockport,,"New York","United States",13.50,1855-04-18
+170,"Heaver & Egler",Cincinnati,,Ohio,"United States",16.75,1855-04-18
+171,"W.C. Larrabee",Greenwood,,Indiana,"United States",238.82,1855-04-18
+172,"H. & J. Brewer",Springfield,,Massachusetts,"United States",3.75,1855-04-18
+173,"Tripp & John",Waukegan,,Illinois,"United States",22.84,1855-04-18
+174,"J.R. Jones",Galena,,Illinois,"United States",22.95,1855-04-18
+175,"James Vick Jr.",Rochester,,"New York","United States",10.70,1855-04-18
+176,"C.J. Curtis",Fruitport,,Illinois,"United States",6.30,1855-04-18
+177,"Sarah L. Adams","St. Albans",,Vermont,"United States",11.30,1855-04-18
+178,"C. Kelly & Co.",Hamilton,,Ontario,Canada,36.89,1855-04-19
+179,"G.C. Knight","Olmsted Falls",,Ohio,"United States",11.00,1855-04-19
+180,"James G. Soulard",Galena,,Illinois,"United States",10.75,1855-04-19
+181,"John A. & Charles Kennicott","West Northfield",,Illinois,"United States",23.55,1855-04-19
+182,"M. Lewis & Co.",Chicago,,Illinois,"United States",94.00,1855-04-19
+183,"H.S. Abbey",Akron,,Ohio,"United States",1.87,1855-04-19
+184,"D. Chapman",Lyons,,"New York","United States",8.25,1855-04-19
+185,"Eli Nichols","Wolfpen Springs",,Ohio,"United States",31.47,1855-04-19
+186,"G.H. Smith","Battle Creek",,Michigan,"United States",3.00,1855-04-19
+187,"Colby & Willey",Janesville,,Wisconsin,"United States",16.12,1855-04-19
+188,"Gaylord & Bro",Elmira,,"New York","United States",21.00,1855-04-19
+189,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",28.00,1855-04-19
+190,"O. Hastings",Rochester,,"New York","United States",2.50,1855-04-20
+191,"Charles J. Hill",Rochester,,"New York","United States",2.50,1855-04-20
+192,"Gore & Holbrook",Freeport,,Maine,"United States",27.99,1855-04-20
+193,"W.H. Bogart",Aurora,,"New York","United States",2.50,1855-04-20
+194,"James Hyde & John","Newton Centre",,Massachusetts,"United States",13.50,1855-04-20
+195,"Francis Brown","New York City",,"New York","United States",54.25,1855-04-20
+196,"Charles Betts","Burr Oak",,Michigan,"United States",28.50,1855-04-20
+197,"J.W. Wheeler","Hyde Park",,"New York","United States",3.50,1855-04-20
+198,"Alfred Bridgeman","New York City",,"New York","United States",15.50,1855-04-20
+199,"Mathew Mackie",Clyde,,"New York","United States",25.00,1855-04-20
+200,"Horse & Stoughton",Cleveland,,Ohio,"United States",180.25,1855-04-20
+201,"Alonzo Child",Tarrytown,,"New York","United States",2.50,1855-04-20
+202,"G.H. Perkins",Rochester,,"New York","United States",5.00,1855-04-20
+203,"Judge Gardner",Rochester,,"New York","United States",9.75,1855-04-20
+204,"G.H. Roberts",Rochester,,"New York","United States",3.00,1855-04-20
+205,"A.E. & S.L. Wilcox",Flint,,Michigan,"United States",54.31,1855-04-20
+206,"August N. Fisher",Brighton,,"New York","United States",20.38,1855-04-20
+207,"H. Loomis",Byron,,"New York","United States",118.83,1855-04-20
+208,"W.H. Brinkerhoff",Jerome,,Ohio,"United States",7.25,1855-04-20
+209,"Charles Aldrich",Olean,,"New York","United States",4.00,1855-04-20
+210,"H. Jewell","Michigan City",,Indiana,"United States",13.50,1855-04-20
+211,"W.H. Hanford","Cuyahoga Falls",,Ohio,"United States",4.50,1855-04-20
+212,"A. Thomson",Delaware,,Ohio,"United States",45.25,1855-04-20
+213,"E.N. Sill","Cuyahoga Falls",,Ohio,"United States",26.88,1855-04-20
+214,"W.H. Metcalf",Milwaukee,,Wisconsin,"United States",15.00,1855-04-20
+215,"James Paton",Canandaigua,,"New York","United States",6.00,1855-04-20
+216,"Joseph Perkins",Cleveland,,Ohio,"United States",17.00,1855-04-20
+217,"A. Downs","Seneca Falls",,"New York","United States",3.00,1855-04-20
+218,"Blasso & Adams",Rochester,,"New York","United States",4.12,1855-04-20
+219,"A. Callum",Meadville,,Pennsylvania,"United States",8.84,1855-04-20
+220,"G.W. Wishburne",Oshkosh,,Wisconsin,"United States",6.25,1855-04-20
+221,"E. Gazette","New York City",,"New York","United States",15.62,1855-04-20
+222,"William J. Hough",Syracuse,,"New York","United States",2.75,1855-04-20
+223,"Calvin Phelps","St. Catharines",,Ontario,Canada,29.84,1855-04-20
+224,"James Vick Jr.",Rochester,,"New York","United States",1.00,1855-04-20
+225,"St. Joseph's Church",Rochester,,"New York","United States",11.50,1855-04-20
+226,"William Tompkins",Germantown,,"New York","United States",23.51,1855-04-21
+227,"J.A. White",Girard,,Pennsylvania,"United States",26.54,1855-04-21
+228,"Henry W. Sargent",Fishkill,,"New York","United States",3.50,1855-04-21
+229,"John B. Dunham","New York City",,"New York","United States",9.84,1855-04-21
+230,"A. Loomis","Little Falls",,"New York","United States",7.50,1855-04-21
+231,"Charles Arnold",Paris,,Ontario,Canada,17.50,1855-04-21
+232,"Rev. H.B. Jessop","Port Burwell",,Ontario,Canada,21.25,1855-04-21
+233,"Joseph Price",Geneva,,"New York","United States",3.62,1855-04-21
+234,"W. Rogers",Cleveland,,Ohio,"United States",142.19,1855-04-21
+235,"H.P. Norton",Brockport,,"New York","United States",6.68,1855-04-21
+236,"A. Frost & Co.",Rochester,,"New York","United States",10.00,1855-04-23
+237,"Morse & Houghton",Cleveland,,Ohio,"United States",9.37,1855-04-23
+238,"Daul Mahoney",Saco,,Maine,"United States",124.24,1855-04-23
+239,"J.D. Humphreys",Toronto,,Ontario,Canada,22.58,1855-04-23
+240,"Charles W. Miles",Callicoon,,"New York","United States",4.75,1855-04-23
+241,"William Tompkins",Germantown,,"New York","United States",11.29,1855-04-23
+242,"M. Moore",Trenton,,"New York","United States",38.75,1855-04-23
+243,"C. Kelly & Co.",Hamilton,,Ontario,Canada,7.80,1855-04-23
+244,"John H. Ranch","New York City",,"New York","United States",73.75,1855-04-23
+245,"John West",Chicago,,Illinois,"United States",28.15,1855-04-23
+246,"James S. Bryden",Wellsboro,,Pennsylvania,"United States",40.63,1855-04-23
+247,"Dr. Plessner",Saginaw,,Michigan,"United States",45.35,1855-04-23
+248,"P.R. Fruoff",Auburn,,"New York","United States",7.00,1855-04-23
+249,"Loomis & Whitmore",Byron,,"New York","United States",5.75,1855-04-23
+250,"Rev. Joseph McGlew",Scottsville,,"New York","United States",7.50,1855-04-23
+251,"John A. & Charles Kennicott","West Northfield",,"New York","United States",10.58,1855-04-23
+252,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",40.00,1855-04-23
+253,"T. Kerse",Cooperstown,,"New York","United States",5.50,1855-04-23
+254,"Abijah Reed",Hulberton,,"New York","United States",4.55,1855-04-23
+255,"D.D. Ives",Hamden,,Connecticut,"United States",11.46,1855-04-23
+256,"William Gooding",Lockport,,Illinois,"United States",73.42,1855-04-23
+257,"Benjamin Fish",Rochester,,"New York","United States",9.20,1855-04-24
+258,"Judge Gardner",Rochester,,"New York","United States",4.75,1855-04-24
+259,"C.W. Watson",Rochester,,"New York","United States",5.62,1855-04-24
+260,"John Gray",Toronto,,Ontario,Canada,5.16,1855-04-24
+261,"G.W. Eastman",Waterville,,"New York","United States",3.00,1855-04-24
+262,"G. Sootheran",Toronto,,Ontario,Canada,17.84,1855-04-24
+263,"H.L. Snydane",Geneva,,"New York","United States",4.25,1855-04-24
+264,"Fletcher Williams",Newark,,"New York","United States",63.00,1855-04-24
+265,"A.H. Comstock",Westfield,,"New York","United States",75.94,1855-04-24
+266,"W.J. Price",Cleveland,,Ohio,"United States",9.50,1855-04-24
+267,"J. Meagher",Kingston,,Ontario,Canada,3.25,1855-04-24
+268,"William Adair",Detroit,,Michigan,"United States",3.50,1855-04-24
+269,"August N. Fisher",Brighton,,"New York","United States",6.05,1855-04-24
+270,"J.W. Adams",Brockport,,"New York","United States",12.50,1855-04-24
+271,"Gideon Granger",Canandaigua,,"New York","United States",14.12,1855-04-24
+272,"Moses Long",Rochester,,"New York","United States",9.75,1855-04-24
+273,"F.H. Lathrop","Green Bay",,Wisconsin,"United States",4.37,1855-04-24
+274,"William King",Rochester,,"New York","United States",2.55,1855-04-25
+275,"Captain Wilder",Rochester,,"New York","United States",14.05,1855-04-25
+276,"A. Frost & Co.",Rochester,,"New York","United States",0.54,1855-04-25
+277,"Mrs. J.L. Ramsay","St. Catharines",,Ontario,Canada,20.25,1855-04-25
+278,"H. Becker & Co.",Watertown,,"New York","United States",7.50,1855-04-25
+279,"Jacob Henry",Albany,,"New York","United States",4.87,1855-04-25
+280,"Joseph P. Northover",Zanesville,,Ohio,"United States",3.32,1855-04-25
+281,"Thomas G. Gilman",Rochester,,"New York","United States",8.74,1855-04-25
+282,"F. Haight",Brockport,,"New York","United States",5.00,1855-04-25
+283,"H.N. Peck",Rochester,,"New York","United States",6.00,1855-04-25
+284,"August N. Fisher",Brighton,,"New York","United States",0.25,1855-04-25
+285,"L. Fairbanks",Whitley,,Ontario,Canada,6.62,1855-04-25
+286,"M. Kelly & Co.",Cincinnati,,Ohio,"United States",4.25,1855-04-25
+287,"J.S. Jillett","Penn Yan",,"New York","United States",2.50,1855-04-25
+288,"George S. Wilkes",Brantford,,Ontario,Canada,26.20,1855-04-25
+289,"S.B. Harrison",Toronto,,Ontario,Canada,18.75,1855-04-25
+290,"R.B. Warren",Alabama,,"New York","United States",1.80,1855-04-25
+291,"P.S. Van Nest",Romulus,,"New York","United States",15.83,1855-04-25
+292,"Jacob Brown",Rochester,,"New York","United States",5.00,1855-04-26
+293,"A.D. Gridley",Clinton,,"New York","United States",19.78,1855-04-26
+294,"William Langworthy","Seneca Falls",,"New York","United States",6.24,1855-04-26
+295,"Nighil Miller",Bellefontaine,,Ohio,"United States",83.80,1855-04-26
+296,"Horace Williams",Buffalo,,"New York","United States",7.50,1855-04-26
+297,"George T. Wright","Rexford Flats",,"New York","United States",5.00,1855-04-26
+298,"Morton C. Hunter",Bloomington,,Illinois,"United States",4.87,1855-04-26
+299,"E.P. Whitmore","New York City",,"New York","United States",15.12,1855-04-26
+300,"Dr. J.D. Commins",Akron,,Ohio,"United States",13.12,1855-04-26
+301,"James Paton",Canandaigua,,"New York","United States",8.49,1855-04-26
+302,"D.P. Newell",Rochester,,"New York","United States",8.12,1855-04-26
+303,"A. Frost & Co.",Rochester,,"New York","United States",0.94,1855-04-27
+304,"James Whitney",Rochester,,"New York","United States",3.00,1855-04-27
+305,"Mrs. G.H. Roberts",Rochester,,"New York","United States",2.25,1855-04-27
+306,"August N. Fisher",Rochester,,"New York","United States",2.23,1855-04-27
+307,"William Sloan",Woodstock,,Illinois,"United States",210.64,1855-04-27
+308,"William Webb",Buffalo,,"New York","United States",8.25,1855-04-27
+309,"M.W. Stevens",Flushing,,"New York","United States",65.60,1855-04-27
+310,"Edward Merrit",Pawling,,"New York","United States",5.25,1855-04-27
+311,"A. Frost & Co.",Rochester,,"New York","United States",3.00,1855-04-27
+312,"Peter Becker",Morris,,"New York","United States",27.03,1855-04-28
+313,"George H. Gilbert",Ware,,Massachusetts,"United States",5.00,1855-04-28
+314,"William H. Bogart",Aurora,,"New York","United States",2.50,1855-04-28
+315,"Sands Higinbotham",Oneida,,"New York","United States",3.00,1855-04-28
+316,"A.H. Comstock",Westfield,,"New York","United States",6.25,1855-04-28
+317,"A. Thomson",Delaware,,Ohio,"United States",5.50,1855-04-28
+318,"James Hair",Rochester,,"New York","United States",7.25,1855-04-30
+319,"J. Domelaw & Nephews",Rochester,,"New York","United States",1.50,1855-04-30
+320,"James Gregory",Rochester,,"New York","United States",16.13,1855-04-30
+321,"A. Frost & Co.",Rochester,,"New York","United States",6.00,1855-04-30
+322,"H.P. Norton",Brockport,,"New York","United States",10.92,1855-04-30
+323,"J.W. Adams",Brockport,,"New York","United States",9.63,1855-04-30
+324,"Frederick Gridley",Buffalo,,"New York","United States",9.49,1855-04-30
+325,"Joseph Caldwell",Troy,,"New York","United States",45.50,1855-04-30
+326,"M.W. Stevens",Flushing,,"New York","United States",5.10,1855-04-30
+327,"Peter Garlett",Medford,,"New York","United States",22.00,1855-04-30
+328,"C.E. Peck",Chicago,,Illinois,"United States",19.75,1855-04-30
+329,"Romante Heart",Rochester,,"New York","United States",3.37,1855-05-01
+330,"John J. Thomas",Macedon,,"New York","United States",1.86,1855-05-01
+331,"James McLallen",Trumansburg,,"New York","United States",8.00,1855-05-01
+332,"Samuel Brooks",Chicago,,Illinois,"United States",5.00,1855-05-01
+333,"F. Drake & Co.",Racine,,Wisconsin,"United States",9.37,1855-05-01
+334,"Thomas Billslaud",Rochester,,"New York","United States",2.00,1855-04-04
+335,"Charles Meyer",Adrian,,Michigan,"United States",4.25,1855-04-05
+336,"A. Updengraff",Williamsport,,Pennsylvania,"United States",19.75,1855-04-05
+337,"H. Wedge",Williamsport,,Pennsylvania,"United States",4.75,1855-04-05
+338,"A. Lee & Co.","St. Louis",,Missouri,"United States",17.25,1855-04-05
+339,"J.J. Taylor",Princeton,,Illinois,"United States",8.75,1855-04-06
+340,"Samuel Jackson",Kalamazoo,,Michigan,"United States",11.50,1855-04-06
+341,"R. Crangle",Wheeling,,"West Virginia","United States",23.00,1855-04-06
+342,"Jedediah Wooley",Joliet,,Illinois,"United States",3.00,1855-04-06
+343,"James S. Matson",Paris,,Kentucky,"United States",39.50,1855-04-07
+344,"Dudley B. Fuller","Hyde Park",,"New York","United States",26.50,1855-04-07
+345,"George G. Hikes",Louisville,,Kentucky,"United States",66.05,1855-04-07
+346,"William F. Bown",Montgomery,,Ohio,"United States",286.40,1855-04-07
+347,"Lee Hull","Fort Madison",,Iowa,"United States",17.50,1855-04-07
+348,"H.P. Byram",Louisville,,Kentucky,"United States",15.93,1855-04-07
+349,"William King",Rochester,,"New York","United States",14.50,1855-04-09
+350,"A.J. Garner",Lena,,Illinois,"United States",56.95,1855-04-09
+351,"Dr. Crane",Lena,,Illinois,"United States",1.75,1855-04-09
+352,"Joseph Caldwell",Troy,,"New York","United States",10.25,1855-04-09
+353,"Eastman Colby",Brockport,,"New York","United States",14.25,1855-04-09
+354,"Andrew Child",Milwaukee,,Wisconsin,"United States",21.00,1855-04-09
+355,"B.W. North",Poughkeepsie,,"New York","United States",4.00,1855-04-09
+356,"Thomas Rivers",Sawbridgeworth,,NULL,England,47.40,1855-04-09
+357,"J.H. Creighton",Columbus,,Ohio,"United States",7.22,1855-04-09
+358,"C.J. Ryan & Co.",Rochester,,"New York","United States",200.00,1855-04-10
+359,"H.H. Williams",Cincinnati,,Ohio,"United States",3.27,1855-04-10
+360,"R.J. Young","New York City",,"New York","United States",10.15,1855-04-10
+361,"John B. Garrett",Montgomery,,Alabama,"United States",12.50,1855-04-10
+362,"Hartman Kuhn",Philadelphia,,Pennsylvania,"United States",70.03,1855-04-10
+363,"Huggins & Scrivener",Glasgow,,Kentucky,"United States",56.51,1855-04-10
+364,"A. Covey",Penfield,,"New York","United States",32.20,1855-04-10
+365,"Dr. G.F. Pratt",Buffalo,,"New York","United States",20.00,1855-04-10
+366,"David Watson",Petersburg,,Virginia,"United States",29.75,1855-04-11
+367,"Andrew Erskine",Evansville,,Indiana,"United States",58.58,1855-04-11
+368,"William M. Howsly","Bowling Green",,Kentucky,"United States",177.79,1855-04-11
+369,"Thomas Dowling","Terre Haute",,Indiana,"United States",57.62,1855-04-11
+370,"Charles Gifford",Milwaukee,,Wisconsin,"United States",3.00,1855-04-11
+371,"August N. Fisher",Brighton,,"New York","United States",22.20,1855-04-12
+372,"A.J. Dean",Adrian,,Michigan,"United States",49.73,1855-04-12
+373,"M.L. Sullivant",Columbus,,Ohio,"United States",4.38,1855-04-12
+374,"August N. Fisher",Brighton,,"New York","United States",58.95,1855-04-12
+375,"Samuel S. Rogers",Burlington,,Wisconsin,"United States",40.00,1855-04-12
+376,"Colby & Willey",Janesville,,Wisconsin,"United States",4.51,1855-04-12
+377,"D.H. Kinney","Rock Island",,Illinois,"United States",114.31,1855-04-12
+378,"L. Bache",Wellsboro,,Pennsylvania,"United States",10.00,1855-04-12
+379,"Asher Hance & John",Shrewsbury,,"New Jersey","United States",13.00,1855-04-12
+380,"Joseph W. Plumly",Marietta,,Ohio,"United States",49.42,1855-04-12
+381,"Hobbs & Walker",Williamson,,Kentucky,"United States",115.18,1855-04-12
+382,"J.T. Little",Dixon,,Illinois,"United States",135.22,1855-04-12
+383,"Lewis Henderson","Beersheba Springs",,Tennessee,"United States",34.63,1855-04-12
+384,"L.J. Rose",NULL,,Iowa,"United States",59.15,1855-04-12
+385,"C.J. Ryan & Co.",Rochester,,"New York","United States",6.00,1855-04-13
+386,"M. Grady & Carmichael",Nashville,,Tennessee,"United States",207.88,1855-04-13
+387,"Mrs. A. Brown",Knightstown,,Indiana,"United States",14.00,1855-04-13
+388,"Howell Sanford",Emmett,,Michigan,"United States",47.64,1855-04-13
+389,"F. Drake & Co.",Racine,,Wisconsin,"United States",39.75,1855-04-13
+390,"William Resor",Cincinnati,,Ohio,"United States",4.38,1855-04-13
+391,"A.P. Bartlett",Peoria,,Illinois,"United States",12.37,1855-04-13
+392,"Henry Shaw","St. Louis",,Missouri,"United States",19.38,1855-04-13
+393,"R. Mariune",Woodhull,,"New York","United States",10.00,1855-04-13
+394,"J.D. Richardson",Buckeystown,,Maryland,"United States",11.50,1855-04-13
+395,"F. Drake & Co.",Racine,,Wisconsin,"United States",42.80,1855-04-13
+396,"E.B. & J.H. Drake",Janesville,,Wisconsin,"United States",261.56,1855-04-13
+397,"William Pierce","Jackson Ferry",,Virginia,"United States",80.42,1855-04-13
+398,"Francis Clymer",Galion,,Ohio,"United States",53.03,1855-04-13
+399,"Jabez Capps & Son","Mt. Pulaski",,Illinois,"United States",50.39,1855-04-13
+400,"Samuel Edwards","La Moille",,Illinois,"United States",26.13,1855-04-13
+401,"A. Erickson",Rochester,,"New York","United States",24.41,1855-04-14
+402,"Samuel Craighead",Dayton,,Ohio,"United States",7.75,1855-04-14
+403,"August N. Fisher",Brighton,,"New York","United States",82.18,1855-04-14
+404,"F.K. Phoenix",Bloomington,,Illinois,"United States",85.87,1855-04-14
+405,"Mrs. Mary Carpenter",Bloomfield,,Iowa,"United States",80.23,1855-04-14
+406,"Anthony Pfeiffer",Cincinnati,,Ohio,"United States",118.67,1855-04-14
+407,"William C. Wilson",Baltimore,,Maryland,"United States",15.87,1855-04-14
+408,"A.G. Hanford",Waukesha,,Wisconsin,"United States",38.60,1855-04-14
+409,"L.M. Ford & Co.","St. Paul",,Minnesota,"United States",290.01,1855-04-14
+410,"John Fleming",Pittsburgh,,Pennsylvania,"United States",24.30,1855-04-14
+411,"A. Erickson",Rochester,,"New York","United States",4.00,1855-04-16
+412,"Dr. J.B. Elwood",Rochester,,"New York","United States",1.50,1855-04-16
+413,"Dr.D.O. Crane",Rochester,,"New York","United States",4.00,1855-04-16
+414,"Charles Reps",Keokuk,,Iowa,"United States",30.50,1855-04-16
+415,"E. Backus",Columbus,,Ohio,"United States",71.58,1855-04-16
+416,"David Crall",Westminster,,Ohio,"United States",16.99,1855-04-16
+417,"D.C. Young",Joliet,,Illinois,"United States",28.25,1855-04-16
+418,"C.M. Brewer",Marshall,,Michigan,"United States",30.75,1855-04-16
+419,"Thomas Miner",Edinburgh,,Indiana,"United States",25.20,1855-04-16
+420,"Dr. Albert C. Koch","St. Louis",,Missouri,"United States",64.86,1855-04-16
+421,"John Scott","Terre Haute",,Indiana,"United States",12.99,1855-04-16
+422,"William Addis",Cincinnati,,Ohio,"United States",21.82,1855-04-16
+423,"James Vick Jr.",Rochester,,"New York","United States",7.12,1855-04-16
+424,"Dr. C.V. Jones",Covington,,Indiana,"United States",63.58,1855-04-16
+425,"John H. Babcock",Rochester,,"New York","United States",0.87,1855-04-16
+426,"Aaron Erickson",Rochester,,"New York","United States",10.00,1855-04-17
+427,"Dr. Toby",Rochester,,"New York","United States",1.25,1855-04-17
+428,"J. Rapalji & Co.",Rochester,,"New York","United States",348.79,1855-04-17
+429,"David G. Scott",Dubuque,,Iowa,"United States",102.54,1855-04-17
+430,"Stephen Willson",Wellsboro,,Pennsylvania,"United States",25.11,1855-04-17
+431,"E.S. Cooper",Henderson,,Illinois,"United States",51.25,1855-04-17
+432,"E.S. Cooper",Henderson,,Illinois,"United States",10.00,1855-04-17
+433,"August N. Fisher",Brighton,,"New York","United States",124.36,1855-04-17
+434,"Enoch May",Burlington,,Iowa,"United States",18.36,1855-04-17
+435,"James M. Clark",Baraboo,,Wisconsin,"United States",32.42,1855-04-17
+436,"Charlie Quentin",Milwaukee,,Wisconsin,"United States",51.62,1855-04-17
+437,"P.C. Goss",Gosport,,Indiana,"United States",16.75,1855-04-17
+438,"James Vick Jr.",Rochester,,"New York","United States",20.62,1855-04-17
+439,"George G. Lowry",Elizaville,,Kentucky,"United States",55.79,1855-04-17
+440,"D.B. Hadley",Akron,,Ohio,"United States",28.50,1855-04-17
+441,"Charles Mayer",Indianapolis,,Indiana,"United States",69.25,1855-04-17
+442,"John Sayers",Cincinnati,,Ohio,"United States",27.12,1855-04-17
+443,"J.C. Devereux",Ellicottville,,"New York","United States",10.37,1855-04-17
+444,"W.C. Larrabee",Greencastle,,Indiana,"United States",10.37,1855-04-17
+445,"C.C. Richtmeyer",Greencastle,,Indiana,"United States",32.21,1855-04-17
+446,"S.M. Spencer & Co.",Greencastle,,Indiana,"United States",22.50,1855-04-17
+447,"William R. Harvey",Lockport,,"New York","United States",4.75,1855-04-17
+448,"A. Arent",Hastings,,"New York","United States",36.12,1855-04-17
+449,"John Wilkes","Terre Haute",,Indiana,"United States",17.92,1855-04-17
+450,"W.C. Larrabee",Greencastle,,Indiana,"United States",122.33,1855-04-18
+451,"D.K. Underwood",Adrian,,Michigan,"United States",38.77,1855-04-18
+452,"F.M. Warrant",Otsego,,Michigan,"United States",10.35,1855-04-18
+453,"A. McNarry",Deersville,,Ohio,"United States",25.00,1855-04-18
+454,"H. & J. Brewer",Springfield,,Massachusetts,"United States",4.37,1855-04-18
+455,"Tripp & Son",Waukegan,,Illinois,"United States",58.12,1855-04-18
+456,"J.R. Jones",Galena,,Illinois,"United States",38.76,1855-04-18
+457,"C.G. Curtis",Freeport,,Illinois,"United States",24.08,1855-04-18
+458,"A. Frost & Co.",Rochester,,"New York","United States",3.67,1855-04-19
+459,"J.A. Eastman",Rochester,,"New York","United States",0.50,1855-04-19
+460,"James Vick Jr.",Rochester,,"New York","United States",5.50,1855-04-19
+461,"J.W. Warrant",Rochester,,"New York","United States",9.50,1855-04-19
+462,"Henry Spacher",Henrietta,,"New York","United States",21.25,1855-04-19
+463,"J. Cochrane",Rochester,,"New York","United States",6.12,1855-04-19
+464,"C. Kelly & Co.",Hamilton,,Ontario,Canada,113.46,1855-04-19
+465,"J.F. Phelps",Havana,"Shuyler County","New York","United States",3.00,1855-04-19
+466,"A.H. Ernst",Cincinnati,,Ohio,"United States",7.25,1855-04-19
+467,"Elisha Moody",Lockport,,"New York","United States",23.00,1855-04-19
+468,"G.C. Knight","Olmsted Falls",,Ohio,"United States",64.91,1855-04-19
+469,"James G. Soulard",Galena,,Illinois,"United States",13.75,1855-04-19
+470,"John A. & Charles Kennicott","West Northfield",,Illinois,"United States",59.13,1855-04-19
+471,"George T. Taylor",Chicago,,Illinois,"United States",8.00,1855-04-19
+472,"M. Lewis & Co.",Chicago,,Illinois,"United States",38.00,1855-04-19
+473,"H.S. Abbey",Akron,,Ohio,"United States",8.40,1855-04-19
+474,"Eli Nichols","Wolfpen Springs",,Ohio,"United States",8.30,1855-04-19
+475,"G.H. Smith","Battle Creek",,Michigan,"United States",8.13,1855-04-19
+476,"John Gibson",Albany,,"New York","United States",72.84,1855-04-19
+477,"A.C. McDill",Oxford,,Ohio,"United States",88.84,1855-04-19
+478,"A.B. Price","Boone Grove",,Indiana,"United States",11.45,1855-04-19
+479,"Gaylord & Bro",Elmira,,"New York","United States",16.75,1855-04-19
+480,"H.H. & J.H. Bostwick",Auburn,,"New York","United States",10.25,1855-04-19
+481,"Joseph Teft",Elgin,,Illinois,"United States",11.75,1855-04-19
+482,"Jacob Cocklin",Shephardstown,,Pennsylvania,"United States",4.00,1855-04-19
+483,"D.F. Campbell",Hamilton,,Ontario,Canada,42.25,1855-04-19
+484,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",6.35,1855-04-19
+485,"George G. & S.H. Kellogg",Janesville,,Wisconsin,"United States",54.88,1855-04-19
+486,"William Fare",Fremont,,Illinois,"United States",5.00,1855-04-19
+487,"S.C. Sample","South Bend",,Indiana,"United States",4.13,1855-04-19
+488,"P.J. Macnamara",Rochester,,"New York","United States",3.00,1855-04-20
+489,"A. Frost & Co.",Rochester,,"New York","United States",0.72,1855-04-20
+490,"O. Hastings",Rochester,,"New York","United States",2.40,1855-04-20
+491,"George A. Steel",Huntington,,Pennsylvania,"United States",10.00,1855-04-20
+492,"Gore & Stolbrook",Freeport,,Maine,"United States",83.57,1855-04-20
+493,"David Clark",Hartford,,Connecticut,"United States",60.75,1855-04-20
+494,"James Hyde & John","Newton Centre",,Massachusetts,"United States",0.50,1855-04-20
+495,"Francis Brown",Tarrytown,,"New York","United States",7.25,1855-04-20
+496,"John W. Dodd","New York City",,"New York","United States",20.75,1855-04-20
+497,"J.W. Wheeler","Hyde Park",,"New York","United States",10.00,1855-04-20
+498,"F.H. Tyler","Fort Wayne",,Indiana,"United States",11.00,1855-04-20
+499,"Edward N. Crosby",Poughkeepsie,,"New York","United States",14.50,1855-04-20
+500,"Mathew Mackie",Clyde,,"New York","United States",6.50,1855-04-20
+501,"John Patterson",Greenville,,Ohio,"United States",100.00,1855-04-20
+502,"Morse & Houghton",Cleveland,,Ohio,"United States",7.00,1855-04-20
+503,"John H. Pool",Greenwood,,Illinois,"United States",34.50,1855-04-20
+504,"J. Buckley",Dunkirk,,"New York","United States",7.87,1855-04-20
+505,"M. Fowler",Lafayette,,Illinois,"United States",8.75,1855-04-20
+506,"Alonzo Child",Tarrytown,,"New York","United States",31.50,1855-04-20
+507,"Dr. J.B. Elwood",Rochester,,"New York","United States",2.00,1855-04-20
+508,"A. Erickson",Rochester,,"New York","United States",2.50,1855-04-20
+509,"George Chandler",Romeo,,Michigan,"United States",109.68,1855-04-20
+510,"Julius Andrews",Rochester,,"New York","United States",1.87,1855-04-20
+511,"S.B. Kelly",Brighton,,"New York","United States",21.76,1855-04-20
+512,"A.E. & S.L. Wilcox",Flint,,Michigan,"United States",570.84,1855-04-20
+513,"August N. Fisher",Brighton,,"New York","United States",49.80,1855-04-20
+514,"A. Loomis",Byron,,"New York","United States",127.37,1855-04-20
+515,"W.H. Brinkerhoff",Jerome,,Ohio,"United States",46.76,1855-04-20
+516,"Charles Aldrich",Olean,,"New York","United States",14.54,1855-04-20
+517,"E. Martindale","New York City",,"New York","United States",19.75,1855-04-20
+518,"W.H. Hanford","Cuyahoga Falls",,Ohio,"United States",11.55,1855-04-20
+519,"E.N. Sill","Cuyahoga Falls",,Ohio,"United States",38.16,1855-04-20
+520,"W.H. Metcalf",Milwaukee,,Wisconsin,"United States",1.75,1855-04-20
+521,"L.E. Berckman",Plainfield,,"New Jersey","United States",23.58,1855-04-20
+522,"James Paton",Canandaigua,,"New York","United States",70.74,1855-04-20
+523,"A. Downs","Seneca Falls",,"New York","United States",10.37,1855-04-20
+524,"A. Cullom",Meadville,,Pennsylvania,"United States",20.87,1855-04-20
+525,"F. Frothingham",Rochester,,"New York","United States",1.12,1855-04-20
+526,"G.W. Washburn",Oshkosh,,Wisconsin,"United States",1.50,1855-04-20
+527,"E. Gazette","New York City",,"New York","United States",9.63,1855-04-20
+528,"Calvin Phelps","St. Catharines",,Ontario,Canada,20.00,1855-04-20
+529,"William M. Evarts","New York City",,"New York","United States",25.50,1855-04-20
+530,"Edward G. Hyde","New York City",,"New York","United States",19.15,1855-04-20
+531,"Henry Thacker",Oneida,,"New York","United States",3.00,1855-04-20
+532,"C.J. Ryan & Co.",Rochester,,"New York","United States",18.08,1855-04-20
+533,"John McPherson",Puslinch,,Ontario,Canada,18.55,1855-04-21
+534,"William Tompkins",Germantown,,"New York","United States",2.25,1855-04-21
+535,"J.A. White",Girard,,Pennsylvania,"United States",28.91,1855-04-21
+536,"Ellis C. Holmes","East Bridgewater",,Massachusetts,"United States",6.50,1855-04-21
+537,"H.C. Collins","East Bloomfield",,"New York","United States",2.00,1855-04-21
+538,"Joseph Prestele",Buffalo,,"New York","United States",9.87,1855-04-21
+539,"Henry W. Sargent",Fishkill,,"New York","United States",3.50,1855-04-21
+540,"A. Loomis","Little Falls",,"New York","United States",9.08,1855-04-21
+541,"John Morse",Cayuga,,"New York","United States",24.36,1855-04-21
+542,"Rev. H.B. Jessop","Port Burwell",,Ontario,Canada,3.25,1855-04-21
+543,"John Miller",Columbus,,Ohio,"United States",17.00,1855-04-21
+544,"J.S. Wadsworth",Geneseo,,"New York","United States",20.50,1855-04-21
+545,"John Hair",Pembroke,,"New York","United States",9.25,1855-04-21
+546,"N. Page Jr.",Davensport,,Massachusetts,"United States",8.00,1855-04-21
+547,"James Vick Jr.",Rochester,,"New York","United States",20.00,1855-04-21
+548,"W. Rogers",Cleveland,,Ohio,"United States",14.63,1855-04-21
+549,"John W. Blake",Frankfort,,Indiana,"United States",38.25,1855-04-21
+550,"D.H. H. Nichols",Westfield,,"New York","United States",2.00,1855-04-21
+551,"Daniel B. Pierson",Cincinnati,,Ohio,"United States",20.00,1855-04-21
+552,"J.S. Jillett","Penn Yan",,"New York","United States",7.88,1855-04-21
+553,"Albert Breese",Hubbardton,,Virginia,"United States",3.00,1855-04-21
+554,"H.P. Norton",Brockport,,"New York","United States",15.36,1855-04-21
+555,"Daniel Diver",Henrietta,,"New York","United States",3.33,1855-04-23
+556,"H.G. Warner",Rochester,,"New York","United States",2.00,1855-04-23
+557,"Daniel Mahony",Saco,,Maine,"United States",64.42,1855-04-23
+558,"J.D. Humphreys",Toronto,,Ontario,Canada,3.00,1855-04-23
+559,"Charles W. Miles",Callicoon,,"New York","United States",7.25,1855-04-23
+560,"William Tompkins",Germantown,,"New York","United States",17.74,1855-04-23
+561,"M. Moore",Trenton,,"New York","United States",25.50,1855-04-23
+562,"C. Kelly & Co.",Hamilton,,Ontario,Canada,21.75,1855-04-23
+563,"John H. Ranch","New York City",,"New York","United States",22.88,1855-04-23
+564,"Daniel Edwards","Little Genesee",,"New York","United States",21.12,1855-04-23
+565,"Goff & Hoag",Chicago,,Illinois,"United States",21.60,1855-04-23
+566,"R. Coleman",Lyn,,Ontario,Canada,2.75,1855-04-23
+567,"J.P. Allen","New Albany",,Indiana,"United States",2.75,1855-04-23
+568,"James S. Bryden",Wellsboro,,Pennsylvania,"United States",10.37,1855-04-23
+569,"Dr. Plessner",Saginaw,,Michigan,"United States",8.00,1855-04-23
+570,"J.S. Thomas",Brockport,,"New York","United States",10.50,1855-04-23
+571,"P.R. Fruoff",Auburn,,"New York","United States",38.97,1855-04-23
+572,"E.B. Jones","Penn Yan",,"New York","United States",2.12,1855-04-23
+573,"Rev. Joseph McGlew",Scottsville,,"New York","United States",4.25,1855-04-23
+574,"John A. & Charles Kennicott","West Northfield",,Illinois,"United States",18.80,1855-04-23
+575,"Clark D. Tracy",Rochester,,"New York","United States",7.50,1855-04-23
+576,"H.M. Marvin",Albion,,"New York","United States",3.00,1855-04-23
+577,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",111.36,1855-04-23
+578,"John Crist",Mohawk,,"New York","United States",9.50,1855-04-23
+579,"P. Kimble Paulding","Hyde Park",,"New York","United States",3.45,1855-04-23
+580,"Abijah Reed",Hulberton,,"New York","United States",11.25,1855-04-23
+581,"D.D. Joes",Hamden,,Connecticut,"United States",18.54,1855-04-23
+582,"William Gooding",Lockport,,Illinois,"United States",3.50,1855-04-23
+583,"Benjamin Fish",Rochester,,"New York","United States",6.21,1855-04-24
+584,"J. Rapalji & Co.",Rochester,,"New York","United States",340.50,1855-04-24
+585,"Dr. J.B. Elwood",Rochester,,"New York","United States",8.65,1855-04-24
+586,"J. Rapalji & Co.",Rochester,,"New York","United States",23.00,1855-04-24
+587,"C.W. Watson",Rochester,,"New York","United States",8.65,1855-04-24
+588,"F. Frothingham",Rochester,,"New York","United States",3.50,1855-04-24
+589,"Mrs. Hon. Smith","Great Barrington",,Massachusetts,"United States",15.37,1855-04-24
+590,"D.R. Smith","Port Byron",,"New York","United States",2.12,1855-04-24
+591,"John Gray",Toronto,,Ontario,Canada,12.25,1855-04-24
+592,"George W. Eastman",Waterville,,"New York","United States",27.45,1855-04-24
+593,"Hartman Kuhn",Philadelphia,,Pennsylvania,"United States",46.62,1855-04-24
+594,"Daniel Stocking",Rochester,,"New York","United States",41.02,1855-04-24
+595,"A.W. Hovey",Pontiac,,Michigan,"United States",26.73,1855-04-24
+596,"A.H. Comstock",Westfield,,"New York","United States",60.39,1855-04-24
+597,"O.C. Hartwell",Ionia,,"New York","United States",24.50,1855-04-24
+598,"William Adair",Detroit,,Michigan,"United States",15.50,1855-04-24
+599,"August N. Fisher",Brighton,,"New York","United States",26.96,1855-04-24
+600,"Rev. Robert G. Cox",Wellington,,Ontario,Canada,24.00,1855-04-24
+601,"George Upham",Newark,,Ohio,"United States",6.24,1855-04-24
+602,"H.A. Dowe",Ithaca,,"New York","United States",4.33,1855-04-24
+603,"Thomas Stephenson",Buffalo,,"New York","United States",2.75,1855-04-24
+604,"F.A. Lathrop","Green Bay",,Wisconsin,"United States",8.35,1855-04-24
+605,"Captain Wilder",Rochester,,"New York","United States",35.25,1855-04-24
+606,"Robert Campbell",Rochester,,"New York","United States",1.25,1855-04-24
+607,"William McNary",Rochester,,"New York","United States",3.00,1855-04-24
+608,"Thomas B. Devereux",Ellicottville,,"New York","United States",2.75,1855-04-24
+609,"F.M. Storn",Cedarburg,,Wisconsin,"United States",43.52,1855-04-24
+610,"L. Wetherall",Amherst,,Massachusetts,"United States",10.75,1855-04-24
+611,"P.R. Fruoff",Auburn,,"New York","United States",4.84,1855-04-24
+612,"H. Becker & Co.",Watertown,,"New York","United States",33.75,1855-04-24
+613,"George W. Martin",Rochester,,"New York","United States",1.25,1855-04-24
+614,"Dwight H. Clark",Oxford,,"New York","United States",3.92,1855-04-24
+615,"John Arnold",Paris,,Ontario,Canada,15.13,1855-04-24
+616,"H.N. Peck",Rochester,,"New York","United States",3.12,1855-04-24
+617,"August N. Fisher",Brighton,,"New York","United States",8.22,1855-04-24
+618,"William Langworthy","Seneca Falls",,"New York","United States",2.50,1855-04-24
+619,"L. Fairbanks",Whitby,,Ontario,Canada,5.12,1855-04-24
+620,"Henry Wright",Rochester,,"New York","United States",19.99,1855-04-24
+621,"M. Kelly & Co.",Cincinnati,,Ohio,"United States",9.75,1855-04-24
+622,"J.S. Jillett","Penn Yan",,"New York","United States",1.87,1855-04-24
+623,"H.H. Heath","Seneca Falls",,"New York","United States",7.40,1855-04-24
+624,"J.B. Penderford",Cincinnatus,,"New York","United States",9.75,1855-04-24
+625,"H. Van Rensselaer",Ogdensburg,,"New York","United States",12.75,1855-04-24
+626,"S.B. Harrison",Toronto,,Ontario,Canada,7.25,1855-04-24
+627,"R.B. Warren",Alabama,,"New York","United States",7.33,1855-04-24
+628,"P.S. Van Nest",Romulus,,"New York","United States",2.90,1855-04-24
+629,"C.W. Watson",Rochester,,"New York","United States",0.75,1855-04-26
+630,"A.D. Gredley",Clinton,,"New York","United States",6.00,1855-04-26
+631,"A. Frost & Co.",Rochester,,"New York","United States",0.75,1855-04-26
+632,"William J. Babcock","Holland Patent",,"New York","United States",86.75,1855-04-26
+633,"Sardies Ward","Holland Patent",,"New York","United States",91.95,1855-04-26
+634,"Horace Williams",Buffalo,,"New York","United States",97.95,1855-04-26
+635,"Dr. J.D. Commins",Akron,,Ohio,"United States",10.62,1855-04-26
+636,"W.L. Rutherford",Waddington,,"New York","United States",38.47,1855-04-26
+637,"D.P. Newell",Rochester,,"New York","United States",2.00,1855-04-26
+638,"James Whitney",Rochester,,"New York","United States",5.00,1855-04-27
+639,"T. Davidson",Hamilton,,Ontario,Canada,36.00,1855-04-27
+640,"Mrs. G. H. Roberts",Rochester,,"New York","United States",2.00,1855-04-27
+641,"William Sloan",Woodstock,,Illinois,"United States",285.61,1855-04-27
+642,"John Crist",Mohawk,,"New York","United States",7.42,1855-04-27
+643,"William Webster",Rochester,,"New York","United States",5.25,1855-04-27
+644,"L.B. Van Dake",Rochester,,"New York","United States",13.75,1855-04-27
+645,"O.R. Brown",Middleport,,"New York","United States",15.65,1855-04-27
+646,"Mrs. Caroline Woodford",Fredonia,,"New York","United States",3.25,1855-04-27
+647,"Hall & Davies",Dunkirk,,"New York","United States",6.00,1855-04-27
+648,"Nay & Osbourne",Rochester,,"New York","United States",122.00,1855-04-27
+649,"Henry D. Rice",Owego,,"New York","United States",44.50,1855-04-27
+650,"Edward Merrit",Pawling,,"New York","United States",129.50,1855-04-27
+651,"A. Frost & Co.",Rochester,,"New York","United States",4.37,1855-04-28
+652,"Peter Becker",Morris,,"New York","United States",329.04,1855-04-28
+653,"Jacob Baker",Petersburg,,Pennsylvania,"United States",10.00,1855-04-28
+654,"Joseph Prestele",Buffalo,,"New York","United States",2.25,1855-04-28
+655,"Abijah Reed",Hulberton,,"New York","United States",2.48,1855-04-28
+656,"J.C. Devereux",Ellicottville,,"New York","United States",4.13,1855-04-28
+657,"W.B. Williams",Rochester,,"New York","United States",3.00,1855-04-28
+658,"C.C. Richtmeyer",Rochester,,"New York","United States",6.43,1855-04-28
+659,"J.K. Gaffin",Hamilton,,Ontario,Canada,148.88,1855-04-28
+660,"William Jeckell","Port Hope",,Ontario,Canada,2.12,1855-04-28
+661,"F.F. Perkins",Niles,,Michigan,"United States",6.00,1855-04-28
+662,"Rev. F.C. Brown",Avon,,"New York","United States",4.22,1855-04-28
+663,"Rev. J. Knox",Pittsburgh,,Pennsylvania,"United States",15.00,1855-04-28
+664,"James T. Adee",Rye,,"New York","United States",3.25,1855-04-28
+665,"Edward Dagge",Rochester,,"New York","United States",4.50,1855-04-30
+666,"William Hart",Rochester,,"New York","United States",4.25,1855-04-30
+667,"C.J. Ryan & Co.",Rochester,,"New York","United States",40.00,1855-04-30
+668,"Benjamin Fish",Rochester,,"New York","United States",72.00,1855-04-30
+669,"John Bradfield",Rochester,,"New York","United States",10.75,1855-04-30
+670,"J. Rapalji & Co.",Rochester,,"New York","United States",57.00,1855-04-30
+671,"J.H. Martindale",Rochester,,"New York","United States",47.25,1855-04-30
+672,"Rev. W.F. Clarke",London,,Ontario,Canada,24.90,1855-04-30
+673,"J.W. Adams",Brockport,,"New York","United States",2.87,1855-04-30
+674,"L.H. Hovey",Rochester,,"New York","United States",1.25,1855-04-30
+675,"S. Heinstreet",Langingsburgh,,"New York","United States",13.62,1855-04-30
+676,"P. Kemble Paulding","Hyde Park",,"New York","United States",2.55,1855-04-30
+677,"E. Martindale","New York City",,"New York","United States",7.75,1855-04-30
+678,"Charles D. Palmer",Waterville,,"New York","United States",19.61,1855-04-30
+679,"William W. Killip",Geneseo,,"New York","United States",1.88,1855-04-30
+680,"William Webster",Rochester,,"New York","United States",7.75,1855-04-30
+681,"R. Thomson",Lisbon,,"New York","United States",25.11,1855-04-30
+682,"J. Domelaw & Nephews",Rochester,,"New York","United States",4.00,1855-04-30
+683,"John R. Anderson","Le Roy",,"New York","United States",24.87,1855-05-01
+684,"Oliver R. Hobbs",Randolph,,Pennsylvania,"United States",18.75,1855-05-01
+685,"Miss Birch",Canandaigua,,"New York","United States",2.87,1855-05-01
+686,"G.F. Knapp",Hinsdale,,"New York","United States",6.87,1855-05-01
+687,"H.P. Norton",Brockport,,"New York","United States",5.25,1855-05-01
+688,"John Bradfield",Rochester,,"New York","United States",28.39,1855-05-01
+689,"Domelaw & Nephews",Rochester,,"New York","United States",12.02,1855-05-01
+690,"E.H. Pease",Albany,,"New York","United States",5.00,1855-05-01
+691,"William Pitkins",Rochester,,"New York","United States",3.86,1855-05-01
+692,"M.W. Stevens",Flushing,,"New York","United States",14.25,1855-05-01
+693,"Thomas L. Harison","Morley ",,"New York","United States",7.12,1855-05-01
+694,"A. Frost & Co.",Rochester,,"New York","United States",0.75,1855-05-01
+695,"A. Frost & Co.",Rochester,,"New York","United States",0.45,1855-05-02
+696,"L. Van Baumbauch",Elgin,,Ohio,"United States",6.40,1855-05-02
+697,"J.H. Martindale",Rochester,,"New York","United States",15.00,1855-05-02
+698,"William J. Hough",Syracuse,,"New York","United States",1.62,1855-05-02
+699,"George F. Danforth",Rochester,,"New York","United States",20.75,1855-05-02
+700,"N.M. Harington",Delavan,,"New York","United States",5.13,1855-05-02
+701,"Cherry & Imlay",Louisville,,Ohio,"United States",52.25,1855-05-02
+702,"George Rykert","St. Catharines",,Ontario,Canada,4.00,1855-05-02
+703,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",250.46,1855-05-02
+704,"James & Donohue",Rochester,,"New York","United States",3.00,1855-05-03
+705,"Aaron Erickson",Rochester,,"New York","United States",7.13,1855-05-03
+706,"John R. Murray","Mt. Morris",,"New York","United States",9.25,1855-05-03
+707,"H.B. Prichard",Granville,,Ohio,"United States",4.00,1855-05-03
+708,"John H. Lazell",Columbus,,Ohio,"United States",5.25,1855-05-03
+709,"A.H. Comstock",Westfield,,"New York","United States",13.86,1855-05-03
+710,"W.H. Reed","Port Dalhousie",,Ontario,Canada,6.25,1855-05-03
+711,"Dwight H. Clark",Oxford,,"New York","United States",2.50,1855-05-03
+712,"A. Frost & Co.",Rochester,,"New York","United States",1.25,1855-05-04
+713,"A.H. Comstock",Westfield,,"New York","United States",2.00,1855-05-04
+714,"A. Frost & Co.",Rochester,,"New York","United States",1.00,1855-05-04
+715,"C.P. Cowles",Syracuse,,"New York","United States",29.09,1855-05-04
+716,"J. Rapalji & Co.",Rochester,,"New York","United States",0.50,1855-05-05
+717,"William King",Rochester,,"New York","United States",3.00,1855-05-07
+718,"George Baxter",Kingston,,Ontario,Canada,9.85,1855-05-07
+719,"A. Williams",Galesburg,,Illinois,"United States",73.25,1855-05-07
+720,"Henry D. Rice",Owego,,"New York","United States",13.25,1855-05-07
+721,"Loomis & Whitmore",Byron,,"New York","United States",55.10,1855-05-07
+722,"James Chappell",Rochester,,"New York","United States",32.00,1855-05-07
+723,"A. Frost & Co.",Rochester,,"New York","United States",0.75,1855-05-07
+724,"Mrs. Cameron",Cobourg,,Ontario,Canada,5.87,1855-05-07
+725,"John Greer","North East",,Pennsylvania,"United States",2.12,1855-05-07
+726,"Henry Wright",Rochester,,"New York","United States",42.96,1855-05-07
+727,"George Ellwanger",Rochester,,"New York","United States",2.25,1855-05-08
+728,"Samuel Keefer",Brockville,,Ontario,Canada,4.25,1855-05-08
+729,"E.N. Sill","Cuyahoga Falls",,Ohio,"United States",29.12,1855-05-08
+730,"James Hair",Rochester,,"New York","United States",9.00,1855-05-09
+731,"J. Rapalji & Co.",Rochester,,"New York","United States",28.55,1855-05-09
+732,"E. Cassner","Penn Yan",,"New York","United States",5.87,1855-05-10
+733,"A.H. Comstock",Westfield,,"New York","United States",7.40,1855-05-10
+734,"Robert Douglas",Waukegan,,Illinois,"United States",8.00,1855-05-10
+735,"A.B. Hall",Rochester,,"New York","United States",6.25,1855-05-10
+736,"J.W. Adams",Brockport,,"New York","United States",4.50,1855-05-11
+737,"H.E. Smith",Waterloo,,"New York","United States",9.87,1855-05-11
+738,"James Hair",Rochester,,"New York","United States",1.37,1855-05-11
+739,"George P. Mowry",Geneva,,"New York","United States",6.25,1855-05-15
+740,"H.P. Norton",Brockport,,"New York","United States",2.25,1855-05-15
+741,"Cherry & Imlay",Louisville,,Ohio,"United States",27.75,1855-05-15
+742,"J. Brown",Hamilton,,Ontario,Canada,2.25,1855-05-15
+743,"A. Van Patten",Rome,,"New York","United States",4.00,1855-05-15
+744,"James Hair",Rochester,,"New York","United States",0.25,1855-05-16
+745,"A.D. Gredley",Clinton,,"New York","United States",1.00,1855-05-16
+746,"W.B. Williams",Rochester,,"New York","United States",4.50,1855-05-16
+747,"C.J. Ryan & Co.",Rochester,,"New York","United States",0.75,1855-05-16
+748,"Charles Powis",Greece,,"New York","United States",5.80,1855-05-17
+749,"George P. Mowry",Geneva,,"New York","United States",2.75,1855-05-17
+750,"Lee Hull","Fort Madison",,Iowa,"United States",3.68,1855-05-17
+751,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",16.95,1855-05-17
+752,"Gideon Grainger",Canandaigua,,"New York","United States",3.00,1855-05-17
+753,"Thomas B. Devereux",Ithaca,,"New York","United States",2.25,1855-05-17
+754,"E. Cassner","Penn Yan",,"New York","United States",3.00,1855-05-17
+755,"Henry L. Smith",Rochester,,"New York","United States",3.00,1855-05-18
+756,"A.M. Gibson",Gibson,,"New York","United States",10.00,1855-05-18
+757,"Samuel Moulson",Rochester,,"New York","United States",37.41,1855-05-19
+758,"A. Frost & Co.",Rochester,,"New York","United States",4.00,1855-05-19
+759,"Mrs. L.B. Cracker",Oswego,,"New York","United States",2.63,1855-05-19
+760,"Homer Baughton",Rochester,,"New York","United States",1.50,1855-05-19
+761,"Thomas C. Gilman",Rochester,,"New York","United States",6.00,1855-05-21
+762,"Robert Baist",Philadelphia,,Pennsylvania,"United States",1.00,1855-05-21
+763,"Owen Gaffney",Rochester,,"New York","United States",3.63,1855-05-23
+764,"Mrs. L.B. Cracker",Oswego,,"New York","United States",4.00,1855-05-23
+765,"Henry Aldrich",Arispe,,Illinois,"United States",5.00,1855-05-26
+766,"Sidney Smith",Cobourg,,Ontario,Canada,12.61,1855-05-26
+767,"F.H. Lord",Buffalo,,"New York","United States",14.27,1855-05-26
+768,"J. Constable",Constableville,,"New York","United States",3.00,1855-05-26
+769,"Samuel Moulson",Rochester,,"New York","United States",8.55,1855-05-26
+770,"E.C. Campbell","Niagara Falls",,Ontario,Canada,19.53,1855-05-26
+771,"John J. Thomas",Macedon,,"New York","United States",4.75,1855-05-01
+772,"Samuel Brooks",Chicago,,Illinois,"United States",5.00,1855-05-01
+773,"J. Rapalji & Co.",Rochester,,"New York","United States",15.00,1855-05-01
+774,"H.P. Norton",Brockport,,"New York","United States",7.87,1855-05-01
+775,"Domelaw & Nephews",Rochester,,"New York","United States",7.55,1855-05-01
+776,"Hugh Allen","New York City",,"New York","United States",0.75,1855-05-01
+777,"John H. Babcock",Rochester,,"New York","United States",1.00,1855-05-02
+778,"S. Cary",Ilion,,"New York","United States",5.75,1855-05-02
+779,"George Rykert","St. Catharines",,Ontario,Canada,4.75,1855-05-02
+780,"J. Rapalji & Co.",Rochester,,"New York","United States",8.25,1855-05-02
+781,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",40.76,1855-05-02
+782,"L.H. Ward",Rochester,,"New York","United States",2.00,1855-05-03
+783,"H. Burrell","Little Falls",,"New York","United States",27.75,1855-05-03
+784,"William Porter","Little Falls",,"New York","United States",4.00,1855-05-03
+785,"R. Thomson",Lisbon,,"New York","United States",2.00,1855-05-03
+786,"H.P. Norton",Brockport,,"New York","United States",4.37,1855-05-03
+787,"D. Hyers","Little Falls",,"New York","United States",8.74,1855-05-03
+788,"Horace Williams",Buffalo,,"New York","United States",5.25,1855-05-03
+789,"F.H. Lord",Buffalo,,"New York","United States",1.00,1855-05-03
+790,"John McKee",Bristol,,Vermont,"United States",11.00,1855-05-03
+791,"A. Frost & Co.",Rochester,,"New York","United States",1.05,1855-05-04
+792,"D. Hyers","Little Falls",,"New York","United States",7.12,1855-05-04
+793,"George Morton",Brockville,,Ontario,Canada,17.25,1855-05-04
+794,"Henry H. Lambert",Rochester,,"New York","United States",4.13,1855-05-04
+795,"C.P. Cowles",Syracuse,,"New York","United States",24.75,1855-05-04
+796,"William King",Rochester,,"New York","United States",2.50,1855-05-07
+797,"D.S. Worthington",Sandusky,,Ohio,"United States",20.50,1855-05-07
+798,"J. Rapalji & Co.",Rochester,,"New York","United States",20.37,1855-05-07
+799,"J.K. Gaffin",Hamilton,,Ontario,Canada,2.00,1855-05-07
+800,"Loomis & Whitmore",Byron,,"New York","United States",5.38,1855-05-07
+801,"James Chappell",Rochester,,"New York","United States",2.00,1855-05-07
+802,"Benjamin Fish",Rochester,,"New York","United States",0.75,1855-05-07
+803,"James H. Root",Skaneateles,,"New York","United States",1.39,1855-05-07
+804,"Benjamin Griswold",Skaneateles,,"New York","United States",3.00,1855-05-07
+805,"James G. Fraser",Galt,,Ontario,Canada,2.50,1855-05-07
+806,"John Greer","North East",,Pennsylvania,"United States",2.13,1855-05-07
+807,"James Sheldon","New York City",,"New York","United States",3.50,1855-05-07
+808,"E.S. Gregory",Canandaigua,,"New York","United States",3.13,1855-05-07
+809,"A. Williams",Galesburg,,Illinois,"United States",0.75,1855-05-07
+810,"Sardies Ward","Holland Patent",,"New York","United States",7.75,1855-05-07
+811,"Henry Wright",Rochester,,"New York","United States",324.90,1855-05-07
+812,"Elisha Moody","Wrights Corners",,"New York","United States",4.00,1855-05-07
+813,"Rev. R.W. Hill",Rochester,,"New York","United States",11.62,1855-05-08
+814,"P. Connelly",Rochester,,"New York","United States",43.30,1855-05-08
+815,"Samuel Keefer",Brockville,,Ontario,Canada,6.25,1855-05-08
+816,"Columbus Nursery",Columbus,,Ohio,"United States",53.12,1855-05-08
+817,"D.F. Kinney","Rock Island",,Illinois,"United States",4.00,1855-05-09
+818,"William Porter","Rock Island",,Illinois,"United States",12.00,1855-05-09
+819,"George G. Clarkson",Rochester,,"New York","United States",3.00,1855-05-09
+820,"William H. Reed","Port Dalhousie",,Ontario,Canada,1.00,1855-05-09
+821,"Miss Huntington",Norwich,,Connecticut,"United States",2.25,1855-05-09
+822,"Stephen Wilson",Wellsboro,,Pennsylvania,"United States",11.12,1855-05-09
+823,"C.C. Richtmeyer",Wellsboro,,Pennsylvania,"United States",0.56,1855-05-11
+824,"J.F.R. Sebring",Fremont,,Ohio,"United States",12.63,1855-05-11
+825,"D.S. Worthington",Sandusky,,Ohio,"United States",98.00,1855-05-11
+826,"Henry Wright",Rochester,,"New York","United States",13.82,1855-05-15
+827,"C.S. Mack",Lockport,,"New York","United States",2.25,1855-05-15
+828,"A.B. Tyler",Ithaca,,"New York","United States",9.75,1855-05-15
+829,"John Kirchgralier",Ithaca,,"New York","United States",3.12,1855-05-15
+830,"Lee Hull","Fort Madison",,Iowa,"United States",5.25,1855-05-15
+831,"R.P. Cotton",Brockville,,Ontario,Canada,8.50,1855-05-18
+832,"A.M. Gibson",Gibson,,"New York","United States",1.00,1855-05-19
+833,"J.D. Woodward","La Porte",,Indiana,"United States",1.25,1855-05-21
+834,"Charles G. Stevens",Clinton,,Massachusetts,"United States",5.50,1855-05-21
+835,"W. Page",Painesville,,Ohio,"United States",55.25,1855-05-22
+836,"J.C. Griswold",Fredonia,,"New York","United States",8.50,1855-05-22
+837,"Ezekial Ladd","East Cleveland",,Ohio,"United States",12.50,1855-05-22
+838,"Edward Harris",Cleveland,,Ohio,"United States",3.13,1855-05-22
+839,"J.B. Johnson",Erie,,Pennsylvania,"United States",7.50,1855-05-22
+840,"William Griswold",Willoughby,,Ohio,"United States",36.50,1855-05-22
+841,"J.O. Harris",Ottawa,,Illinois,"United States",8.00,1855-05-23
+842,"Samuel Moulson",Rochester,,"New York","United States",20.38,1855-05-26
+843,"E.C. Campbell",Rochester,,"New York","United States",0.94,1855-05-26
+844,"B.E. Critchett",Rochester,,"New York","United States",3.50,1855-05-26
+845,"Titus Amadon",Springfield,,Massachusetts,"United States",3.00,1855-06-01
+846,"H.G. Warner",Rochester,,"New York","United States",2.41,1855-06-01
+847,"Aaron Erickson",Rochester,,"New York","United States",2.88,1855-06-01
+848,"William King",Rochester,,"New York","United States",3.41,1855-06-02
+849,"E. Ware Sylvester",Rochester,,"New York","United States",8.66,1855-06-02
+850,"James Hair",Rochester,,"New York","United States",1.12,1855-06-08
+851,"H.P. Norton",Brockport,,"New York","United States",2.00,1855-06-08
+852,"J.H. Martindale",Rochester,,"New York","United States",1.25,1855-06-08
+853,"Aaron Erickson",Rochester,,"New York","United States",0.75,1855-06-12
+854,"J.H. Martindale",Rochester,,"New York","United States",9.00,1855-06-12
+855,"Samuel Miller",Calmdale,,Pennsylvania,"United States",5.18,1855-06-12
+856,"Gaylord & Bro",Elmira,,"New York","United States",5.00,1855-06-12
+857,"Francis Brown",Rochester,,"New York","United States",3.25,1855-04-20
+858,"Samuel Moulson",Rochester,,"New York","United States",25.00,1855-05-31
+859,"Charles Bleidarn",Rochester,,"New York","United States",0.75,1855-06-12
+860,"Sheldon Smith & Bro",Rochester,,"New York","United States",61.71,1855-06-12
+861,"Samuel Moulson",Rochester,,"New York","United States",1.50,1855-06-13
+862,"James E. Cheney",Rochester,,"New York","United States",2.12,1855-06-13
+863,"M. Lewis & Co.",Chicago,,Illinois,"United States",97.52,1855-06-15
+864,"William Pitkins",Rochester,,"New York","United States",3.00,1855-06-15
+865,"D.T. Cleveland",Rochester,,"New York","United States",1.00,1855-06-16
+866,"E.A. Jones",Rochester,,"New York","United States",1.00,1855-06-18
+867,"W.R. Harvey",Lockport,,"New York","United States",2.75,1855-06-18
+868,"W.R. Harvey",Lockport,,"New York","United States",13.37,1855-06-20
+869,"George Ward",Wellington,,Ontario,Canada,9.62,1855-06-21
+870,"Samuel Miller",Calmdale,,Pennsylvania,"United States",2.75,1855-06-21
+871,"S.B. Roby & Co.",Rochester,,"New York","United States",2.00,1855-06-23
+872,"C.A. Jones",Rochester,,"New York","United States",0.50,1855-06-25
+873,"H.L. Small",Rockville,,Illinois,"United States",3.50,1855-06-26
+874,"James Wallace",Bath,,"New York","United States",3.00,1855-06-27
+875,"J. Rapalji & Co.",Rochester,,"New York","United States",1.00,1855-06-14
+876,"P.B. Ewing",Rochester,,"New York","United States",9.00,1855-06-14
+877,"M. Lewis & Co.",Chicago,,Illinois,"United States",4.75,1855-06-15
+878,"B. Kearney",Rochester,,"New York","United States",2.00,1855-06-16
+879,"John Caughy",Rochester,,"New York","United States",3.00,1855-06-16
+880,"William R. Harvey",Lockport,,"New York","United States",1.25,1855-06-20
+881,"J. Rapalji & Co.",Rochester,,"New York","United States",0.00,1855-06-22
+882,"A.W. Comfort","Mineral Point",,Wisconsin,"United States",20.00,1855-06-22
+883,"G.V. Stevens",Rochester,,"New York","United States",3.38,1855-06-22
+884,"Finlay & Dwire",Davenport,,Iowa,"United States",1.75,1855-06-23
+885,"John L. Wadsworth",Windham,,Ohio,"United States",2.00,1855-06-23
+886,"John Jenkinson",Rochester,,"New York","United States",2.50,1855-06-25
+887,"William H. Gray",Leesburg,,Virginia,"United States",2.50,1855-06-25
+888,"Joseph Vick",Leesburg,,Virginia,"United States",40.00,1855-06-28
+889,"D.H. Fuller",Corning,,"New York","United States",9.00,1855-06-28
+890,"O.E. Lacy",Corning,,"New York","United States",11.00,1855-06-28
+891,"T. Gardner",Corning,,"New York","United States",2.50,1855-06-28
+892,"William Hall",Corning,,"New York","United States",6.50,1855-06-28
+893,"Thomas Brown",Corning,,"New York","United States",4.00,1855-06-28
+894,"Mrs C.H.L. Ford",Lawrenceville,,"New York","United States",12.50,1855-06-28
+895,"T. Slingorlaud",Mansfield,,"New York","United States",10.00,1855-06-28
+896,"A. Baldwin",Mansfield,,"New York","United States",7.50,1855-06-28
+897,"S.M. Geer",Tioga,,"New York","United States",2.50,1855-06-28
+898,"W. Lowmange",Tioga,,"New York","United States",12.50,1855-06-28
+899,"Alanson Jillett",Tioga,,"New York","United States",6.00,1855-06-28
+900,"Samuel Coll",Hornellsville,,"New York","United States",9.00,1855-06-28
+901,"J.K. Hale",Hornellsville,,"New York","United States",27.50,1855-06-28
+902,"P.L. Brondige",Hornellsville,,"New York","United States",6.00,1855-06-28
+903,"W. Spier",Wellsville,,"New York","United States",2.00,1855-06-28
+904,"D.B. Raymond",Wellsville,,"New York","United States",6.50,1855-06-28
+905,"J.B. Jones",Wellsville,,"New York","United States",13.00,1855-06-28
+906,"H. Abger",Wellsville,,"New York","United States",3.00,1855-06-28
+907,"N. Johnson",Wellsville,,"New York","United States",1.50,1855-06-28
+908,"Isaac Dibble",Scio,,"New York","United States",2.50,1855-06-28
+909,"James Allen",Scio,,"New York","United States",3.75,1855-06-28
+910,"J. Davenport",Elkland,,Pennsylvania,"United States",2.50,1855-06-28
+911,"F. Degan",Addison,,"New York","United States",5.50,1855-06-28
+912,"George W. Smith",Addison,,"New York","United States",8.50,1855-06-28
+913,"W.S. Allen",Belvidere,,"New York","United States",8.00,1855-06-28
+914,"M. Babcock","Little Genesee",,"New York","United States",6.25,1855-06-28
+915,"D.B. Mills","Little Genesee",,"New York","United States",5.00,1855-06-28
+916,"P. Lacky","Little Genesee",,"New York","United States",5.00,1855-06-28
+917,"Mrs. W.M. Smith","Little Genesee",,"New York","United States",20.50,1855-06-28
+918,"H. Deusenberg","Little Genesee",,"New York","United States",6.25,1855-06-28
+919,"G.W. Amigh",Olean,,"New York","United States",7.50,1855-06-28
+920,"G. Chamberlin",Olean,,"New York","United States",2.00,1855-06-28
+921,"Mrs. P.C. Merrill",Bedford,,"New York","United States",10.50,1855-06-28
+922,"William P. Storton",Bedford,,"New York","United States",2.75,1855-06-28
+923,"A. House",Bedford,,"New York","United States",1.50,1855-06-28
+924,"Robert Smith",Cuba,,"New York","United States",10.25,1855-06-28
+925,"A.W. Wisner",Cuba,,"New York","United States",9.25,1855-06-28
+926,"Hiram Palmer",Almond,,"New York","United States",4.50,1855-06-28
+927,"E.T. Osgood",Almond,,"New York","United States",7.50,1855-06-28
+928,"John Lynch",Elmira,,"New York","United States",13.00,1855-06-28
+929,"Cornelius Power",Elmira,,"New York","United States",8.00,1855-06-28
+930,"D. Mcarly",Elmira,,"New York","United States",1.00,1855-06-28
+931,"James Wallace",Elmira,,"New York","United States",2.00,1855-06-28
+932,"John Sirta",Elmira,,"New York","United States",4.50,1855-06-28
+933,"Edward Albrook",Elmira,,"New York","United States",8.50,1855-06-28
+934,"J.W. McKee",Elmira,,"New York","United States",7.00,1855-06-28
+935,"J.M. Zinlaw",Elmira,,"New York","United States",4.50,1855-06-28
+936,"H.D. Hackley",Elmira,,"New York","United States",2.00,1855-06-28
+937,"P. Kneib",Elmira,,"New York","United States",2.00,1855-06-28
+938,"Samuel Garten",Williamsport,,Pennsylvania,"United States",4.50,1855-06-28
+939,"S.G. Haling",Williamsport,,Pennsylvania,"United States",7.50,1855-06-28
+940,"P.R. Bemer",Appalachin,,"New York","United States",7.50,1855-06-28
+941,"P.W. Stone",Union,,"New York","United States",2.00,1855-06-28
+942,"M.M. Benedict",Union,,"New York","United States",8.00,1855-06-28
+943,"W. Ridley",Binghamton,,"New York","United States",4.00,1855-06-28
+944,"H.W. Whitmarch",Binghamton,,"New York","United States",2.00,1855-06-28
+945,"P. Dugan",Binghamton,,"New York","United States",1.50,1855-06-28
+946,"Nicholas Mullen",Binghamton,,"New York","United States",3.00,1855-06-28
+947,"Nicholas McBride",Binghamton,,"New York","United States",8.75,1855-06-28
+948,"Adam Hayse",Kirkwood,,"New York","United States",10.25,1855-06-28
+949,"Emery Shick Jr.",Kirkwood,,"New York","United States",14.50,1855-06-28
+950,"F. Randall",Binghamton,,"New York","United States",8.75,1855-06-28
+951,"John Laffy",Binghamton,,"New York","United States",12.50,1855-06-28
+952,"Gideon Lowensbury",Binghamton,,"New York","United States",25.00,1855-06-28
+953,"James Callon",Binghamton,,"New York","United States",12.50,1855-06-28
+954,"Leander Flint","Port Crane",,"New York","United States",14.50,1855-06-28
+955,"John Doherty",Kirkwood,,"New York","United States",12.25,1855-06-28
+956,"Solomon Robins",Deposit,,"New York","United States",6.25,1855-06-28
+957,"William Morris",Binghamton,,"New York","United States",5.00,1855-06-28
+958,"E. Bartis",Windsor,,"New York","United States",1.50,1855-06-28
+959,"H.S. Lenahan","Great Bend",,Pennsylvania,"United States",21.00,1855-06-28
+960,"Benjamin Aylesworth",Lanesboro,,Pennsylvania,"United States",9.75,1855-06-28
+961,"William Wigmord",Lanesboro,,Pennsylvania,"United States",1.50,1855-06-28
+962,"P.M. Thompson",Owego,,"New York","United States",3.75,1855-06-28
+963,"T.P. Mapes",Waverly,,"New York","United States",6.00,1855-06-28
+964,"Dr. McIntosh",Towanda,,Pennsylvania,"United States",3.00,1855-06-28
+965,"J.D. Goodenough",Towanda,,Pennsylvania,"United States",2.75,1855-06-28
+966,"T.H. Herron",Towanda,,Pennsylvania,"United States",12.00,1855-06-28
+967,"Samuel Hasting",Towanda,,Pennsylvania,"United States",7.50,1855-06-28
+968,"A. Smith",Towanda,,Pennsylvania,"United States",11.00,1855-06-28
+969,"Harris Murray",Waverly,,"New York","United States",4.00,1855-06-28
+970,"F. Lewis",Binghamton,,"New York","United States",16.75,1855-06-28
+971,"Desforse Thuiller",Orleans,,NULL,France,1.20,1855-07-06
+972,"Thorp Smith Hanchett & Co.",Syracuse,,"New York","United States",4.25,1855-07-07
+973,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",6.12,1855-07-07
+974,"G.H. Perkins",Rochester,,"New York","United States",1.00,1855-07-10
+975,"James McLallan & Son",Trumansburg,,"New York","United States",6.00,1855-07-10
+976,"William Langworthy","Seneca Falls",,"New York","United States",5.12,1855-07-10
+977,"H.P. Brewster",Rochester,,"New York","United States",1.50,1855-07-12
+978,"William H. Perkins",Rochester,,"New York","United States",0.75,1855-07-13
+979,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",7.12,1855-07-10
+980,"A. Frost & Co.",Rochester,,"New York","United States",2.05,1855-07-12
+981,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",8.65,1855-07-12
+982,"Thorp Smith Hanchett & Co.",Syracuse,,"New York","United States",1.23,1855-07-13
+983,"M.F. Reynolds",Rochester,,"New York","United States",1.52,1855-07-13
+984,"A. Frost & Co.",Rochester,,"New York","United States",1.50,1855-07-14
+985,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",10.50,1855-07-14
+986,"Robert Blair",Rochester,,"New York","United States",1.00,1855-07-17
+987,"A. Frost & Co.",Rochester,,"New York","United States",0.80,1855-07-17
+988,"William H. Perkins",Rochester,,"New York","United States",2.00,1855-07-17
+989,"Fras Trentman",Rochester,,"New York","United States",1.00,1855-07-18
+990,"A. Frost & Co.",Rochester,,"New York","United States",3.70,1855-07-21
+991,"A. Frost & Co.",Rochester,,"New York","United States",2.13,1855-07-20
+992,"W.J. & E. Smith",Geneva,,"New York","United States",3.10,1855-07-23
+993,"Israel Hall",Syracuse,,"New York","United States",2.72,1855-07-23
+994,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",3.53,1855-07-23
+995,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",9.60,1855-07-28
+996,"A. Frost & Co.",Rochester,,"New York","United States",1.82,1855-07-30
+997,"A. Saul & Co.",Newburgh,,"New York","United States",1.50,1855-07-30
+998,"Hamer & Parker","Mt. Morris",,"New York","United States",2.00,1855-08-01
+999,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",6.45,1855-08-01
+1000,"George T. Brown",Cobourg,,Ontario,Canada,18.00,1855-08-10
+1001,"John R. Murray","Mt. Morris",,"New York","United States",4.75,1855-08-10
+1002,"William Coleman",Buffalo,,"New York","United States",5.77,1855-08-10
+1003,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",4.25,1855-08-10
+1004,"R.S. Buttles",Girard,,Pennsylvania,"United States",5.73,1855-08-10
+1005,"Thorp Smith Hanchett & Co.",Syracuse,,"New York","United States",5.63,1855-08-10
+1006,"J.R. Young",Baldwinsville,,"New York","United States",3.00,1855-08-10
+1007,"James Grace","Mt. Pleasant",,"New York","United States",2.00,1855-08-10
+1008,"Samuel Moulson",Rochester,,"New York","United States",1.25,1855-08-11
+1009,"E. Peck",Chicago,,Illinois,"United States",4.75,1855-08-11
+1010,"Joseph Prestele",Buffalo,,"New York","United States",14.99,1855-08-14
+1011,"A. Hawxhurst",Rahway,,"New Jersey","United States",3.70,1855-08-14
+1012,"Charles Aldrich",Olean,,"New York","United States",2.50,1855-08-14
+1013,"H.E. Hooker & Co.",Rochester,,"New York","United States",2.00,1855-08-14
+1014,"Edward G. Hyde","New York City",,"New York","United States",10.00,1855-08-15
+1015,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",8.31,1855-08-15
+1016,"Samuel Moulson",Rochester,,"New York","United States",1.00,1855-08-16
+1017,"E. Backus",Columbus,,Ohio,"United States",5.00,1855-08-16
+1018,"H.P. Brewster",Rochester,,"New York","United States",0.50,1855-08-14
+1019,"F.J.M. Cornell",Rochester,,"New York","United States",3.50,1855-08-15
+1020,"John J. Bush",Rochester,,"New York","United States",0.50,1855-08-15
+1021,"Samuel Moulson",Rochester,,"New York","United States",1.50,1855-08-16
+1022,"J.H. Dunham",Racine,,Wisconsin,"United States",11.25,1855-08-20
+1023,"Domelaw & Nephews",Rochester,,"New York","United States",2.00,1855-08-22
+1024,"Loomis & Whitmore",Byron,,"New York","United States",3.07,1855-08-22
+1025,"C.W. Watson",Rochester,,"New York","United States",1.12,1855-08-22
+1026,"Israel Hall",Syracuse,,"New York","United States",4.75,1855-08-23
+1027,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",2.47,1855-08-23
+1028,"H.N. Peck",Rochester,,"New York","United States",4.00,1855-08-23
+1029,"William Hoyle",Elyria,,Ohio,"United States",10.00,1855-08-23
+1030,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",6.25,1855-08-24
+1031,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",10.45,1855-08-27
+1032,"Manley & Mason",Buffalo,,"New York","United States",1.25,1855-08-27
+1033,"Edward G. Hyde","New York City",,"New York","United States",10.00,1855-08-28
+1034,"B.K. Bliss & Haven",Springfield,,Massachusetts,"United States",5.50,1855-08-28
+1035,"F.H. Lathrop","Green Bay",,Wisconsin,"United States",5.00,1855-08-28
+1036,"R.R. Scott",Rochester,,"New York","United States",3.00,1855-08-28
+1037,"A. Lockhart",Angelica,,"New York","United States",5.25,1855-08-29
+1038,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",10.78,1855-08-29
+1039,"G.C. Merrifield",Mishawaka,,Indiana,"United States",5.50,1855-08-31
+1040,"John  Small",Woodstock,,Ontario,Canada,11.97,1855-08-31
+1041,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",9.40,1855-09-08
+1042,"S.E. Locke",Chicago,,Illinois,"United States",10.00,1855-09-10
+1043,"Lorin Cay","Mt. Morris",,"New York","United States",10.00,1855-09-11
+1044,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",5.75,1855-09-11
+1045,"Penfield & Burrell",Lockport,,"New York","United States",3.00,1855-09-12
+1046,"Horace Williams",Buffalo,,"New York","United States",107.50,1855-09-12
+1047,"Ludlow Patton","New York City",,"New York","United States",2.00,1855-09-13
+1048,Wheeler,Pittsford,,"New York","United States",6.00,1855-09-17
+1049,"Charles D. Palmer",Waterville,,"New York","United States",2.00,1855-09-17
+1050,"Randolph Manning",Pontiac,,Michigan,"United States",5.00,1855-09-17
+1051,"H.M. Marion",Albion,,"New York","United States",1.00,1855-09-19
+1052,"Dr. C.H. Hedger",Flushing,,"New York","United States",2.00,1855-09-19
+1053,"John Atwood",Alton,,Illinois,"United States",5.00,1855-09-19
+1054,"Joseph G. Fraser",Galt,,Ontario,Canada,1.50,1855-09-19
+1055,"William Coleman",Buffalo,,"New York","United States",3.25,1855-09-19
+1056,"Martin Osbourn",Fulton,,"New York","United States",2.00,1855-09-20
+1057,"B. Kearney",Rochester,,"New York","United States",2.00,1855-09-22
+1058,"John Caughy",Rochester,,"New York","United States",4.00,1855-09-22
+1059,"S.B. Roby & Co.",Rochester,,"New York","United States",2.00,1855-09-20
+1060,"H.P. Brewster",Rochester,,"New York","United States",0.50,1855-09-17
+1061,"Arthur H. Farmer",Woodstock,,Ontario,Canada,4.25,1855-09-21
+1062,"Loomis & Whitmore",Byron,,"New York","United States",7.78,1855-09-25
+1063,"Moses Long",Rochester,,"New York","United States",27.80,1855-09-27
+1064,"William Coleman",Buffalo,,"New York","United States",2.37,1855-09-25
+1065,"L.B. Swan",Rochester,,"New York","United States",2.00,1855-09-26
+1066,"James Foher",Rochester,,"New York","United States",10.00,1855-09-26
+1067,"Moses Long",Rochester,,"New York","United States",182.54,1855-09-27
+1068,"George H. Mumford",Rochester,,"New York","United States",3.00,1855-09-28
+1069,"Edward M. Smith",Rochester,,"New York","United States",1.25,1855-10-01
+1070,"Mrs. M.F. Reynolds",Rochester,,"New York","United States",7.00,1855-10-01
+1071,"Adam Wilson",Toronto,,Ontario,Canada,1.00,1855-10-02
+1072,"Adam Wilson",Toronto,,Ontario,Canada,47.12,1855-10-02
+1073,"Louis Menaud",Albany,,"New York","United States",7.38,1855-10-02
+1074,"Ford & Huganin","St. Paul",,Minnesota,"United States",2.25,1855-10-04
+1075,"W. Wilcox",Brighton,,"New York","United States",30.00,1855-10-04
+1076,"A. Frost & Co.",Rochester,,"New York","United States",40.00,1855-10-04
+1077,"Mrs. S. Sargent",Buffalo,,"New York","United States",13.00,1855-10-04
+1078,"H.E. Hooker & Co.",Rochester,,"New York","United States",21.00,1855-10-05
+1079,"W. Wilcox",Brighton,,"New York","United States",37.50,1855-10-05
+1080,"P.R. Fruoff",Auburn,,"New York","United States",5.50,1855-10-05
+1081,"John R. Miller",Enon,,Ohio,"United States",1.00,1855-10-05
+1082,"Moses Long",Rochester,,"New York","United States",71.30,1855-10-06
+1083,"William Coleman",Buffalo,,"New York","United States",13.00,1855-10-08
+1084,"A. Frost & Co.",Rochester,,"New York","United States",18.60,1855-10-08
+1085,"Ford & Huganin","St. Paul",,Minnesota,"United States",416.88,1855-10-08
+1086,"Mrs. G.H. Roberts",Rochester,,"New York","United States",2.00,1855-10-09
+1087,"George S. Whitney",Rochester,,"New York","United States",6.00,1855-10-09
+1088,"William H. Stevens",Worcester,,Massachusetts,"United States",1.50,1855-10-09
+1089,"August N. Fisher",Rochester,,"New York","United States",42.93,1855-10-09
+1090,"Thomas Rivers",Sawbridgeworth,,NULL,England,1.50,1855-10-09
+1091,"Penfield & Burrell",Lockport,,"New York","United States",102.00,1855-10-10
+1092,"Alvah Covey",Penfield,,"New York","United States",30.56,1855-10-11
+1093,"W.J. & E. Smith",Geneva,,"New York","United States",2.00,1855-10-12
+1094,"August N. Fisher",Brighton,,"New York","United States",154.73,1855-10-12
+1095,"Moses Long",Rochester,,"New York","United States",25.53,1855-10-12
+1096,"A. Frost & Co.",Rochester,,"New York","United States",40.00,1855-10-12
+1097,"William H. Stevens",Worcester,,Massachusetts,"United States",2.25,1855-10-12
+1098,"A.E. Wilcox",Flint,,Michigan,"United States",154.90,1855-10-13
+1099,"Mrs. G.H. Roberts",Rochester,,"New York","United States",2.50,1855-10-13
+1100,"Thorp Smith Hanchett & Co.",Syracuse,,"New York","United States",221.25,1855-10-13
+1101,"J.C. Ferris",Cincinnati,,Ohio,"United States",777.50,1855-10-13
+1102,"G.C. Merrifield",Mishawaka,,Indiana,"United States",13.36,1855-10-13
+1103,"Penfield & Burrell",Lockport,,"New York","United States",211.65,1855-10-13
+1104,"August N. Fisher",Brighton,,"New York","United States",61.72,1855-10-13
+1105,"Francis Gorton",Rochester,,"New York","United States",1.50,1855-10-15
+1106,"Samuel Moulson",Rochester,,"New York","United States",60.00,1855-10-15
+1107,"Mathew Mackie",Clyde,,"New York","United States",31.40,1855-10-16
+1108,"William H. Stevens",Worcester,,Massachusetts,"United States",3.00,1855-10-16
+1109,"C.W. Watson",Rochester,,"New York","United States",5.20,1855-10-16
+1110,"William H. Reed","Port Dalhousie",,Ontario,Canada,1.00,1855-10-16
+1111,"August N. Fisher",Brighton,,"New York","United States",14.00,1855-10-16
+1112,"Penfield & Burrell",Lockport,,"New York","United States",49.00,1855-10-16
+1113,"Charles Moulson",Rochester,,"New York","United States",0.60,1855-10-17
+1114,"G.C. Merrifield",Mishawaka,,Indiana,"United States",663.34,1855-10-17
+1115,"F. Drake & Co.",Racine,,Wisconsin,"United States",263.64,1855-10-17
+1116,"George H. Cherry & Co.",Rochester,,"New York","United States",189.13,1855-10-17
+1117,"Patrick Conally",Rochester,,"New York","United States",2.00,1855-10-18
+1118,"A. Frost & Co.",Rochester,,"New York","United States",2.16,1855-10-18
+1119,"William H. Cook",Pittsford,,"New York","United States",44.87,1855-10-18
+1120,"William H. Stevens",Worcester,,Massachusetts,"United States",3.00,1855-10-18
+1121,"A. Frost & Co.",Rochester,,"New York","United States",10.00,1855-10-18
+1122,"William H. Bull",Sidney,,Ohio,"United States",408.14,1855-10-19
+1123,"Thorp Smith Hanchett & Co.",Syracuse,,"New York","United States",214.50,1855-10-19
+1124,"August N. Fisher",Brighton,,"New York","United States",74.80,1855-10-19
+1125,"G.D. Wightman",Buffalo,,"New York","United States",13.00,1855-10-19
+1126,"C.J. Ryan & Co.",Rochester,,"New York","United States",36.00,1855-10-19
+1127,"Drake & Roberts",Janesville,,Wisconsin,"United States",104.12,1855-10-19
+1128,"Charles Moulson",Rochester,,"New York","United States",6.50,1855-10-20
+1129,"Dr. J.B. Elwood",Rochester,,"New York","United States",2.00,1855-10-20
+1130,"A. Frost & Co.",Rochester,,"New York","United States",14.08,1855-10-20
+1131,"William Crapnell","New Boston",,Illinois,"United States",4.00,1855-10-20
+1132,"H. Mallory",Morris,,Illinois,"United States",379.00,1855-10-22
+1133,"W.L. Burtis",Rochester,,"New York","United States",16.68,1855-10-22
+1134,"Nyhell Miller",Bellefontaine,,Ohio,"United States",893.32,1855-10-22
+1135,"Thorp Smith Hanchett & Co.",Syracuse,,"New York","United States",60.75,1855-10-22
+1136,"George Chandler",Romeo,,Michigan,"United States",164.09,1855-10-22
+1137,"William H. Stevens",Worcester,,Massachusetts,"United States",0.75,1855-10-22
+1138,"F. Drake & Co.",Batavia,,"New York","United States",130.03,1855-10-22
+1139,"Colby & Willey",Janesville,,Wisconsin,"United States",39.25,1855-10-22
+1140,"J.C. Allen",Lena,,Illinois,"United States",315.15,1855-10-23
+1141,"August N. Fisher",Brighton,,"New York","United States",3.00,1855-10-23
+1142,"Henry D. Rice",Owego,,"New York","United States",86.15,1855-10-23
+1143,"William Mundie",Toronto,,Ontario,Canada,58.05,1855-10-23
+1144,"H.E. Hooker & Co.",Rochester,,"New York","United States",78.00,1855-10-23
+1145,"H.E. Howard",Buffalo,,"New York","United States",24.62,1855-10-23
+1146,"G.B. Rich",Buffalo,,"New York","United States",14.33,1855-10-23
+1147,"P.R. Fruoff",Auburn,,"New York","United States",31.60,1855-10-23
+1148,"F. Farges",Tiffin,,Ohio,"United States",106.60,1855-10-23
+1149,"Franklin Mock",Lexington,,Missouri,"United States",510.70,1855-10-23
+1150,"Thomas Dowling","Terre Haute",,Indiana,"United States",106.44,1855-10-23
+1151,"F.K. Phoenix",Bloomington,,Illinois,"United States",374.90,1855-10-24
+1152,"C.J. Ryan & Co.",Rochester,,"New York","United States",0.90,1855-10-24
+1153,"Aaron C. Wheeler",NULL,,"New York","United States",33.68,1855-10-24
+1154,"William Sting",Rochester,,"New York","United States",1.00,1855-10-24
+1155,"S.L. Darlington & Co.","West Chester",,Pennsylvania,"United States",49.95,1855-10-24
+1156,"John D. Wendell",Irvington,,"New York","United States",8.25,1855-10-24
+1157,"William M. Wallbridge",Chicago,,Illinois,"United States",42.15,1855-10-24
+1158,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",798.97,1855-10-24
+1159,"Daniel Zane",Wheeling,,"West Virginia","United States",84.22,1855-10-25
+1160,"W.E. Cherry & Co.",Dubuque,,Iowa,"United States",264.06,1855-10-25
+1161,"Gaylord & Bro",Elmira,,"New York","United States",21.37,1855-10-25
+1162,"Penfield & Burrell",Lockport,,"New York","United States",12.50,1855-10-25
+1163,"N.G. Curtis",Hamilton,,Ohio,"United States",2.50,1855-10-25
+1164,"A. Frost & Co.",Rochester,,"New York","United States",16.00,1855-10-25
+1165,"S.F. Talland",Burlington,,Iowa,"United States",54.35,1855-10-25
+1166,"Dennis Bowen",Buffalo,,"New York","United States",20.00,1855-10-25
+1167,"Henry Hubbard",Ashtabula,,Ohio,"United States",253.22,1855-10-25
+1168,"Thomas Miner",Edinburgh,,Indiana,"United States",117.00,1855-10-25
+1169,"William Tompkins",Germantown,,"New York","United States",83.65,1855-10-25
+1170,"Thorp Smith Hanchett & Co.",Syracuse,,"New York","United States",45.75,1855-10-25
+1171,"Edward Wilson",Louisville,,Kentucky,"United States",77.75,1855-10-26
+1172,"William King",Rochester,,"New York","United States",0.18,1855-10-26
+1173,"George G. Nelson","Grand Rapids",,Michigan,"United States",89.14,1855-10-26
+1174,"Duncan Falconer",Mitchell,,Ontario,Canada,40.50,1855-10-26
+1175,"August N. Fisher",Brighton,,"New York","United States",13.44,1855-10-26
+1176,"Joseph Prestele",Ebenezer,,"New York","United States",40.50,1855-10-27
+1177,"David G. Scott",Dubuque,,Iowa,"United States",6.75,1855-10-27
+1178,"F.G. Hill",Loveland,,Ohio,"United States",91.25,1855-10-27
+1179,"Charles Reps",Keokuk,,Iowa,"United States",90.89,1855-10-27
+1180,"James Brackett",Rochester,,"New York","United States",2.00,1855-10-27
+1181,"J.H. Pierce",Dayton,,Ohio,"United States",345.80,1855-10-27
+1182,"J.T. Wright",Janesville,,Wisconsin,"United States",8.00,1855-10-27
+1183,"L. Von Baumbach",Elyria,,Ohio,"United States",5.50,1855-10-27
+1184,"J. Meaghen",Kingston,,Ontario,Canada,7.05,1855-10-29
+1185,"Loomis & Whitmore",Byron,,"New York","United States",0.38,1855-10-29
+1186,"H.E. Hooker & Co.",Rochester,,"New York","United States",10.40,1855-10-29
+1187,"C. Danforth",Oberlin,,Ohio,"United States",1.00,1855-10-29
+1188,"J.M. McCullough",Cincinnati,,Ohio,"United States",1.00,1855-10-29
+1189,"C. Danforth",Oberlin,,Ohio,"United States",2.25,1855-10-29
+1190,"C.W. Seelye",Rochester,,"New York","United States",3.94,1855-10-29
+1191,"A.C. Wheeler",Rochester,,"New York","United States",4.50,1855-10-29
+1192,"W.H. Holmes",Bloomington,,Illinois,"United States",1.62,1855-10-29
+1193,"D.C. Young",Joliet,,Illinois,"United States",300.41,1855-10-29
+1194,"John West",Chicago,,Illinois,"United States",38.30,1855-10-29
+1195,"Isiah Blood","Ballston Spa",,"New York","United States",8.37,1855-10-29
+1196,"William F. Bowen",Montgomery,,Ohio,"United States",1.00,1855-10-29
+1197,"William H. Schimpperman",Peoria,,Ohio,"United States",11.50,1855-10-29
+1198,"S.P. Morehouse",Bloomington,,Illinois,"United States",54.28,1855-10-29
+1199,"W.C. Larrabee",Greencastle,,Indiana,"United States",26.78,1855-10-29
+1200,"Mason & Manley",Buffalo,,"New York","United States",5.00,1855-10-29
+1201,"C.H. Nash",Oxford,,"New York","United States",49.79,1855-10-30
+1202,"J.C. Devereux",Ellicottville,,"New York","United States",29.88,1855-10-30
+1203,"Martin C. Hunter",Bloomington,,Illinois,"United States",0.62,1855-10-30
+1204,"G. F. Smith","Battle Creek",,Michigan,"United States",1.50,1855-10-30
+1205,"S.S. Gastin",Newark,,"New Jersey","United States",1.00,1855-10-30
+1206,"E.E. & S.H. Bacon","Willow Creek",,"New York","United States",193.43,1855-10-30
+1207,"Dr. E.S. Hull",Alton,,Illinois,"United States",200.68,1855-10-30
+1208,"Jacob Gale",Peoria,,Illinois,"United States",233.39,1855-10-30
+1209,"Cherry & Imlay",Zanesville,,Ohio,"United States",168.69,1855-10-30
+1210,"E.B. Butter",Hawkesville,,Ontario,Canada,12.37,1855-10-30
+1211,"A. Javers Jr.","New York City",,"New York","United States",14.17,1855-10-30
+1212,"J.P. Harrison","Pass Christian",,Mississippi,"United States",1.75,1855-10-30
+1213,"C.E. Peck",Chicago,,Illinois,"United States",42.43,1855-10-30
+1214,"J. Domelaw & Nephews",Rochester,,"New York","United States",50.52,1855-10-30
+1215,"J.D. Noble",Galena,,Illinois,"United States",201.68,1855-10-31
+1216,"James M. Clark",Baraboo,,Wisconsin,"United States",45.01,1855-10-31
+1217,"Israel Stough",Springfield,,Ohio,"United States",501.87,1855-10-31
+1218,"D.H. Pike & Co.",Painesville,,Ohio,"United States",5.00,1855-10-31
+1219,"Dr. E.S. Hull",Alton,,Illinois,"United States",23.59,1855-10-31
+1220,"S.W. Bowen",Joliet,,Illinois,"United States",2.25,1855-10-31
+1221,"Oliver Stark","Penn Yan",,"New York","United States",29.38,1855-10-31
+1222,"George W. Dean",Lindenville,,Ohio,"United States",25.00,1855-10-31
+1223,"Dr. N.W. Thatcher",Chillicothe,,Ohio,"United States",424.83,1855-10-31
+1224,"Levi Heywood",Gardner,,Massachusetts,"United States",69.03,1855-10-31
+1225,"E.J. Throop Martin","Willow Brook",,"New York","United States",19.74,1855-10-31
+1226,"W.H. Bull",Sidney,,Ohio,"United States",28.41,1855-10-19
+1227,"G.D. Wightman",Buffalo,,"New York","United States",7.00,1855-10-19
+1228,"Charles Henrdix",Rochester,,"New York","United States",6.00,1855-10-03
+1229,"Ford & Huganin","St. Paul",,Minnesota,"United States",69.34,1855-10-04
+1230,"Samuel Moulson",Rochester,,"New York","United States",3.00,1855-10-04
+1231,"Joseph Prestele",Buffalo,,"New York","United States",3.50,1855-10-05
+1232,"Moses Long",Rochester,,"New York","United States",24.55,1855-10-06
+1233,"William H. Stevens",Worcester,,Massachusetts,"United States",1.40,1855-10-08
+1234,"William Coleman",Buffalo,,"New York","United States",5.72,1855-10-08
+1235,"Ford & Huganin","St. Paul",,Minnesota,"United States",105.88,1855-10-08
+1236,"William H. Stevens",Worcester,,Massachusetts,"United States",19.60,1855-10-09
+1237,"August N. Fisher",Brighton,,"New York","United States",3.05,1855-10-09
+1238,"Thomas Rivers",Sawbridgeworth,,NULL,England,3.05,1855-10-09
+1239,"James Ketchum",Buffalo,,"New York","United States",6.78,1855-10-10
+1240,"A. Frost & Co.",Rochester,,"New York","United States",1.00,1855-10-11
+1241,"Alvah Covey",Penfield,,"New York","United States",12.59,1855-10-11
+1242,"W.J. & E. Smith",Geneva,,"New York","United States",30.00,1855-10-12
+1243,"Moses Long",Rochester,,"New York","United States",10.75,1855-10-12
+1244,"William H. Stevens",Worcester,,Massachusetts,"United States",53.90,1855-10-12
+1245,"A.E. Wilcox",Flint,,Michigan,"United States",91.52,1855-10-13
+1246,"Mrs. G.H. Roberts",Rochester,,"New York","United States",3.00,1855-10-13
+1247,"J.C. Ferris",Cincinnati,,Ohio,"United States",422.50,1855-10-13
+1248,"G.C. Merrifield",Mishawaka,,Indiana,"United States",56.33,1855-10-13
+1249,"Penfield & Burrell",Lockport,,"New York","United States",155.59,1855-10-13
+1250,"Mathew Mackie",Clyde,,"New York","United States",12.17,1855-10-16
+1251,"William H. Stevens",Worcester,,Massachusetts,"United States",45.50,1855-10-16
+1252,"C.W. Watson",Rochester,,"New York","United States",9.00,1855-10-16
+1253,"D.W. Travers",Mecklenburg,,"New York","United States",7.50,1855-10-16
+1254,"August N. Fisher",Brighton,,"New York","United States",7.67,1855-10-16
+1255,"Penfield & Burrell",Lockport,,"New York","United States",5.00,1855-10-16
+1256,"Charles Moulson",Rochester,,"New York","United States",0.94,1855-10-17
+1257,"G.C. Merrifield",Mishawaka,,Indiana,"United States",284.99,1855-10-17
+1258,"George H. Cherry & Co.",Rochester,,"New York","United States",8.00,1855-10-17
+1259,"William H. Cook",Pittsford,,"New York","United States",1.70,1855-10-18
+1260,"William H. Stevens",Sloansville,,"New York","United States",66.50,1855-10-18
+1261,"August N. Fisher",Brighton,,"New York","United States",17.76,1855-10-19
+1262,"J. Domelaw & Nephews",Rochester,,"New York","United States",0.38,1855-10-19
+1263,"Drake & Roberts",Janesville,,Wisconsin,"United States",12.50,1855-10-19
+1264,"William H. Stevens",Sloansville,,"New York","United States",28.75,1855-10-19
+1265,"Charles Moulson",Rochester,,"New York","United States",2.00,1855-10-20
+1266,"Lewis Burtis",Rochester,,"New York","United States",4.77,1855-10-20
+1267,"A. Frost & Co.",Rochester,,"New York","United States",4.00,1855-10-20
+1268,"William Crapnell","New Boston",,Illinois,"United States",23.50,1855-10-20
+1269,"H. Mallory",Morris,,Illinois,"United States",67.21,1855-10-22
+1270,"Mrs. Charles Lee","Penn Yan",,"New York","United States",3.00,1855-10-22
+1271,"Nyhell Miller",Bellefontaine,,Ohio,"United States",291.53,1855-10-22
+1272,"William H. Stevens",Sloansville,,"New York","United States",10.15,1855-10-22
+1273,"George Chandler",Romeo,,Michigan,"United States",8.25,1855-10-22
+1274,"Colby & Willey",Janesville,,Wisconsin,"United States",22.50,1855-10-22
+1275,"Louis Chapin",Rochester,,"New York","United States",23.90,1855-10-22
+1276,"J.C. Allen",Lena,,Illinois,"United States",288.11,1855-10-23
+1277,"A. Frost & Co.",Rochester,,"New York","United States",3.00,1855-10-23
+1278,"H.E. Hooker & Co.",Rochester,,"New York","United States",1.50,1855-10-23
+1279,"P.R. Fruoff",Auburn,,"New York","United States",100.44,1855-10-23
+1280,"F. Farges",Tiffin,,Ohio,"United States",22.61,1855-10-23
+1281,"Ira Belden",Rochester,,"New York","United States",3.00,1855-10-23
+1282,"John F. Bush",Rochester,,"New York","United States",11.31,1855-10-23
+1283,"Franklin Mock",Lexington,,Missouri,"United States",95.88,1855-10-23
+1284,"F.K. Phoenix",Bloomington,,Illinois,"United States",118.00,1855-10-24
+1285,"William King",Rochester,,"New York","United States",3.63,1855-10-24
+1286,"S.L. Darlington & Co.","West Chester",,Pennsylvania,"United States",1.00,1855-10-24
+1287,"Daniel Zane",Wheeling,,"West Virginia","United States",13.00,1855-10-25
+1288,"W.E. Cherry & Co.",Dubuque,,Iowa,"United States",206.84,1855-10-25
+1289,"N.G. Curtis",Hamilton,,Ohio,"United States",10.85,1855-10-25
+1290,"Dennis Bowen",Buffalo,,"New York","United States",4.13,1855-10-25
+1291,"Henry Hubbard",Ashtabula,,Ohio,"United States",16.23,1855-10-25
+1292,"Thomas Miner",Edinburgh,,Indiana,"United States",12.83,1855-10-25
+1293,"Edward Wilson",Louisville,,Kentucky,"United States",107.75,1855-10-26
+1294,"William King",Rochester,,"New York","United States",4.50,1855-10-26
+1295,"George G. Nelson","Grand Rapids",,Michigan,"United States",9.00,1855-10-26
+1296,"A. Frost & Co.",Rochester,,"New York","United States",40.00,1855-10-26
+1297,"A. Morse",Rochester,,"New York","United States",3.50,1855-10-26
+1298,"Duncan Falconer",Mitchell,,Ontario,Canada,12.50,1855-10-26
+1299,"August N. Fisher",Brighton,,"New York","United States",2.88,1855-10-27
+1300,"A. Frost & Co.",Rochester,,"New York","United States",2.99,1855-10-27
+1301,"F.G. Hill",Loveland,,Ohio,"United States",45.00,1855-10-27
+1302,"Charles Reps",Keokuk,,Iowa,"United States",43.98,1855-10-27
+1303,"Alvah Covey",Penfield,,"New York","United States",2.25,1855-10-27
+1304,"J.H. Pierce",Dayton,,Ohio,"United States",29.13,1855-10-27
+1305,"L. Von Baumbach",Elyria,,Ohio,"United States",0.50,1855-10-27
+1306,"C.G. Irish Jr.",Buffalo,,"New York","United States",3.13,1855-10-29
+1307,"J. Meaghen",Kingston,,Ontario,Canada,2.75,1855-10-29
+1308,"Loomis & Whitmore",Byron,,"New York","United States",28.82,1855-10-29
+1309,"C. Danforth",Oberlin,,Ohio,"United States",12.11,1855-10-29
+1310,"J.M. McCullough",Cincinnati,,Ohio,"United States",20.00,1855-10-29
+1311,"D.C. Young",Joliet,,Illinois,"United States",109.15,1855-10-29
+1312,"William H. Holmes",Bloomington,,Illinois,"United States",18.75,1855-10-29
+1313,"John West",Chicago,,Illinois,"United States",69.50,1855-10-29
+1314,"William F. Bowen",Montgomery,,Ohio,"United States",204.50,1855-10-29
+1315,"William H. Schimpperman",Peoria,,Illinois,"United States",9.88,1855-10-29
+1316,"S.P. Morehouse",Bloomington,,Illinois,"United States",29.00,1855-10-29
+1317,"W.C. Larrabee",Greencastle,,Indiana,"United States",95.50,1855-10-29
+1318,"Martin C. Hunter",Bloomington,,Illinois,"United States",8.50,1855-10-29
+1319,"G. F. Smith","Battle Creek",,Michigan,"United States",33.75,1855-10-30
+1320,"S.S. Gastin",Newark,,"New Jersey","United States",40.00,1855-10-30
+1321,"E.E. & S.H. Bacon","Willow Creek",,"New York","United States",20.00,1855-10-30
+1322,"Dr. E.S. Hull",Alton,,Illinois,"United States",677.24,1855-10-30
+1323,"Jacob Gale",Peoria,,Illinois,"United States",12.00,1855-10-30
+1324,"Cherry & Imlay",Zanesville,,Ohio,"United States",19.60,1855-10-30
+1325,"J.P. Harrison","Pass Christian",,Mississippi,"United States",8.00,1855-10-30
+1326,"C.E. Peck",Chicago,,Illinois,"United States",48.75,1855-10-30
+1327,"J.D. Noble",Galena,,Illinois,"United States",62.25,1855-10-31
+1328,"James M. Clark",Baraboo,,Wisconsin,"United States",4.25,1855-10-31
+1329,"Israel Stough",Springfield,,Ohio,"United States",5.70,1855-10-31
+1330,"Aaron Erickson",Rochester,,"New York","United States",1.00,1855-10-31
+1331,"S.W. Bowen",Joliet,,Illinois,"United States",12.00,1855-10-31
+1332,"Peter Mitchell",Manchester,,"New York","United States",3.00,1855-10-31
+1333,"D.H. Pike & Co.",Painesville,,Ohio,"United States",57.63,1855-10-31
+1334,"P.R. Fruoff",Auburn,,"New York","United States",6.85,1855-10-31
+1335,"Dr. N.W. Thatcher",Chillicothe,,Ohio,"United States",92.58,1855-11-01
+1336,"James Hair",Rochester,,"New York","United States",29.00,1855-11-01
+1337,"N.G. Curtis",Hamilton,,Ohio,"United States",5.58,1855-11-01
+1338,"N.G. Curtis",Hamilton,,Ohio,"United States",361.84,1855-11-01
+1339,"J.S. Cunningham","New Boston",,"New York","United States",67.01,1855-11-02
+1340,"John Mears",Cincinnati,,Ohio,"United States",4.87,1855-11-02
+1341,"F.H. Lathrop","Green Bay",,Wisconsin,"United States",106.53,1855-11-02
+1342,"F.H. Lathrop","Green Bay",,Wisconsin,"United States",22.74,1855-11-09
+1343,"H.F. Bond",Madison,,Wisconsin,"United States",510.11,1855-11-03
+1344,"George Merion",Columbus,,Ohio,"United States",78.16,1855-11-03
+1345,"Mrs. A. Devereux",Utica,,"New York","United States",6.25,1855-11-02
+1346,"James Houghton",Cleveland,,Ohio,"United States",31.75,1855-11-02
+1347,"Sturges Bigelow & Co.",Mansfield,,Ohio,"United States",14.00,1855-11-02
+1348,"W.H. Metcalf",Milwaukee,,Wisconsin,"United States",8.50,1855-11-02
+1349,"J.D. Richardson",Buckeystown,,Maryland,"United States",37.20,1855-11-02
+1350,"George S. Ledyard",Cazenovia,,"New York","United States",4.75,1855-11-02
+1351,"Lewis Shickluna","St. Catharines",,Ontario,Canada,22.03,1855-11-02
+1352,"Hartman Kuhn",Philadelphia,,Pennsylvania,"United States",33.50,1855-11-02
+1353,"William F. Bowen",Montgomery,,Ohio,"United States",184.84,1855-11-02
+1354,"William F. Bowen",Montgomery,,Ohio,"United States",23.75,1855-11-09
+1355,"William F. Bowen",Montgomery,,Ohio,"United States",170.75,1855-11-26
+1356,"B.W. Steere",Adrian,,Michigan,"United States",106.25,1855-11-02
+1357,"W.B. Wilcox",Brighton,,"New York","United States",30.00,1855-11-02
+1358,"C.F. Couch",Petersburg,,Virginia,"United States",9.75,1855-11-02
+1359,"Thomas Trow","Eagle Centre",,Wisconsin,"United States",264.78,1855-11-02
+1360,"Johnathan Haworth",Tipton,,Iowa,"United States",10.00,1855-11-02
+1361,"B. Blake",Columbus,,Ohio,"United States",24.38,1855-11-02
+1362,"J.P. Flagler",Peekskill,,"New York","United States",13.00,1855-11-02
+1363,"Joseph Breck & Son",Boston,,Massachusetts,"United States",7.08,1855-11-02
+1364,"Colonel J.B. Askews",London,,Ontario,Canada,1.50,1855-11-02
+1365,"J.W.P. Allen",Oswego,,"New York","United States",2.25,1855-11-02
+1366,"Walter Wright",Chicago,,Illinois,"United States",6.75,1855-11-02
+1367,"Alvah Covey",Penfield,,"New York","United States",1.08,1855-11-02
+1368,"Alexander D. Anderson",Dubuque,,Iowa,"United States",53.38,1855-11-02
+1369,"George W. Lewis","Beaver Dam",,Wisconsin,"United States",381.58,1855-11-02
+1370,"Ward Hank",Utica,,"New York","United States",34.64,1855-11-02
+1371,"Ward Hank",Utica,,"New York","United States",4.37,1855-11-21
+1372,"E.H. Williams",Carthage,,Illinois,"United States",92.53,1855-11-03
+1373,"A.R. Whitney","Franklin Grove",,Illinois,"United States",115.20,1855-11-03
+1374,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",88.35,1855-11-03
+1375,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",134.23,1855-11-08
+1376,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",127.88,1855-11-16
+1377,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",32.75,1855-11-21
+1378,"Louis Ellsworth & Co.",Naperville,,Illinois,"United States",390.34,1855-11-03
+1379,"Dr. N.W. Thatcher",Chillicothe,,Ohio,"United States",4.01,1855-11-03
+1380,"Finlay & Dwire",Davenport,,Iowa,"United States",148.36,1855-11-05
+1381,"Avery Comstock & Co.",Burlington,,Iowa,"United States",147.31,1855-11-05
+1382,"Patrick Conally",Rochester,,"New York","United States",30.00,1855-11-03
+1383,"Charles Star Jr.","New York City",,"New York","United States",22.80,1855-11-05
+1384,"Jacob Henry",Albany,,"New York","United States",0.50,1855-11-05
+1385,"Hammer Parker & Co.","Mt. Morris",,"New York","United States",48.00,1855-11-05
+1386,"O.H. Palmer",Rochester,,"New York","United States",1.00,1855-11-05
+1387,"A. Frost & Co.",Rochester,,"New York","United States",0.75,1855-11-05
+1388,"A. Frost & Co.",Rochester,,"New York","United States",8.00,1855-11-06
+1389,"A. Frost & Co.",Rochester,,"New York","United States",1.08,1855-11-09
+1390,"A. Frost & Co.",Rochester,,"New York","United States",5.58,1855-11-12
+1391,"A. Frost & Co.",Rochester,,"New York","United States",0.84,1855-11-12
+1392,"A. Frost & Co.",Rochester,,"New York","United States",36.37,1855-11-26
+1393,"James Maher",Rochester,,"New York","United States",0.88,1855-11-05
+1394,"Joseph Sprague (Stevens & Co.)",Rochester,,"New York","United States",2.00,1855-11-05
+1395,"John Jay",Katonah,,"New York","United States",14.75,1855-11-05
+1396,"C.J. Ryan & Co.",Rochester,,"New York","United States",30.00,1855-11-05
+1397,"Frances Trentman",Rochester,,"New York","United States",5.00,1855-11-05
+1398,"Frances Trentman",Rochester,,"New York","United States",3.00,1855-11-17
+1399,"William J. Hubbard",Columbus,,Indiana,"United States",606.20,1855-11-05
+1400,"H.E. Hooker & Co.",Rochester,,"New York","United States",70.98,1855-11-05
+1401,"Charles Allen",Rochester,,"New York","United States",41.25,1855-11-05
+1402,"Jabez Capps","Mt. Pulaski",,Ohio,"United States",136.83,1855-11-05
+1403,"A.G. Hanford",Waukesha,,Wisconsin,"United States",3.50,1855-11-05
+1404,"L. Westherhall",Amherst,,Massachusetts,"United States",8.12,1855-11-05
+1405,"Chester Clark",Covington,,Kentucky,"United States",15.50,1855-11-05
+1406,"Chester Clark",Covington,,Kentucky,"United States",1.24,1855-11-17
+1407,"Randolph Manning",Pontiac,,Michigan,"United States",17.88,1855-11-05
+1408,"William Pierce","Jackson Ferry",,Virginia,"United States",16.50,1855-11-05
+1409,"W.F. Coolbaugh",Coolbaugh,,Pennsylvania,"United States",78.66,1855-11-05
+1410,"J.H. Burch",Chicago,,Illinois,"United States",16.75,1855-11-05
+1411,"William Mundie",Toronto,,Ontario,Canada,54.50,1855-11-05
+1412,"Van Kirk & McCall",Waukesha,,Wisconsin,"United States",173.16,1855-11-05
+1413,"James R. Gowan",Bervie,,Ontario,Canada,8.08,1855-11-05
+1414,"George H. Cherry & Co.",Rochester,,"New York","United States",6.22,1855-11-05
+1415,"George H. Cherry & Co.",Rochester,,"New York","United States",450.00,1855-11-15
+1416,"David Crall",Westminster,,Ohio,"United States",5.00,1855-11-06
+1417,"E. Moody","Wrights Corners",,"New York","United States",61.00,1855-11-06
+1418,"John A. Simpson",Cincinnati,,Ohio,"United States",121.12,1855-11-06
+1419,"J.R. Murray","Mt. Morris",,"New York","United States",49.22,1855-11-06
+1420,"Drake & Britton",Defiance,,Ohio,"United States",41.30,1855-11-06
+1421,"L.C. Lishy",Nashville,,Tennessee,"United States",275.15,1855-11-06
+1422,"J.R. Miller",Enon,,Ohio,"United States",120.03,1855-11-06
+1423,"Joseph Garsh",Springfield,,Ohio,"United States",92.72,1855-11-07
+1424,"Joseph Garsh",Springfield,,Ohio,"United States",17.55,1855-11-26
+1425,"L. Fairbanks",Whitby,,Ontario,Canada,14.80,1855-11-07
+1426,"William Coleman",Buffalo,,"New York","United States",14.80,1855-11-07
+1427,"A.P. Bartlett",Peoria,,Illinois,"United States",89.62,1855-11-07
+1428,"Warne Merritt & Co.","St. Louis",,Missouri,"United States",73.86,1855-11-07
+1429,"Warne Merritt & Co.","St. Louis",,Missouri,"United States",32.47,1855-11-14
+1430,"Warne Merritt & Co.","St. Louis",,Missouri,"United States",33.76,1855-11-21
+1431,"George Saunderson",Scranton,,Pennsylvania,"United States",16.25,1855-11-07
+1432,"John M. Dodd","New York City",,"New York","United States",29.50,1855-11-07
+1433,"E.S. Cooper",Henderson,,Illinois,"United States",15.75,1855-11-07
+1434,"James B. Agard",Rockford,,Illinois,"United States",323.41,1855-11-07
+1435,"H.J. Chapman",Joliet,,Illinois,"United States",17.00,1855-11-07
+1436,"H. Johnson Jr.",Hillsdale,,Michigan,"United States",20.75,1855-11-07
+1437,"W.F.A. Sill",Windsor,,Connecticut,"United States",6.00,1855-11-07
+1438,"S. Davison",Danielsonville,,Connecticut,"United States",18.75,1855-11-07
+1439,"John Pardon",Urbana,,Ohio,"United States",88.94,1855-11-07
+1440,"William A. Grigsby",Putnamville,,Indiana,"United States",73.85,1855-11-07
+1441,"David J. Griscom",Woodbury,,"New Jersey","United States",29.00,1855-11-07
+1442,"George H. Mumford",Rochester,,"New York","United States",16.00,1855-11-07
+1443,"Alexander Rossy","New Braunfels",,Texas,"United States",55.37,1855-11-07
+1444,"Joseph Perkins",Cleveland,,Ohio,"United States",6.88,1855-11-07
+1445,"George Tilden",Keene,,"New Hampshire","United States",17.15,1855-11-07
+1446,"John McGlashan","North Pelham",,Ontario,Canada,4.88,1855-11-07
+1447,"E.W. Cahill",Dalton,,Ohio,"United States",101.39,1855-11-07
+1448,"Dill A. Smith",Pittsburgh,,Pennsylvania,"United States",68.17,1855-11-07
+1449,"Dr. Plessner",Saginaw,,Michigan,"United States",15.25,1855-11-07
+1450,"John Sigerson & Bros.","St. Louis",,Missouri,"United States",1.00,1855-11-08
+1451,"Oscar D. Dicke","New York City",,"New York","United States",10.00,1855-11-08
+1452,"Ira Belden",Rochester,,"New York","United States",1.50,1855-11-08
+1453,"James Weed",Muscatine,,Iowa,"United States",76.81,1855-11-08
+1454,"L.A. Ward",Rochester,,"New York","United States",5.50,1855-11-08
+1455,"H.M. Morrison",Albion,,"New York","United States",2.25,1855-11-08
+1456,"F.R. Liverman",Winneconne,,Wisconsin,"United States",302.88,1855-11-09
+1457,"A.B. Buttes",Columbus,,Ohio,"United States",34.00,1855-11-09
+1458,"Jesse Storr",Painesville,,Ohio,"United States",16.62,1855-11-09
+1459,"Jesse Storr",Painesville,,Ohio,"United States",29.50,1855-11-14
+1460,"G. No. D. Cantrell",Nashville,,Tennessee,"United States",75.60,1855-11-09
+1461,"Burlington Carlisle",Willmington,,Ohio,"United States",3.25,1855-11-09
+1462,"Hobbs & Walker",Williamson,,Tennessee,"United States",148.97,1855-11-09
+1463,"James L. Wadsoworth",Windham,,Ohio,"United States",98.95,1855-11-09
+1464,"Edward Harte","Washington D.C.",,DC,"United States",27.12,1855-11-09
+1465,"George Ward",Wellington,,Ontario,Canada,1.50,1855-11-09
+1466,"O.J. Hobbs",Randolph,,Pennsylvania,"United States",49.45,1855-11-09
+1467,"Samuel Edwards","La Moille",,Illinois,"United States",159.16,1855-11-09
+1468,"William L. Hatch",Cincinnati,,Ohio,"United States",18.25,1855-11-09
+1469,"Robert William",Pewaukee,,Wisconsin,"United States",71.43,1855-11-09
+1470,"R.M. Marshall",Cincinnati,,Ohio,"United States",31.88,1855-11-09
+1471,"Adnah Williams",Galesburg,,Illinois,"United States",51.81,1855-11-09
+1472,"E.B. Coleman",Peoria,,Illinois,"United States",168.79,1855-11-09
+1473,"Rev. S. Caldwell",Freeport,,Pennsylvania,"United States",31.25,1855-11-09
+1474,"William King",Rochester,,"New York","United States",0.12,1855-11-09
+1475,"William King",Rochester,,"New York","United States",15.00,1855-11-17
+1476,"George Barclay","New York City",,"New York","United States",25.75,1855-11-09
+1477,"J.M. Dexter",Elmira,,"New York","United States",0.62,1855-11-09
+1478,"H.S. Abbey",Akron,,Ohio,"United States",8.00,1855-11-09
+1479,"John Flemming",Pittsburgh,,Pennsylvania,"United States",54.23,1855-11-09
+1480,"W.C. Strong",Brighton,,Massachusetts,"United States",24.75,1855-11-09
+1481,"Charles Downing",Newburgh,,"New York","United States",12.87,1855-11-09
+1482,"Underhill & Carpenter",Marseilles,,Illinois,"United States",62.62,1855-11-09
+1483,"Horace Williams",Buffalo,,"New York","United States",137.38,1855-11-09
+1484,"J.J. Thomas",Macedon,,"New York","United States",7.57,1855-11-09
+1485,"J.J. Thomas",Macedon,,"New York","United States",7.70,1855-11-13
+1486,"M. Moore","Trenton Falls",,"New York","United States",10.25,1855-11-09
+1487,"Dr. E.S. Chipman",Newbern,,"North Carolina","United States",16.75,1855-11-09
+1488,"Hon. E.C. Campbell","Niagara Falls",,Ontario,Canada,16.20,1855-11-09
+1489,"William M. Boling",Montgomery,,Alabama,"United States",28.00,1855-11-09
+1490,"W.A. Roby",Racine,,Wisconsin,"United States",2.00,1855-11-09
+1491,"W.B. Smith",Cincinnati,,Ohio,"United States",0.75,1855-11-09
+1492,"Edward Denny","Barre Plains",,Massachusetts,"United States",41.88,1855-11-09
+1493,"Blias & Haven",Springfield,,Massachusetts,"United States",29.75,1855-11-09
+1494,"R.B. Bowler",Cincinnati,,Ohio,"United States",1.00,1855-11-09
+1495,"J. Kendall",Ithaca,,"New York","United States",20.00,1855-11-09
+1496,"R.M. Masterton","New York City",,"New York","United States",24.75,1855-11-09
+1497,"A.I. Noble",Montgomery,,Alabama,"United States",24.26,1855-11-12
+1498,"Simeon Burk",Boston,,Massachusetts,"United States",63.78,1855-11-12
+1499,"General J. Watson Webb",Tarrytown,,"New York","United States",24.25,1855-11-12
+1500,"General J. Watson Webb",Tarrytown,,"New York","United States",27.25,1855-11-26
+1501,"W.C. Wilson",Baltimore,,Indiana,"United States",19.87,1855-11-12
+1502,"Hatch & Co.",Jackson,,Mississippi,"United States",46.37,1855-11-12
+1503,"Charles Gifford",Milwaukee,,Wisconsin,"United States",18.46,1855-11-12
+1504,"Wiiliam H. Sweet",Saginaw,,Michigan,"United States",53.02,1855-11-12
+1505,"Christopher Shearer",Reading,,Pennsylvania,"United States",2.00,1855-11-12
+1506,"Aaron E. Wait","Oregon City",,Oregon,"United States",17.50,1855-11-12
+1507,"M. Hamlin","Penn Yan",,"New York","United States",5.50,1855-11-12
+1508,"William Tompkins",Germantown,,"New York","United States",7.95,1855-11-12
+1509,"J.O. Putnam","San Francisco",,California,"United States",42.37,1855-11-12
+1510,"E.B. Crocker",Sacramento,,California,"United States",30.12,1855-11-12
+1511,"Haggins & Scriviner",Glasgow,,Kentucky,"United States",19.97,1855-11-12
+1512,"J.H. Pierce",Dayton,,Ohio,"United States",32.40,1855-11-12
+1513,"Samuel Brooks",Chicago,,Illinois,"United States",21.25,1855-11-12
+1514,"Moses Long",Rochester,,"New York","United States",23.08,1855-11-13
+1515,"C.I. Hayden",Rochester,,"New York","United States",11.00,1855-11-13
+1516,"George G. Briggs","San Francisco",,California,"United States",2.00,1855-11-13
+1517,"George G. Briggs","San Francisco",,California,"United States",1.00,1855-11-26
+1518,"G.C. Merrifield",Mishawaka,,Indiana,"United States",274.04,1855-11-13
+1519,"L. Berckmans",Plainfield,,"New Jersey","United States",45.52,1855-11-13
+1520,"Alfred Curtis",Sharon,,Pennsylvania,"United States",22.87,1855-11-13
+1521,"Fox & Rolhemus","New York City",,"New York","United States",39.00,1855-11-13
+1522,"Fox & Rolhemus","New York City",,"New York","United States",40.28,1855-11-21
+1523,"E. May",Burlington,,Iowa,"United States",2.50,1855-11-13
+1524,"B.M. Watson",Plymouth,,Massachusetts,"United States",15.50,1855-11-13
+1525,"Stephen Robinson",Akron,,Ohio,"United States",2.88,1855-11-13
+1526,"J.W. Tenbrook",Rockville,,Iowa,"United States",160.00,1855-11-14
+1527,"J.G. Bubach",Princeton,,Illinois,"United States",57.38,1855-11-14
+1528,"W.H. Thurmond & Co.",Altanta,,Georgia,"United States",82.78,1855-11-14
+1529,"Headen & Morse","Santa Clara",,California,"United States",50.00,1855-11-14
+1530,"C.R. Burrows",Albion,,"New York","United States",4.50,1855-11-14
+1531,"John Gray",Toronto,,Ontario,Canada,36.58,1855-11-14
+1532,"J. Domelaw & Nephews",Rochester,,"New York","United States",113.00,1855-11-14
+1533,"William Askews","St. Clairsville",,Ohio,"United States",245.56,1855-11-14
+1534,"F.C. Hansen & Co.",Toledo,,Ohio,"United States",9.00,1855-11-14
+1535,"Thomas H. Smith","Port Byron",,"New York","United States",45.80,1855-11-15
+1536,"Septha Wilbur",Avon,,"New York","United States",1.50,1855-11-15
+1537,"J.A. Brown",Franklin,,Ohio,"United States",21.62,1855-11-15
+1538,"William Corse",Baltimore,,Maryland,"United States",73.00,1855-11-15
+1539,"J. & F. Hammond",Dublin,,Iowa,"United States",19.88,1855-11-15
+1540,"R.S. Black",Bremen,,Ohio,"United States",11.88,1855-11-15
+1541,"Robert Blair",Rochester,,"New York","United States",5.00,1855-11-16
+1542,"J.P. Spaulding",Oramel,,"New York","United States",68.25,1855-11-16
+1543,"A.B. Laurence",Bovina,,Mississippi,"United States",109.35,1855-11-16
+1544,"Norman J. Coleman","St. Louis",,Missouri,"United States",113.59,1855-11-16
+1545,"Dr. W.O. Baldwin",Montgomery,,Alabama,"United States",142.02,1855-11-16
+1546,"P. Ammerman",Cynthiana,,Kentucky,"United States",141.29,1855-11-16
+1547,"T.M. Warrant",Otsego,,Michigan,"United States",64.38,1855-11-16
+1548,"Arthur Peters",Louisville,,Kentucky,"United States",55.00,1855-11-17
+1549,"J.C. Ferris",Cincinnati,,Ohio,"United States",173.05,1855-11-17
+1550,"Professor Dewey (Chester)",Rochester,,"New York","United States",4.50,1855-11-17
+1551,"M.F. Reynolds",Rochester,,"New York","United States",6.00,1855-11-17
+1552,"James Orr",Springfield,,Illinois,"United States",70.40,1855-11-17
+1553,"George Rykerk","St. Catharines",,Ontario,Canada,9.50,1855-11-17
+1554,"Theo Grunenthal",Nyack,,"New York","United States",21.15,1855-11-17
+1555,"Henry Wright",Rochester,,"New York","United States",453.49,1855-11-17
+1556,"Henry Wright",Rochester,,"New York","United States",25.07,1855-11-26
+1557,"W.O. Leslie",Pittsburgh,,Pennsylvania,"United States",10.12,1855-11-19
+1558,"E.G. Spaulding",Buffalo,,"New York","United States",14.90,1855-11-19
+1559,"William Neely Thompson","San Francisco",,California,"United States",169.20,1855-11-19
+1560,"Thorp Smith Hanchett & Co.",Syracuse,,"New York","United States",15.50,1855-11-20
+1561,"William McNarry",Rochester,,"New York","United States",4.00,1855-11-21
+1562,"William S. Watson",Rochester,,"New York","United States",2.00,1855-11-21
+1563,"J. Butterfield",Utica,,"New York","United States",11.50,1855-11-21
+1564,"C.B. Swasey & Co.","Yazoo City",,Mississippi,"United States",10.75,1855-11-21
+1565,"E.G. Eggling",Richmond,,Virginia,"United States",1.12,1855-11-21
+1566,"John Kirchgarber",Rochester,,"New York","United States",7.56,1855-11-22
+1567,"D.H. Pike & Co.",Painesville,,Ohio,"United States",1.50,1855-11-22
+1568,"Thomas Rivers",Sawbridgeworth,,NULL,England,105.83,1855-11-22
+1569,"R.P. Colton",Brockville,,Ontario,Canada,11.50,1855-11-22
+1570,"William Cairns",Newark,,"New Jersey","United States",49.00,1855-11-22
+1571,"A. Strong & Co.",Rochester,,"New York","United States",4.87,1855-11-23
+1572,"H. Hagan","Yazoo City",,Mississippi,"United States",185.76,1855-11-24
+1573,"H. Hagan","Yazoo City",,Mississippi,"United States",28.19,1855-11-26
+1574,"Dr. A.H. Stevens","New York City",,"New York","United States",38.75,1855-11-26
+1575,"Leonix Compton",Dayton,,Ohio,"United States",6.25,1855-11-26
+1576,"L.C. Lishy",Nashville,,Tennessee,"United States",19.60,1855-11-28
+1577,"Jacob Zeins",Galena,,Illinois,"United States",174.50,1855-11-28
+1578,"Lewis Ellsworth & Co.",Naperville,,Illinois,"United States",8.43,1855-11-29
+1579,"George Jackman",Woking,,,England,2.35,1855-11-29
+1580,"William Skirving",Liverpool,,,England,11.90,1855-11-29
+1581,"R. Donald & Son",Woking,,,England,42.52,1855-11-29
+1582,"Thomas Rivers",Sawbridgeworth,,NULL,England,13.97,1855-11-29
+1583,"D. Dawnesee",Orleans,,NULL,France,42.21,1855-11-29
+1584,"Thomas Davidson",Hamilton,,Ontario,Canada,123.25,1855-11-30
+1585,"Hartman Kuhn",Philadelphia,,Pennsylvania,"United States",46.25,1855-11-30
+1586,"McGredy & Carmichael",Nashville,,Tennessee,"United States",140.94,1855-11-30
+1587,"J.S. Cunningham","New York City",,"New York","United States",2.15,1855-11-02
+1588,"John Mears",Cincinnati,,Ohio,"United States",51.25,1855-11-02
+1589,"F.A. Lathrop","Green Bay",,Wisconsin,"United States",40.87,1855-11-02
+1590,"H.F. Bond",Madison,,Wisconsin,"United States",167.50,1855-11-02
+1591,"Lewis Shickluna","St. Catharines",,Ontario,Canada,50.99,1855-11-02
+1592,"B.W. Steere",Adrian,,Michigan,"United States",0.90,1855-11-02
+1593,"Colonel J.B. Askews",London,,Ontario,Canada,7.25,1855-11-02
+1594,"J.W.P. Allen",Oswego,,"New York","United States",13.50,1855-11-02
+1595,"W. Wright",Chicago,,Illinois,"United States",3.13,1855-11-02
+1596,"C.P. Cowles",Syracuse,,"New York","United States",10.50,1855-11-02
+1597,"George W. Lewis","Beaver Dam",,Wisconsin,"United States",1.12,1855-11-02
+1598,"Ward Hank",Utica,,"New York","United States",2.50,1855-11-02
+1599,"Ward Hank",Utica,,"New York","United States",2.00,1855-11-21
+1600,"Alexander D. Anderson",Dubuque,,Iowa,"United States",17.12,1855-11-02
+1601,"A.R. Whitney","Franklin Grove",,Illinois,"United States",101.80,1855-11-02
+1602,"Avery Comstock & Co.",Burlington,,Iowa,"United States",53.00,1855-11-05
+1603,"I.E. Hayden",Rochester,,"New York","United States",2.50,1855-11-05
+1604,"Jacobs Henry",Albany,,"New York","United States",13.33,1855-11-05
+1605,"A. Frost & Co.",Rochester,,"New York","United States",7.28,1855-11-05
+1606,"A. Frost & Co.",Rochester,,"New York","United States",2.00,1855-11-09
+1607,"A. Frost & Co.",Rochester,,"New York","United States",6.12,1855-11-27
+1608,"Charles Allen",Vicksburg,,Mississippi,"United States",25.00,1855-11-05
+1609,"Chester Clark",Covington,,Indiana,"United States",21.00,1855-11-05
+1610,"Chester Clark",Covington,,Indiana,"United States",6.50,1855-11-17
+1611,"Mrs. J. Hubbard",Columbus,,Indiana,"United States",63.80,1855-11-05
+1612,"Mrs. J. Hubbard",Columbus,,Indiana,"United States",32.08,1855-11-16
+1613,"A.G. Hanford",Waukesha,,Wisconsin,"United States",36.20,1855-11-05
+1614,"J.H. Burch",Chicago,,Illinois,"United States",3.50,1855-11-05
+1615,"William Mundie",Toronto,,Ontario,Canada,473.79,1855-11-06
+1616,"James Flemming",Toronto,,Ontario,Canada,17.20,1855-11-06
+1617,"Van Kirk & McCall",Waukesha,,Wisconsin,"United States",29.00,1855-11-06
+1618,"James R. Gowen",Barrie,,Ontario,Canada,22.76,1855-11-06
+1619,"J.R. Murray","Mt. Morris",,"New York","United States",17.60,1855-11-05
+1620,"J.R. Murray","Mt. Morris",,"New York","United States",19.00,1855-11-16
+1621,"L.C. Lishy",Nashville,,Tennessee,"United States",14.00,1855-11-06
+1622,"L. Fairbanks",Whitby,,Ontario,Canada,11.25,1855-11-06
+1623,"Gerrit Smith",Peterboro,,"New York","United States",19.38,1855-11-06
+1624,"William Coleman",Buffalo,,"New York","United States",38.00,1855-11-06
+1625,"William Coleman",Buffalo,,"New York","United States",5.00,1855-11-15
+1626,"David Burn",Cobourg,,Ontario,Canada,3.50,1855-11-07
+1627,"David Burn",Cobourg,,Ontario,Canada,4.50,1855-11-14
+1628,"George Saunderson",Scranton,,Pennsylvania,"United States",8.37,1855-11-07
+1629,"P.R. Fruoff",Auburn,,"New York","United States",6.52,1855-11-07
+1630,"Dr. E.S. Cooper",Henderson,,"New York","United States",20.70,1855-11-07
+1631,"Alexander Rossy","New Braunfels",,Texas,"United States",45.15,1855-11-07
+1632,"James B. Agard",Rockford,,Illinois,"United States",52.38,1855-11-07
+1633,"E.W. Cahill",Dalton,,Ohio,"United States",2.00,1855-11-07
+1634,"Joseph Perkins",Cleveland,,Ohio,"United States",31.12,1855-11-07
+1635,"George Tilden",Keene,,"New Hampshire","United States",5.37,1855-11-07
+1636,"John Sigerson & Bros.","St. Louis",,Missouri,"United States",678.76,1855-11-07
+1637,"Dr. Plessner",Saginaw,,Michigan,"United States",0.50,1855-11-07
+1638,"James Weed",Muscatine,,Iowa,"United States",6.00,1855-11-08
+1639,"William King",Rochester,,"New York","United States",5.22,1855-11-08
+1640,"William King",Rochester,,"New York","United States",3.13,1855-11-12
+1641,"H.M. Morrison",Albion,,"New York","United States",3.00,1855-11-08
+1642,"Jacob F. Berringer","Cape Vincent",,"New York","United States",4.22,1855-11-08
+1643,"Mathew Mackie",Clyde,,"New York","United States",28.75,1855-11-08
+1644,"G.M. D. Cantrell",Nashville,,Tennessee,"United States",15.00,1855-11-09
+1645,"Hobbs & Walker",Williamson,,Kentucky,"United States",360.25,1855-11-09
+1646,"Hobbs & Walker",Williamson,,Kentucky,"United States",30.00,1855-11-29
+1647,"Samuel Edwards","La Moille",,Illinois,"United States",10.00,1855-11-09
+1648,"James L. Wadsworth",Geneseo,,"New York","United States",13.00,1855-11-09
+1649,"George Ward",Wellington,,Ontario,Canada,30.00,1855-11-09
+1650,"O.J. Hobbs",Randolph,,Pennsylvania,"United States",16.20,1855-11-09
+1651,"Robert William",Pewaukee,,Wisconsin,"United States",1.75,1855-11-09
+1652,"Joseph Jackson",Boston,,Massachusetts,"United States",2.00,1855-11-09
+1653,"Adnah Williams",Galesburg,,Illinois,"United States",285.00,1855-11-09
+1654,"George Barclay","New Hamburg",,"New York","United States",6.50,1855-11-09
+1655,"R.B. Bowler",Cincinnati,,Ohio,"United States",18.50,1855-11-09
+1656,"E.B. Coleman",Peoria,,Illinois,"United States",171.14,1855-11-09
+1657,"J.P. Alcott",Rochester,,"New York","United States",15.00,1855-11-09
+1658,"J.M. Dexter",Elmira,,"New York","United States",4.88,1855-11-09
+1659,"F.C.S. Abbey",Akron,,Ohio,"United States",4.90,1855-11-09
+1660,"F.C.S. Abbey",Akron,,Ohio,"United States",8.50,1855-11-16
+1661,"John Flemming",Pittsburgh,,Pennsylvania,"United States",15.35,1855-11-09
+1662,"W.C. Strong",Brighton,,Massachusetts,"United States",40.00,1855-11-09
+1663,"Charles Downing",Newburgh,,"New York","United States",0.50,1855-11-09
+1664,"Hon. E.C. Campbell","Niagara Falls",,Ontario,Canada,5.12,1855-11-09
+1665,"William M. Boling",Montgomery,,Alabama,"United States",1.00,1855-11-09
+1666,"W.B. Smith",Cincinnati,,Ohio,"United States",12.50,1855-11-09
+1667,"A.I. Noble",Montgomery,,Alabama,"United States",57.00,1855-11-12
+1668,"General J. Watson Webb","New York City",,"New York","United States",11.00,1855-11-12
+1669,"W.C. Wilson",Baltimore,,Indiana,"United States",8.50,1855-11-12
+1670,"A. Saul",Newburgh,,"New York","United States",65.25,1855-11-12
+1671,"Hatch & Co.",Jackson,,Mississippi,"United States",49.96,1855-11-12
+1672,"Charles Gifford",Milwaukee,,Wisconsin,"United States",32.66,1855-11-12
+1673,"William H. Sweet",Saginaw,,Michigan,"United States",12.20,1855-11-12
+1674,"Christopher Shearer",Reading,,Pennsylvania,"United States",23.00,1855-11-12
+1675,"Aaron E. Wait","Oregon City",,Oregon,"United States",3.50,1855-11-12
+1676,"M. Hamlin","Penn Yan",,"New York","United States",5.75,1855-11-12
+1677,"Walter Ledyard",Cazenovia,,"New York","United States",8.75,1855-11-12
+1678,"James G. Fraser",Galt,,Ontario,Canada,6.38,1855-11-12
+1679,"S. Worden",Minetto,,"New York","United States",6.89,1855-11-12
+1680,"William Reid",Elizabethtown,,"New Jersey","United States",65.25,1855-11-12
+1681,"E.B. Crocker",Sacramento,,California,"United States",24.24,1855-11-12
+1682,"Higgins & Scrivener",Glasgow,,Kentucky,"United States",20.00,1855-11-12
+1683,"J.H. Pierce",Dayton,,Ohio,"United States",3.62,1855-11-12
+1684,"Samuel Brooks",Chicago,,Illinois,"United States",13.12,1855-11-12
+1685,"Moses Long",Rochester,,"New York","United States",1.50,1855-11-12
+1686,"C.I. Hayden",Rochester,,"New York","United States",4.00,1855-11-12
+1687,"Mahlon Moon",Morrisville,,Pennsylvania,"United States",52.00,1855-11-12
+1688,"Rev. J.F. Sundy",Grimsby,,Ontario,Canada,48.50,1855-11-13
+1689,"L. Berckmans",Plainfield,,"New Jersey","United States",4.00,1855-11-13
+1690,"J.J. Thomas",Macedon,,"New York","United States",4.00,1855-11-13
+1691,"E. May",Burlington,,Iowa,"United States",2.50,1855-11-13
+1692,"H.W. Sargent",Fishkill,,"New York","United States",2.00,1855-11-13
+1693,"Stephen Robinson",Akron,,Ohio,"United States",6.50,1855-11-13
+1694,"Alfred Curtis",Sharon,,Pennsylvania,"United States",27.37,1855-11-13
+1695,"Rev. Paul Debreul",Baltimore,,Maryland,"United States",62.00,1855-11-13
+1696,"James Hair",Rochester,,"New York","United States",3.00,1855-11-14
+1697,"James Hair",Rochester,,"New York","United States",7.00,1855-11-16
+1698,"H.A. Brewster",Rochester,,"New York","United States",3.75,1855-11-14
+1699,"J.R. Anderson","Le Roy",,"New York","United States",10.75,1855-11-14
+1700,"J.R. Anderson","Le Roy",,"New York","United States",6.25,1855-11-20
+1701,"C.B. Burrows",Albion,,"New York","United States",18.12,1855-11-14
+1702,"H.K. Bliss & Haven",Springfield,,Massachusetts,"United States",14.25,1855-11-14
+1703,"F.C. Hansen & Co.",Toledo,,Ohio,"United States",27.49,1855-11-14
+1704,"F.C. Hansen & Co.",Toledo,,Ohio,"United States",14.50,1855-12-03
+1705,"Charles Powis",Greece,,"New York","United States",7.40,1855-11-15
+1706,"R.S. Black",Bremen,,Ohio,"United States",11.00,1855-11-15
+1707,"Selah Matthews",Rochester,,"New York","United States",4.50,1855-11-15
+1708,"Dr. W.O. Baldwin",Montgomery,,Alabama,"United States",11.80,1855-11-16
+1709,"Edward Denny","Barre Plains",,Massachusetts,"United States",21.00,1855-11-16
+1710,"M.B. Bateham & Co.",Columbus,,Ohio,"United States",98.64,1855-11-16
+1711,"Fletcher Williams",Newark,,"New York","United States",3.62,1855-11-16
+1712,"Fletcher Williams",Newark,,"New York","United States",7.37,1855-11-21
+1713,"James Orr",Springfield,,Illinois,"United States",25.00,1855-11-17
+1714,"George Baxter",Kingston,,Ontario,Canada,7.16,1855-11-17
+1715,"George Rykerk","St. Catharines",,Ontario,Canada,5.00,1855-11-17
+1716,"William Neely Thompson","San Francisco",,California,"United States",30.80,1855-11-17
+1717,"Henry Wright",Rochester,,"New York","United States",82.12,1855-11-17
+1718,"Henry Wright",Rochester,,"New York","United States",8.48,1855-11-28
+1719,"Mrs. E.M. Smith",Rochester,,"New York","United States",1.00,1855-11-20
+1720,"C.J. Ryan & Co.",Rochester,,"New York","United States",3.75,1855-11-20
+1721,"Thorp Smith Hanchett & Co.",Syracuse,,"New York","United States",5.25,1855-11-20
+1722,"William Cairns",Newark,,"New Jersey","United States",30.00,1855-11-21
+1723,"C.A. Jones",Rochester,,"New York","United States",24.38,1855-11-21
+1724,"R.B. Treadway",Oswego,,"New York","United States",16.00,1855-11-23
+1725,"Henry Hagan","Yazoo City",,Mississippi,"United States",65.00,1855-11-23
+1726,"A.H. Bradford",Brownsville,,Tennessee,"United States",1.00,1855-11-23
+1727,"A.E. Hitchings","New York City",,"New York","United States",3.90,1855-11-23
+1728,"James O'Donoughue",Rochester,,"New York","United States",1.00,1855-11-26
+1729,"Adolph Borneman",Florence,,Massachusetts,"United States",7.83,1855-11-26
+1730,"Leonix Compton",Dayton,,Ohio,"United States",15.50,1855-11-26
+1731,"L. Berckmans",Plainfield,,"New Jersey","United States",5.00,1855-11-26
+1732,"Owen Gaffney",Rochester,,"New York","United States",1.50,1855-11-27
+1733,"Edwin Henry","New York City",,"New York","United States",20.50,1855-11-27
+1734,"Thomas Davidson",Hamilton,,Ontario,Canada,8.00,1855-11-30
+1735,"Joseph Jackson",Boston,,Massachusetts,"United States",2.50,1855-12-03
+1736,"Myron Hall",Batavia,,"New York","United States",15.00,1855-12-04
+1737,"A. Frost & Co.",Rochester,,"New York","United States",10.00,1855-12-01
+1738,"William Claffin",Byron,,"New York","United States",10.59,1855-12-03
+1739,"C.S. Minott",Middleville,,"New York","United States",18.00,1855-12-04
+1740,"W.S. Thompson",Newport,,"New York","United States",48.50,1855-12-04
+1741,"Carlton S. Palmer","Richfield Springs",,"New York","United States",49.38,1855-12-04
+1742,"Jacob Small",Herkimer,,"New York","United States",23.25,1855-12-04
+1743,"Benjamin Gay",Herkimer,,"New York","United States",4.12,1855-12-04
+1744,"Myron Hall",Batavia,,"New York","United States",22.75,1855-12-05
+1745,"Edward Dagge",Rochester,,"New York","United States",7.00,1855-12-06
+1746,"Robert Blair",Rochester,,"New York","United States",1.63,1855-12-08
+1747,"William F. Bowen",Montgomery,,Ohio,"United States",155.56,1855-12-08
+1748,"Nelson E. Gondy",Coral,,Illinois,"United States",36.75,1855-12-10
+1749,"William Burt",Marengo,,Illinois,"United States",9.75,1855-12-10
+1750,"Theodore Brown",Marengo,,Illinois,"United States",3.25,1855-12-10
+1751,"Goerge M. Ross",Marengo,,Illinois,"United States",15.50,1855-12-10
+1752,"Walter Hallenbeck",Caledonia,,"New York","United States",2.00,1855-12-11
+1753,"John Stewart",Caledonia,,"New York","United States",4.13,1855-12-11
+1754,"Joseph Beatter",Caledonia,,"New York","United States",2.00,1855-12-11
+1755,"William Fraser",York,,"New York","United States",14.64,1855-12-11
+1756,"W.C. Smead",Pavilion,,"New York","United States",10.00,1855-12-11
+1757,"Daniel Sprague",Pavilion,,"New York","United States",11.00,1855-12-11
+1758,"S.N. Thayer",Warsaw,,"New York","United States",26.50,1855-12-11
+1759,"F. Neilohan",Warsaw,,"New York","United States",3.00,1855-12-11
+1760,"William Thomas","Le Roy",,"New York","United States",8.50,1855-12-11
+1761,Larrean,Buffalo,,"New York","United States",8.00,1855-12-11
+1762,"Frank Kazner",Lancaster,,"New York","United States",44.50,1855-12-11
+1763,"L.F. Herrmann","New Orleans",,Louisiana,"United States",26.50,1855-12-12
+1764,"O. Kittridge",Dayton,,Ohio,"United States",300.00,1855-12-14
+1765,"Alvah Covey",Penfield,,"New York","United States",260.60,1855-12-19
+1766,"William J. Hubbard",Columbus,,Indiana,"United States",23.20,1855-12-19
+1767,"Charles Powis",Greece,,"New York","United States",0.84,1855-12-20
+1768,"William Tompkins",Germantown,,"New York","United States",2.86,1855-12-20
+1769,"A. Javers Jr.","New York City",,"New York","United States",0.20,1855-12-21
+1770,"L. Van Bombauch",Elyria,,Ohio,"United States",0.35,1855-12-21
+1771,"Walter Wright",Chicago,,Illinois,"United States",0.12,1855-12-21
+1772,"Isaiah Blood","Ballston Spa",,"New York","United States",5.00,1855-12-21
+1773,"Leonard Reeg",Rochester,,"New York","United States",4.87,1855-12-21
+1774,"John Arnold",Paris,,Ontario,Canada,5.25,1855-12-21
+1775,"A. Frost & Co.",Rochester,,"New York","United States",1.50,1855-12-06
+1776,"Rev. J.F. Sundy",Grimsby,,Ontario,Canada,2.00,1855-12-06
+1777,"H.A. Brewster",Chicago,,Illinois,"United States",12.00,1855-12-07
+1778,"Louis Menand",Alburg,,"New York","United States",10.75,1855-12-08
+1779,"A. Blair",Jackson,,Michigan,"United States",5.00,1855-12-08
+1780,"Walter Hallenbeck",Caledonia,,"New York","United States",14.00,1855-12-12
+1781,"L.F. Herrmann","New Orleans",,Louisiana,"United States",20.00,1855-12-12
+1782,"Carlos Dutton",Rochester,,"New York","United States",2.75,1855-12-17
+1783,"B.W. Steere",Adrian,,Michigan,"United States",2.50,1855-12-21
+1784,"Charles Bleidorn",Rochester,,"New York","United States",0.25,1855-12-24
+1785,"T.L. Brooks",Portville,,"New York","United States",6.25,1855-12-27
+1786,"G.N. Smith",Ceres,,"New York","United States",18.50,1855-12-27
+1787,"G.W. Rea","Mill Grove",,"New York","United States",15.00,1855-12-27
+1788,"D.Y. Overton",Elmira,,"New York","United States",10.50,1855-12-27
+1789,"S. Demming",Elmira,,"New York","United States",3.25,1855-12-27
+1790,"David Doer",Elmira,,"New York","United States",1.00,1855-12-27
+1791,"P.S. Stiles",Elmira,,"New York","United States",2.75,1855-12-27
+1792,"Chester Wells",Towanda,,Pennsylvania,"United States",13.50,1855-12-27
+1793,"John Barthaleming",Binghamton,,"New York","United States",3.75,1855-12-27
+1794,"James Rymer",Susquehanna,,"New York","United States",23.00,1855-12-27
+1795,"F.M. Elting",Scranton,,Pennsylvania,"United States",4.25,1855-12-27
+1796,"O.K. Mason",Binghamton,,"New York","United States",1.00,1855-12-27
+1797,"G. Mersenan",Appalachin,,"New York","United States",8.00,1855-12-27
+1798,"William Culair",Williamsport,,Pennsylvania,"United States",5.50,1855-12-27
+1799,"I.N. Maynard",Williamsport,,Pennsylvania,"United States",24.00,1855-12-27
+1800,"I.N. Goodenaugh",Towanda,,Pennsylvania,"United States",2.00,1855-12-27
+1801,"W.W. Miner",Binghamton,,"New York","United States",6.00,1855-12-27
+1802,"Acil Wellington",Binghamton,,"New York","United States",3.50,1855-12-27
+1803,"N.A. Walker",Corning,,"New York","United States",10.00,1855-12-27
+1804,"J.B. Knapp",Lawrenceville,,"New York","United States",6.25,1855-12-27
+1805,"F. Tremean",Lawrenceville,,"New York","United States",6.25,1855-12-27
+1806,"P.P. Purdy",Wellsville,,"New York","United States",2.00,1855-12-27
+1807,"L.C. Mather",Wellsville,,"New York","United States",9.25,1855-12-27
+1808,"Miss Cherry",Cameron,,"New York","United States",7.50,1855-12-27
+1809,"Owen Osbourne",Elkland,,Pennsylvania,"United States",66.25,1855-12-27
+1810,"E.W. Updike",Elkland,,Pennsylvania,"United States",6.00,1855-12-27
+1811,"D.B. Brown",Elmira,,"New York","United States",4.00,1855-12-27
+1812,"Edward Bowers","Lock Haven",,Pennsylvania,"United States",4.00,1855-12-27
+1813,"William F. Bowen",Montgomery,,Ohio,"United States",2.50,1855-12-27
+1814,"D.R. Burdwick","Hickory Corners",,Michigan,"United States",10.50,1855-12-28
+1815,"P.B. Holmes",Dowagiac,,Michigan,"United States",5.00,1855-12-28
+1816,"Alfred Farrows",Dowagiac,,Michigan,"United States",9.00,1855-12-28
+1817,"Hamlin Holmes",Galesburg,,Michigan,"United States",4.25,1855-12-28
+1818,"Mrs. Jane Hagle",Kalamazoo,,Michigan,"United States",14.50,1855-12-28
+1819,"J.P. Rowley","Paw Paw",,Michigan,"United States",9.00,1855-12-28
+1820,"Daniel Fort",Otsego,,Michigan,"United States",86.00,1855-12-28
+1821,"William Tyler",Otsego,,Michigan,"United States",28.00,1855-12-28
+1822,"Samuel Tompkins",Otsego,,Michigan,"United States",10.75,1855-12-28
+1823,"Alfred Whitcomb","Gun Plains",,Michigan,"United States",9.00,1855-12-28
+1824,"Henry C. Stoughton",Otsego,,Michigan,"United States",43.00,1855-12-28
+1825,"H.E. Hooker & Co.",Rochester,,"New York","United States",1.14,1855-12-28
+1826,"John Kirchgarber",Rochester,,"New York","United States",4.00,1855-12-31
+1827,"Mrs. G.H. Roberts",Rochester,,"New York","United States",2.00,1855-12-31
+1828,"W.H. Read","Port Dalhousie",,Ontario,Canada,2.00,1855-12-31
+1829,"Charles W. Sims",London,,Ontario,Canada,2.45,1855-12-31
+1830,"W.C. Wilson",Baltimore,,Indiana,"United States",0.13,1855-12-31
+1831,"J.G. Fraser",Galt,,Ontario,Canada,0.25,1855-12-31
+1832,"D.H. Pike & Co.",Painesville,,Ohio,"United States",1.50,1855-12-31
+1833,"P.C. Goss",Gosport,,Indiana,"United States",0.25,1855-12-31
+1834,"C.I. Hayden",Rochester,,"New York","United States",6.00,1855-12-27
+1835,"G.N. Smith",Ceres,,"New York","United States",24.50,1855-12-28
+1836,"D.Y. Overton",Elmira,,"New York","United States",4.50,1855-12-28
+1837,"David Doer",Elmira,,"New York","United States",4.50,1855-12-28
+1838,"O.K. Mason",Binghamton,,"New York","United States",1.50,1855-12-28
+1839,"G. Mersenan",Appalachin,,"New York","United States",4.00,1855-12-28
+1840,"Judge Wilmot",Towanda,,Pennsylvania,"United States",3.00,1855-12-28
+1841,"H.F. Bond",Madison,,Wisconsin,"United States",7.75,1855-12-31
+1842,"A. Frost & Co.",Rochester,,"New York","United States",5.50,1855-12-31
+1843,"Ians M. Givens Jr.",Rochester,,"New York","United States",2.00,1855-12-31
+1844,"C.J. Ryan & Co.",Rochester,,"New York","United States",3.00,1855-12-31
+1845,"O.J. Hobbs",Randolph,,Pennsylvania,"United States",7.50,1855-12-31
+1846,"Iams Dwyer",Rochester,,"New York","United States",40.90,1855-12-31
+1847,"Henry Avery",Burlington,,Iowa,"United States",1.00,1855-12-31
+1848,"M. Holmes",London,,Ontario,Canada,0.12,1855-12-31
+1849,"Hugh Allen",Montreal,,Quebec,Canada,0.25,1855-12-31
+1850,"H.W. Nicholson",Waverly,,Pennsylvania,"United States",0.25,1855-12-31
+1851,"S.H. Webb",Cleveland,,Ohio,"United States",0.02,1855-12-31
+1852,"W.D. Jones",Wabash,,Indiana,"United States",0.18,1855-12-31
+1853,"Jacob Binkley",Dundas,,Ontario,Canada,2.18,1855-12-31
+1854,"R.W. Parker",Milwaukee,,Wisconsin,"United States",2.00,1855-12-31
+1855,"Abijah Reed",Hulberton,,"New York","United States",1.58,1855-12-31
+1856,"Jacob Frantz","Mount Hope",,Pennsylvania,"United States",1.50,1855-12-31
+1857,"George G. Lowry",Elizaville,,Kentucky,"United States",1.28,1855-12-31
+1858,"George Brown",Chicago,,Illinois,"United States",0.75,1855-12-31
+1859,"Samuel Robbins",Brockport,,"New York","United States",1.00,1855-12-31
+1860,"John Crist",Mohawk,,"New York","United States",0.32,1855-12-31
+1861,"Jesse Storrs",Painesville,,Ohio,"United States",2.00,1855-12-31
+1862,"E.B. Crocker",Sacramento,,California,"United States",1.31,1855-12-31
+1863,"John Carlisle",Indianapolis,,Indiana,"United States",0.50,1855-12-31
+1864,"Verry Aldrich",Hennepin,,Illinois,"United States",0.50,1855-12-31
+1865,"Reuben Jones",Kingston,,Pennsylvania,"United States",8.00,1855-12-31
+1866,"D.H. Burrows",Galena,,Illinois,"United States",0.41,1855-12-31
+1867,"J.R. Jones",Galena,,Illinois,"United States",0.23,1855-12-31
+1868,"Robert Douglas",Waukegan,,Illinois,"United States",0.03,1855-12-31
+1869,"Joseph Knowles",Lancaster,,Illinois,"United States",0.30,1855-12-31
+1870,"E.A. Lewis",Batavia,,"New York","United States",1.00,1855-12-31
+1871,"James G. Hardy",Covington,,Indiana,"United States",0.01,1855-12-31
+1872,"W.L. Smith",Canoga,,"New York","United States",0.14,1855-12-31
+1873,"Henry C. Wetman","New Hamburg",,"New York","United States",1.50,1855-12-31
+1874,"J. Bolton & Co.",Baldwinsville,,"New York","United States",0.01,1855-12-31
+1875,"Daniel Gault",Bladensburg,,Ohio,"United States",0.25,1855-12-31
+1876,"A. Huidekoper",Meadville,,Pennsylvania,"United States",0.14,1855-12-31
+1877,"Frederick S. Hurxthal",Marion,,Ohio,"United States",0.05,1855-12-31
+1878,"P.H. Hayes",Wyoming,,"New York","United States",0.12,1855-12-31
+1879,"John Dealy",Brockport,,"New York","United States",0.12,1855-12-31
+1880,"Kassons Despatch",Buffalo,,"New York","United States",39.00,1855-12-31
+1881,"William Gooding",Lockport,,Illinois,"United States",0.02,1855-12-31
+1882,"John Madden",Olean,,"New York","United States",3.13,1855-12-31
+1883,"Jospeh Whittiger",Susquehanna,,"New York","United States",4.00,1855-12-31
+1884,"James Dunlap",NULL,,Wisconsin,"United States",2.00,1855-12-31
+1885,"Joseph Bohn",Westphalia,,Michigan,"United States",2.00,1855-12-31
+1886,"John Wilkes","Terre Haute",,Indiana,"United States",0.08,1855-12-31
+1887,"D.D. Joes",Hamden,,Connecticut,"United States",1.21,1855-12-31
+1888,"Samuel Johnson",Kalamazoo,,Michigan,"United States",0.04,1855-12-31
+1889,"James S. Matson",Paris,,Kentucky,"United States",1.00,1855-12-31
+1890,"Thomas Miner",Edinburgh,,Indiana,"United States",9.80,1855-12-31
+1891,"Dr. A.C. Koch","St. Louis",,Missouri,"United States",0.14,1855-12-31
+1892,"John Scott","Terre Haute",,Indiana,"United States",0.01,1855-12-31
+1893,"John Buckley",Dunkirk,,"New York","United States",0.13,1855-12-31
+1894,"Samuel Keefer",Brockville,,Ontario,Canada,0.50,1855-12-31
+1895,"E. Cassner","Penn Yan",,"New York","United States",0.13,1855-12-31
+1896,"D.S. Worthington",Sandusky,,Ohio,"United States",21.50,1855-12-31
+1897,"Jacob H. Riblet",Perkin,,Illinois,"United States",3.00,1855-12-31
+1898,"R.J. Black",Bremen,,Ohio,"United States",18.88,1855-12-31
+1899,"J.K. Guffin",Hamilton,,Ontario,Canada,1.73,1855-12-31
+1900,"James Barr",Jefferson,,Wisconsin,"United States",3.46,1855-12-31
+1901,"A.A. Durfee",Palmyra,,"New York","United States",4.50,1855-12-31
